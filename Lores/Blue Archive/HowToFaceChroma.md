@@ -38,4 +38,50 @@ Chafi: Okay, guys! This is it!..
 
 *all*: (pray to God)
 
-Chafi: Make sure 
+Chafi: Make sure your mental has been prepared! We're getting in!.
+
+Reto: Shit! I hope my children has received my will!
+
+Chafi: (check Shittim) ummmmm... It's did! all of your children & mine have read it! We're good now,
+
+Absorption
+
+Chafi: Hang tight!.. (loud) Face the fear!.. And embrace the scrutiny people have been always conspiring against us!!
+
+touch the wall
+
+Chafi: Accept that we are all useless, hated, undeserved,
+
+*all*: (brace for impact)
+
+Chafi: wished by all, never to be born ever!....
+
+enter
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+### Chroma
+
+.
+
+.
+
+.
+
+Chafi: ... (open eyes)... .. (feels like nothing)?.... Huh..?
+
+*all*: (follow open eyes)
+
+Reto: ()
