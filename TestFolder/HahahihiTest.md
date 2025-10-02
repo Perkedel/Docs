@@ -11,3 +11,4 @@ hmmm
 
 asdfasdfasfasdfasdf
 
+![WhoWantsToHaveAFreedoom](../media/wwTHFD.png)
