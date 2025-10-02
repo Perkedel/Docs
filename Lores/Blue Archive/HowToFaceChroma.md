@@ -12,6 +12,8 @@ Characters:
 - Fual
 - Jeti
 
+Faction is `DNB Anomaly Response Team`
+
 ### A Classroom
 
 Chafi: ...... Good afternoon, soldiers. So, this photo right here shows our friend that accidentally gotten into Chroma, and dusted. Rest in Peace. This is one of his last photo..
@@ -146,4 +148,14 @@ Reto: Sir! (telepathy small info send & physically shout) Look!
 
 Chafi: (look at pointed put aside wirecutters)??
 
-Those 2 Wirecutters just thrown aside did not 
+Those 2 Wirecutters just thrown aside did not vapourize
+
+Reto: I think the core wants us to use it!... That can't be right? We have to abort this. We cannot afford another scrutiny just because we legalize AI generation & Author Dissociation, let's go!
+
+Jeti: It's blocked!
+
+*all*: (devasted)!?!?
+
+Jeti: Walls too thick! Fisures gone!
+
+Chafi: (take both Wirecutters left)!!-ALRIGHT FINE! Guess what, there's no other way!
