@@ -13,4 +13,4 @@ Dang, wish there's mobile version too but does it matter tho? Now we should've w
 
 ## QOwnNotes
 
-Now with the management there's lacking one thing. Are the functionalities. We may not need those. The basics like RAW Markdowning, Git, Local-first, been fullfilled. Extras like Graphings, Toybox but open source, etc. etc., will gonna be for another video.
+Now with the management there's lacking one thing. Are the functionalities. We may not need those. The basics like RAW Markdowning (IDE Agnostic), Git, Local-first, been fullfilled. Extras like Graphings, Toybox but open source, etc. etc., will gonna be for another video.
