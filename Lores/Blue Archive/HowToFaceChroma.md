@@ -104,4 +104,15 @@ Karnand: (bad idea) Wait what? We're using that??!
 
 Reto: Uh.. idk why is it here.
 
-Karnand: No!, put it back. If that gets used, we would create another scrutiny after we are done
+Karnand: No!, put it back. If that gets used, we would create another scrutiny after we are done here.
+
+Reto: Uhhhgh yeah, (put aside) let's see what else... .... (found another) Hmmm
+
+A yet approved bill but sealed with MAX tier seal, about Author Dissociation. Yeah, nobody wants this real, because not only it would dissociate art from all authors, that includes Kaofa himself, and the one who agreed on it.
+
+Karnand: Bro! what's going on here
+
+Reto: (throw aside short) Argh (rescour) idk, this are all what do we have here!
+
+Karnand: (pickup)!! 🫤, (examine)..
+
