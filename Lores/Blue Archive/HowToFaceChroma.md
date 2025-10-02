@@ -116,3 +116,16 @@ Reto: (throw aside short) Argh (rescour) idk, this are all what do we have here!
 
 Karnand: (pickup)!! 🫤, (examine)..
 
+Patent of Surreal Blender Meme. To cope with unavailability of such 3D model to the public, and exclusivity to only those one shall approve. The patent highlights the character that are all made out of primitives & abstract shapes rather than commonly bipedic / humanoid, because we cannot find such tool that are flexible enough for all kinds, forms, & styles to this day.
+
+Karnand: Okay, at least this one kinda fine, sir?, (throw) catch!
+
+Chafi: (caught)!, Alright, let's do this, (cut)!!
+
+Wirecutter fail, rejected. turn to dust
+
+Chafi: Oh... didn't work. And it's first experience. .... ... Okay then,
+
+Fual: Oh shit, the Wirecutters gone!.
+
+Chafi: Hah? What do you mean gone?!
