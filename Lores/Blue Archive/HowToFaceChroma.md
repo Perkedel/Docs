@@ -1,6 +1,6 @@
 # How to Face Chroma
 
-Concept. I must explore this story further, but ultimately, the lore officially seems to be undescribed afterall. Mysterious. Fuck it. Let's just fill it up for New Paradigm
+Concept. I must explore this story further, but ultimately, the lore officially seems to tell that `Chroma` be undescribed afterall. Mysterious. Fuck it. Let's just fill it up for New Paradigm
 
 ## Begin
 
@@ -176,10 +176,23 @@ Unnamed Shackled Woman: (whisper) .... Promise me.... Or I will return the same.
 
 Chafi: (going insane, that's what makes it work)!??!?!
 
-Reto: Oh great. .. What do we do here?
+Reto: Oh great. .. What do we do now?
 
-Karnand: fyi, the bill is currently 1 step. If we fail that the Chroma will be back anywhere.
+Karnand: fyi, that `Dissociation` bill is currently 1 step left. If we fail it that the Chroma will be back anywhere.
 
+Fual: Debt?
 
+Karnand: Alas, it's inevita-
 
-Chafi:
+Chafi: OH.. **MOTHERF-**
+
+**Flashbang perfectly cut**
+
+## fade text
+
+Blue Archive (c) NEXON Games, MX Studios
+
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA
+
