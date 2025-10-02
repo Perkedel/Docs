@@ -1,6 +1,6 @@
 # How to Face Chroma
 
-Concept. I must explore this story further, but ultimately, the lore officially seems to tell that `Chroma` be undescribed afterall. Mysterious. Fuck it. Let's just fill it up for New Paradigm
+Concept. I must explore this story further, but ultimately, the lore officially seems to tell that `Chroma` to be undescribed afterall. Mysterious. Fuck it. Let's just fill it up for New Paradigm
 
 ## Begin
 
