@@ -3,4 +3,4 @@ Hahahihi
 
 Wow okay
 
-**Bold** **
+**Bold** *Italitc* _what_ __WOW__ ~~Ohshit~
