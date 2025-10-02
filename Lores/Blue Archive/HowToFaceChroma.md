@@ -42,7 +42,7 @@ Chafi: Okay, guys! This is it!..
 
 Chafi: Make sure your mental has been prepared! We're getting in!.
 
-Reto: Shit! I hope my children has received my will!
+Reto: Shit! I hope my children have received my will!
 
 Chafi: (check Shittim) ummmmm... It's did! all of your children & mine have read it! We're good now,
 
@@ -88,7 +88,7 @@ Chafi: ... (open eyes)... .. (feels like nothing)?.... Huh..?
 
 Reto: (noticed Hollow only ability actives) Ho, shit.. (W-engine lit up super bright 2000 Lumen) Whoa-??
 
-Chafi: (feels like Hollow Minus One) Wow.. this feeling..... familiar... ... (confused).. what? ... ARGH focus! we're on mission! Get the to the core
+Chafi: (feels like Hollow Minus One) Wow.. this feeling..... familiar... ... (confused).. what? ... ARGH focus! we're on mission! Get the to the core!
 
 Everyone runs find the core
 
