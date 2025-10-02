@@ -158,4 +158,28 @@ Jeti: It's blocked!
 
 Jeti: Walls too thick! Fisures gone!
 
-Chafi: (take both Wirecutters left)!!-ALRIGHT FINE! Guess what, there's no other way!
+Chafi: (take both Wirecutters left)!!-ALRIGHT FINE! Guess what, there's no other way! It's just wirecutter right?! I thought break promise is what we shall avoid at all cost..
+
+Jeti: (pick `Dissociation` Wirecutter)..
+
+Chafi: So everyone, hands together!. We're gonna fuck this shit.
+
+all hands eachother. Jeti & Chafi wirecuts and being held together circle.
+
+Chafi: Ready? ... Zero!
+
+cut! 
+
+it works, chain breaks, turn to dust & sky restores to blue psssssssssssssshhhhhhhh!
+
+Unnamed Shackled Woman: (whisper) .... Promise me.... Or I will return the same... to your (vapourize with peace) wooooooorld............
+
+Chafi: (going insane, that's what makes it work)!??!?!
+
+Reto: Oh great. .. What do we do here?
+
+Karnand: fyi, the bill is currently 1 step. If we fail that the Chroma will be back anywhere.
+
+
+
+Chafi:
