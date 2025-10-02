@@ -84,4 +84,24 @@ Chafi: ... (open eyes)... .. (feels like nothing)?.... Huh..?
 
 *all*: (follow open eyes)
 
-Reto: ()
+Reto: (noticed Hollow only ability actives) Ho, shit.. (W-engine lit up super bright 2000 Lumen) Whoa-??
+
+Chafi: (feels like Hollow Minus One) Wow.. this feeling..... familiar... ... (confused).. what? ... ARGH focus! we're on mission! Get the to the core
+
+Everyone runs find the core
+
+Found. There's the shackling.
+
+Chafi: Wow, that was easy. Okay, get me the Wirecutter.
+
+Fual: (open sack)!
+
+Reto: (start scouring) let's see what do we have here. .......
+
+Found Wirecutter, a Mini PC with Character Complete 3D Model Generator powered by AI, ........ and autocomplete AI
+
+Karnand: (bad idea) Wait what? We're using that??!
+
+Reto: Uh.. idk why is it here.
+
+Karnand: No!, put it back. If that gets used, we would create another scrutiny after we are done
