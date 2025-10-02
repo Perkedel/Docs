@@ -129,3 +129,21 @@ Chafi: Oh... didn't work. And it's first experience. .... ... Okay then,
 Fual: Oh shit, the Wirecutters gone!.
 
 Chafi: Hah? What do you mean gone?!
+
+Jeti: I saw it. It vapourizes, Here Just.. 
+
+Wirecutter `Move On` indeed vapourized in front of everyone's eyes
+
+Jeti: Yep, it's.. sand.
+
+Chafi: (disappointed)....
+
+Chroma is shrinking while the outside expanding
+
+Chafi: Time's ticking boys, find solution, or get out from here & abort.
+
+Reto: Sir! (telepathy small info send & physically shout) Look!
+
+Chafi: (look at pointed put aside wirecutters)??
+
+Those 2 Wirecutters just thrown aside did not 
