@@ -7,4 +7,6 @@ Here we have notes. Docs! We are moving every general docs to here.
 
 Previously, the [After Church](https://github.com/Perkedel/After-Church) grew so big. So big we can't easily git it anymore. We tried to scour for a better solution, to no avail.
 
-That change today! (maybe), with QOwnNotes. because everything here is all raw file. You edit much like you do on every Programming IDE of your choice. Folder means Folder too. No fancy virtual naming. And most imp
+That change today! (maybe), with QOwnNotes. because everything here is all raw file. You edit much like you do on every Programming IDE of your choice. Folder means Folder too. No fancy virtual naming. And most importantly, **Offline**. That's right! Must be text & local.
+
+Dang, wish there's mobile v
