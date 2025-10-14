@@ -355,7 +355,11 @@ Chafi: ... Oookay.. (walk to portal)
 
 ### Arenod Sediron Portal Port
 
+Tommy: Welcome home guys. Dinners ready. Let's
 
+Chafi: (interupt) Thanks.. But maybe we need to rest after it all this...
+
+Tommy: .. okay.
 
 ## Completed 🌸
 
@@ -363,6 +367,10 @@ You have received:
 
 - 300 Dinar (Multitalent Talenta chip)
 - 300 Pyroxene
+- Dasandim ID Card (Terror). Opening this up gives you these gifts & destroy this item itself
+    - 1200 Pyroxenes
+    - 1200 Dinar
+    - Dasandim ID Card (Terror) (Used). Fortunately, it didn't turn into shards unlike Joel (Terror)'s card. Therefore it is very recommended to museum this item for commemoration.
 
 Blue Archive (c) MX Studio, Nexon Games
 
