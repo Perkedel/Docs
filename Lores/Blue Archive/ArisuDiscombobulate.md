@@ -14,13 +14,13 @@ error malfunction
 
 Technospider fires its rapid fire green plasma. buzz buzz buzz buzz
 
-dodge! take cover behind pillar.
+alerted, dodge! take cover behind pillar.
 
 JOELwindows7: What's going on?
 
 Arisu: My railgun down!
 
-Joel: Dang it, I think you ran out of energy! The blue core isn't nearby, so you have to use Fist! Lemme check powerup. I hope you ate `Strength Symbiote`...
+Joel: Dang it, I think you ran out of Energy! The blue core isn't nearby, so you have to use Fist! Lemme check powerup. I hope you ate `Strength Symbiote`...
 
 the Technospider is walking menacingly
 

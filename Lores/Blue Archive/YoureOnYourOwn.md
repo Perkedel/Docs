@@ -181,6 +181,8 @@ It is taking too long, all crews must leave the room. Don't worry, Saorfa lab is
 
 ## Bruh
 
+Blue Archive (c) NEXON Games, MX Studios
+
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
