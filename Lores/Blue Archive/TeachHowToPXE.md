@@ -28,7 +28,7 @@ situation becomes awkwardly silent
 
 .
 
-Joel: (realization)?!, Oh wait, I'm not in Crossban, lmao! 
+Joel: (realization)?!, Oh wait, I'm not in Crossban, lmao!
 
 few student awkward giggle
 
@@ -56,7 +56,7 @@ Joel: Correct!, S for you, and this class now, you will experience how you set i
 
 *all*: Oooooo
 
-Joel: Great, I'm glad you're excited. Now, open up File Manager now. Just open it up Aand in your Home directory we have prepared you the special files under this new folder called `PXE`. After you finished this education feel free to copy the file to your flash disk to train yourself one again, anyways.., open that directory, you'll see a couple files there. 
+Joel: Great, I'm glad you're excited. Now, open up File Manager now. Just open it up Aand in your Home directory we have prepared you the special files under this new folder called `PXE`. After you finished this education feel free to copy the file to your flash disk to train yourself one again, anyways.., open that directory, you'll see a couple files there.
 
 students are examining the `PXE` folder & its content
 
@@ -100,7 +100,7 @@ Joel: Another S for you!! that's right. TFTP is the key part of the PXE because 
 
 *all*: Login to Router, 🎉🎉🎉🎉 yaaaaaaaaaaaaaay!!
 
-Joel: S all for you!!! You guys are soo talented! See, you can be IT Expert in no time. Now, students, open up your browser, 
+Joel: S all for you!!! You guys are soo talented! See, you can be IT Expert in no time. Now, students, open up your browser,
 
 student start to follow along carefully
 
@@ -132,7 +132,7 @@ Joel: You're done? Any issues?
 
 All student have rendevou'd on the site
 
-Joel: Okay. Good. To login to this admin, (write the username template `admind_##`)..., it's `admin` dash, these two hashtags, represents YOur table number. Password is `pass` dash.. also your table number. 
+Joel: Okay. Good. To login to this admin, (write the username template `admind_##`)..., it's `admin` dash, these two hashtags, represents YOur table number. Password is `pass` dash.. also your table number.
 
 student start typing credential
 
@@ -158,7 +158,7 @@ Joel: Okay, all done?
 
 students have arrived in dashboard
 
-Joel: Okay, now. you'll see your router dashboard. Next, we're going to DCHP setting. I hope you remember what menu here. 
+Joel: Okay, now. you'll see your router dashboard. Next, we're going to DCHP setting. I hope you remember what menu here.
 
 student go to DCHP settings
 
@@ -240,7 +240,7 @@ Joel: Okay. But I need to make sure. (walk to Yuzu's table in backmost right cor
 
 Yuzu: (slide back to give sensei space)!...
 
-Joel: (check overall PXE fields)... okay.. (click `browse`).... (both bootable files are there & the `filename` field is already correct)... Okay good, (clap)!!, 
+Joel: (check overall PXE fields)... okay.. (click `browse`).... (both bootable files are there & the `filename` field is already correct)... Okay good, (clap)!!,
 
 Joel: (return back to front stage while carefully scan the status of rests of the students)... ... ...
 
@@ -254,7 +254,7 @@ Joel: Okay, looks like you have arrived. Now at this point, your PXE server Is r
 
 *all*: Virtual Machine time!!
 
-Joel: S to all of you!!.. Alright, So, we have a virtual machine on this computer, we're going to use [VirtualBox](https://virtualbox.org). Uhm yeah, this was so hard to setup, we were supposed to use [QEMU](https://qemu.org) here, but.. doesn't have PXE ROM in it. Therefore netbooting by ISO just makes it redundant. SOoo, we'll use VirtualBox, open it up, 
+Joel: S to all of you!!.. Alright, So, we have a virtual machine on this computer, we're going to use [VirtualBox](https://virtualbox.org). Uhm yeah, this was so hard to setup, we were supposed to use [QEMU](https://qemu.org) here, but.. doesn't have PXE ROM in it. Therefore netbooting by ISO just makes it redundant. SOoo, we'll use VirtualBox, open it up,
 
 students start VirtualBox. It's also right in the app menu
 
@@ -330,21 +330,89 @@ Joel: You're there? Good!
 
 main table reached
 
-Joel: 
+Joel: Okay. Now, at this point, once we have reached the installation, we are done here. That's it. Now the OS has loaded on your RAM and it's ready to use. Well, if you want to fiddle around the installation, go head, but let's not, coz it's long, .... (action) instead we are going to exit. Right, just exit to prompt., (pause projector)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Noa: (exited to DOS prompt), (recontemplate) That's it? Wow that was easy.
+
+Joel: Yep.., thankfully it works. I was really afraid we shouldn't do this class, coz this is very niche. However I found that even System Information subjects here on yOUr Millenium, somehow forgot to teach this one. I mean.. you got alot of computers going on, surely you gotta know how, that's why.
+
+Noa: Okay.. hmmm...
+
+.
+
+.
+
+.
+
+Joel: Okay class, we are DONE!. I'm gonna show you the bonus content, so I recommend you pay attention to this one. (unpause projector) I have here (turn off this virtual machine & go take a look at `Strangely Setup PXE sample`)......, holdon, network (switch the Ethernet back to main)....., Uh btw, you don't have to follow this but... This `Crossban WiFi` right here has PXE. (turn on the machine) That's right. The DHCP server on every Crossban will have Netboot. So if you require OS installation or Recovery something, just connect to this network, plug in ethernet cable around this building, and our DCHP server will serve you the boot. Wow, look at this talented sysAdmin responsible in this Crossban just a week ago.
+
+Netboot has arrived. Go ahead try `Tinycore` Live CD.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Joel: I know it's silly, but who knows. Our library too has dangling ethernet cable on spare computer desk. Formerly used to hold borrowable PC, but now's empty and we restored the cable dangling just for this exact reason. Coz guess what? WiFi can be succ more that connect. And turns out, this is the best idea to put PXE also. I'm wondering. If you guys could make PXE connects wirelessly. Like.. boot agnostic. A pre-electronic networking card, which has a mini computer solely connect to WiFi and bridge it out, **emulating it as if your computer connected by cable**. I guess this is trivial theory, but idk how the bridging could be done. That's your bonus, but don't force yourself to it.. no reward for this one.
+
+TinyCore has started
+
+Joel: Tho, as always, if you really did that, I encourage all of you class, **to share it**. How it's done. Okay.
+
+Time's up
+
+Joel: Yep times up, pls stay on your seat space, it's verifying.............
+
+All students are here
+
+Joel: Great job! You are all online!
+
+Koyuki: Huh? What was that?
+
+Joel: Oh yess. Student Attendance verification technology. Inspired by my old college at Binus. Every classroom has (point) this RFID antenna that scans all card in this room realtime, much like Casino Chip RFID counter. Yep, 2 wireless, Near & Far. The Far gets you the student number in the card. Near is when you (point offer) tap that scanner by the door there. Don't worry if you forgot, the RFID will be the final judge for it, so if you forgot your card, intentionally left the class before verification, you're done for. Never dare to cheat on this. I know it's "*Privacy Invasion*", but hey, we are in Academic. All that scanning is just for academics. That's your UID of this Crossban and where are you at. And this Academy since the beginning uphold strict discipline, I trust you know the basic. Alright, Farewell!,
+
+Yuuka: Stand up!,
+
+all stand up
+
+.
+
+.
+
+Yuuka: Greetings..
+
+*all*: Good afternoon, Joel sensei, thank you and God Bless you\~
+
+Joel: (run script to open PNG of QR code download same resource again)!, Alright you're doing great job in this class. (tidy up) No homework today, coz you're abroads in the Crossban. Aaand, if you'd like to download the same resource complete with bonus questionaires, here's the QR code, to our GitHub folder to it. And Thancc.., for your attention. (leave)
 
 ## Boot it up
 
-by JOELwindows7  
-Perkedel Technologies  
+by JOELwindows7
+Perkedel Technologies
 CC4.0-BY-SA
 
 ## Extras
 
 Sensei & few Prominent Millenium Students are experimenting Speaker over IP. use [NanangMrk's YouTube video](https://youtu.be/EA4PdpRUF-Q) as an inspiration
 
-A rig of SoIP. This demonstration rig is a setup of applied Mumble setup as SoIP system.  
-There is a small computer acting as a server for the whole SoIP. This server runs Mumble server daemon, Mumla, which a server called `SoIP` was setup with its authentication.  
-Next, a speaking client. This client computer runs Mumble that connects to the Mumla back to the server there. It has a USB Microphone connected to it. The USB Microphone has a couple keyboard keys: large orange `F1` as a PTT, and 3 customizable buttons upon: `F2`-`F4`. The client has configured to listen to `F1` hold key as PTT.  
+A rig of SoIP. This demonstration rig is a setup of applied Mumble setup as SoIP system.
+There is a small computer acting as a server for the whole SoIP. This server runs Mumble server daemon, Mumla, which a server called `SoIP` was setup with its authentication.
+Next, a speaking client. This client computer runs Mumble that connects to the Mumla back to the server there. It has a USB Microphone connected to it. The USB Microphone has a couple keyboard keys: large orange `F1` as a PTT, and 3 customizable buttons upon: `F2`-`F4`. The client has configured to listen to `F1` hold key as PTT.
 Another client, a speaker client. This client also connects to that Mumla over there. It lacks Microphone however, but instead a loudspeaker. When one of the talker talks, its audio will be outputted to all clients that has speaker connected.
 And finally, two-way client. This client once again connects to the Mumla over there. It has a telephone handset which basically is just handsfree shaped like telephone. Lifting up handset has selectable dip switches to actions: Hold `F1`, Unmute (internal), unlatch end call (hence put handset preses `end call` & lift is `answer` intent button). it is set to `F1` & `Unmute (internal)`.
 
@@ -376,7 +444,7 @@ Joel: Okeh (offer give me five) man (async)tap!
 
 Koyuki: (async) (FIVE)!!!
 
-Joel: (relook the rig). ... (something's off on that Server)... wait.. 
+Joel: (relook the rig). ... (something's off on that Server)... wait..
 
 fade in the chase music
 
@@ -411,3 +479,27 @@ Wakamo: HUAAAHAaAhA!!
 Yuuka: (close)!, back to your cell.
 
 Wakamo: Oof!! aaargh... Ouchie... that was rude! 💢 hmph!...
+
+## Extras 2
+
+Yuuka: SensEEEEEEEEEEEEi!!
+
+Joel: Oh crap.. you caught me again.. .., Congratulations.
+
+Yuuka: 💢💢💢💢💢 Ugh! I'm tired of telling you this countless times. You handle it yourself, now!..
+
+Joel: Oh c'mon. The character here is limited!, I'm running out of time, This is collab character.
+
+Yuuka: Didn't I tell you, stop playing Gacha games? I thought we agreed to do this.
+
+Joel: Wait. Who said this is Gacha game?
+
+Yuuka: Huh??, (look at phone)....
+
+a digital item is going to be discontinued. This is not Gacha game. A Paid game. There is this DLC, that is purchase will be disabled in time.
+
+Joel: That's everyone's mission. One down only grow 2, not only good, but also evil.
+
+Yuuka: (Internal Flabbergasted, accidentally involved into the deep rabbithole level of Scandal fighting mission) Uhaaa....., (wake up) But..
+
+Joel: I know. But just in case.
