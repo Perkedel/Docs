@@ -19,11 +19,13 @@ Bruh moment right? The `Golden Blood` seems to be a beta version, forgor to remo
 And you, my friend. BRO! You just got alived again, with **a rare buff of immortality straight out of the experimental mode**. **You did not immortal with necrosis like the girl did**, i.e. The Resurrector machine has no such bug anymore!, so fucking cherish it man! You wanted to threw it all away just because you were banned from your own community?! That's a waste of diamond! Here, I heard that **DNB is currently adding more RabbitHoles** just for you to try again. Of course, under strict protection from DNB, less likely corruption to happen. And if that's gonna happen, DNB immediately always found out.
 So stop suiciding! Destroy that shit poison injector machine off of yourself, NOW! DNB is adding life again, and that's just for you man! thanks.
 
-Here QR Code to the DNB Government website that gets you there:
+Here QR Code to the DNB Government website that gets you to new life:
 
 QR IMAGE
 
 Take a look.
+
+I know you're going to throw this away! **Suiciders go to hell!** and Self-deimortalizer go to deeper hell than hell! tbh idk if that's true coz I never been there. Ask some demon who worked there?
 
 ## Concept rough
 
@@ -96,7 +98,7 @@ Moil: Oh wow indeed. It still work.
 
 The text that come out is like still fresh out of the box. Deep black like new.
 
-Nyeol: (take paper)!!, (take out unused envelope & put aside)!, (check document).., (fold it), (insert to evelope), (activate envelope seal & seal it)!. (take out pre-clayed stamp), (take the hot applicator), (press the stamp onto the envelope flap with the applicator)!!!........, Hah!, (flip envelope)!, (sign with his name)....! (give to Barmish) Right, put this on his table.
+Nyeol: (take paper)!!, (take out unused envelope & put aside)!, (check document).., (fold it), (insert to evelope), (activate envelope seal & seal it)!. (take out pre-clayed stamp), (take the hot applicator), (press the stamp onto the envelope flap with the applicator)!!!........, Hah!, (flip envelope back to its back to reach Sender area)!, (sign with his name)....!, (and then flip to front), (and write the recipient, with is Parim)....! (give to Barmish) Right, put this on his table.
 
 Barmish take & put the letter to his table. Hopefully he reads it.
 
