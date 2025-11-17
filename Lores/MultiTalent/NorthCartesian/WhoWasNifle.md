@@ -214,7 +214,7 @@ Teddy: You guys don't have to worry. Parim explicitly asked us to not torture yo
 
 Devet: (client told the DNB? Traitor?) Idk what to say anymore, we are not interested with client's background. (Although, in case if the DNB would always brutally arrest, then Parim wouldn't call DNB in the first place then?) But.. ... Parim wouldn't leak this info, if you would kill us all?..
 
-Teddy: Don't worry. There is always a better way. Also I trust this is very important to you to hear. Your client has been asking your poison, to inject those all to himself. He was traumatized. Like many other Axis Cartesians, Parim was banned from his own community, for his righteous callouts. He lost everything. Feels worthless. His dad panicking, luckily an ambulance happens to pass right at hid dad's former workshop, only then has to die because brain asphyxiation over 10 minutes.
+Teddy: Don't worry. There is always a better way. Also I trust this is very important to you to hear. Your client has been asking your poison, to inject those all to himself. He was traumatized. Like many other Axis Cartesians, Parim was permanently expelled from his own community, for his righteous callouts. He lost everything. Feels worthless. His dad panicking, luckily an ambulance happens to pass right at hid dad's former workshop, only then has to die because brain asphyxiation over 10 minutes.
 
 Devet: Huh? brain.. he hung himself?
 
