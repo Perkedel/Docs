@@ -216,7 +216,7 @@ Devet: (client told the DNB? Traitor?) Idk what to say anymore, we are not inter
 
 Teddy: Don't worry. There is always a better way. Also I trust this is very important to you to hear. Your client has been asking your poison, to inject those all to himself. He was traumatized. Like many other Axis Cartesians, Parim was permanently expelled from his own community, for his righteous callouts. He lost everything. Feels worthless. His dad panicking, luckily an ambulance happens to pass right at his dad's former workshop, only then has to die because brain asphyxiation over 10 minutes.
 
-Devet: Huh? brain.. he hung himself?
+Devet: Huh? brain? (brain cell deaths, workshop).. (there must be something that used to lift heavy stuffs there, a crane! If you put neck on the hook, blood cuts off of the brain!) he hung himself?
 
 Teddy: Spot on!.., Crossban Vacation Island of the former planet sent us report. We (Division Resurrector) rushed in, There's his graveyard. We happen to have an experimental update we're working on. The feature was to make one no longer die-able. Oh it works. Idk how. Suiciders shouldn't be resurrectable. That mean.., God still had mission for him in this world. Don't know what, but shall be found out eventually.
 
@@ -224,7 +224,7 @@ Devet: Um okay?
 
 Teddy: And now.., you suddenly receive a contract agreement to send the poisons to him.
 
-Devet: Yes, that's correct. HUH?? I mean.. I can only think it's supposed to be for experiment idk what. We also did require before it's signed to not go and poison anyone. We put stringent rules. Thankfully no records rise by Mr. Parim. We're good!.. hah.. haha... heum..
+Devet: Yes, that's correct. HUH?? I mean.. I can only think it's supposed to be for experiment idk what. We also did require before it's signed to not go and poison anyone. We put stringent rules. Thankfully no records rise by Mr. Parim. We're good!.. hah.. haha... (and yes, he used to re-suicide, at least, so dillematic) heum..
 
 Teddy: And now he stopped. I still couldn't understand honestly, just by looking at Nifle's story. Or perhaps..., other factors, Ah.. [It's Nyeol's file](/Lores/MultiTalent/NorthCartesian/WhoWasNifle.md). Likely. hmm..
 
@@ -247,6 +247,8 @@ Teddy: Our duty then is to protect citizens from being further harrassed by hoax
 Hatre: Uh.. thanks?
 
 Teddy: You're welcome.
+
+Extra info. Jeally was the one taught the rest of the emergency worker how to properly handle deadly poisons. These poisons are converted by mixing synthesized result of Parim's Immortality Blood. Because when the poison injected to Parim's body, the poison instead turns into anti-venom. DNB and one of the subordinates of Arenod Sediron had secretly experimented with Parim's blood samples. Parim only donated his few recently poisoned blood to the Science division as a feedback to new feature on the Resurrection. And that's how they found out.
 
 ## End
 
