@@ -46,7 +46,7 @@ a Legion soldier: Ugh! Stealth Forsaken at it?! (grasp upsetly to the poster edg
 
 MultiTalent Chaos Team PvP. Launched the controllable rocket & then move the rocket remotely across the chaotic field
 
-the rocket lands onto Lynn's butts between
+*the rocket lands onto Lynn's butts between*. Viewing a player playing as Cuphead. Ultimate Skill, Rocket Missile. Move the missiling Cuphead so he lands onto Lynn's butt twin.
 
 ### Twinn....
 
