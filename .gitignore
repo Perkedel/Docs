@@ -1,0 +1,7 @@
+*.~lock.*.odt#
+*.odt#
+
+*.bakedPhone.*
+*.bakePhone.*
+*.bakedPhone*
+*.bakePhone*
