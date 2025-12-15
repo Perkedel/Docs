@@ -441,7 +441,11 @@ Erivo: Cool. I'll check again.
 
 Tommy: Is there anything else?
 
-Erivo: Wait, there is one? Says here *we will help you fullfill your customer's wishes, until it's done and your customer yours*. .., Sounds like they'll help me to get em *for free*?, and.. Availability Guarantee... Okay. I think I must go.
+Erivo: Wait, there is one? Says here *we will help you fullfill your customer's wishes, until it's done and your customer yours*. .., 
+
+Obntain Trekkers ala Duet Night Abyss
+
+Erivo: Sounds like they'll help me to get em *for free*?, and.. Availability Guarantee... Okay. I think I must go.
 
 Tommy: Then go! before they left again.
 
