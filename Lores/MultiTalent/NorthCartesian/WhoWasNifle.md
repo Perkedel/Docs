@@ -2,6 +2,15 @@
 
 ## Begin
 
+Characters:
+
+- Barmish. Boss of the bus boy
+- Nyeol. Adjutant one. Stationary guy.
+- Moil. Adjutant two. Organizer guy.
+- Parim Pandora. the `boy`.
+- Lug Pandora. father of Parim. Former CEO of Workshop. He told the rest of his worker to leave Pandora alone, and go to South Cartessian.
+- Erem. mother of the Parim.
+
 ### Arenod Sediron Customer Center
 
 Computer: Nomor Antrian: C, 84, Di kounter: 12
