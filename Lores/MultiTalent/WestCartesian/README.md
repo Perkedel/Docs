@@ -6,6 +6,6 @@ Characters:
 - Tommy (Main)
 - Manny
 - Benny
-- Lisa (to Tommy)
+- Lisa (to Tommy). can manipulate materials atomically
 - Dana (to Manny)
 - Gina (to Benny)
