@@ -274,7 +274,7 @@ The BBQ that was just used. It did not emit lingering smoke despite the most int
 
 Tommy: Anything else to say? (eat)
 
-Urrley: If you asking me why I subscribed to Erivo for Burnable Bible is... Yes, I hate God. He disappointed me. I asked Him favour and the answer only runs in a time I am not wanted, Rest in Peace, my dream. Seondly, the social becomes too toxic. It's.. no longer what it used to be. Our church was cool, until... everyone's become troon. You don't want to hear how it's like there now.
+Urrley: If you asking me why I subscribed to Erivo for Burnable Bible is... Yes, I hate God. He disappointed me. I asked Him favour and the answer only runs in a time I am not wanted, Rest in Peace, my dream. Seondly, the social becomes too toxic. It's.. no longer what it used to be. Our church was cool, until... everyone's become bad guys. You don't want to hear how it's like there now.
 
 Tommy: ..., You should be grateful, no family of yours ever died beside maybe because of age, or at least disease on old age. Btw, what's your dream you appalled it's failed?
 
@@ -300,7 +300,7 @@ Tommy: Well it is, why wouldn't it?
 
 Urrley: This gonna be difficult then.
 
-Tommy: Don't worry, everyone of us including me will be monitored so nobody become troons, that's all. How else would you live in the new world, this Realm was bought from DNB afterall.
+Tommy: Don't worry, everyone of us including me will be monitored so nobody become .. bad guys, that's all. How else would you live in the new world, this Realm was bought from DNB afterall.
 
 Urrley: Uh.. you're right..
 

@@ -33,7 +33,7 @@ Moira (mom): Virus.. No..
 
 Karnand: Virus?!?... Oh no... what did she do?... (reminding).... (she had quest on a small realm) Oh sh(**prevent!**)... (confused panik shiver left right) uh! ! ! uhmm, (can only surrender, try to jump but prevent because that's a new virus, both palm of hands grasp head) NOoooo!! (squat in leg turns jelly) no no no no no no...
 
-Suddenly Portal opens in the middle of the road. Ambulance inside rolled into this scene.
+Suddenly a Portal opens in the middle of the road. Ambulance inside rolled into this scene.
 
 The Intelligent Construct got out and immediately take the
 
@@ -53,7 +53,7 @@ Karna: Hhh, hhh, hh, Pls, (Trinity gesture shivering again) pls... no.. in the n
 
 Unfortunately, getting this virus means your lung is permanently broke. Not to mention, the virus have extra features to damage other parts of the victim bodies. Fast is the only option, and surgery & extreme strength medicines are the only way to survive right now.
 
-In the pre-surgery partition of surgery room. Bots are discussing. They looks hopeless.
+In the pre-surgery partition of surgery room. Bots are discussing. They looked hopeless.
 
 In the meantime, other bots on different building just 500 metres away are building vaccine for this virus quickly. This hopefully should be easy.
 
@@ -91,13 +91,13 @@ the student is in
 
 G-A: (close door), (lock again).
 
-G-B: Excuse me, are you doctor DNB just hired?
+G-B: Excuse me, are you the doctor DNB just hired?
 
 **Tendou Arisu (surgeon)**: (serious style speaking) Where is the agreement docs?
 
 G-A: Uh.. sorry, we don't have one. This feature is not yet ready.
 
-Arisu: Patients?
+Arisu: Patient?
 
 G-A: (point her upon partition window) right there. It's rapid decline, BPM 50, Oxygen 70.
 
@@ -121,7 +121,7 @@ G-C: Attire ready., Everyone?
 
 All attires complete. Robes, Latex glove, and other self-protections. Now they are covered in the Blood Reveal eye-relax green full body jacket.
 
-G-A: Let's get to it.
+G-A: Let's get to it. (internal pray)
 
 Mist of sterilizer desinfectant sprays to the entire room, using the eye-covering fog cloud as a transition to the next scene.
 
@@ -135,11 +135,11 @@ Arisu: (x-ray scan)..........
 
 The lungs & heart have been severely damaged. Fast operation is the only way. Nothing else broke.
 
-Alpha opens the bubble
+Alpha opens the bubble dome that wrapping the patient Leona.
 
 Charlie re-ensure debugging setup intact
 
-Leona has been anasthesized, and the bubble already open. There's no turning back.
+Leona has been anasthesized, and the bubble has already open. There's no turning back.
 
 Arisu: (right hand hand signal scissor & prep hand)..
 
