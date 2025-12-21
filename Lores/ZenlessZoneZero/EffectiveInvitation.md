@@ -12,6 +12,8 @@ A piece of intel about certain proxies & agents across interknot. Even tho maybe
 
 `Covert Commission Token`. This now to be used to play that commission on HDD. Again, it will comprises of different items for characters, w-engine, & Bangboo. e.g., `Revealed Intel: Jane Doe` will provide sub-gacha for Jane Doe when pulling.
 
+A prestigious Invitation paper designed bespoke for the agent. It's sprinkled with a stable Ether dust.
+
 ## Fullfilled Intel
 
 Unlike other MultiTalent games, used up Revealed Intel will first turned into used item called `Fullfilled Intel` of the type and item, rather than immediately rolled up (choose 1 of 3 rewards). You will need to start Pulling on which channels: Characters, W-Engine, or Bangboo.
@@ -47,6 +49,12 @@ Usually, about Difficulty 40 ones.
 
 Limit has been increased to 5 a week instead of 3.
 
+### Suggested Order
+
+Middle difficulty grants you the Character's Revealed Intel.
+
+Final difficulty grants you their W-Engine's Revealed Intel.
+
 ### Rotational
 
 The reward can rotate per evolution. e.g.
@@ -71,7 +79,7 @@ You can resell the Revealed Intel for Confidential Intel again. Feel free to do 
 
 VR Challenge may also gets overhaul, but otherwise nothing has majorly changed to incompatibilities. You can get upgrade items this way.
 
-Now, not only upgrade items, The VR has new game modes inspired from Duet Night Abyss Commissions. 
+Now, not only upgrade items, The VR has new game modes inspired (yoinked, more like?) from Duet Night Abyss Commissions. 
 
 - Expulsion. Defeat this numbers of enemies
 - Mediation. Destroy the machine enemies prepared.

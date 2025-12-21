@@ -38,3 +38,17 @@ In Action Definition, you can see a `Version` field and `Max Datetime` of it. No
 So say, if a player disagree, then as a Customer Support, e.g., you can have their Save Account edited, to edit that Transaction so the version uses that new one instead, to make it as if it happened on that new version, while it's that old, **overriding the usual Datetime based Rewardings**.
 
 The Transaction field `Override version` (default is empty) lets you to pick version for the Action Definition. Usually, Transaction rewards based on `Datetime` happened according to the Version defined in Action Definition. If the `Override version` is filled, the Transaction will rewards you based on that version instead of datetimed version.
+
+## Trigger
+
+Wanted to gift players for been loyal? You can define Auto-triggers.
+
+Trigger Definition is a feature that makes all account automatically receives Transactions under certain conditions. e.g.,
+
+There is a gift for this update for the account registered since launch. Define this as such, and when player login once the maintenance finished, they'll receive the irrefusable Transaction automatically, containing those gifts. yay!
+
+## Cheating & Forensics
+
+By making the whole game Transactional, you can track and investigate any suspicious activities. Say, you say these sequences of Transactions doesn't seems like a normal way of how it supposed to flow. Then that could be, he cheated! Either your server got hacked for himself, or whatever client hackery it happened.
+
+Let your customer reports other cheaters too, it's often time visible. They had abundant amount of resources for the today's update, when it was just yersterday after the maintenance. Very obvious! doesn't it?

@@ -1,0 +1,108 @@
+# Sugih Yanto
+
+Caught the scammeration. Vriska's kids called out the scam of this car repair.
+
+## Dump Last
+
+- Test Crash train mini. First test is watch out sensor. Train should stop regularly if there is obstruction. Second test is I crashed. When proximity sensor malfunction, train will crash the obstruction. Then this impact sensor should make train hit brake suddenly and ring the alarm. If just hit this test wood plank, it should also trigger this.
+- okay, bring it back.
+- We finally replaced the panel for Goa Kereta! Yey!
+- WarmUp VR. Plugin interstitial for games, to get you warmed up. Do every aspects of stretching before the actual sport game. Each aspect will be done for 8 second. All automatic and only need to follow list, out or in order.
+- Beggar perhaps can be chooser, because at least they are not corrupt nand steal internal money?
+- buug
+- I mean, if am that hectic, I wouldn't be hostile, no idea what for and why would I, did I? Hope not.
+- only hostile if they yes, paywalled, proprietary, and partial. That's all. Not for hectic, that's stupid!
+- Slipper.
+- Make sure you clean your feet too, Terezi, Vriska, yes you all.
+- Perspiration attracts bacteria and they farts and poops.
+- Why the highway fence had slits? Why roads had metal cement tapes in between?
+- yeah of course, they were built in parts like LEGO, so that's the slit in between
+- Also not tight, to avoid fence to fence collision. You know, road can stress and flexes as cars passes by, and even quakes, low flexibility, can crack. If cracks, it will be that part, not entire road.
+- Hey Opera. If you let Lukasz Borges share that latest Aura 3D model, told him to install 69420 r32 parts, allow everyone to make r32 69420s, and the future revisions will immediately $0 download also r34 compliant, **I will install OperaGX in my main PCs**. I confident 101%, you won't do this.
+- I mean yeah, challenge myself, what an idiot I am.
+- Seriously. I hate no download link. Peck them all. Yeah.
+- If you did not download link on that next revision 6 months after the new Aura 3D model release, **I will uninstall OperaGX on all my main PCs**. Deal?
+- Same goes for Voicemod. Find somebody better, who will model Protogen and is okay release for $0, allow r32, templates are $0 allow 69420. Remember give salary to that guy. Show Nukude that his action is yeah you know.
+- *I didn't say will daily drive it. Just for show idk..* experiment stuffs.
+- Experimentehed
+- brokelam
+- Chat / Curhat with Vriska. 10 eyes (Vriska's 8 + you 2). Or just 4 (empat mata) if you count only the eyeballs.
+- Mnemonics
+- MEGABIGKU.
+- Mbak Terezi. Yeah, she already looks like typical local house maids apparently. Only, the skin is gray graphite.
+- notta wear. Weird fashions.
+- Naik Jeep.
+- lots of Natasha around here. It's Russian or basically Slavic, but pretty much everywhere if it's Slav. There's Natasha Romanoff, yeah Black Widow, my Classmate when I was High School, and... this game. Natasha.
+- I hate anchovies. Not to mention this rice sprinkled with it. Give to Feferi instead, she must be liking it.
+- Oh wow, she ate them all at once.
+- Susi Pudjiastuti once said, if you refuse fish, you'll be sanked. **Tenggelamkan!!!***
+- also reference to when Susi commanded to destroy illegal ships.
+- Karkat: My zodiac symbol ♋️ is not six nine, you pervert 🗿🗿🗿🗿... ugh, whatever. I see that too anyway.
+- ♈️♉️♊️♋️♌️♍️♎️♏️♐️♑️♒️♓️⛎️
+- WwowW!!!
+- Robo window track. Track of window cleaning robots. Wall runs
+- Roll outs
+- undulators.
+- Transmigrate sketch
+- Spips: (knock)! ! !
+- Karkat: (open)??
+- Spips: (lift empty bucket)??
+- Karkat: Ugh, whatever. C'mon get in!
+- Spips: tenk yu! (Get in)!!
+- Gass: Oh, Awhh.. sh88!!! She ran away.
+- Ferk: What?!
+- Gass: to Karkat. (Cannot fight Karkat, he can easily tear their heart 🫀 off)
+- Ferk: Maybe next time.
+- weffo.
+- This Earth. Dis ert. Desert. Mispronounciateh
+- Regret outhostile everything.
+- Immediate take photo. While in smartphone mode, you can still take picture without needing to camera mode first. Great for will miss now moments 
+- Beldn it prrtend
+- Wow that was really cool
+- https://vt.tiktok.com/ZSLLqFJPf/
+- https://vt.tiktok.com/ZSLLqjL6v/
+- https://vt.tiktok.com/ZSLLqU2Uy/
+- https://vt.tiktok.com/ZSLLVwqXh/
+- https://getwellue.com/pages/visualbeat-heart-rate-monitor
+- https://www.reddit.com/r/AsianBeauty/comments/2h8nk6/help_please_i_am_desperate_to_know_what_hair/
+- Arbushi Hollyp. Has car rent, suspended due to terrible service he did to Vriska, unprofessional behaviour. Hence now got acquired by a purple blooded named Sugih Yanto the rich troll, which also was his old boss, which also also best friend.
+- Sugih Yanto. A businessman and so rich. Is conglomerate, owns and established many business. Has purple blood, is Alternian.
+- After Vriska broke paint on untreated IONIQ 6, return to the rental.
+- Arbushi angery.
+- Vriska hover half star. Star uses Newground's like.
+- Arbushi panik, but disallow borrow his IONIQ 6.
+- Vriska hover 0 / Broken star.
+- Arbushi panik attak. He will do anything, allow any rate but 0 and half. Tell damage, it's on device
+- Vriska complete transaction with fines, and add tips. 500 Jox extra (≈ 500 Kvz). Vriska rate 3
+- Arbushi calm, business not suspend. Don't kalm! Star can still be changed up to 2 weeks after submission!
+- Vriska back to car Jeep Cherokee. Tavros turn off cloak. Run again pass the gate.
+- Arbushi hold until they went far enough.
+- ...
+- Arbushi knew it, Vriska intended this to fear him.
+- Vrissy suddenly hi behind Arbushi
+- Arbushi shock! Aa vriska no!, Vrissy? What are you doing? You parents had just left..
+- Vrissy: I see what you did there.
+- Arbushi: Oh.. no.. pls don't tell mama, Promise, I'll give you candy, as many you want
+- Vrissy: Why would I accept any stranger items? (Portal underneath her own feet to the Jeep ceiling middle seats)!
+- Arbushi try catch but failed. No!!
+- No no no no no, AAAAAAArrrrrrrrwwwwwghhhhhh..
+- Business suspended. Sugih Yanto then acquire Arbushi's business and he become inferior 1 level under him again. Sadd again.
+- Sugih: Hey cheer up! It's been long time!
+- Arbushi still bad mood.
+- Sugih give Truffle ball.
+- Sugih: Here, truffle, just for you. It's very hard to get, don't throw it away. Now if you excuse me, (leave)...
+- Arbushi angrily ate the shroom. Mood relieves a bit, because it's delicious & considering it's very rare.
+- Wtf?!?! Christmas Horror?!?! Oh, pls.. ogh...
+- https://www.aboutmalang.com/gaya-hidup/pr-1422323516/lirik-lagu-naik-naik-ke-puncak-gunung-lagu-anak-indonesia-yang-bermakna-keindahan-alam#:~:text=Lirik%20lagu%20'Naik%20Naik%20ke%20Puncak%20Gunung'%20ini%20diciptakan%20oleh,Indonesia%20sebagaimana%20dirangkum%20AboutMalang.com.
+- https://www.aboutmalang.com/gaya-hidup/pr-1422323516/lirik-lagu-naik-naik-ke-puncak-gunung-lagu-anak-indonesia-yang-bermakna-keindahan-alam#:~:text=Lirik%20lagu%20'Naik%20Naik%20ke%20Puncak%20Gunung'%20ini%20diciptakan%20oleh,Indonesia%20sebagaimana%20dirangkum%20AboutMalang.com
+- https://www.manualslib.com/manual/196284/Yamaha-Portable-Grand-Dgx-305.html?page=96#manual
+- https://www.artstation.com/royalskies/store
+- Hey, sir, don't be hostile publicly, not anymore!
+- Pls John's car plate type name `E413` and pls generate UUID. `E413-????` for Dasandim.
+- Launch speed based on how loud you screamed. Roller coaster stop at scream point. Guests must scream to charge power. Yiffy Longstocking, told to scream, scream loudest, charge 100%. Roller coaster launches suddenly fast!!
+- Remember taskbar layout!
+- Wide. Start, home, back, Task lists.
+- narrow. Start, home, back.
+- Start contains bigger task list & launch an app.
+
+## Begin
