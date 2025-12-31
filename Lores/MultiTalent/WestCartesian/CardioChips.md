@@ -13,7 +13,7 @@ When in Duet Night Abyss, you apply the wedge to back, in MultiTalent you apply 
 
 ## Begin
 
-Tommy went to office as a favour of one of his acquaintance. She was staying at Tommy's fortress, and Tommy overheard her conversation. The Acquaintance complained that the CardioChips system is flawed and put strain to ones heart the stronger the chip is, so the user must be careful of choosing the chips, or otherwise it will fail to work. Felt bad, Tommy went to the local Official Store of Arenod Sediron's licensed weapon shop nearby and inquire about CardioChips problem.
+Tommy went to Overseer office as a favour of one of his acquaintance. She was staying at Tommy's fortress, and Tommy overheard her conversation. The Acquaintance complained that the CardioChips system is flawed and put strain to ones heart the stronger the chip is, so the user must be careful of choosing the chips, or otherwise it will fail to work. Felt bad, Tommy went to the local Official Store of Arenod Sediron's licensed weapon shop nearby and inquire about CardioChips problem.
 
 This is a tutorial about CardioChips. The Booster Card system you apply to characters.
 
@@ -103,6 +103,8 @@ Well, this is 12 AM already!
 Tommy: Okay then., (remove CardioChips base), .... Good night.
 
 ## hm
+
+Sanity in Duet Night Abyss also means Adrenaline in Multitalent which means Mana typically.
 
 by JOELwindows7  
 Perkedel Technologies  
