@@ -97,6 +97,8 @@ Sidebar & Correct order
 
 Taucho: `Starting from earliest (top most), Put following Linux Distributions according to their conceivement date`. ![And the orders are](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)..
 
+Release year is hidden!
+
 1. Debian. 1993
 1. Red Hat. 1994
 1. Arch. 2002
@@ -310,7 +312,7 @@ First stage
 
 Taucho: Let's begin
 
-> Which of the following Distro that is not derived nor based on Linux Kernel>
+> Which of the following Distro that is not derived nor based on Linux Kernel
 >
 > 1. Debian
 > 2. Ghost
@@ -705,7 +707,7 @@ fade in the serif text `18th October, 1958`
 
 .
 
-❌ Question 15 loss loudly orchestra ! ! ! !!! ! Tennis for Two was released in 18th October 1958 during an electronic expo. It was not supposed to be a video game show, rather a *demoscene* & expo crazines of analog electronics & science fair.
+**❌ Question 15 loss loudly orchestra ! ! ! !!! !** Tennis for Two was released in 18th October 1958 during an electronic expo. It was not supposed to be a video game show, rather a *demoscene* & expo crazines of analog electronics & science fair.
 
 Instead of regular wwtbam music, play sorrowful contemplation piano song Blue Archive.
 
@@ -872,7 +874,7 @@ Taucho: (turning back)..., Hey, ... Arisu, wake up, .... (stand slodge close), (
 
 Halo appear
 
-Arisu head goes up like door ungreased, like Maestro on the move.
+Arisu head goes up like door ungreased, like Gematria's Maestro on the move.
 
 Arisu: 😐...
 
@@ -1106,7 +1108,7 @@ followed veeeeeeeeery slowly by the `2`s filling those counts of those elements
 
 `C2H2NaO2`
 
-**✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ 1 MILLION Pts VICTORY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! play the song now! Sodium Acetate composition is C2H2NaO2. Don't dip your hand in the liquid though!**
+**✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ 1 MILLION Pts VICTORY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 play the song now! Sodium Acetate composition is C2H2NaO2. Don't dip your hand in the liquid though!**
 
 *game devs students including Yuzu*: YAAAAAAAAAATAAAAAAAA!!!!!!!!!!!!!
 
@@ -1129,7 +1131,7 @@ Blue Archive (c) NEXON Games, MX Studios
 You have received:
 
 - 1 Million Credit
-- 30 Pyroxenes
+- 3200 Pyroxenes
 
 by JOELwindows7  
 Perkedel Technologies  
