@@ -1,4 +1,4 @@
-# East Cartesian
+# Chronicles (East Cartesian)
 
 The 5 scammed. These people have been hospitalized in an institution after the Balthezer's scam. Barthesel? 
 At first, the Balthezer offers healthies, and 5 took part voluntarily. All they have to deposit is random part of their body.  
@@ -13,3 +13,27 @@ The East Middle Cartesian was an effort to make house with a vibe of Family Guy 
 Now given to the 5, and all the starter supplies are given. This, is their new life.
 
 East Cartesian neighbours with Vacation Island (Northwest Middle Cartesian) & Arenod Sediron (Center Middle Cartesian)
+
+## The Chronicles Family.
+
+- Jones Salhallan (papa)
+- Nancy Salhallan (mama)
+- Sally Salhallan (daughter)
+- Oscar Winston (to Sally)
+
+https://joelwindows7.tumblr.com/post/181835795358/accidentally
+
+At some point in time, Now that these 5 founders successfully continued such new lives, People come, out, and circle around here. Events includes marriages & breedings. This once again diversifies total DNA compositions here in East Cartesian, just like Duron Sediron wanted in his Arenod-Sediron's Total Goal.
+
+Which eventually, created one prominent family. For context, the East Cartesian scenery, established in an Empty Intentionale Experiment from long ago, looks like one of those adult cartoons. Namely: Family Guy, American Dad, Simpsons, Oggy, and alike. The grade of colors, vibes, air, and such, inspired DNB to create their own, and of course Open Source. With no time, Viorfa approved, so does the Chronicles. All interesting moments will be recorded, compiled, and be viewed by thousands across realms.
+
+The `Family Guy Moment`. Will unite cutaways of various kind, may include offensive ones, just like Family Guy is. Skits comes at all time, complete with whackiness like Family Guy. Though inspired spirit, `Chronicles` was not meant to compete Family Guy & alike. In fact, quite the contrary. Since Family Guy EOS decades ago, and who knows the reboot might be succ if there is, `Chronicles` serves as a place to tell whacky stories, for the minds who shall understand and able to respond well.
+
+## Gameplay
+
+Idk yet. For now, use Impact-Wave-Abyss ones!
+
+- No fall damage, instead Fall Shock like DNA
+- Dedicated Fly for all.
+- Dedicated Guns like DNA
+- 2X Jump, token can add extra

@@ -2,6 +2,8 @@
 
 The Video Game refuses on Linux for many, many many excuses. The missionary forcedly has to do something in the end.
 
+Family guy moment southpark simpson
+
 ## Begin
 
 Missionary has returned to the Video Game, and shared new intel.
@@ -14,6 +16,8 @@ Video Game: Silence! FreeBSD, ... OpenBSD, ... and their derivatives, way too ni
 
 Missionary ran out of option. Therefore, he had no choice but to use his Ultimate skill, that he wish never used in life.
 
+Video Game: It's over, kid. Nobody can help you anymore, coz now they're busy of themselves. Stay!., Is how we live today.
+
 Mr. Missionary: .... Fine. **THen you (execute skill) go down with me!!**, in (fire) **Proton Wine**!!!!!!!!!!!!!!!!!!
 
 The whole building absorbed into a blackhole of Proton Wine
@@ -22,7 +26,7 @@ Anti-Cheat: **REEEEEEEEEEEEEEEE**
 
 Video Game: YOU CANNOT KEEP WINNING! YOU CAN'T KEEP WINNING THIS!!! YOU SHALL NOT WIIIIIIIIIIIIIIIIIIIIIIN!!!!!!!!!!!!!!!!
 
-## Finally. Almost all Windows Games even untested works on Linux. Thancc Gabe!
+## Finally. Almost all Windows Games even untested works on Linux. Thancc Gabe! & everyone involved
 
 Video Game: FFS!, you cheated! You're only Emulating Windows Compatibilities for yourselves!
 
