@@ -29,6 +29,8 @@ Which eventually, created one prominent family. For context, the East Cartesian 
 
 The `Family Guy Moment`. Will unite cutaways of various kind, may include offensive ones, just like Family Guy is. Skits comes at all time, complete with whackiness like Family Guy. Though inspired spirit, `Chronicles` was not meant to compete Family Guy & alike. In fact, quite the contrary. Since Family Guy EOS decades ago, and who knows the reboot might be succ if there is, `Chronicles` serves as a place to tell whacky stories, for the minds who shall understand and able to respond well.
 
+Do not underestimate the animation style! Chronicles uses semi-realistic animation framings. in this CGI, it's all Three Dimensional. Again, not to diss the former source of inspiration, like Family Guy (2D simple draw) & alike. Regarding of repeat and variants, we will of course use that. Thanks to meme animation templating, episodes can reuse the mega-pose animation that's meme'd across realms, such as `NO no no nononono!!! 🛁💥`.
+
 ## Gameplay
 
 Idk yet. For now, use Impact-Wave-Abyss ones!

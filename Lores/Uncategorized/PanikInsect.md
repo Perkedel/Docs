@@ -20,7 +20,7 @@ Son: mmm..
 
 Dad: Oh shit, (draw aim & fire shotgun)!!!
 
-Wasp died
+Wasp died. The Shotgun is very loud!
 
 Doctor: Ah, I see the problem.
 
