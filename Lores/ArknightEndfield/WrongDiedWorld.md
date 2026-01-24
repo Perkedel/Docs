@@ -80,7 +80,7 @@ phone scan her brain. `fsck` is File System Check. It's a `chkdsk` for POSIX.
 
 .
 
-Brain integrity 100%, no Amnesia found!
+Brain integrity 100%, no Aether nor Denstack, no Amnesia found!
 
 Halluo: Huoh!, (hug tightly ala culture of South Americas) Thank God!..
 
@@ -94,7 +94,7 @@ Halluo: Okeh good good good. Ugh.. Jesus Christ! I didn't expect we had to ward 
 
 All of them too has been ungibbed
 
-Halluo: No limbs gone. Wow, yours thrown 200 meters across, but don't worry, our resurrector can find them, and weld them back to you, test the motors
+Halluo: No limbs gone. Wow, yours thrown 200 meters (intentional `s`) across, but don't worry, our resurrectors can find them, and weld (forgor `ed`) them back to you, test the motors
 
 Endmind tries to move her hands and legs.
 
@@ -104,7 +104,7 @@ Endmind tries to move her hands and legs.
 
 Halluo: Good good good. Okay Gocce, now. How the fuck did the Harrassers here?!., I thought it was supposed to be an extinct Legend raging back in 2025 to 2100.
 
-Gocce: They're from Vivi's offsprings. The other branch tho, no our acquired ones. From 1st level by her womb.
+Gocce: They're from Vivi's offsprings. The other branch tho, not our acquired ones. From 1st level by her womb.
 
 Halluo: Huh? I thought Vivi (Final boss of Homestuck Interpol) was supposedly had 2 kids (all brothers). What's going on?
 
@@ -118,7 +118,7 @@ Halluo: ..... fuck.
 
 Halluo: I don't want to fault anyone here, I hate it. But.., What did happened during the care in Vivi's perma-arrest at Judgement. So,
 
-Gocce: After she was defeated by Vriska & Tavros, Vivi arrested. Harrassers no effect. Now, in Judgement, Vivi lives her life in permanent arrest, married one of the Judgement employee, and results 2 brothers. They and the rest of the Maternal Departments took good care of these 2 kids, and grow up healthy. They school the same Crossban to Graduation on all classes & 3 college levels. Alas. Their (the 2 brothers) vision divides some point. Thankfully, because Vivi's regreted, She's not proud to the second.
+Gocce: After she was defeated by Vriska & Tavros, Vivi arrested. Harrassers no effect and kept raging everything must torn down for that time but shelters apparrently successful (that Harrassers seems no longer dare to ravage Cartesians at least after Arenod Sediron). Now, in Judgement, Vivi lives her life in permanent arrest, married one of the Judgement employee, and results 2 brothers. They and the rest of the Maternal Departments took good care of these 2 kids, and grow up healthy. They school the same Crossban to Graduation on all classes & 3 college levels. Alas. Their (the 2 brothers) vision divides some point. Thankfully, because Vivi's regreted, She's not proud to the second.
 
 Halluo: And what happened next?
 
@@ -130,7 +130,7 @@ Halluo: I hate this `Harrasser` codenaming, especially to our future guys like t
 
 Gocce: Would you like to propose a new label, sir?
 
-Halluo: Uh.. I guess it's not a bad idea. Elders did so with the `Invaders` codename during [Lah-Mboh](https://github.com/Perkedel/Lah-Mboh) initiative.
+Halluo: Uh.. I guess it's not a bad idea. Elders did so with the `Invaders` codename during [Lah-Mboh](https://github.com/Perkedel/Lah-Mboh) initiative (a DOOM FPS mod).
 
 Gocce: Alright, noted. (look at endmin).. .. Endmin, Operators. You must take weeks of break this time. We must scan the situation happened in that Cartesian. It seems our realms have been compromised at last. Don't know where others at large where at. Until further notice, you can only travel to Mudik City for now.
 
@@ -164,20 +164,64 @@ Halluo: Uh no it's just.... Oh mai God!!!!!!!!!!!!!! WHUUoooA!.......
 
 Endmin: (head tilt as cute as penguin)....?
 
-Halluo: Endmin. I... can't believe this. You woke up.... in Stella Sora?!
+Halluo: Endmin. I... can't believe this. You woke up.... in **Stella Sora**?!
 
-Endmin: Oh. Elaborate.
+Endmin: Oh? Elaborate.
 
-Halluo: Once upon a time. Lived a Tyrant. He bears the name name as you are. Of course, nothing to do. This Joel travels lands, conquering stuffs, in a good way. Made few friends, called **collecting soul pact**. It... it was another long time ago!, very close to Blue Archive post-times. It's convoluted, feel free to read these all later.
+Halluo: Once upon a time. Lived a Tyrant. He bears the name name as you are. Of course, nothing to do (Joel OG chose male, to repesent himeself). This Joel travels lands, conquering stuffs, in a good way. Made few friends, called **collecting soul pact** (some sort).., . It... it was another long time ago!, very close to Blue Archive post-times. It's convoluted, feel free to read these all later.
+
+<!--pls decide if in Stella Sora case Tyrant != Joel OG.
+Joel OG == Sensei
+-->
 
 Endmin: Okay. I saw 2 figures.
 
-Halluo: The one holding mirror is Virigia, and the lantern one is Bernina. These 2 also can be found wandering around Monolith. But mainly, if the Tyrant dies, usually is a mistake made. He woke up in the White Room, beyond time, timeless, and these 2 shows up. Discuss something what did he do wrong, revealed that all up. ...., and once he understood, he asked his virtual assistant, Vita, to open this gate over there. Enter, and you Ctrl+Z everything to certain point in gameplay. Yeah. Well, that's what the legend written in DNB Archive says.
+Halluo: The one holding mirror is Virigia, and the lantern one is Bernina. These 2 also can be found wandering around Monolith. But mainly, if the Tyrant dies, usually is a mistake made. He woke up in that White Room, beyond time, timeless, and these 2 show up. Discuss something what did he do wrong, revealed that all up. ...., and once he understood, he asked his virtual assistant, Vita, to open this gate over there. Enter, and you Ctrl+Z everything to certain point in gameplay. Yeah. Well, that's what the legend written in DNB Archive says.
 
 Endmin: (mind blown)... whooaaaa
 
-Halluo: Yeah don't worry about it. The Owner of the universe is stingy (broken reward vs. cost balance, 10 gacha is too expensive compared to many others, did so last minute before launch release btw), and anyway the game's long EOS.
+Halluo: Yeah don't worry about it (refuse to care deep into Stella Sora, because). The Owner of the universe is stingy (broken reward vs. cost balance, 10 gacha is too expensive compared to many others, did so last minute before launch release btw), and anyway the game's long EOS (at some point after late century 21).
 
 Endmin: I've learned a lot.
 
-Halluo: Oh yes, we DNB traveled different worlds. **Oversaw** everything happened to various worlds. Just.. don't worry too much, it's zettabytes. You won't be able to grasp any at all. take a rest. Adventure awaits when we're safe now.
+Halluo: Oh yes, we DNB traveled different worlds now. **Oversaw** everything happened to various worlds. Just.. don't worry too much, it's zettabytes (worth of adventures from many teams of Overseers). You won't be able to grasp any at all. take a rest. Adventure awaits when we're safe now.
+
+## Last Balancing
+
+The Cartesian where it happened is being cleaned. it's 99% complete. The Endfielders came back to pull the last of all
+
+Jyore: Endmin! Operators! you're here! Here net (throw)!!
+
+Endmin & Operators caught each
+
+Jyore: Quick wrap em up!
+
+Follow instruction. QTE!
+
+Jyore: Ready!!
+
+Zap! Every last of the Harrassers finally captured to Judgement Realm to be studied
+
+Jyore: Whew!! Great job everyone. The Cartesian's clean.
+
+Gocce: Intel!
+
+Jyore: Okay elaborate.
+
+Gocce: (Wireless transfer) Sending to your brain...., done.
+
+Jyore is analyzing the same story given to Endmin during [Extra talk](#Extra%20Talk)
+
+Jyore: Uh humm.. wow. uh..
+
+Gocce: Is there any question, supervisor?
+
+Jyore: No.., I think I understood the rest of the stories already, nothing less. Wow, thank God, we prevented the crisis from ever happening again like history. How in the world, people like that could **acquired the license to own a Cartesian**. Hah. **Good thing you can't anything you entitled recklessly**, Good job DNB.
+
+Gocce: The license has been revoked and the money has been refunded. He will learn a heavy lesson. DNB could've decided to keep it per the rule said about *could*.., but they hate to stir extra trouble for confiscating the fund to buy this Cartesian.
+
+Jyore: Without anyone now leading this realm. Who should lead interimly now?
+
+Gocce: No idea decided yet. The next step here, this Cartesian will be temporarily owned by the DNB. A Disciple (game Character) will be assigned to lead this world until the appropriate buyer is found.
+
+Jyore: Okay. I can only pray. Leading world succs, but has to be to prevent evil ones from ever conquering it.
