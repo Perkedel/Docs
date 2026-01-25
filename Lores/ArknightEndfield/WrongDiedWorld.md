@@ -1,10 +1,10 @@
 # Wrong Died World
 
-Endmin gibbed. There was level 10k enemies. She blew the whole arena, coz she thinks they are doing nonsense so why not end it all, tired & bored.
+Endmin gibbed. There was level 10k enemies. The enemy blew the whole arena, coz she thinks they are doing nonsense so why not end it all, tired & bored.
 
 ## Begin
 
-Endmin awaken in another world.
+Endmin awaken in another world. After Shuwir exploded the entire arena coz didn't defused her anger in time, Endmin & 3 Operators gibbed and died.
 
 Stella Sora death world music. dateTime null. This is a world where the Tyrant woke up when he/she died.
 
@@ -66,7 +66,7 @@ Virigia: Still do. I'll send him the Heartlink (SMS) later.
 
 ### OMV Dijiang
 
-Endmin returned to real world.
+Endmin returned to real world. Endmin has been resurrected, so do the rest 3 Operators.
 
 Endmin: (wake up open eyes) Uuurrrgh....
 
@@ -80,13 +80,13 @@ phone scan her brain. `fsck` is File System Check. It's a `chkdsk` for POSIX.
 
 .
 
-Brain integrity 100%, no Aether nor Denstack, no Amnesia found!
+Brain integrity 100%, no Æther nor Denstack, no Amnesia found!
 
 Halluo: Huoh!, (hug tightly ala culture of South Americas) Thank God!..
 
-Gocce: Halluo, found intel.
+Gocce: Brother, found intel.
 
-Halluo: Okeh.., Uh.. What's your label?
+Halluo: Okeh got it.., Uh.. What's your label?
 
 Endmin: `JOELwindows7`.
 
@@ -106,9 +106,9 @@ Halluo: Good good good. Okay Gocce, now. How the fuck did the Harrassers here?!.
 
 Gocce: They're from Vivi's offsprings. The other branch tho, not our acquired ones. From 1st level by her womb.
 
-Halluo: Huh? I thought Vivi (Final boss of Homestuck Interpol) was supposedly had 2 kids (all brothers). What's going on?
+Halluo: Huh? (more than 2 kids?) I thought Vivi (Final boss of Homestuck Interpol) was supposedly had 2 kids (all brothers). What's going on?
 
-Gocce: The latter ones became **Invaders** advisor, in 2100s. Then today, Harrassers popping up from him.
+Gocce: (still 2 kids) The latter ones became **Invaders** advisor, in 2100s. Then today, Harrassers popping up from him.
 
 Halluo: ..... fuck.
 
