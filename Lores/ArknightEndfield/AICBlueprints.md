@@ -7,20 +7,50 @@ That I could find, & what I had & edited some.
 ### painic's Factories
 
 - https://www.skport.com/article?id=2014601070109902983 (US)
-  - Outpost (Shelter sementara): EFO018IeEu06eO15UI73
-  - Automation Core (Main Base PAC): EFO01I3A5810A49a5o08
+  - Outpost (Shelter sementara): `EFO018IeEu06eO15UI73`
+  - Automation Core (Main Base PAC): `EFO01I3A5810A49a5o08`
 
 ### ConCon's Factories
 
 - https://youtu.be/UeJ8VOElMj8 (US)
-  - Outpost (Shelter sementara): EFO0158OE72A96ua0eIoe
-  - Automation Core (Main Base PAC): EFO012I45iO7a0855eIOo
+  - Outpost (Shelter sementara): `EFO0158OE72A96ua0eIoe`
+  - Automation Core (Main Base PAC): `EFO012I45iO7a0855eIOo`
 
 ### Original Joel's Factories
 
 - This is from the first Kaorfa (Asia)
-  - Outpost (Shelter sementara): 
-  - Automation Core (Main Base PAC):  
+  - Outpost (Shelter sementara): `a`
+  - Automation Core (Main Base PAC):  `a`
+
+### Endfield Tools
+
+https://endfieldtools.dev/community-factories
+
+Find more Blueprints!!!
+
+[from this post](https://www.skport.com/article?id=2015608779511448286), thancc Athaaa cool and good
+
+#### Highlights
+
+- https://endfieldtools.dev/community-factories/blueprints/origocrust/?id=1bdda232-2b8f-44df-95fc-c02c2eb1a2e9 Parts Bottles
+  - Asia: `EFO01602IoiEIi72O83e`
+  - US/EU: `EFO01O3E2i3Uo2IA9oe4`
+- https://endfieldtools.dev/community-factories/blueprints/cryston-component/?id=cec61769-8f9f-437f-bf35-16d776f0b40f Cryston Farm
+  - Asia: `EFO01ouiOAiO1i60IieO`
+  - US/EU: `EFO01Iao8016u6965o08`
+- https://endfieldtools.dev/community-factories/blueprints/buckflower/?id=508cb6f9-3130-4392-9277-e501c42f26c6 Endless Plants
+  - Asia: `EFO01602IE042a79O83e`
+  - US/EU: `EFO016i1aAaUaO7AOa3e`
+- https://endfieldtools.dev/community-factories/blueprints/ferrium-component/?id=83dbfa53-8e8c-493a-934a-f00d0ca28eba skyJLV's hub day 2
+  - Asia: `EFO01ouiOAe98165IieO`
+  - US/EU: `??`
+  - Sauce: https://www.youtube.com/watch?v=5D9sMBp621k
+  - Guide: https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQy4bE29rB4hLl7CvCHs01QKaDsDi5D1f-0UMWSDIa4k4u3ofXLzEFObroC7BpfGpUJm5uqV-wArO95/pubhtml?pli=1
+  - Guide2: https://docs.google.com/spreadsheets/d/1g1bU6RzD9axhoOd0rB3z81wpgn0jzdNcgg4VSg___Oc/htmlview?usp=sharing&pru=AAABnCB--SE*bTBeldXnw48xX5oNBJ9xdw
+- https://endfieldtools.dev/community-factories/blueprints/ferrium/?id=5868288a-6c4c-41c1-a12d-8e774327bada All parts
+  - Asia: `EFO01O3E21ai07I89oe4`
+  - US/EU: `EFO01a658e3415A2oe5e`
+  
 
 ## Begin
 
