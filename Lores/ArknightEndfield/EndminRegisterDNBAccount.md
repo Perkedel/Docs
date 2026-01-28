@@ -72,8 +72,128 @@ Brane: Okay, I have told DNB just now. They will review this promptly. Thank you
 
 Lukro: (stand up)!!, Wooh! Finally.!., (leave this place)...
 
-**But then**
+**But then, onto the story**
 
 Halluo, Gocce, Koros, & Endmin arrived.
 
 Halluo: (push inside over rotary fan glass door), Here it is! Welcome to the City hall.
+
+Endministrator: It's huge.
+
+Halluo: Oh really? Well, it's not as big as the main city tho, but.., just be quick, it should suffice. So, we're going to help you register to be DNB Citizen.
+
+Endmin: Me, become DNB-ian?
+
+Halluo: Yep!.
+
+Koros: Hey dad!
+
+Lukro: Son?, Halluo, Gocce, Endmin?
+
+Halluo: Sir!. What were you doing?
+
+Lukro: Oh!.., just uh.. learnt my lesson, I guess apology to Endmin is not enough.
+
+Halluo: Oh pls., Don't blame yourself, I also sorry for complain-
+
+Lukro: No no, it's on me. Maybe... I do not want to repeat Great Consequences and... get worse than just banned by our enemies.
+
+Halluo: hmm..
+
+Lukro: You guys. Doing?
+
+Halluo: Registering Endmin to become DNB citizen.
+
+Lukro: Ah, Great luck. Welcome to DNB then.
+
+Halluo: Yeah.
+
+Lukro: 'Kay, I'll see you guys around. Great luck GBU.
+
+Halluo: You too!. .., Okay Endmin, right this way.
+
+### Support Hall
+
+Duyok: (enter scene).., Excuse me, Ms. Endministrator?
+
+Endmin: Me!.
+
+Duyok: And you folks to assist?
+
+Halluo: Yes.
+
+Duyok: Follow me.
+
+.
+
+Registration Room 3. Endmin began registration process
+
+Halluo: There's the form, Endmin. Sorry it's paper there despite you can use a web app. The system is currently under maintenance right now, so we had to use that, but don't worry, it's very easy.
+
+Endmin: Ookay?.., (take pen), (uncap), (begin filling form)....
+
+.
+
+.
+
+.
+
+Done
+
+Endmin: That's it?
+
+Duyok: Yes, that's it. The rest shall be filled on demand. Ever you register somewhere
+
+Endmin: No..
+
+Duyok: Huh. First timer?
+
+Endmin: I never filled form in my life before
+
+Duyok: I see... Interesting..., Okay, now head this way for profile picture,
+
+Endmin entered the photo booth for facial shot.
+
+Duyok: Let us begin. Firstly, please remove any facial feature obstructing accessories in order to ensure proper capture. (Eye concealing mask detected) Ms. Endmin?
+
+Endmin: Oh!, uhmm
+
+Halluo: Apologies. The mask is there to stabilize her vitals. Haven't asked the detail tho.
+
+Duyok: (turn on X-ray mode on interface) I see. Don't worry, we can color x-ray through this. Please, eyes on (point) this lens, natural pose, ready, get set, 3, 2, ooone.. (spacebar)!..
+
+cekrek!
+
+Duyok: (point far there) head Look left that red dot
+
+Endmin head turn to look left red dot
+
+Duyok: Natural pose, ready, get set, 3, 2, wwann.. (spacebar)!. Now head right that green dot
+
+Endmin head turn to look right green dot
+
+Duyok: Natural pose, ready, get set, 3, 2, wWaaann.. (spacebar)!. ... Okay, finally 3 fingers pair..
+
+Endmin prepared both hands
+
+Duyok: Palm on scanner each hand, left & right
+
+Endmin: (place hands on each scanning glass)
+
+Duyok: 3 2 1.., (spacebar)!.
+
+Processing
+
+.
+
+.
+
+Duyok: It's done. Now printing..
+
+Halluo: See, it's fast, the account is ready!
+
+.
+
+Finished
+
+Duyok: (take the card)
