@@ -12,6 +12,7 @@ That I could find, & what I had & edited some.
 
 ### ConCon's Factories
 
+- https://youtube.com/@concon This guy makes guide, now includes Endfield! check these out!
 - https://youtu.be/UeJ8VOElMj8 (US)
   - Outpost (Shelter sementara): `EFO0158OE72A96ua0eIoe`
   - Automation Core (Main Base PAC): `EFO012I45iO7a0855eIOo`
