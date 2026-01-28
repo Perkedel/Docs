@@ -196,4 +196,4 @@ Halluo: See, it's fast, the account is ready!
 
 Finished
 
-Duyok: (take the card)
+Duyok: (take the card), (examine card last time) Congratulations, Ms. Endmin...., (okay, give) Welcome to DNB.
