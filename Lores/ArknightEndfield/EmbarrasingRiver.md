@@ -75,7 +75,7 @@ Endmin: Wow. There's so many history documented here.
 
 Halluo: Indeed. Our journey just started a centure ago, but we've already adventured alot!. Yeah.
 
-Cario Procreation. Made up Heart organ. The infamous innovation brought by Duron Sediron during his internship are Areluid (now Arenod Sediron) realm.
+🫀 Cardio Procreation. Made up Heart organ. The infamous innovation brought by Duron Sediron in collaboration with Areluid that time during his internship at Areluid (now Arenod Sediron) realm.
 
 Halluo: Ah, the Classic one, Heart organ!, & look it's beating. Don't worry, that's made up heart, not rip out of someone, that one is Graphene fibre btw.
 
