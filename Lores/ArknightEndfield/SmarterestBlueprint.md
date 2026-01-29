@@ -11,13 +11,13 @@ Endministrator: Oh hey, good morning. What is that?
 
 Halluo: Oh hey, Endmin! Check this out, (launch macro)!
 
-Part of the area that produces Iron Batteries deletes and then replaced with blueprint thay produces steel batteries. The placement slightly moved about 5 blocks because this production takes larger space for those
+Part of the area that produces Iron Batteries deletes and then replaced with blueprint that produces steel batteries. The placement slightly moved about 5 blocks because this production takes larger space for those
 
 Halluo: I have Macromized the AIC! Say, you had a client that demanded material, umm.., no longer need B Buck capsule, look at that,
 
 Endmin located B Buck capsule factory set
 
-Halluo: Back here, (replace that area with A Capsule)!.
+Halluo: Back here, now wants `A`.., (replace that area with A Capsule)!.
 
 Buck Capsule B set deleted. Blueprint buck capsule A set spawned
 
