@@ -9,6 +9,14 @@ That I could find, & what I had & edited some.
 - https://www.skport.com/article?id=2014601070109902983 (US)
   - Outpost (Shelter sementara): `EFO018IeEu06eO15UI73`
   - Automation Core (Main Base PAC): `EFO01I3A5810A49a5o08`
+  
+### Kraegen's factories
+
+- https://www.skport.com/article?id=2015919276524428776 Buck Capsule & Origocrust (Asia)
+  - `EFO013072leA09a60579` Part 1.
+	- `EFO0113A58Ue61915008` Part 2.
+	- Copy paste Part 1, then put part 2 on top of those. Sub-PAC Bottom right.
+	- skport apk why tf no copy post text?!?!? Google lens succ! pls fix copy paste!
 
 ### ConCon's Factories
 
@@ -22,6 +30,8 @@ That I could find, & what I had & edited some.
 - This is from the first Kaorfa (Asia)
   - Outpost (Shelter sementara): `a`
   - Automation Core (Main Base PAC):  `a`
+	- Must Battery Farm: `EFO018IeE2o6u61IUI73` Farm Blue Batteries
+	- Powerbanker: `EFO01521e743E3uIeIoe` Receive batteries to Thermobanks
 
 ### Endfield Tools
 
@@ -51,6 +61,12 @@ Find more Blueprints!!!
 - https://endfieldtools.dev/community-factories/blueprints/ferrium/?id=5868288a-6c4c-41c1-a12d-8e774327bada All parts
   - Asia: `EFO01O3E21ai07I89oe4`
   - US/EU: `EFO01a658e3415A2oe5e`
+- https://endfieldtools.dev/community-factories/blueprints/sc-valley-battery/?id=900a7281-598e-4c38-bb44-3cf47ebd4889 Battery farm compact
+  - Asia: `EFO01Ue3621893O27Oa8`
+	- US/EU: `EFO01A5iee60OuEI9ieO`
+- https://endfieldtools.dev/community-factories/blueprints/buck-capsule-a/?id=cfb4eaa4-101d-49a0-8c94-ae6a086a013b Buck Capsule A
+  - Asia: `EFO01a658488EaA7oe5e`
+	- US/EU: `EFO019A61iUoAieAi5uI2`
   
 
 ## Begin
