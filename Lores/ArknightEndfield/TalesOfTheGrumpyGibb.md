@@ -4,6 +4,14 @@ Gibb family is notoriously very grumpy. So grumpy they never had true friend.
 
 Recommended to turn this to MV, we need creative teams about this!
 
+## Pre
+
+Lukro Gibb: NO.., This is crazy!!
+
+Duyok: Sir. .., I suggest that you really meet her in person. As a High Order Staff (a Veteran / long play leveled role) at DNB, one shall bravely take on such risky assignment, even they'll definitely be killed.
+
+Lukro: (gave up).... I don't want mistake anymore.
+
 ## Legacy
 
 Once upon a time, live Lukro Gibb. He was a police at a small town, Mudik. He had a friend, Julto. They were together.

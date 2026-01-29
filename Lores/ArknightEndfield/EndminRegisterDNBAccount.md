@@ -196,4 +196,26 @@ Halluo: See, it's fast, the account is ready!
 
 Finished
 
-Duyok: (take the card), (examine card last time) Congratulations, Ms. Endmin...., (okay, give) Welcome to DNB.
+Duyok: (take the card), (examine card last time) Congratulations, Ms. Endmin...., (okay, give) Welcome, to DNB.
+
+Endmin: (Take).., (examine)...
+
+a freshly minted DNB ID Card of Endministrator. The card has intricate and meticulous anti forgery shinnines. The card lies your profile picture you just took, Name, date of birth (which Endmin filled January 1st 2100), Gender, and Signature with Right thumbprint over it. The rest of the basic data is inside the chip in it. The data is also a pointer to a full data in DNB personal data server somewhere.
+
+Duyok: Keep this very well. This card bears reference to many stuffs yoi can do for DNB, including Wallet Ledgerings, Passports, Signings and Registrations and More.
+
+Endmin: So, you can do anything if you have this?
+
+Duyok: Yes. It's nothing tho, that's your account key. nothing much.
+
+Anyone can only envy
+
+Endmin stash this card in digital backpack.
+
+Halluo: Okay, what's next?
+
+## end
+
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA

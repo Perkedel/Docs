@@ -1,4 +1,4 @@
-# Penguinistrator
+# Penguinistrator 🐧
 
 You wonder why Endmin, especially the `B` (female) one is called Penguin some time?
 
