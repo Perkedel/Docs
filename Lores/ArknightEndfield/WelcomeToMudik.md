@@ -26,7 +26,7 @@ Halluo: Praise the Lord! We made it, can we start now?
 
 Dialogue option: `Yes`
 
-JOELwindows7 (Endmin): Let's go.
+Endministrator: Let's go.
 
 Halluo: Okay, good! Follow me, to the Science Center, my this bus here.
 
@@ -127,7 +127,7 @@ Halluo: YOu guys did not sleep?!?, Oh mai GOD!!! Are you kidding me! I mean... I
 
 The crew contemplates the story. Then the Endmin recall about the first Kaorfa, because shockingly named as Endmin is.
 
-Joel Endmin: One question. Who is.. that Kaorfa you mentioned? `Joel`??
+Endmin: One question. Who is.. that Kaorfa you mentioned? `Joel`??
 
 Halluo: Ah, good question. Yea, I know that surprises you. The first father of Perkedel was.. Joel. I mean, lots of same name happens all the time. (remembered this Endmin is labeled `JOELwindows7`) But uh.. haha... Oh man..
 
@@ -135,17 +135,17 @@ Joel Endmin: Elaborate.
 
 Halluo: I've just read one of the DNB Archive couple days ago before we leave to here. Lemme tell you a short. Once upon a time, The franchise that holds your world, was going on to be. One day, Back to where Sediron fighting a war, there's a subset amount of contributors doing side quest. It's apprently a contigency protocol, coz of course, everything needs one. Yeas contigency, If there's a worst case scenario, Joel had to be murdered by the criminals, he wants his name survived, so maybe to fetch replacement or something idk. So there it goes. Lots of the stuffs going on. It was.. Gacha Game, if not wrong.. serveral games. Worlds to try. One day, There's another franchise to try for. At that night, the contributor that held the protocol for it this time, ... shell-shocked. His whole family was murdered at last, by the criminals which thankfully caught and prosecuted. Mentally if you wanna know, uh.. no privy.., So, he lost concentration. As the result, **the guy accidentally chose wrong type**. Embarrasing right? JOELwindows7 but female?? Well, no worries, the franchise allows you to transform back to correct type. but.. it looks like... after all this centuries.. 3.., you are you. Hmm.. why is that? I still questioning, why greatest grandpa of ours, decided to keep it anyway... huh.
 
-Joel Endmin: (contemplate about self) Hmmm...
+Endmin: (contemplate about self) Hmmm...
 
 Halluo: Well, don't stress about it. Perhaps... because his decision stands, it stands. And as always, keep this tightly in mind, that **you are no accident**. In fact nobody shall be called accident. If grandpa Joel decided to keep it this way, **that mean he has reason to**. Like... Other franchises would permanently locked you out once you picked, even all of them on one! But why, ... on this one that lets you, ... he left it? Right? Yeah. So, whatever happen, (pat Endmin)!..
 
-Joel Endmin: (blush) Oh?
+Endmin: (blush) Oh?
 
 Halluo: Live well. Take benefit as much as you can, what God has given you. Okay?
 
 .
 
-Joel Endmin: (nod)!.
+Endmin: (nod)!.
 
 Halluo: Thank you, (release pat)..., (turn around to init look forward), (deploy collapsing front left seat), (sitt)!. (Enjoy view of the mountains & ups downs trip naik puncak)..
 

@@ -14,11 +14,11 @@ Gocce: Wow, didn't realize time has passed, (rescan time)....., It's been a year
 
 Halluo: There's nothing else we can do. If you want, I want to invite you to my home in Arenod Sediron.
 
-JOELwindows7 (Endministrator): Your home?
+Endministrator: Your home?
 
 Halluo: Oh yes. We came here from far far away. Dimensions away. You guys have to check it out. I believe... from your interest & doings, You're gonna be interested with the science we brought over there.
 
-Joel Endmin: Oh really? I am curious!.
+Endmin: Oh really? I am curious!.
 
 Halluo: (check calendar) Sure, (scan time left)..., (confirmed) We'll be home by the next 3 weeks. My ship can fit (look)...
 

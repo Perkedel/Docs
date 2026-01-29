@@ -8,7 +8,7 @@ Unexpectedly, things gone wrong when suddenly her power is gone here
 
 ## Pre
 
-Yorin & Endmin is still at the basement in West Cartesian Bikini Sesuatu house.
+Yorin & Endmin is still at the basement in West Cartesian Bikin Sesuatu house.
 
 Halluo: 10 hours!.., Wow, they seems had fun, but we gotta go home., (call Yorin)....
 

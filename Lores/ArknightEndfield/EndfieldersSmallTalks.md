@@ -28,6 +28,24 @@ Endmin: Oh. Does that statement should make me calm?
 
 Koros: I think so. Coz we clicked agree and accept the risk to achieve big things, afterall.
 
+## Topic: Start from Scratch
+
+Assign Koros & Perlica!
+
+Koros Gibb: Psst. Small talk. Heard this whole Talos-II idea is basically started civilization a new. Beside of Landbreakers, ever you waged a... unecessary (concert to more polite wording) **loatheful differences** (i.e. racism to each other)?.. just asking.
+
+Perlica: So far... we haven't seen any discriminations. Why?
+
+Koros: Oh nothing. Our Arenod Sediron idea was also, start a new. Before that world, OUr.., Terra is.. much like yours. And.. before Sedirons came, Areluids are sceptics. Loatheful Differences, coz we worried too much.
+
+Perlica: Yeah.
+
+Koros: And so, since Duron defeated Balthezer.. That's the anew began. We purged our differences, mixed races and stuffs, coz Duron wished we.. spread more, friends more, partners more. yea.
+
+Perlica: You have an interesting story of yours.
+
+Koros: Ah thancc, it's just.. interesting life.
+
 ## End
 
 by JOELwindows7  
