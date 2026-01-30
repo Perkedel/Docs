@@ -24,6 +24,43 @@ That I could find, & what I had & edited some.
 - https://youtu.be/UeJ8VOElMj8 (US)
   - Outpost (Shelter sementara): `EFO0158OE72A96ua0eIoe`
   - Automation Core (Main Base PAC): `EFO012I45iO7a0855eIOo`
+	
+### Mockermay's Factories
+
+- https://youtu.be/7rJ9frK3qgs Ultimate Efficiency set
+  - Main (Asia)
+	  - PP Batts v2: `EFO01521eAAEI7u6EeIoe`
+		- Steel Bottles v2: `EFO012O9A7753i841eIOo`
+		- Capsules v2: `EFO012O9A7753i841eIOo`
+		- Explosives: `EFO019aEu8817IeiE5uI2`
+		- Shredders v2: `EFO01iUIa6674026o72U4`
+		- Ground Powders v2: `EFO01a658II9i3AIUoe5e`
+	- Sub PAC Essentials (Asia)
+	  - PP Batts v2: `EFO01521eAAEI7u6EeIoe`
+		- Steel Bottles v2: `EFO012O9A7753i841eIOo`
+		- Purple Gears: `EFO01194ouu0A8U7934O7`
+	- Max Efficiency (Asia)
+		- Capsules Infra: `EFO01602I33aUo7oeO83e`
+		- Sandleaves 4x: `EFO019aEu8817IeU05uI2`
+		- Sandleaves 7x: `EFO01Ue3600iE1O5a7Oa8`
+		- Capsules Citrome: `forgor`
+	- **SEPARATOR**
+  - Main (US/EU)
+	  - PP Batts v2: `EFO014o5IUOee437iE71A`
+		- Steel Bottles v2: `EFO01O3E8i2UUOI3I9oe4`
+		- Capsules v2: `EFO01u1I6Eo55u0a9AoOU`
+		- Explosives: `EFO01U4A20i11UOE97Oa8`
+		- Shredders v2: `EFO014o5IUOee4375E71A`
+		- Ground Powders v2: `EFO01Iao128OOI97u5o08`
+	- Sub PAC Essentials (US/EU)
+	  - PP Batts v2: `EFO014o5IUOee437iE71A`
+		- Steel Bottles v2: `EFO01O3E8i2UUOI3I9oe4`
+		- Purple Gears: `EFO011eaiu0881U2O34O7`
+	- Max Efficiency (Asia)
+		- Capsules Infra: `EFO012I4u75ii285EeIOo`
+		- Sandleaves 4x: `EFO0158OoAE775uaieIoe`
+		- Sandleaves 7x: `EFO010U97o6uu0i18E179`
+		- Capsules Citrome: `EFO01iOe56700i2e872U4`
 
 ### Original Joel's Factories
 
