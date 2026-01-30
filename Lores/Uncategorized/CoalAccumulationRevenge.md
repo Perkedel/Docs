@@ -6,7 +6,7 @@ Family guy moment simpson
 
 A is aura similar to Hugo ZZZ
 
-A: Punishing by give kids coal gave every kids worst impression of Santa. be grateful he is not in this universe, and DNB outlawed it since., or else it'll be like a play I've attended yesterday.
+A: Punishing by give kids coal gave every kids worst impression of Santa. be grateful he is not like that in this universe, and DNB outlawed such despicable act since., or else it'll be like a play I've attended yesterday.
 
 ## Begin
 
