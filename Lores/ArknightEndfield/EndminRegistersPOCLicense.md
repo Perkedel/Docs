@@ -128,3 +128,6 @@ Puuk: (shock awake) OH SHIT!!, noo!, no no no no-
 
 Vopez: (tidying up) Don't panic, we also already highlighted important stuffs to you. Exam content only asks your understanding based on those **thicc** asterisked (`**bold**`) lines, that's it. And for Knowledge, 5 Multichoice, 5 Fillblanks. And the 1 Essay is the case. Fighting (semangat)!, (leave scene)..
 
+<!-- Endmin & TikTokers done. But the eval suddenly has to lag because of 500 assessor in Mudik, left Vopez. others fight unexpected Harrassers on a land, collective fight. Endmin file is done, but rest got burnt after Harrasser attacked. Luckily both Endmin and TikTokers have already scanned. Vopez apoogize to Endmin for this issue. The assessor and rest of the collective won vs. the giant Harrasser, Vopez order assessor to go back home here this office. But they won't rest, until the rest of the TikTokers got assessed. Pls don't force you're tired, thank you, but we cannot upset the clients! It shall done. -->
+
+<!-- How the assessment. Each paper are scanned. Computer will eval MultiChoice & Fillblanks. MultiChoice use simple crosscheck because only 1 obvious pre-answer. Fillblank uses technologies used at You Don't Know Jack's Gibberish Question. Essay is only bio-eval. -->
