@@ -4,6 +4,11 @@ That I could find, & what I had & edited some.
 
 ## Here it goes
 
+> [!CAUTION]
+> Code works:
+> - Per region accordingly. Code is only a reference to a file exist on each different server region: `Asia` or `US/EU`.
+> - Only in original Arknights: Endfield. Not Reservered nor New Paradigm Remake. For New Paradigm, JSON file would be provided here somewhere.
+
 ### painic's Factories
 
 - https://www.skport.com/article?id=2014601070109902983 (US)
@@ -71,7 +76,7 @@ That I could find, & what I had & edited some.
 
 ### KyoStinV's Factories
 
-- https://youtu.be/lPuI134JMJo Max Profit Valley IV
+- https://youtu.be/lPuI134JMJo Max Profit **Valley IV**
   - Asia
     - `EFO01u8U4o6u2307AoOU` Main Left
     - `EFO017i89AE70e52O2Ai` Main Right
@@ -84,6 +89,30 @@ That I could find, & what I had & edited some.
     - `EFO0172UAa148o5oO2Ai` Main Bottom
     - `EFO014o5OU786933E51A` Sub-PAC Sub-AIC
     - `EFO014o5OU786933E51A` Extras
+- https://youtu.be/JEc3xgDUOX8 Max Profit **Wuling**
+  - Available as [Google Docs here](https://docs.google.com/document/u/1/d/e/2PACX-1vQpqEEPlMSkm5yNHyZxP8Q0g-y41meZD9es5wD9AtRmBWtgLa7J2YAd0SieUy2805VHlXFD14Thk1np/pub)
+  - Asia
+    - `EFO017i89AE70e5u2O8Ai` Main Left
+    - `EFO01u8U4o6u23038AoOU` Main Right
+    - `EFO017i89AE70e587O0Ai` Sub-PAC Sub-AIC
+    - `EFO01u8U4o6u2305aAEOU` Top Opt
+    - `EFO01Ue36i2U97OO871a8` MinMax Batts X (Power usage till ⚡ 1995)
+    - `EFO017i89AE70e53UO0Ai` MinMax Batts 0 (Power usage till ⚡ 2095)
+    - `EFO017i89AE70e58AO2Ai` MinMax Batts 1 (Power usage till ⚡ 2390)
+    - `EFO0101O36708ai29E179` MinMax Batts 2 (Power usage till ⚡ 2685)
+    - `EFO017i89AE70e589O2Ai` MinMax Batts 3 (Power usage till ⚡ 2985)
+    - `EFO01a6589eao1AU5ou5e` Temp Xiranite
+  - US/EU
+    - `EFO01A5ie90Ou3Eeu9EeO` Main Left
+    - `EFO01A5ie90Ou3Ee29ieO` Main Right
+    - `EFO01U4Ai0a538OE973a8` Sub-PAC Sub-AIC
+    - `EFO011ea0u3742Uo134O7` Top Opt
+    - `EFO01iOe769EIu2o97aU4` MinMax Batts X (Power usage till ⚡ 1995)
+    - `EFO014o5OU78693U0E81A` MinMax Batts 0 (Power usage till ⚡ 2095)
+    - `EFO011ea0u3742U2O3oO7` MinMax Batts 1 (Power usage till ⚡ 2390)
+    - `EFO0172UAa148o552O2Ai` MinMax Batts 2 (Power usage till ⚡ 2685)
+    - `EFO014o5OU786937AE81A` MinMax Batts 3 (Power usage till ⚡ 2985)
+    - `EFO01A5ie90Ou3Eee91eO` Temp Xiranite
 
 ### Minisets
 

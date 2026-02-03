@@ -14,7 +14,11 @@ Halluo: To apply this, (technomagically unshirt)-(fingersnap)!..,
 
 Endmin: (aroused with big pec) Ah!
 
-Halluo: Oops, sorry, focus, (paste the stethoscope unit to center chest)!-like this. The belt will automatically appears holding it in. (oh no, Endmin is female, let's not let her show her boobs today) Oh.. you don't have to open your shirt. Just plop it in like I did. It can went through.
+Halluo: Oops, sorry, focus, (paste the stethoscope unit to center chest)!-like this. The belt will automatically appears holding it in. (oh no, Endmin is female, let's not let her show her boobs today) 
+
+Endmin: (wait, open my sweater?!; Blush)??!?!...
+
+Halluo: Oh.. you don't have to open your shirt. Just plop it in like I did. It can went through.
 
 Endmin: Like... (replicate action plop it in)!, this?
 
@@ -117,3 +121,7 @@ All Operators & Endmin wore CardioChips, and have their power works outside Hype
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Bonus
+
+Add Tony Stark Learn lesson. Orientationing now only provides 1 ROM chip, the `Benchmark` chip (Tolerance 0). This contain a special software to probe how strong is your heart, then suggest the best optimized chips you can use based on your heart organ capabilities.

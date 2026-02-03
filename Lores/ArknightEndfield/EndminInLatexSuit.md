@@ -18,7 +18,7 @@ Endmin appears to Halluo in bespoke Latex Suit. That thing put Halluo to assunde
 
 Halluo: (losing focus).... (realized) HEAHEHA!... Sorry. Wow. Hymatt's Bespoke, n.. nice.
 
-Endmin: Made of titanium. I've heard it's a family long running business.
+Endmin: Made of synthesized tree rubber with titanium grid meshing. I've heard it's a family long running business.
 
 Halluo: Yeah, from Dr. Hymatt. He got generations already. eh..
 
@@ -30,7 +30,7 @@ Endmin: Ah!.
 
 Halluo: Yeah, those rooms. Enclosed private gaming rooms, for just 12 Pts. a minute. Would you like to try?
 
-Endmin: Nah, maybe later. ... I've also have ordered for all Operators. and yours too.
+Endmin: Nah, maybe later. ... I've also have ordered (the suits) for all Operators. and yours too.
 
 Halluo: Huh?? What for?
 
