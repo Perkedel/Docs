@@ -193,4 +193,11 @@ CC4.0-BY-SA
 
 ## Bonus
 
-To make ......, just mix Mineral Water & Stable Carbon.
+To make ......, just mix Mineral Water & Stable Carbon. 
+
+Because Mudik City is a mountain city like Chongqing, there's lots of minerals going on around us. Water steams, clouds, and then rain back to these mountains. Then it seeps through the stonecracks we can harvest. There you have it, Mineral Water.  
+It is also analyzed that the minerals that going on contains magics, much like / similar to Originium on Hypergryph or perhaps that rock underneath some tree in James Cameron's Avatar 1. The magic is natural and has no side effect.
+
+Dang. Doctor has been dead. He could've learn from here how to improve the result and minimize the side effect could've but oh well.
+
+Hey, at least Arenod Sediron decided not to dig down those rocks. One way is to just pick just enough amount of samples about metres appart, learn them, and then synthesize the material, until it replicates the way mineralization of these mountains work.
