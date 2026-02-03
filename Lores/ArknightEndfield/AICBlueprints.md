@@ -122,6 +122,7 @@ That I could find, & what I had & edited some.
     - `EFO014o5OU786933E51A` Extras
 - https://youtu.be/JEc3xgDUOX8 Max Profit **Wuling**
   - Available as [Google Docs here](https://docs.google.com/document/u/1/d/e/2PACX-1vQpqEEPlMSkm5yNHyZxP8Q0g-y41meZD9es5wD9AtRmBWtgLa7J2YAd0SieUy2805VHlXFD14Thk1np/pub)
+	- [Bugged codes for reference](https://youtu.be/CVvZQR7c3ek)
   - Asia
     - `EFO017i89AE70e5u2O8Ai` Main Left
     - `EFO01u8U4o6u23038AoOU` Main Right
