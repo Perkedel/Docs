@@ -19,9 +19,16 @@ Enjoy Sex & Other stuffs with only common D6 Die you had lying around, and easil
 | ![5](/media/Kenney.nl/BoardgameIcons/dice_5.png)    | Crotch / Selangkang  | Succ / Sedot    | Restock / Belanja                           |
 | ![6](/media/Kenney.nl/BoardgameIcons/dice_6.png)    | Neck / Leher         | Cum / Crot      | Showers & Wash Clothes / Mandi & Cuci Baju  |
 
+## Special Instructions
+
+### Sex dice 18+
+
+- Recommended to have 2 D6 die, **one of which had different color or theme** (or mark just one of them with a marker to signify which it is for). One is for `Body Part`, and the other `Action`.
+- Typical Moulded D6 Dice is available both on SFW & NSFW Supermarket on any X0p1r4t3 Malls. Dedicated Sex Glyphed D6 set is only available on NSFW ones. STL / Blend / GLB to be provided, but we had [common D6 for now](https://github.com/Perkedel/After-Church/tree/main/RAW%20files\Blender\DiceAttempt.blend).
+
 ## Sauce
 
-- https://github.com/Perkedel/After-Church/tree/main/RAW%20file/Inkscape/CVRDiceGlow/anoMemeGlo.svg Vector sauce
+- https://github.com/Perkedel/After-Church/tree/main/RAW%20files/Inkscape/CVRDiceGlow/anoMemeGlo.svg Vector sauce
 - https://github.com/Perkedel/CVR_Stuffings/blob/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/SexDiceTutorial.png Sex Dice original conversion tutorial
 - https://kenney.nl/assets/boardgame-pack Dice image
 - https://kenney.nl/assets/board-game-icons Or this too
