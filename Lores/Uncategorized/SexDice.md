@@ -8,12 +8,12 @@ Enjoy Sex and other stuffs without having to buy dedicated die that can be banne
 
 | Dice                                                | (SEX) Body Part      | (SEX) Action    | Housekeeping                                |
 |-----------------------------------------------------|----------------------|-----------------|---------------------------------------------|
-| ![1](/media/kenney.nl/BoardgameIcons/dice_1.png)    | Mouth / Mulut        | Touch / Sentuh  | Relacc / Santuy                             |
-| ![2](/media/kenney.nl/BoardgameIcons/dice_2.png)    | Chest / Dada         | Lick / Jilat    | Sweep, Vacuum, 'n Mop / Sapu, Vakum, & Pel  |
-| ![3](/media/kenney.nl/BoardgameIcons/dice_3.png)    | Belly / Perut        | Rub / Gosok     | Dishwash / Cuci Piring                      |
-| ![4](/media/kenney.nl/BoardgameIcons/dice_4.png)    | Thigh / Paha         | Blow / Hisap    | Garbage Collection / Bersihkan Sampah       |
-| ![5](/media/kenney.nl/BoardgameIcons/dice_5.png)    | Crotch / Selangkang  | Succ / Sedot    | Restock / Belanja                           |
-| ![6](/media/kenney.nl/BoardgameIcons/dice_6.png)    | Neck / Leher         | Cum / Crot      | Showers & Wash Clothes / Mandi & Cuci Baju  |
+| ![1](/media/Kenney.nl/BoardgameIcons/dice_1.png)    | Mouth / Mulut        | Touch / Sentuh  | Relacc / Santuy                             |
+| ![2](/media/Kenney.nl/BoardgameIcons/dice_2.png)    | Chest / Dada         | Lick / Jilat    | Sweep, Vacuum, 'n Mop / Sapu, Vakum, & Pel  |
+| ![3](/media/Kenney.nl/BoardgameIcons/dice_3.png)    | Belly / Perut        | Rub / Gosok     | Dishwash / Cuci Piring                      |
+| ![4](/media/Kenney.nl/BoardgameIcons/dice_4.png)    | Thigh / Paha         | Blow / Hisap    | Garbage Collection / Bersihkan Sampah       |
+| ![5](/media/Kenney.nl/BoardgameIcons/dice_5.png)    | Crotch / Selangkang  | Succ / Sedot    | Restock / Belanja                           |
+| ![6](/media/Kenney.nl/BoardgameIcons/dice_6.png)    | Neck / Leher         | Cum / Crot      | Showers & Wash Clothes / Mandi & Cuci Baju  |
 
 ## Sauce
 
