@@ -2,7 +2,9 @@
 
 New X0p1r4t3 Eenvrnsmnt's dice conversion table (usual snake-eye 2 symbols)!
 
-Enjoy Sex and other stuffs without having to buy dedicated die that can be banned from many realms suddenly (or worse subjects you to trouble even just for privately owning one, yikes!).
+<!--Enjoy Sex and other stuffs without having to buy dedicated die that can be banned from many realms suddenly (or worse subjects you to trouble even just for privately owning one, yikes!).-->
+
+Enjoy Sex & Other stuffs with only common D6 Die you had lying around, and easily purchasable or manufactured anytime!
 
 ## Here we go
 
