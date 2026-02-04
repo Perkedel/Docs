@@ -6,8 +6,27 @@ That I could find, & what I had & edited some.
 
 > [!CAUTION]
 > Code works:
-> - Per region accordingly. Code is only a reference to a file exist on each different server region: `Asia` or `US/EU`.
+> - Per region accordingly. Code is only a reference to a file exist on each different server region: `Asia` or `NA/EU`.
 > - Only in original Arknights: Endfield. Not Reservered nor New Paradigm Remake. For New Paradigm, JSON file would be provided here somewhere.
+
+### Blemichi's Factories
+
+- https://youtu.be/9Q_SHrpy1aw Easy & Fast **Valley IV** (Lembah IV) 4 Minutes
+  - [Copy Google Docs](https://youtu.be/9Q_SHrpy1aw) (No Copy Paste?! View only is one, but no copy paste? wtf, Google?!)
+  - Asia
+    - `EFO018IeE8UUu6125UI73` Valley Pass / Terusan Lembah
+    - `EFO01u8U4uiioa0a5AoOU` Originium Science Park / Taman Sains Originium
+    - `EFO01a658aEE9UA9Ioe5e` Power Plateau / Dataran Tinggi Daya
+    - **For main bellow**, see the video for placement
+    - ![Blemichi's Main AIC Blueprint Placement](/media/Screenshots\Blemichi_AKE_AIC_MainPlacement.png)
+    - `EFO01521e500E3uaUeIoe` Main Top Right 1
+    - `EFO018IeE8UUu612oUI73` Main Top Right 2
+    - `EFO0101O30226Ai1iE179` Main Top Left 1
+    - `EFO013o723AAI1auA0579` Main Top Left 2
+    - `EFO01ouiOo773963iIieO` Main Top Left 3
+    - `EFO01E50UE664Io573uIa` Main Bottom Right
+    - `EFO01A7u1AooeOEIu9ieO` Main Bottom Left
+  - NA/EU
 
 ### painic's Factories
 
@@ -25,7 +44,7 @@ That I could find, & what I had & edited some.
 
 ### ConCon's Factories
 
-- https://youtube.com/@concon This guy makes guide, now includes Endfield! check these out! (US/EU, check pinned comments too for Asia)
+- https://youtube.com/@concon This guy makes guide, now includes Endfield! check these out! (NA/EU, check pinned comments too for Asia)
 - https://youtu.be/UeJ8VOElMj8 (US)
   - Outpost (Shelter sementara): `EFO0158OE72A96ua0eIoe`
   - Automation Core (Main Base PAC): `EFO012I45iO7a0855eIOo`
@@ -51,15 +70,15 @@ That I could find, & what I had & edited some.
   		- Sandleaves 7x: `EFO01Ue3600iE1O5a7Oa8`
   		- Capsules Citrome: `forgor`
 	- **SEPARATOR**
-	- US/EU
-    - Main (US/EU)
+	- NA/EU
+    - Main (NA/EU)
   	  - PP Batts v2: `EFO014o5IUOee437iE71A`
   		- Steel Bottles v2: `EFO01O3E8i2UUOI3I9oe4`
   		- Capsules v2: `EFO01u1I6Eo55u0a9AoOU`
   		- Explosives: `EFO01U4A20i11UOE97Oa8`
   		- Shredders v2: `EFO014o5IUOee4375E71A`
   		- Ground Powders v2: `EFO01Iao128OOI97u5o08`
-  	- Sub PAC Essentials (US/EU)
+  	- Sub PAC Essentials (NA/EU)
   	  - PP Batts v2: `EFO014o5IUOee437iE71A`
   		- Steel Bottles v2: `EFO01O3E8i2UUOI3I9oe4`
   		- Purple Gears: `EFO011eaiu0881U2O34O7`
@@ -84,7 +103,7 @@ That I could find, & what I had & edited some.
 		- `EFO01602I33aUo7IiO83e` Xiranite water / bottle
 		- `EFO019aEu8817IeU85uI2` Gold gear / component
 		- `EFO01194ouu0A8U6134O7` Sandleaves 10x
-  - US/EU
+  - NA/EU
 	  - `EFO014o5IUOee43U6E71A` Wuling Batt-L
 		- `EFO0189305u228128UI73` Wuling Batt-R
 		- **Semi-separator**
@@ -114,7 +133,7 @@ That I could find, & what I had & edited some.
     - `EFO01Ue36i2U97O17Aa8` Main Bottom
     - `EFO01521eEo5i4u5e7oe` Sub-PAC Sub-AIC
     - `EFO012O9A5u2UE850e6Oo` Extras
-  - US/EU
+  - NA/EU
     - `EFO01893u546ei1OU873` Main Left
     - `EFO011ea0u3742U83oO7` Main Right
     - `EFO0172UAa148o5oO2Ai` Main Bottom
@@ -134,7 +153,7 @@ That I could find, & what I had & edited some.
     - `EFO0101O36708ai29E179` MinMax Batts 2 (Power usage till ⚡ 2685)
     - `EFO017i89AE70e589O2Ai` MinMax Batts 3 (Power usage till ⚡ 2985)
     - `EFO01a6589eao1AU5ou5e` Temp Xiranite
-  - US/EU
+  - NA/EU
     - `EFO01A5ie90Ou3Eeu9EeO` Main Left
     - `EFO01A5ie90Ou3Ee29ieO` Main Right
     - `EFO01U4Ai0a538OE973a8` Sub-PAC Sub-AIC
@@ -176,28 +195,28 @@ Find more Blueprints!!!
 
 - https://endfieldtools.dev/community-factories/blueprints/origocrust/?id=1bdda232-2b8f-44df-95fc-c02c2eb1a2e9 Parts Bottles
   - Asia: `EFO01602IoiEIi72O83e`
-  - US/EU: `EFO01O3E2i3Uo2IA9oe4`
+  - NA/EU: `EFO01O3E2i3Uo2IA9oe4`
 - https://endfieldtools.dev/community-factories/blueprints/cryston-component/?id=cec61769-8f9f-437f-bf35-16d776f0b40f Cryston Farm
   - Asia: `EFO01ouiOAiO1i60IieO`
-  - US/EU: `EFO01Iao8016u6965o08`
+  - NA/EU: `EFO01Iao8016u6965o08`
 - https://endfieldtools.dev/community-factories/blueprints/buckflower/?id=508cb6f9-3130-4392-9277-e501c42f26c6 Endless Plants
   - Asia: `EFO01602IE042a79O83e`
-  - US/EU: `EFO016i1aAaUaO7AOa3e`
+  - NA/EU: `EFO016i1aAaUaO7AOa3e`
 - https://endfieldtools.dev/community-factories/blueprints/ferrium-component/?id=83dbfa53-8e8c-493a-934a-f00d0ca28eba skyJLV's hub day 2
   - Asia: `EFO01ouiOAe98165IieO`
-  - US/EU: `??`
+  - NA/EU: `??`
   - Sauce: https://www.youtube.com/watch?v=5D9sMBp621k
   - Guide: https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQy4bE29rB4hLl7CvCHs01QKaDsDi5D1f-0UMWSDIa4k4u3ofXLzEFObroC7BpfGpUJm5uqV-wArO95/pubhtml?pli=1
   - Guide2: https://docs.google.com/spreadsheets/d/1g1bU6RzD9axhoOd0rB3z81wpgn0jzdNcgg4VSg___Oc/htmlview?usp=sharing&pru=AAABnCB--SE*bTBeldXnw48xX5oNBJ9xdw
 - https://endfieldtools.dev/community-factories/blueprints/ferrium/?id=5868288a-6c4c-41c1-a12d-8e774327bada All parts
   - Asia: `EFO01O3E21ai07I89oe4`
-  - US/EU: `EFO01a658e3415A2oe5e`
+  - NA/EU: `EFO01a658e3415A2oe5e`
 - https://endfieldtools.dev/community-factories/blueprints/sc-valley-battery/?id=900a7281-598e-4c38-bb44-3cf47ebd4889 Battery farm compact
   - Asia: `EFO01Ue3621893O27Oa8`
-	- US/EU: `EFO01A5iee60OuEI9ieO`
+	- NA/EU: `EFO01A5iee60OuEI9ieO`
 - https://endfieldtools.dev/community-factories/blueprints/buck-capsule-a/?id=cfb4eaa4-101d-49a0-8c94-ae6a086a013b Buck Capsule A
   - Asia: `EFO01a658488EaA7oe5e`
-	- US/EU: `EFO019A61iUoAieAi5uI2`
+	- NA/EU: `EFO019A61iUoAieAi5uI2`
   
 
 ## Begin
@@ -312,7 +331,7 @@ Lukro: Alright. So you're here because you have a problem regarding the file for
 
 Halluo: Correct, sir. Here, presented by Gocce are two sets of the reference address code.
 
-Box containing blueprint code region Asia, & another region US/EU.
+Box containing blueprint code region Asia, & another region NA/EU.
 
 Halluo: One is type A, and other is B. Same code should be, but because of how her factory system internetwork with each other universes, these two boxes are not compatible, that's why we sorted it. Ours, works with the type A.
 
