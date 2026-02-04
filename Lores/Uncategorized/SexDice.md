@@ -32,7 +32,7 @@ Enjoy Sex & Other stuffs with only common D6 Die you had lying around, and easil
 - https://github.com/Perkedel/CVR_Stuffings/blob/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/SexDiceTutorial.png Sex Dice original conversion tutorial
 - https://kenney.nl/assets/boardgame-pack Dice image
 - https://kenney.nl/assets/board-game-icons Or this too
-- https://kenney.itch.io/kenney-game-assets **PAID** You know what, just get all of them, pre-service not costs that much relative to the scope of the everything he got.
+- https://kenney.itch.io/kenney-game-assets **PAID** You know what, just get all of them, pre-service does not cost that much relative to the scope of the everything he got (from day 1 to today, **free updates** afterward, don't lose your itch account!).
 
 ## End
 
