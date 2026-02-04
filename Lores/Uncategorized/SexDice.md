@@ -6,6 +6,8 @@ New X0p1r4t3 Eenvrnsmnt's dice conversion table (usual snake-eye 2 symbols)!
 
 Enjoy Sex & Other stuffs with only common D6 Die you had lying around, and easily purchasable or manufactured anytime!
 
+<!-- aaaaaaaaaaaaaaa -->
+
 ## Here we go
 
 | Dice                                                | (SEX) Body Part      | (SEX) Action    | Housekeeping                                |
