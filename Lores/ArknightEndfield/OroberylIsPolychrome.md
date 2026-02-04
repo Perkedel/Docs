@@ -10,13 +10,13 @@ Here is the Equivalency table against other video games (f2p & others) you might
 | Recruitment Ticket Special | Vent Post (with different type for which) | Encrypted Master Tape | ??? (Operators), Aresenal Ticket (Weapons) | Recuitment Ticket (per recruit channel) | Recruitment Letter (with different type for which) | Green Recruitment Tickets |
 | Recruitment Ticket Regular | - (same) | Encrypted Tape | ??? | Recuitment Tickets (such as Archive tickets, Regular Tickets) | - (same) | Blue Recruitment Tickets |
 | Recruitment Ingredients | Truth Paper | - | - | - | Secret Clue | - |
-| Battle Pass | ??? | New Eridu City Fund | Protocol Pass | Shinon's Battle Pass | Bard's Tome | Grants |
+| Battle Pass | Beggars Monthly Gifts | New Eridu City Fund | Protocol Pass | Shinon's Battle Pass | Bard's Tome | Grants |
 | Characters | Disciples | Agents | Operators | Students | Thoughts (?) | Trekker |
-| Energy | Mana | Battery | ??? | AP Points | - | Vigor |
-| Character Rank (Best to Worst) | *Null* | `S`, `A` | `6 ⭐`, `5 ⭐`, `4 ⭐` | `3 ⭐` (Pink, best), `2 ⭐` (Gold), `1 ⭐` (Blue, worst, !) | Same as MultiTalent | Purple (best), Orange Gold |
-| Weapon Rank (Best to Worst) | *Null* | `S` (aligns to S agents), `A` (usually aligns to A agents), `B` | `6 ⭐`, `5 ⭐`, `4 ⭐` | Full star your Students, then you can equip them one. Upgrade by get more duplicates & Scrimage parts | Same as MultiTalent | - |
+| Energy | - (instead Mana the booster) | Battery | Sanity | AP Points | - (instead Commission Manual the booster) | Vigor |
+| Character Rank (Best to Worst) | *Null* | `S` (Best, 5 ⭐), `A` (Rare, 4 ⭐) | `6 ⭐` (Best, `S`), `5 ⭐` (Rare, `A`), `4 ⭐` (Common, `B`) | `3 ⭐` (Pink, best), `2 ⭐` (Gold, Rare), `1 ⭐` (Blue, worst, !) | Same as MultiTalent | Purple (best), Orange Gold |
+| Weapon Rank (Best to Worst) | *Null* | `S` (aligns to S agents), `A` (usually aligns to A agents), `B` | `6 ⭐`, `5 ⭐`, `4 ⭐` | Full star your Students, then you can equip them one. Upgrade by get more duplicates & Scrimage parts | Same as MultiTalent | Proving Grounds Badges |
 | Booster Composition | CardioChips | W-Engine & Drive Discs | ??? | Signature Weapons for Full Stars (Blue Stars), Equipments | Demon Wedges | Badges, Cards from the Accension |
-| Duplicates | Merge | Mindscape Cinema (Agents), Up the stars (W-Engine) | ??? | Up the stars (up to 5, excessions upgrade their weapon (blue stars)), Eleph | Intron (Characters), Forge (Weapons) | ...soul |
+| Duplicates | Merge | Mindscape Cinema (Agents), Up the stars (W-Engine) | Up the stars (to 5) | Up the stars (up to 5, excessions upgrade their weapon (blue stars)), Eleph | Intron (Characters), Forge (Weapons) | ...soul |
 | Client Engine Framework | Godot (Sub-games may use different engines) | Unity | Unity Enterprise Source Code Modified | Unity | Unreal Engine 4 | Unity |
 | Known Servering Techs | Arch Linux, ...., Local Save or Live Cloud Save | - | - | - | - | - |
 
