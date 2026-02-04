@@ -18,7 +18,7 @@ That I could find, & what I had & edited some.
     - `EFO01u8U4uiioa0a5AoOU` Originium Science Park / Taman Sains Originium
     - `EFO01a658aEE9UA9Ioe5e` Power Plateau / Dataran Tinggi Daya
     - **For main bellow**, see the video for placement
-    - ![Blemichi's Main AIC Blueprint Placement](/media/Screenshots\Blemichi_AKE_AIC_MainPlacement.png)
+    - ![Blemichi's Main AIC Blueprint Placement](/media/Screenshots/Blemichi_AKE_AIC_MainPlacement.png)
     - `EFO01521e500E3uaUeIoe` Main Top Right 1
     - `EFO018IeE8UUu612oUI73` Main Top Right 2
     - `EFO0101O30226Ai1iE179` Main Top Left 1
