@@ -10,14 +10,14 @@ Enjoy Sex & Other stuffs with only common D6 Die you had lying around, and easil
 
 ## Here we go
 
-| Dice                                                | (SEX) Body Part      | (SEX) Action    | Housekeeping                                |
-|-----------------------------------------------------|----------------------|-----------------|---------------------------------------------|
-| ![1](/media/Kenney.nl/BoardgameIcons/dice_1.png)    | Mouth / Mulut        | Touch / Sentuh  | Relacc / Santuy                             |
-| ![2](/media/Kenney.nl/BoardgameIcons/dice_2.png)    | Chest / Dada         | Lick / Jilat    | Sweep, Vacuum, 'n Mop / Sapu, Vakum, & Pel  |
-| ![3](/media/Kenney.nl/BoardgameIcons/dice_3.png)    | Belly / Perut        | Rub / Gosok     | Dishwash / Cuci Piring                      |
-| ![4](/media/Kenney.nl/BoardgameIcons/dice_4.png)    | Thigh / Paha         | Blow / Hisap    | Garbage Collection / Bersihkan Sampah       |
-| ![5](/media/Kenney.nl/BoardgameIcons/dice_5.png)    | Crotch / Selangkang  | Succ / Sedot    | Restock / Belanja                           |
-| ![6](/media/Kenney.nl/BoardgameIcons/dice_6.png)    | Neck / Leher         | Cum / Crot      | Showers & Wash Clothes / Mandi & Cuci Baju  |
+| Dice                                                | (SEX) Body Part      | (SEX) Action    | Housekeeping                                | Wind Direction |
+|-----------------------------------------------------|----------------------|-----------------|---------------------------------------------|----------------|
+| ![1](/media/Kenney.nl/BoardgameIcons/dice_1.png)    | Mouth / Mulut        | Touch / Sentuh  | Relacc / Santuy                             | North          |
+| ![2](/media/Kenney.nl/BoardgameIcons/dice_2.png)    | Chest / Dada         | Lick / Jilat    | Sweep, Vacuum, 'n Mop / Sapu, Vakum, & Pel  | South          |
+| ![3](/media/Kenney.nl/BoardgameIcons/dice_3.png)    | Belly / Perut        | Rub / Gosok     | Dishwash / Cuci Piring                      | East           |
+| ![4](/media/Kenney.nl/BoardgameIcons/dice_4.png)    | Thigh / Paha         | Blow / Hisap    | Garbage Collection / Bersihkan Sampah       | West           |
+| ![5](/media/Kenney.nl/BoardgameIcons/dice_5.png)    | Crotch / Selangkang  | Succ / Sedot    | Restock / Belanja                           | Top?           |
+| ![6](/media/Kenney.nl/BoardgameIcons/dice_6.png)    | Neck / Leher         | Cum / Crot      | Showers & Wash Clothes / Mandi & Cuci Baju  | Bottom?        |
 
 ## Special Instructions
 
@@ -33,6 +33,9 @@ Enjoy Sex & Other stuffs with only common D6 Die you had lying around, and easil
 - https://kenney.nl/assets/boardgame-pack Dice image
 - https://kenney.nl/assets/board-game-icons Or this too
 - https://kenney.itch.io/kenney-game-assets **PAID** You know what, just get all of them, pre-service does not cost that much relative to the scope of the everything he got (from day 1 to today, **free updates** afterward, don't lose your itch account!).
+- https://facebook.com/share/p/17zHCjP9VM Purpose of Mahjong Wind Direction Dice?
+- https://reddit.com/r/Mahjong/s/uTmkRw5CIH What is Mahjong wind indicator?
+- Resource is limited, sorry for mistakes!
 
 ## End
 
