@@ -24,7 +24,7 @@ Enjoy Sex & Other stuffs with only common D6 Die you had lying around, and easil
 ### Sex dice 18+
 
 - Recommended to have 2 D6 die, **one of which had different color or theme** (or mark just one of them with a marker to signify which it is for). One is for `Body Part`, and the other `Action`.
-- Typical Moulded D6 Dice is available both on SFW & NSFW Supermarket on any X0p1r4t3 Malls. Dedicated Sex Glyphed D6 set is only available on NSFW ones. STL / Blend / GLB to be provided, but we had [common D6 for now](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Blender/DiceAttempt.blend).
+- Typical Moulded D6 Dice is available both on SFW & NSFW Supermarket on any X0p1r4t3 Malls. Dedicated Sex Glyphed D6 set is only available on NSFW ones. STL / Blend / GLB to be provided, but we had [common D6 for now](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Blender/WahahaDice.blend) (not [this one](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Blender/DiceAttempt.blend)).
 
 ## Sauce
 
