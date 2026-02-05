@@ -22,7 +22,11 @@ B: Okay test.
 
 correct Green
 
-A: Whoah, Just that! (committing), (type additional author) you got name in the git? (found) is this the one?
+A: Whoah, Just that!? lemme see, (look the change), ah bruh, okeh uh.
+
+B: So.. (resync change back to project file)..., (found) it's this one
+
+A: Alright (committing), (type additional author) you got name in the git? (found) is this the one?
 
 B: yea yeah!
 
