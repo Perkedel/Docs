@@ -14,8 +14,8 @@ That I could find, & what I had & edited some.
 - https://youtu.be/9Q_SHrpy1aw Easy & Fast **Valley IV** (Lembah IV) 4 Minutes
   - [Copy Google Docs](https://youtu.be/9Q_SHrpy1aw) (No Copy Paste?! View only is one, but no copy paste? wtf, Google?!)
   - Asia
-    - `EFO018IeE8UUu6125UI73` Valley Pass / Terusan Lembah
-    - `EFO01u8U4uiioa0a5AoOU` Originium Science Park / Taman Sains Originium
+    - `EFO018IeE8UUu6125UI73` Valley Pass / Terusan Lembah. By the Depot Unloader in the code, put to the leftmost of your Bus Depot
+    - `EFO01u8U4uiioa0a5AoOU` Originium Science Park / Taman Sains Originium / OS Park
     - `EFO01a658aEE9UA9Ioe5e` Power Plateau / Dataran Tinggi Daya
     - **For main bellow**, see the video for placement
     - ![Blemichi's Main AIC Blueprint Placement](/media/Screenshots/Blemichi_AKE_AIC_MainPlacement.png)
@@ -176,8 +176,10 @@ random too lazy to grab
 - This is from the first Kaorfa (Asia)
   - Outpost (Shelter sementara): `a`
   - Automation Core (Main Base PAC):  `a`
-	- Must Battery Farm: `EFO018IeE2o6u61IUI73` Farm Blue Batteries
+	- Must Battery Farm: ~~`EFO018IeE2o6u61IUI73`~~ `EFO01A7u1aUOeOE19ieO` Farm Blue Batteries
 	- Powerbanker: `EFO01521e743E3uIeIoe` Receive batteries to Thermobanks
+- And the edits are (Asia)
+  - Ultima's Endless Plants but 2x & **Wuling**: `EFO01E50UAOI4Io23uIa` (based on [this](https://endfieldtools.dev/community-factories/blueprints/buckflower/?id=508cb6f9-3130-4392-9277-e501c42f26c6), and then 2x'd it)
 
 ### Pls pull from Discord wtf
 
@@ -199,7 +201,7 @@ Find more Blueprints!!!
 - https://endfieldtools.dev/community-factories/blueprints/cryston-component/?id=cec61769-8f9f-437f-bf35-16d776f0b40f Cryston Farm
   - Asia: `EFO01ouiOAiO1i60IieO`
   - NA/EU: `EFO01Iao8016u6965o08`
-- https://endfieldtools.dev/community-factories/blueprints/buckflower/?id=508cb6f9-3130-4392-9277-e501c42f26c6 Endless Plants
+- https://endfieldtools.dev/community-factories/blueprints/buckflower/?id=508cb6f9-3130-4392-9277-e501c42f26c6 Ultima's Endless Plants
   - Asia: `EFO01602IE042a79O83e`
   - NA/EU: `EFO016i1aAaUaO7AOa3e`
 - https://endfieldtools.dev/community-factories/blueprints/ferrium-component/?id=83dbfa53-8e8c-493a-934a-f00d0ca28eba skyJLV's hub day 2
