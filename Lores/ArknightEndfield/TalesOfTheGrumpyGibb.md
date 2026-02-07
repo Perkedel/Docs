@@ -113,3 +113,70 @@ Endmin: I felt pitiful to Julto. As you've said, then it's your lesson now.
 Lukro: Yes, of course. I will, and I have been trying the best I could. Thank you.
 
 Endmin: You're welcome!.
+
+## Document 2
+
+Scene. Compilation of Lukro's early days in the Judgement works here in the Realm. Lukro used to be a prosecutor in Judgement Realm, sentencing criminals ruthlessly, truth unbound by any terms. 
+
+Bobrok: Case number 2130-12-4173af7d-bb1e-4d7a-9270-b7784125d22c (the last after two dashes, just read `d22c`).
+
+> Suspect: ABCD-XYZ  
+> ....
+> ....
+> Intel of Interest: **`He/Him | DNI: ashdjfahslkdfhlakshdlfk`**
+
+Lukro: ABC. You have been sentenced 10 years of prison for defamation that causes reputation damage to world QWER.
+
+Hammer slam 3 times
+
+> : Moderator of an online forum
+
+hammer 3 times
+
+Lukro palms holding his face. Everytime of this kind of prosecution only clouds the moods. It's boring, yet, it's matter.
+
+Bobrok: Liar. We have seen you all doings. Honestly I'm disappointed, **coz you're so good**. Good at it I admit. Wish that you're a better person.
+
+Lukro: ...
+
+Bobrok: Lemme advise you. Next time, communicate with said party who used your name you think vained you. Failed to give you the demo unit out, when again turns out your contributor did have one. **Everything can just be talked**, you know!. Your Honor?
+
+Hammer 3 times
+
+.
+
+.
+
+It's time for Lukro to retire. He is very old.
+
+Bobrok: I'm sad to see you go my friend. I hope our path crosses.
+
+Lukro: What about the students?
+
+Bobrok: Currently it's normal. We should not worry. At least for about 10 years from now, the graduates should perform up to the Judgement standards.
+
+Lukro: ... Then I hope it's so.
+
+.
+
+Gone back home, and do more leisure task. Lukro become the vanguard for partnership with Arenod Sediron, Mudik branch.
+
+Lukro is also indifferent. For any discrepancy that would suffer others, Lukro becomes a ruthless killer that executes / prosecute criminals that has sweet face but corrosive deceits inside. Pouring NaOH (Sodium Hydroxide) upon H2SO4 (Sulfuric Acid / Car battery water / Batter acid).
+
+Lukro has turned down so many partner that attemted to partner with Arenod Sediron. Preventing the almost mistake with Balthezer who disguised before, Lukro digs everyone's background and judge if they are worthy of being partner at all.
+
+Using the same ruthless and offensive tactics, Lukro said it all outblunt, does not care the reactions afterward. Because it has to be. No liars allowed in DNB.
+
+.
+
+Skip through after the [Blueprint](AICBlueprints.md) incident. It was the last time Lukro going to do this. For some reason, Lukro's *pure heart rise from the bedrock encapsulation*. Began to regret. No matter how many preparation did made given to the candidates about the interview that maybe offensive, finally, Lukro regreted.
+
+Duyok: So. How's the apology going?
+
+Lukro: I'm relieved. Thank God. She did not held grudges after all this. (check HT Profile).... (wait, Endmin did not have one yet)?!, At least.. she did not **Blocked** me. DNB is safe.  
+
+Duyok: I'm also relieved to hear, sir. So, agree to phase it out?
+
+Lukro: Do it. I don't care anymore. Rewaken our old rogue catchers. We're going back traditional way.
+
+Duyok: (run script), As you wish.

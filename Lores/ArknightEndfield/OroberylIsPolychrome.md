@@ -19,6 +19,7 @@ Here is the Equivalency table against other video games (f2p & others) you might
 | Duplicates | Merge | Mindscape Cinema (Agents), Up the stars (W-Engine) | Up the stars (to 5) | Up the stars (up to 5, excessions upgrade their weapon (blue stars)), Eleph | Intron (Characters), Forge (Weapons) | ...soul |
 | Client Engine Framework | Godot (Sub-games may use different engines) | Unity | Unity Enterprise Source Code Modified | Unity | Unreal Engine 4 | Unity |
 | Known Servering Techs | Arch Linux, ...., Local Save or Live Cloud Save | - | - | - | - | - |
+| In-game Chatting System | Sediron: New Paradigm, DM feature | Knock Knock | Baker | Momotalk | - | Heartlink |
 
 ## Explain!
 

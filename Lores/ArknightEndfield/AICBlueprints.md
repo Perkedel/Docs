@@ -9,6 +9,8 @@ That I could find, & what I had & edited some.
 > - Per region accordingly. Code is only a reference to a file exist on each different server region: `Asia` or `NA/EU`.
 > - Only in original Arknights: Endfield. Not Reservered nor New Paradigm Remake. For New Paradigm, JSON file would be provided here somewhere.
 
+**The factory must grow!**
+
 ### Blemichi's Factories
 
 - https://youtu.be/9Q_SHrpy1aw Easy & Fast **Valley IV** (Lembah IV) 4 Minutes

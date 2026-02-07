@@ -10,14 +10,16 @@ Enjoy Sex & Other stuffs with only common D6 Die you had lying around, and easil
 
 ## Here we go
 
-| Dice                                                | (SEX) Body Part      | (SEX) Action    | Housekeeping                                | Wind Direction |
-|-----------------------------------------------------|----------------------|-----------------|---------------------------------------------|----------------|
-| ![1](/media/Kenney.nl/BoardgameIcons/dice_1.png)    | Mouth / Mulut        | Touch / Sentuh  | Relacc / Santuy                             | North          |
-| ![2](/media/Kenney.nl/BoardgameIcons/dice_2.png)    | Chest / Dada         | Lick / Jilat    | Sweep, Vacuum, 'n Mop / Sapu, Vakum, & Pel  | South          |
-| ![3](/media/Kenney.nl/BoardgameIcons/dice_3.png)    | Belly / Perut        | Rub / Gosok     | Dishwash / Cuci Piring                      | East           |
-| ![4](/media/Kenney.nl/BoardgameIcons/dice_4.png)    | Thigh / Paha         | Blow / Hisap    | Garbage Collection / Bersihkan Sampah       | West           |
-| ![5](/media/Kenney.nl/BoardgameIcons/dice_5.png)    | Crotch / Selangkang  | Succ / Sedot    | Restock / Belanja                           | Top?           |
-| ![6](/media/Kenney.nl/BoardgameIcons/dice_6.png)    | Neck / Leher         | Cum / Crot      | Showers & Wash Clothes / Mandi & Cuci Baju  | Bottom?        |
+| Dice                                                | (SEX) Body Part      | (SEX) Action    | Housekeeping                                | Wind Direction | Rock Paper Scissor | Drinking       | a           |
+|-----------------------------------------------------|----------------------|-----------------|---------------------------------------------|----------------|--------------------|----------------|-------------|
+| ![1](/media/Kenney.nl/BoardgameIcons/dice_1.png)    | Mouth / Mulut        | Touch / Sentuh  | Relacc / Santuy                             | North          | 🪨                 | Bottoms up     | a           |
+| ![2](/media/Kenney.nl/BoardgameIcons/dice_2.png)    | Chest / Dada         | Lick / Jilat    | Sweep, Vacuum, 'n Mop / Sapu, Vakum, & Pel  | South          | 📄                 | Half           | a           |
+| ![3](/media/Kenney.nl/BoardgameIcons/dice_3.png)    | Belly / Perut        | Rub / Gosok     | Dishwash / Cuci Piring                      | East           | ✂️                 | 2 Bottoms up   | a           |
+| ![4](/media/Kenney.nl/BoardgameIcons/dice_4.png)    | Thigh / Paha         | Blow / Hisap    | Garbage Collection / Bersihkan Sampah       | West           | 🪨                 | Few sips       | a           |
+| ![5](/media/Kenney.nl/BoardgameIcons/dice_5.png)    | Crotch / Selangkang  | Succ / Sedot    | Restock / Belanja                           | Top?           | 📄                 | At will        | a           |
+| ![6](/media/Kenney.nl/BoardgameIcons/dice_6.png)    | Neck / Leher         | Cum / Crot      | Showers & Wash Clothes / Mandi & Cuci Baju  | Bottom?        | ✂️                 | No Drink       | a           |
+
+<!-- Linus squigly straight twirl -->
 
 ## Special Instructions
 

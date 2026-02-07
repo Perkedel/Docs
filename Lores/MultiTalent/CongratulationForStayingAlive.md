@@ -32,7 +32,7 @@ Press anywhere to continue
 
 ## Note
 
-- Showing estimated total heartbeat is too creepy & can contradicts Privacy motto. If you wish, use average of surveys.
+- Showing estimated total heartbeat is too creepy & can contradicts Privacy motto. If you wish, use average of surveys. We originally used this to motivate people to keep this number increasing and do not intentionally make it stop.
 
 ## End
 
