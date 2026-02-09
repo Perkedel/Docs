@@ -73,3 +73,45 @@ everyone's suspense attention
 Cobere: **👍!**
 
 everyone applause yeah ah haha
+
+## End
+
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA
+
+## Upset
+
+Jackass Gibb: Bro, wtf! I saw you were at the meeting with Van Elektronische. What's going on, were you bribed? Drunked?
+
+Koros: Ayyy!, cousin!-.. sup bro?
+
+Jackass: Jesus Christ on Innova, man. What have she done to you, thank God that bitch did not sent Oripathy to you.
+
+Koros: Whoa, relax!. I'm okay. And that doing is not true!, she's kind.
+
+Jackass: What kind?!, You finally got convinced to make a drone with soldered Battery & memory card??!, dude that's betrayal!
+
+Koros: No no no, you glazed over the alternative version: **The casual model will still have removable batteries and CFExpress slot!**., The.. Enterprise model, of same skeleton IS, the one for deployment, soldered all, make it secure. This, the Research model, casual, stays as is.
+
+Jackass: .. Ugh, whatever. Obviously the casual raw price gonna be much more expensive than the... Soldered model, right? Did you also considered?
+
+Koros: Uh yeah. That's by accidental, coz amount of materials. We can't do anymore things, but unless DNB makes subsidy, that'd be different. I swear. Endmin did not made me drunk, then inject me Originium to brain control me, no. Trust me, just scan me.
+
+Jackass: (telepathy scan)...., (clean) Huff!.
+
+Koros: Pls, I can't be stupidly reject it, so pls consider the environment we'd get one day.
+
+Jackass: ...
+
+Koros: we're also e.g. doing remote recon against say, LB for example. Had they got the `L` screw idk how did they get one, we're done. We then have to bring Operators to retrieve it back. And when we got it back, they destroyed the CF card, or worse, unviolently formated it before it could upload any evidence it caught. Yeah? So that's exclusive for that. For casual, research, or modding, it stays as is. Well, I hope you get the idea, the Expose must alive and shared, and when it's done, the drone matters no more, we win!
+
+Jackass: (surrender)!., Just you wait., I'll take it this time. But if the Proprietarism influence now's there, I'll take off!.
+
+Koros: Okay, I promise too. If Endmin ultimately set us up I'll also fight it. We're DNB's right? Noone desecrate Pledge of Rossman.
+
+Jackass: Good.
+
+## Revision
+
+New! Hybrid Battery & Hybrid Memory Card! With internal memory & battery, extensible with slots respectively.

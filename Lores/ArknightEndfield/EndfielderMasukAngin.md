@@ -66,6 +66,14 @@ by JOELwindows7
 Perkedel Technologies  
 CC4.0-BY-SA
 
+## You can get Tolak Angin Ice Cream in Real life!
+
+Sidomuncul had a mall in Semarang (the city where they born, and also my mom). The location that you should search is [**Tentrem Mall**](https://maps.app.goo.gl/qaS3Gtz9uZuWZDQG8), at `2C7C+8Q Pekunden, Kota Semarang, Jawa Tengah`
+
+There, you can get an ice cream shop that sells Tolak Angin Ice Cream. I hope it's still available tho.
+
+Have fun Ascension!
+
 ## Bonus Yum
 
 Laevatain burped. She ate 10 glasses of them.
@@ -74,7 +82,7 @@ Halluo: Sorry, Laevatain. The ice cream ran out now.
 
 Laevatain: What?!, Awww...
 
-Halluo: We didn't thought anyone here would want bespoke vanilla ice cream, but uh.. since you like it, we can consider this for official procurement. How's that?
+Halluo: We didn't thought anyone here would want a bunch of bespoke vanilla ice creams, but uh.. since you like it, we can consider this for official procurement. How's that?
 
 Laevatain: Ah sure! ... wait, will there be a price?
 
@@ -119,3 +127,9 @@ Until now. People have figured out how to replicate cowbreast and so to make rea
 The milk is *synthetic*, but comes out the way real cows bio-manufacture them.
 
 pls tell me who's their name again, that was not my invention btw.
+
+## Tolak Angin Ice Cream Buffs
+
+- Heal immediately 1000 HP.
+- Removes all Wind effects (Lifted & Down) inflicted by enemies. transfer it all back to sender
+- +500 Nature DMG

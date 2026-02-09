@@ -14,21 +14,47 @@ That I could find, & what I had & edited some.
 ### Blemichi's Factories
 
 - https://youtu.be/9Q_SHrpy1aw Easy & Fast **Valley IV** (Lembah IV) 4 Minutes
-  - [Copy Google Docs](https://youtu.be/9Q_SHrpy1aw) (No Copy Paste?! View only is one, but no copy paste? wtf, Google?!)
+  - [Copy Google Docs](https://docs.google.com/document/d/1jpuaOAH9r-mSWDLclUqTIU9Mo3A87qlmWZYNCNSriX0/edit?tab=t.0) 
   - Asia
-    - `EFO018IeE8UUu6125UI73` Valley Pass / Terusan Lembah. By the Depot Unloader in the code, put to the leftmost of your Bus Depot
-    - `EFO01u8U4uiioa0a5AoOU` Originium Science Park / Taman Sains Originium / OS Park
-    - `EFO01a658aEE9UA9Ioe5e` Power Plateau / Dataran Tinggi Daya
+    - Outposts
+      - `EFO018IeE8UUu6125UI73` Valley Pass / Terusan Lembah. By the Depot Unloader in the code, put to the leftmost of your Bus Depot
+      - `EFO01u8U4uiioa0a5AoOU` Originium Science Park / Taman Sains Originium / OS Park
+      - `EFO01a658aEE9UA9Ioe5e` Power Plateau / Dataran Tinggi Daya
     - **For main bellow**, see the video for placement
-    - ![Blemichi's Main AIC Blueprint Placement](/media/Screenshots/Blemichi_AKE_AIC_MainPlacement.png)
-    - `EFO01521e500E3uaUeIoe` Main Top Right 1
-    - `EFO018IeE8UUu612oUI73` Main Top Right 2
-    - `EFO0101O30226Ai1iE179` Main Top Left 1
-    - `EFO013o723AAI1auA0579` Main Top Left 2
-    - `EFO01ouiOo773963iIieO` Main Top Left 3
-    - `EFO01E50UE664Io573uIa` Main Bottom Right
-    - `EFO01A7u1AooeOEIu9ieO` Main Bottom Left
-  - NA/EU
+      - ![Blemichi's Main AIC Blueprint Placement](/media/Screenshots/Blemichi_AKE_AIC_MainPlacement.png)
+      - `EFO01521e500E3uaUeIoe` Main Top Right 1
+      - `EFO018IeE8UUu612oUI73` Main Top Right 2
+      - `EFO0101O30226Ai1iE179` Main Top Left 1
+      - `EFO013o723AAI1auA0579` Main Top Left 2
+      - `EFO01ouiOo773963iIieO` Main Top Left 3
+      - `EFO01E50UE664Io573uIa` Main Bottom Right
+      - `EFO01A7u1AooeOEIu9ieO` Main Bottom Left
+  - NA/EU (thancc @Leilyse)
+    - Outposts
+      - `EFO016i1ae40AI74O83e` Valley Pass / Terusan Lembah. By the Depot Unloader in the code, put to the leftmost of your Bus Depot
+      - `EFO01eE7U28AO04Ooui8` Originium Science Park / Taman Sains Originium / OS Park
+      - `EFO0158OE3a2oeuoeIoe` Power Plateau / Dataran Tinggi Daya
+    - **For main bellow**, see the video for placement
+      - ![Blemichi's Main AIC Blueprint Placement](/media/Screenshots/Blemichi_AKE_AIC_MainPlacement.png)
+      - `EFO011ea0759ioUI34O7` Main Top Right 1
+      - `EFO01a709UO6e8A0oe5e` Main Top Right 2
+      - `EFO0158OE3a2oeu4eIoe` Main Top Left 1
+      - `EFO0172UA43iE956O0Ai` Main Top Left 2
+      - `EFO016i1ae40AI711O83e` Main Top Left 3
+      - `EFO019A61i2aUueo5uI2` Main Bottom Right
+      - `EFO01a709UO6e8A93oe5e` Main Bottom Left
+- https://youtu.be/fJEEaTIA-Us?si East & Fast **Wuling** 4 Minutes
+  - [Copy Google Docs](https://docs.google.com/document/d/1-lMj6WzROVEJ_YapjHVAsKfmZGXNVPraorv0AD0OQXU/edit)
+  - Asia
+    - ![Blemichi's Wuling AIC Blueprint Placement](/media/Screenshots/Blemichi_AKE_AIC_WulingPlacement.png)
+    - `EFO01602I655ae716O83e` Xiranite
+    - `EFO01ouiOo77396EEIieO` Jincao
+    - `EFO013o723AAI1a9u0579` Wuling Battery
+  - NA/EU (thancc @Leilyse)
+    - ![Blemichi's Wuling AIC Blueprint Placement](/media/Screenshots/Blemichi_AKE_AIC_WulingPlacement.png)
+    - `EFO010U96AE173i1aE179` Xiranite
+    - `EFO016i1ae40AI710O83e` Jincao
+    - `EFO01u1IoaA8640a8AoOU` Wuling Battery
 
 ### painic's Factories
 
@@ -532,3 +558,5 @@ Endmin & Yorin had a very long talk down there. Sharing intel to each other, unt
 by JOELwindows7 & Communities  
 Perkedel Technologies
 CC4.0-BY-SA (Mine original ones)  
+
+<!-- Google Docs view only (No Copy Paste?! View only is one, but no copy paste? wtf, Google?!) -->
