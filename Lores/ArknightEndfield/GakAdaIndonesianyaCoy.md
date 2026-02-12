@@ -33,6 +33,7 @@ Enthusiastic man: Gak ada Indonesianya coy 😢
 - Siracusa. Italian
 - Sarkaz (Collective).
 - Tara. Irish.
+- Hi?????. Japanese
 - Dozers (Collective). Indonesian. **This is from Perkedel Technologies**
   - Name `Dozer` taken from citizen / fan member codename of whole DNB Conglomerates of Nations. It's to "bulldoze" the wall that **blocks** us.
   - Arenod Sediron. Tends to have Javanese dialects

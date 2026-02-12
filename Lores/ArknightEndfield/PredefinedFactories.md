@@ -14,6 +14,30 @@ Some items, especially foods can only be obtained by crafting. This is very infu
 
 Many Food can now be manufactured automatically, but most of them is only available through Predefined Factories. So does some other non-food items, due to clashing factory recipes. E.g., Computer PSU, is only on Predefined, and you can see mechatronics assembling those units, and have test steps at some points in the way. Like those videos on YouTube. PLS EXAMPLE
 
+## Begin
+
+Endmin got masuk angin. She's too tired. The whole factory idea for Surreal Blender Meme is brand new, and she must designed new machines for manufacturing computer devices. Unlike before, the research must be redone again just for it. It's just cumbersome afterall, but the engineering idea is never inefficient. Why not hybrid it then?
+
+Infirmary.
+
+Endministrator: (finished the Tolak Angin sachet), (throw away to trash can beside)! ...
+
+Soperek: (enter scene)..., Endmin. Are you better now?
+
+Endmin: Aagh..
+
+Soperek: We apologize that you involved to the tiredness. You don't have to actually. Let us take it from here. (ask permission) We must first confirm if it's okay that we inspire your engineering idea of your AIC, back to our current manufacturing systems. Do you consent?
+
+Endmin: Yes. Take it, GNU GPL v3 (code) CC4.0-BY-SA (patent) (breath in reflex)!!!!!!!!!.., (sneeze) E-CHIU!!
+
+Soperek: (take tissue there), (give to Endmin)?
+
+Endmin: (catch snout under mask), (push)!!!..., Euoagh.., (throw to trash)!.
+
+Soperek: It's okay, Endmin. Take a rest. This Computer device manufacturing is a whole another league. Let us take over, We have that experience you need. Just relax.
+
+Endmin: Thanks., (re-lie down)...
+
 ## e
 
 by JOELwindows7  
