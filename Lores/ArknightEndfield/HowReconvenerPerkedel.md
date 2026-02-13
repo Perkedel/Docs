@@ -25,12 +25,14 @@ Idk why yet Hypergryph had this, but I think it should ease the nostalgia for OG
 ## And then for Perkedel?
 
 in Perkedel, Death has a difference. There is tragic death, and privilege death. Tragic death means you died before your supposed lifespan, such as accident, cancer, murder, etc. And the Privileged you guessed it, age ones.  
-One shall be proud whenever your loved one has reached their finish lines (2 Tim 4:7), especially because of age, which mean they have done their task in the world, very well.
+One shall be proud whenever your loved one has reached their finish lines (2 Tim 4:7), especially because of age, which mean they have done their task in the world, very well. 
+
+*psst But of course God also told us to also grateful for tragic death too, I personally disagree, but digressly..*
 
 Of course, for reason, there are many cases of disagreement. from the necessity of leadership, down to a cuddles. Death is death, and death means loss. No matter how many centuries have passed, where all have taught people the lesson of deaths, so many still.. believe the oversimplification of it. The believe that ommits the true meanings and adds more bias towards the yeah you should figure that out.
 
 And so, DNB had an experiment about this. How about we make the copy paste, like `6th day` film? Like seriously, didn't they watch that film and learn the important lesson in it?!  
-How it's done if of course different. In fact they learned based on that exact Arknights game, how to **at least record consciousness**, and get best shell anytime whenever possible. That's the key. And when a shell is ready, let's inject, like Avatar 2, clone the Quaritch and reborn him with the existing memory of original him, yeah!! Obviously, we cannot forget to ask consent about it, and these first participants did.
+How it's done if it's of course different. In fact they learned based on that exact Arknights game, how to **at least record consciousness**, and get best shell anytime whenever possible. That's the key. And when a shell is ready, let's inject, like Avatar 2, clone the Quaritch and reborn him with the existing memory of original him, yeah!! Obviously, we cannot forget to ask consent about it, and these first participants did.
 
 And then what's next? Did this service commercialized?
 
