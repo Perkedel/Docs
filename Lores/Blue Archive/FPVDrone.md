@@ -168,3 +168,242 @@ Reko: You're genius! Okay, just fly it slow
 push left gimbal Y up
 
 <!-- What do you think? so Tasha chose FPV, while Yanti matic. Yanti feel ashamed, envy. Mall. Mall forbid FPV but allowed Aerial. Yanti finally usable-->
+
+Reko: Yep that's it!, Good! See, you can do it!
+
+<!-- Intentionally glazed BetaFPV, because stock out and almost extinct. Do not presume DJI predatorize yet. -->
+
+Yanti enjoyed this drone both glad & shame until the low battery alarm rings.
+
+Neo 5 Drone: Battery Low, Returning to home in 10 seconds
+
+click `confirm`
+
+The drone returns to initial landing automatically
+
+Jump cut to conclusionary. Reko recommends Tasha Van Elektronische Stork Alpha (alike Avata & BetaFPV), Stork Kolibri (tiny FPV), and Van Elektronische Remote Mod Postquarter (an EdgeTX capable Radio controller); Reko recommends Yanti DJI Neo 5 (Motion Fly Combo, with Goggles and motion controller), DJI Mavic 8 (Complete combo).
+
+Straight ahead, the transaction goes. Tasha pays all 4 drones packages and other accessories recommended, especially each bags to store them.
+
+Reko: (while sealing up the boxed units) Would you like for me to set these up for you?
+
+Tasha: Yes please.
+
+Then Reko configured everything with the carrying setups. Yanti on the other hand setup her drones because DJI requires login.
+
+.
+
+Intro Cutscene B roll quickflash of the two final look
+
+## Story 2
+
+Wait there's an extra here
+
+After the Efurteyases left the store, another upset customer comes in again, to protest his problem. Splan did checked up on Reko's online store, and sure enough..
+
+Splan Pokerman: (impolite door barge in)!!-(walk to cashier)! ! ! !, Sir!!
+
+Reko: Welcome back. Did you got the item you desired
+
+Splan: This is unacceptable. I remembered!, it's BetaFPV. And how in the world you still haven't had any of the stock?
+
+Reko: Well uh... That one... I must firstly apologize that-
+
+interrupt jump cut without hearing out
+
+Tasha & Yanti each drone on an empty field.
+
+Yanti disagree with herself. After already oriented now with her Neo 5, she immediately select Sport mode & try cruising as blatant as she could.
+
+Tasha: Watchout, sis! Don't go overboard, we just bought this drone!
+
+Yanti: Shush!, (continue droning) I'm training!
+
+Tasha concerned, Yanti has been succ with manual droning and that's very succs for her.
+
+Thankfully, the drone cruises smoothly like pro. Of course, unsatisfiable, DJI's algorithms assisted Yanti.
+
+Level Complete. Free fly drone. Exit anytime
+
+## Story 3
+
+It's time to go to mall. There's a new X0p1r4t3 Eenvrnsmnt branch mall here in Kivotos. Let's get inside
+
+As Tasha & Yanti gets inside, she saw a seemingly obviously fated sign
+
+> Matic Drones Only!  
+> No Manual Mode Allowed, Requires Matic Algorithm!
+
+Tasha: `Matic`.., only?
+
+Yanti: (disbelieve of being chosen to be a hero on a conquest) Huh??.. It looks like....
+
+Tasha: (internal hillaried) Heh... okeh...
+
+It just feels like despite of your succness doing manual droning, there's still a place that embraces Matic pilots, like it's to unshame those who could only be into it.
+
+Tasha: Yanti, let's go. I wanna see something new.
+
+get inside. Then as they reached the ground floor central hall, they encountered serveral entities having problem
+
+Manush Caninos: (telephone) What?? You're out of city? Just now?
+
+Reko: Ugh.. I'm sorry, sir. I was suddenly have to be called on an unexpected urgent missions. ... I hope you can beg your commissioner to postpone your quest.
+
+Manush: No!.. I can't!! My client is prestigious, I could get penalty if I do that!. Who the fuck **else pilot should I hire then??** Anyone! I just need Aerial, that's all. 
+
+Look at the newly occupied stall. The tenants who's Manush's customer are waiting for the aerial photo of the stall. In this floor, Stalls are dome house, which roofs do not touch the mall's ceiling. It's the domehouse vibe area.
+
+Manush: It's to photo that new venue house over there. They asked me to take the picture with... **Mavic 8**! How in the hell would I get that?! I only had **Air 7S**!, that Mavic is expensive as hell!! ARGH PHUCK....
+
+Reko: Argh damn.. if only I have a second keeper...
+
+Manush: (close call)!!, (pinch nose bridge, hopeless absolute)!!.....
+
+Tasha & Yanti get close to Manush.
+
+Tasha: Ummm excuse me, sir. It appears you have a problem that requires a drone.
+
+Manush: Oh.. hi. Who are you?
+
+Tasha: Tasha, and this here is Yanti
+
+Yanti tiny wave hello, shy
+
+Manush: Uh.. yeah uh.. I was being called to capture this newly occupied tenant right over there. Alas, the drone store just a metre on that section there.. closed, owner on an urgent mission.
+
+Tasha: Oh, you need a camera drone?
+
+Manush: Yes!.. I need to rent **Mavic 8**, they asked for it, they want highest quality image for that stall there!. Ugh!!, so close!..
+
+Tasha: I see. Yanti can help you.
+
+Yanti: Hah?!, (look away)..
+
+Manush: Oh.. umm, do you have Mavic 8??
+
+Yanti: U-uh.. y-y-yes?
+
+Manush: OH YES!! Where is it?
+
+Yanti timidly takes out the drone from bag
+
+.
+
+.
+
+Here's the drone.
+
+Manush: PERFECT!! OH THANK GOD!! YESS! C'mon, let's set it up, (take out the paper of commission).. Uuh.. Hooof!
+
+Jump cut to setup.
+
+Fly the Mavic 8. This is the tutorial how to do stylish shots.
+
+Manush: Okay, so the customer over there, wants you to do these shot styles.
+
+The paper has written what shot modes to do there in very detail, very according to how Mavic 8 does it.
+
+Manush: I'm very impressed. How did they know Mavic 8 can do that. Anyway, just.. do these things. Each mission, 5 photos. And for video ones, just 2 takes. Easy. Go.
+
+Activate Drone and fly.
+
+Use the camera control to optimize your shot. You will do these types of shots & footages requested. Switch modes of camera operation and capture for each of these types the customer requested.
+
+You can select an object to focus onto that, and start tracking around it to obtain your best shots.
+
+.
+
+Yanti successfully completed the requested shots & footages, like professional.
+
+Now click Media View to see your captured shots & footages.
+
+Yanti: Um, mister, here is the preview
+
+Manush: Okay. Now let's see what do we have here.
+
+Yanti click last shots (firstmost), then scroll through previous captures
+
+Manush: Oh yeah. Yes yes..
+
+Video. Let's play
+
+Manush: (carefully pay attention to the video result).... 
+
+It's very smooth and professional
+
+Manush: Great job! I got the gist of it. Okeh, now, download all those files, I'll give it to customers.
+
+Begin multiselecting. Select all footages recorded for this mission. Download.
+
+Manush: Good good, use this Flash disk..
+
+Yanti then copy the files from `Internal/DCIM/DJI Album` & `DJI Export` to the Flash disk. 
+
+Save removal. take off flash disk
+
+Manush: Okeh, (insert USB to his phone), (and email the files)
+
+Jump cut to the tenants back
+
+Yanti is tidying her drones
+
+Pulfrasch: Ey, you guys done?
+
+Manush: Oh yeah!, Check email!
+
+Pulfrasch open email.
+
+.
+
+.
+
+Download files & extracts
+
+Pulfrasch and friends enter back to the stall. Stall is open air roll door
+
+Pulfrasch: Haha, nice!! Thank you, (immediately mix them up to make cool portrait marketing videos)
+
+Manush: No problem.
+
+Pulfrasch: (almost forgor to pay) Oh!, sorry. The payment.
+
+Manush: DNB EMV Kivotos bank.
+
+Pulfrasch: (open wallet app).., So.. the fare was..
+
+Manush: 500 Pts., eeh.. (prepare transaction).........., (show QR code) here
+
+Pulfrasch: (scan)!, (examine carefully)..., (confirm), (pin), (confirm)
+
+.
+
+Success
+
+Pulfrasch: Oke thancc you, (continue editing)
+
+Manush: Haah.. Whew. Oh, I believe I should share that with you
+
+Yanti: Umm.. it's okay, I just.. w-wanted to help
+
+Manush: No no, pls take it. You did alot help, (send as gift, 250 Pts.).., (confirm), (pin), (confirm), (show QR Code) Here, just take it.
+
+Yanti: Ummm okay.. (open wallet & scan)...., (accept gift)...
+
+You got 500k Credit
+
+Level Complete
+
+Tasha: Oh wow. Congratulations. despite of all that calamity you've experienced and ultimately choice, God made you still useful for such case don't you think?
+
+Yanti: (shy fume) HNG?!?!?! A-, (smack Tasha's arm light) SHUT UP!! (Blush embarrassment)...
+
+Tasha: OW!, 😜 Ehehehehe!...
+
+## End
+
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA
+
+Stork Alpha (The flight esc) Firmware update QoL Algorithm coming soon! Fly manual with more flat learning curve!
