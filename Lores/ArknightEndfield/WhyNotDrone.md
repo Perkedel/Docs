@@ -60,4 +60,4 @@ CC4.0-BY-SA
 
 TTS: Visit (Perkedel Domain website)/StorkCargo now and choose yours.
 
-Porleke: But wait! We're not done yet! If you order now before this datetime (on screen & calculated countdown), we're going to **quadruple your order**, while you still need to **pay just for one** plus the shipping and handling. OH wait! That's not all! You can ask our cashier when you gonna checkout by putting in the purchase note, you can request **Faster Expedition Delivery** for before big holiday events, **with no extra fee**! Why are you still waiting!? Units runs fast! Don't miss this huge chance of deal!
+Porleke: But wait! We're not done yet! If you order now before this datetime (on screen & calculated countdown), we're going to **quadruple your order**, while you still need to **pay just for one** plus the shipping and handling. OH wait! That's not all! You can ask our cashier when you gonna checkout by putting in the purchase note, you can request **Faster Expedition Delivery** for before big holiday events, **with no extra fee**! Why are you still waiting!? Units runs fast! Don't miss this huge chance of a deal!
