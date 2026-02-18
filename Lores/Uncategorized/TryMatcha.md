@@ -10,9 +10,9 @@ B: Thank you, (take a sip)!......, .. (nausea, it is grass, yuck)!?!??!,,
 
 C: Whoah, sir?!
 
-B: (puke) HUWEEEEEEEK (prevent)!!..., (refresh esophagus)!..., (refresh breath), aeh..., (stand up), **Real!!**
+B: (puke) HUWEEEEEEEK (prevent)!!..., (refresh esophagus)!..., (refresh breath), aeh..., (stand up), (hoist right thumb up) **👍 Real!!**
 
-C: Whaat?? 😥😥😥😥😥😥
+C: (is this how you think matcha is (felt insulted)) Whaat?? 😥😥😥😥😥😥
 
 Everyone barged in to order. C is extremely heart broken because he hates the taste and glad at the same time, because then the matcha usurpers (Penyeponk Teh Hijo Rumput) took her entire stocks. C is heart broken crying and smiling while serving the customers queueing up.
 
@@ -22,19 +22,19 @@ D: Mmm, yummy!
 
 C: Is.. is it grass to you?
 
-D: Yess, the realest grass, that's what I want.
+D: Yess, the realest matcha, that's what I want.
 
 C: Owh...
 
-D: What is it? Should it be sweet?
+D: What is it, sweetheart? Should it be sweet?
 
-C: No!, no.. it's just.. (too shy to say `should've not puke and appreciate whatever`)
+C: No!, no.. it's just.. (too shy to say `should've not puke and appreciate whatever`, internal upset)
 
 D: Apologies on behalf, our rating system is quite the novelty here.
 
 ## end
 
-B then consumed bitter resistance potion and bottomed up the glass, and returned to the base.
+B then consumed bitter 2 sweet converter potion and bottomed up the glass, and returned to the base.
 
 by JOELwindows7  
 Perkedel Technologies  
