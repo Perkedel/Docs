@@ -43,7 +43,7 @@ That I could find, & what I had & edited some.
       - `EFO016i1ae40AI711O83e` Main Top Left 3
       - `EFO019A61i2aUueo5uI2` Main Bottom Right
       - `EFO01a709UO6e8A93oe5e` Main Bottom Left
-- https://youtu.be/fJEEaTIA-Us?si East & Fast **Wuling** 4 Minutes
+- https://youtu.be/fJEEaTIA-Us East & Fast **Wuling** 4 Minutes
   - [Copy Google Docs](https://docs.google.com/document/d/1-lMj6WzROVEJ_YapjHVAsKfmZGXNVPraorv0AD0OQXU/edit)
   - Asia
     - ![Blemichi's Wuling AIC Blueprint Placement](/media/Screenshots/Blemichi_AKE_AIC_WulingPlacement.png)
@@ -55,6 +55,12 @@ That I could find, & what I had & edited some.
     - `EFO010U96AE173i1aE179` Xiranite
     - `EFO016i1ae40AI710O83e` Jincao
     - `EFO01u1IoaA8640a8AoOU` Wuling Battery
+
+### artsederhana17's factories
+
+- https://www.skport.com/article?id=2023326987162467102 Independent Factory **Valley IV**
+  - ffs, skport apk pls letme the fuck copy posts wtf bro!!!! Hypergryph pls fucking fix!!!
+  - ``
 
 ### painic's Factories
 

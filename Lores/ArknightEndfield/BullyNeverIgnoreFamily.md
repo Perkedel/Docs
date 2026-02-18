@@ -39,3 +39,7 @@ The whole school has been raided and the students have been arrested onto Judgem
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extras
+
+Lukro: Soldiers. I have locked the perpetrator in. The others have followed up and we'll see the result tomorrow. You guys have to toughen up. **You are never alone**. If anything happened to you, immediately report to me & these (show list of Overseers working on Mental Health Department that can combat ala Psychonauts game) High Orders I've listed here, asap. Nowadays you cannot fight alone and **will always require backup**.
