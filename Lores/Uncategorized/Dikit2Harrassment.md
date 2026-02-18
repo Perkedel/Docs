@@ -2,6 +2,8 @@
 
 Family Guy Moment Simpson
 
+inspire [this video](https://youtube.com/shorts/k4zogMhRo_4) but edit the moment.
+
 ## Begin
 
 B (female) & A (Male) (non-partner) are heavy lifting, casual fitness.
