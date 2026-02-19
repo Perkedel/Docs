@@ -150,6 +150,8 @@ what else?
 
 ## End
 
+Thinking about it she has similar aura like Seia (Blue Archive), don't you think? Seia tapi medok lmao!
+
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA

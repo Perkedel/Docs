@@ -61,3 +61,57 @@ CC4.0-BY-SA
 TTS: Visit (Perkedel Domain website)/StorkCargo now and choose yours.
 
 Porleke: But wait! We're not done yet! If you order now before this datetime (on screen & calculated countdown), we're going to **quadruple your order**, while you still need to **pay just for one** plus the shipping and handling. OH wait! That's not all! You can ask our cashier when you gonna checkout by putting in the purchase note, you can request **Faster Expedition Delivery** for before big holiday events, **with no extra fee**! Why are you still waiting!? Units runs fast! Don't miss this huge chance of a deal!
+
+## Oh wait, what About Gilberta??
+
+Gilberta: Wait.., Am I gonna be replaced 😥??
+
+A demonstration. Manually controller Stork Cargo to lift a sample of items
+
+Porleke: Not at all! Because we have other items. Yes durable, but disallow air time no matter what. Lemme show you, (arm with *V* gesture the remote)..
+
+Drone activated
+
+Porleke: (Just ascend carefully)...
+
+rise up and keep hoisting the samples
+
+.
+
+.
+
+.
+
+.
+
+Porleke: (grapple pull) and we're lifting these up, (monitor)......, until certain height..
+
+.
+
+.
+
+.
+
+Sample reached 100 metres total altitude
+
+Sample leaks
+
+Porleke: Oeup Oeup Oeup! There you go. See? 
+
+descend everything down
+
+.
+
+.
+
+.
+
+.
+
+Okay down. Unpack.
+
+The content splashes everywhere
+
+Endmin: Whoaaa....
+
+Porleke: ... After all, Might be delightful sometimes if we hand deliver some packages, don't you think?
