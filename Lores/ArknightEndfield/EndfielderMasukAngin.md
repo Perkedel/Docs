@@ -131,5 +131,5 @@ pls tell me who's their name again, that was not my invention btw.
 ## Tolak Angin Ice Cream Buffs
 
 - Heal immediately 1000 HP.
-- Removes all Wind effects (Lifted & Down) inflicted by enemies. transfer it all back to sender
+- Removes all Wind effects (Lifted & Down) inflicted by enemies. transfer it all back to sender. Prevent both from happening again
 - +500 Nature DMG

@@ -42,7 +42,7 @@ Enthusiastic man: Gak ada Indonesianya coy 😢
   - Judgement Realm & subrealms.
   - Perkedel's admin office Realms. Indonesian + Javanese
   - Indonesia, Terra (Perkedel / IRL Earth). We put this here, because we had deployed some of our people there.
-- Kivotos. Japanese. **This is from MX Studios, Nexon**
+- Kivotos (Collective). Japanese. **This is from MX Studios, Nexon**
 - Stella Sora (Collective). Japanese / Chinese?. **This is from Yostar**
 - New Eridu (Collective). Any (Chinese or English (US)). **This is from MiHoYo**
   - Throne Quarter
@@ -51,7 +51,7 @@ Enthusiastic man: Gak ada Indonesianya coy 😢
   - Outer Ring. Southern dialect
 - Hyperborea. English (UK). **This is from Pan Studio**
 - Huaxu. Chinese. **This is from Pan Studio**
-- Elias (Collective). Korean. **This is from Epid Games**
+- Elias (Collective). South Korean. **This is from Epid Games**
   - Sprite Kingdom
   - Elf City
 - pls wait lazy
@@ -59,18 +59,19 @@ Enthusiastic man: Gak ada Indonesianya coy 😢
 ## Operational Company / Kompeni Operasional
 
 - Perkedel Technologies. Overseer
-- Hypergryph.
+- Hypergryph. Operators
   - Rhodes Island. OG Arknights
   - Endfield Industries. Endfield
 - Pan Studio. *i forgor pls wait*
+  - Phoxhunter (generally)
 - Epid Games. ??? Crusade
 - MiHoYo.
   - ???. Genshin Impact
   - ???. Honkai Impact 3rd
   - ???. Honkai Star Rail
-  - Phaethon. Zenless Zone Zero
+  - Phaethon. Zenless Zone Zero. Proxy
 - Yostar
-  - Boss Staffing Accord. Stella Sora
+  - Boss Staffing Accord. Stella Sora. Trekkers
 
 ## Sauce
 
