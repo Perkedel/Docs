@@ -41,3 +41,11 @@ The Co-Op area invites Operators from different accounts / timeline. The area co
   - FPV arena
 - Mountainous. Play hiking games!
   - Hiking
+
+### *Enslavedport* (opposite of Freeport, `Free`)
+
+**Install Originium to Papua**. The goldmine has been scraped dry that century by Freeport thanks to incompetent governments that allowed it way too much. How about you install whatever *gold* you got from Hypergryph to here. Don't worry, once again, Originium does not work in Perkedel Cinematic Universe. So whatever comes it's just a gemrocks. Nobody wants it hence, right?
+
+right? Seriously..
+
+Develop Papua by Trading Originium stuffs. They asked `Origocrust`. If you develop Papua, you will add accomodations. Final level installs Mall to where the mine was.
