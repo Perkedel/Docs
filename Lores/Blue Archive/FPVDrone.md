@@ -181,7 +181,7 @@ click `confirm`
 
 The drone returns to initial landing automatically
 
-Jump cut to conclusionary. Reko recommends Tasha Van Elektronische Stork Alpha (alike Avata & BetaFPV), Stork Kolibri (tiny FPV), and Van Elektronische Remote Mod Postquarter (an EdgeTX capable Radio controller); Reko recommends Yanti DJI Neo 5 (Motion Fly Combo, with Goggles and motion controller), DJI Mavic 8 (Complete combo).
+Jump cut to conclusionary. Reko recommends Tasha Van Elektronische Stork Alpha (alike Avata & BetaFPV), Stork Kolibri (tiny FPV), and Van Elektronische RemoteMod Postquarter (an EdgeTX Radio controller with ExpressLRS built-in); Reko recommends Yanti DJI Neo 5 (Motion Fly Combo, with Goggles and motion controller), DJI Mavic 8 (Complete combo).
 
 Straight ahead, the transaction goes. Tasha pays all 4 drones packages and other accessories recommended, especially each bags to store them.
 
@@ -399,6 +399,18 @@ Tasha: Oh wow. Congratulations. despite of all that calamity you've experienced 
 Yanti: (shy fume) HNG?!?!?! A-, (smack Tasha's arm light) SHUT UP!! (Blush embarrassment)...
 
 Tasha: OW!, 😜 Ehehehehe!...
+
+## Enterprise works
+
+Yanti is monitoring fleets of drones. These drones has AI and are delivering items. Yanti's job here is to monitor and do takeover if necessary. Stork Cargo, alike of DJI Flycart & Agras.
+
+Yanti is also doing observation works. Stork Recon, alike of DJI Matrice & Mavic. It is designed to be attached various types of accessories, and used to scout places. Stork Recon is smaller than the smallest Cargo, so it's more lightweight and fly faster. There are 2 variants of model: Flatleg (Matrice / Mavic) & FlexibleLander (Inspire).
+
+## Whoops missing package
+
+Reko felt guilty of giving Yanti DJI. Feels like an insult and select love. He then resolve it by providing vouchers to claim same set as Tasha's
+
+Yanti then claim RemoteMod Postquarters & Stork Whoop Sets.
 
 ## End
 
