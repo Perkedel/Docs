@@ -16,7 +16,7 @@ Now you should instead
 rclone config create MyrientIA http url https://web.archive.org/web/2/https://myrient.erista.me/files/
 ```
 
-This should lead you to [Wayback copy of this](https://web.archive.org/web/2/https://myrient.erista.me/files/). **Please test if the file itself can be reached**. The website seems can be accessible with no hurdle as stated, no account, no paywall, no ad surveys.
+This should lead you to [Wayback copy of this](https://web.archive.org/web/2/https://myrient.erista.me/files/). **Please test if the file itself can be reached**. as of March 2026 right before the shutdown, the website seems can be accessible with no hurdle as stated, no account, no paywall, no ad surveys.
 
 read [**FAQ for more info**](https://myrient.erista.me/faq/)
 
