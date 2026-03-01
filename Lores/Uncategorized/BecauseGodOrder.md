@@ -49,3 +49,19 @@ C: So, 30 minutes, or uh (remeasure total).. 1 hour left. So think again, do you
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extra Prisonment
+
+DNB got disaster again
+
+F: I told you. Stop trusting God. You should've had listened.
+
+A: Then what do you want me to do with this information? Be like you??!!
+
+F: Correct.
+
+A: Ugh..., Let's say that indeed God does not exist, or does but a jackass like you said. **No**. We still won't do it. Please do not shove opinions we do not like. Since you're at our lands, You must respect the house rule, or else I'll call you trespassing. so **a man is to marry a woman**. End of the line.
+
+F: Haha.. You got a point. Fine, I'll find somewhere else.
+
+A: And I will conquer again. See who wins.
