@@ -71,3 +71,17 @@ A: And I will conquer again. See who wins.
 G: Keep F and his (unintentional mispronoun, F looks masculine) goons prisoned! He's notorious for Blocking everyone he does not like, under the guise of `Code of Conduct`! I trust you've the intel about his Banlist! We can't let Harrassment on the loose!, not again!
 
 A: Worry not. They (the group) are not going anywhere. Certainly no more fear if they'l become *eternal student* (mahasiswa abadi of Crossban prison class).
+
+F ultimately lost again, because notoriously blocking everyone. Customer-kruptcy!
+
+## Always lead to hell
+
+FD: You are not accepted. Come with us. We born in wrong world.
+
+A: Stfu!! say that God is asshole like you claimed, **NO!!**., Suicide leads to hell! Ask this demon!
+
+demon: Hi! Yes. Here's Sediron video about it.
+
+evidence POV of suicided priest goes to hell. another perspective also by the next section in video
+
+FD: Oh shit, we lost! They got anti-vouch!
