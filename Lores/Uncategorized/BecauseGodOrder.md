@@ -65,3 +65,9 @@ A: Ugh..., Let's say that indeed God does not exist, or does but a jackass like 
 F: Haha.. You got a point. Fine, I'll find somewhere else.
 
 A: And I will conquer again. See who wins.
+
+## Keep them prisoned
+
+G: Keep F and his (unintentional mispronoun, F looks masculine) goons prisoned! He's notorious for Blocking everyone he does not like, under the guise of `Code of Conduct`! I trust you've the intel about his Banlist! We can't let Harrassment on the loose!, not again!
+
+A: Worry not. They (the group) are not going anywhere. Certainly no more fear if they'l become *eternal student* (mahasiswa abadi of Crossban prison class).
