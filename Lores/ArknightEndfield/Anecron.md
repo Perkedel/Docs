@@ -1,0 +1,5 @@
+# Anecron
+
+Anti Death. a Tribe who hates death.
+
+Anecronians believe that death is blank. Whatever happen afterward is therefore blank. Don't feel any pain, but also only see `No signal` (not a black, not a literall, not gray, just nothing and void indescribable), forever & ever. That's why they kept innovating on everything to make sure they don't ever get old and then die. Even accident and various lethal tragedies, that they feel better if they feel its excruciations rather than stop being anything but a void. Some scientist over there even pay broken hearted people that commited suicide (voluntarily ofc, both want to suicide & bored ones too) hefty amount just to prove their innovation, and if they didn't die, that mean it's success. They never stop, and keep being alive so they can spread the formula how to remove death from being possible at all.
