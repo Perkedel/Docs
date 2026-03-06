@@ -56,7 +56,7 @@ A: ✅ Hm.
 
 B: Gosh darn it! POC License is hard! can I skip it for this mega-country?
 
-A: I don't recommend this nowadays. Lots of activity involves speaking with strangers, even if you don't. I've lost count since then.
+A: I don't recommend this nowadays. Lots of activity (forgor `ies`) involves (forgor remove `s`) speaking with strangers, even if you don't. I've lost count since then.
 
 B: Uhm.. How much it cost?
 
