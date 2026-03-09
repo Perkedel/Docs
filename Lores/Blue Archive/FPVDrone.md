@@ -25,6 +25,8 @@ Tasha excelled the manual FPV immediately like that pianist from around the 19th
 
 Reko: Whoaow, you're so talented at this! One day, you could win a draft at a drone racing contest there.
 
+Reko is a **real adult human**.
+
 Then, it's Yanti's turn. As you can see, Despite using the best radio remote, Yanti had a very difficult time controlling the drone. She kept crashing onto walls, rings, and stuffs.
 
 Yanti Efurteyas: AAARGH!!, (reflip & try again)
@@ -411,6 +413,16 @@ Yanti is also doing observation works. Stork Recon, alike of DJI Matrice & Mavic
 Reko felt guilty of giving Yanti DJI. Feels like an insult and select love. He then resolve it by providing vouchers to claim same set as Tasha's
 
 Yanti then claim RemoteMod Postquarters & Stork Whoop Sets.
+
+## We found the issue!
+
+When Tasha tried it, she had an issue a little bit despite well done it 2 minutes later. But once she bought PostQuarter, all the way sudden she's draft worthy for Freestyler. And recently a day after Reko gifted Yanti the same RC, Yanti also can fly it Acro much well, even tho just Cinecasual. Hmm interesting.
+
+So Reko invited FPV Enthusiasts outside Kivotos to investigate this finding.
+
+After the analysis, it was found that the demo RC available in his store has **smol Gimbal size!** Well, that's your problem. But PostQuarter is premium top of the line, and Van Elektronische is notorious for seldom making Budget model, no interest with it. And without it, it could be vandalized easily by the delinquents. So, same time a Van Elektronische rep there recommended Reko to provide just Radiomaster TX15 Max. It's the almost premium budget & an ancient product, also has full size gimbal, here's the Refurbished one. Alright, that should suffice.
+
+So now, Reko's FPV store only has Radiomaster TX15 for the demo interaction. Both sims and real tries. Tbh, it's much better if Van Elektronische participates *iPhone C*. Relying a 3rd company that is not acquired adds hindrance to businesses like Reko's doing. Either Perkedel must buy Radiomaster straight from China (at least 99% of them), or indeed make own *TX15* whatever it is. Problem about similarity and worthlessness is someone else problem then.
 
 ## End
 
