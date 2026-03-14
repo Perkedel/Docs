@@ -24,6 +24,12 @@ Join their [Telegram](https://t.me/s/myrient/107) & [Discord](https://discord.gg
 
 & Search [`Myrient` on Internet Archive](https://archive.org/search?query=myrient) for scattered backups.
 
+## Minerva Archive
+
+Pls go to [Minerva-Archive.org](https://minerva-archive.org/) for latest re-archival progress.
+
+[Contribute now!](https://github.com/minerva-archive/worker)
+
 ## Moar
 
 > [!CAUTION]  
@@ -65,3 +71,5 @@ Top Spotlight based from [Tracker Docs](https://www.google.com/url?q=https://www
 - https://youtu.be/3EaN70Yqu3s Extraaaa
 - https://youtu.be/zn8h0nPoxM8 Woo?
   - [Minerva Archive](https://minerva-archive.org). Pls get involved!
+  - https://youtu.be/501pZoLSCCY
+  - 

@@ -6,11 +6,11 @@ Family guy moment
 
 Patent. Character. Sexy
 
-Smaash!
+they Smaash!
 
 offended.
 
-What the fuck? Lady, every man is like that, what do you expect? How do you define respect then? You're the one that **offended solely**. rbuh..
+What the fuck? Lady, every man is like that, what do you expect? How do you define respect then? Is your OC IRL? You're the one that **offended solely**. rbuh..
 
 ## bruh
 

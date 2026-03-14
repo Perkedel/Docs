@@ -2,7 +2,8 @@
 
 Family Guy Moment
 
-In a world where the entertainment is hold by cartel strictly. Android TV is a huge failure, because the cartel wants control. All must subscribe just to watch just just just 1 TV channel.
+In a world where the entertainment is hold by cartel strictly. Android TV is a huge failure, because the cartel wants control. All must subscribe just to watch just just just 1 TV channel.  
+Cartel-generally is typical clean corporation
 
 Hence there is a Revolution Rebel to make Entertainment free.
 
