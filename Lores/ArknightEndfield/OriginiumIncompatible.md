@@ -211,3 +211,5 @@ Now the cure has been found, the next step is application. But of course, we do 
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+[Can Perkedel people still get Oripathy?](NicotinePunishment.md)

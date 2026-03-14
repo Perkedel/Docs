@@ -1,6 +1,6 @@
 # Nicotine Punishment
 
-Oripathy contracts Perkedel's people too?! How?!?!?
+**Oripathy contracts Perkedel's people too?!** How?!?!?
 
 > [!TIP]
 > Previously told, Oripathy only happens to Hypergryph people in any of the universe HG belonged there.
@@ -13,7 +13,7 @@ Galah Ruslehan: Halluo!! This is bad!!!
 
 Halluo: (walk calmly) Hey, girl.. what's with the panik running?
 
-Galah: Oripathy..., on our people, in this universe!!
+Galah: Oripathy..., **on our people**, in this universe!!
 
 🔊💀💀💀💀💀💀💀💀
 
@@ -46,7 +46,7 @@ Halluo: If I'm not mistaken, some of thr class were punished into Detention Spec
 
 Cujah: (Halluo remembered) Huh? Yes! we have those sent in for that! (Hypothesis sparked) Wait.
 
-Halluo: Forgive for my rash presumption. Already 27 months we've interacted, we did not get any. Oripathy only happens if Originium works, which only on Hypergryph. People come here and there, never registered DNB just visiting. They did something to Originium. We've been glazing it over since we don't get it, and we cured those who are into Orisync. Some Orisynced even.. zero Originium now, Believe it or Not.. whoops trademark 😅 haha.. Anyways..... I might've glazed the vapers and smokers visitors lately. We don't survey customers about that lately, only for the rides to be. huuuuh...
+Halluo: Forgive for my rash presumption. Already 27 months we've interacted, we did not get any. Oripathy only happens if Originium works, which only on Hypergryph. People come here and there, never registered DNB just visiting. They did something to Originium. We've been glazing (skip the concern) it over since we don't get it, and we cured those who are into Orisync. Some Orisynced even.. zero Originium now, Believe it or Not.. whoops trademark 😅 haha.. Anyways..... I might've glazed the vapers and smokers visitors lately. We don't survey customers about that lately, only for the rides to be. huuuuh...
 
 Galah: And btw that's exactly what some of our patients have said!
 
@@ -61,11 +61,12 @@ Halluo: Ugh, cruel experiment time again?
 ### A few Cancelworthy experiments later.
 
 Yep. Vaper and Smoker will get harsh debuff against the risk of Originium. Orisync will fail if you don't stop smoking or vaping at least by 2 years.  
-Suppresant effect will also significantly reduced during this debuff window.
+Suppresant effect will also significantly reduced during this debuff window.  
+The ingredients of these Vapes and Cigarettes are various. Beginning from pure tobacco, taste chemicals, etc., but no such Originium ever contained in it.
 
 Halluo: I don't fucking know how world works.
 
-Koros Gibb: I mean.. Smoking or Vape bad.. This honestly... over (prevent `kill`)... Argh nvm. No comment. I hate smoking. we don't smoke.
+Koros Gibb: I mean.. Smoking or Vape bad.. This honestly... over (prevent `kill`, because saying `overkill` sounds like defending smoking and vaping which is absolute undesiration)... Argh nvm. No comment. I hate smoking. we don't smoke.
 
 Galah: Btw, I just found alcoholics patients at random who happened to be your visitors also. Nothing at all.
 
