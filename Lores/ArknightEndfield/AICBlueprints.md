@@ -55,6 +55,27 @@ That I could find, & what I had & edited some.
     - `EFO010U96AE173i1aE179` Xiranite
     - `EFO016i1ae40AI710O83e` Jincao
     - `EFO01u1IoaA8640a8AoOU` Wuling Battery
+- Once you've reached **Level 3 on Wuling's Jingyu Valley**, Destroy above Wuling **Main factories** & **Jingyu Factories**, [**replace with these factories**](https://youtu.be/CrnaBqvviok).
+  - [Copy Google Docs](https://docs.google.com/document/u/0/d/11xFCjc3xrsbCNuEZnpac7DxcHa1Wd2So1RqxLuQFDoI)
+  - Asia
+    - Pls photo
+    - XIRANITE: `EFO01602I655ae716O83e`
+    - CUPRIUM PART: `EFO0101O30226Ai29E179`
+    - SC BATTERY 1: `EFO01E50UE664Ioe93uIa`
+    - SC BATTERY 2: `EFO017i897uuA4582O0Ai`
+    - YAZHEN A: `EFO01A7u1AooeOEeO9ieO`
+    - RED GEAR: `EFO01ouiOo77396EUIieO`
+    - GREEN GEAR: `EFO013o723AAI1a9e0579`
+  - NA/EU (thancc @Leilyse)
+    - Pls Photo
+    - XIRANITE: `EFO010U96AE173i1aE179`
+    - CUPRIUM PART: `EFO019A61i2aUue605uI2`
+    - SC BATTERY 1: `EFO01a709UO6e8A96oe5e`
+    - SC BATTERY 2: `EFO0158OE3a2oeuaueIoe`
+    - YAHZEN A: `EFO0172UA43iE9557O0Ai`
+    - RED GEAR: `EFO016i1ae40AI7UUO83e`
+    - GREEN GEAR: `EFO01a709UO6e8A49oe5e`
+
 
 ### artsederhana17's factories
 
@@ -82,6 +103,7 @@ That I could find, & what I had & edited some.
 - https://youtu.be/UeJ8VOElMj8 (US)
   - Outpost (Shelter sementara): `EFO0158OE72A96ua0eIoe`
   - Automation Core (Main Base PAC): `EFO012I45iO7a0855eIOo`
+- Windows Phone link broke!
 	
 ### Mockermay's Factories
 
