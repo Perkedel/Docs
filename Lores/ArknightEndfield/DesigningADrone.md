@@ -115,3 +115,7 @@ Jackass: Good.
 ## Revision
 
 New! Hybrid Battery & Hybrid Memory Card! With internal memory & battery, extensible with slots respectively.
+
+## ATEX `Ex`
+
+Because the drone is tightly sealed, it could be used to fly around explosive air!
