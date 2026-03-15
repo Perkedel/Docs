@@ -110,3 +110,7 @@ Halluo: (portal the 4 boxes off the scene)!
 It's time to obtain an intel that happen to be found by a billiard rent-arcade owner.
 
 <!-- Billiard is smoker place, Endmin itching because Nicotine alergy. Originium will panik when touch Nicotine. -->
+
+<!-- passcode is sparing pretend punch stomach fight the intel holder -->
+
+<!-- after get intel, encounter coincident with fugitive being caught. let's open portal right here instead of back out of arcade -->
