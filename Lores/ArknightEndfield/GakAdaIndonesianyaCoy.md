@@ -34,7 +34,7 @@ Enthusiastic man: Gak ada Indonesianya coy 😢
 - Sarkaz (Collective).
 - Tara. Irish.
 - Hi?????. Japanese
-- Dozers (Collective). Indonesian. **This is from Perkedel Technologies**
+- Dozers (Collective). Indonesian + English (DNB). **This is from Perkedel Technologies**
   - Name `Dozer` taken from citizen / fan member codename of whole DNB Conglomerates of Nations. It's to "bulldoze" the wall that **blocks** us.
   - Arenod Sediron. Tends to have Javanese dialects
   - DNB Conquered Cartesians (Beside the Center Middle Cartesian).
@@ -66,12 +66,16 @@ Enthusiastic man: Gak ada Indonesianya coy 😢
   - Phoxhunter (generally)
 - Epid Games. ??? Crusade
 - MiHoYo.
-  - ???. Genshin Impact
+  - ???. Genshin Impact. Traveler
   - ???. Honkai Impact 3rd
   - ???. Honkai Star Rail
   - Phaethon. Zenless Zone Zero. Proxy
+- Kuro Games.
+  - ???. Wuthering Waves. Trailblazer (cmiiw)
 - Yostar
   - Boss Staffing Accord. Stella Sora. Trekkers
+- Nexon
+  - Schale. Blue Archive. Students
 
 ## Sauce
 

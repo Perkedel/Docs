@@ -40,13 +40,13 @@ Endmin: (telepathy) Ah, thanks. I should check you out.
 
 MudikBot #1: Also, my name's `Ellen`. `Ellen Van Electronische`.
 
-Yes, Bonnie's younger sister! inspired from ZZZ forgor who's that from Angel of Delusion. Has nanotech to switcu between flesh form and metal default form.
+Yes, Bonnie's younger sister! inspired from ZZZ's Aria from Angel of Delusion. Has nanotech projection to switch between flesh form and metal default form.
 
 Endmin is going now.
 
-Next phase, walk to 4th basement down there and enter room 404. You'll be lead to a lift. enter lift and choose `-4`
+Next phase, walk to 4th basement down there and enter room -404. You'll be lead to a lift. enter lift and choose `-4`
 
-Endmin: `Endministrator`. Just that.
+Endmin: (reply nameshare back with her name) `Endministrator`. Just that.
 
 Ellen Van Elektronsiche: You have such an interesting name. Have you received a hurdle from other peers
 

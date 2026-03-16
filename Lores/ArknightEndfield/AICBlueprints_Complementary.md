@@ -309,3 +309,12 @@ Endmin & Yorin had a very long talk down there. Sharing intel to each other, unt
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+[Gibb regrets](TalesOfTheGrumpyGibb.md)
+
+Gibbs:
+
+- Guro
+- Lukro
+- Koros
+- cousin Matrix

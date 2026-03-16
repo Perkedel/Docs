@@ -113,4 +113,4 @@ It's time to obtain an intel that happen to be found by a billiard rent-arcade o
 
 <!-- passcode is sparing pretend punch stomach fight the intel holder -->
 
-<!-- after get intel, encounter coincident with fugitive being caught. let's open portal right here instead of back out of arcade -->
+<!-- after get intel, encounter coincident with fugitive being caught far out off arcade. let's open portal right here instead of back out of arcade -->

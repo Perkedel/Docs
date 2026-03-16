@@ -431,3 +431,9 @@ Perkedel Technologies
 CC4.0-BY-SA
 
 Stork Alpha (The flight esc) Firmware update QoL Algorithm coming soon! Fly manual with more flat learning curve!
+
+## Extra
+
+### Sport supression
+
+Efurteyas invited by Millenium's Skateboarding Club, because the Gehenna's class council forbade skating. They also forbade air droning too!

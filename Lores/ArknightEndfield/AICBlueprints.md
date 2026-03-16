@@ -58,7 +58,7 @@ That I could find, & what I had & edited some.
 - Once you've reached **Level 3 on Wuling's Jingyu Valley**, Destroy above Wuling **Main factories** & **Jingyu Factories**, [**replace with these factories**](https://youtu.be/CrnaBqvviok).
   - [Copy Google Docs](https://docs.google.com/document/u/0/d/11xFCjc3xrsbCNuEZnpac7DxcHa1Wd2So1RqxLuQFDoI)
   - Asia
-    - Pls photo
+    - [Blemichi's Wuling Cuprium AIC Blueprint Placement](/media/Screenshots/Blemichi_AKE_AIC_WulingCopperPlacement2.png)
     - XIRANITE: `EFO01602I655ae716O83e`
     - CUPRIUM PART: `EFO0101O30226Ai29E179`
     - SC BATTERY 1: `EFO01E50UE664Ioe93uIa`
@@ -67,7 +67,7 @@ That I could find, & what I had & edited some.
     - RED GEAR: `EFO01ouiOo77396EUIieO`
     - GREEN GEAR: `EFO013o723AAI1a9e0579`
   - NA/EU (thancc @Leilyse)
-    - Pls Photo
+    - [Blemichi's Wuling Cuprium AIC Blueprint Placement](/media/Screenshots/Blemichi_AKE_AIC_WulingCopperPlacement2.png)
     - XIRANITE: `EFO010U96AE173i1aE179`
     - CUPRIUM PART: `EFO019A61i2aUue605uI2`
     - SC BATTERY 1: `EFO01a709UO6e8A96oe5e`
