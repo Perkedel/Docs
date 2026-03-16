@@ -36,14 +36,18 @@ Koros now contemplate. Was I overthinking afterall? I hope so. Really. I'm tired
 
 ## Hardwares & OS Required Login
 
-- DJI. [Max 5 use Anon OOBE](https://youtu.be/dtqBbaVNI0c), & [small max flight distance](https://youtu.be/SkHzawqtb2c)
-- Insta360. [Anon forbidden](https://youtu.be/dtqBbaVNI0c)
+- [DJI](https://consumerrights.wiki/w/DJI). [Max 5 use Anon OOBE](https://youtu.be/dtqBbaVNI0c), & [small max flight distance](https://youtu.be/SkHzawqtb2c)
+  - e.g., [Osmo Action 5](https://consumerrights.wiki/w/DJI_Osmo_Action_5_Pro)
+- [Insta360](https://consumerrights.wiki/w/Insta360). [Anon forbidden](https://youtu.be/dtqBbaVNI0c)
 - Windows (since 11). Anon forbidden, Hackery possible
 - Xbox (Since Series). Anon Forbidden?
 - Apple. Pls explain, assume Anon Forbidden
 - Google. Only for Play Store, otherwise Anon OOBE OK
+  - here's [Android](https://consumerrights.wiki/w/Android) as told with Play Store, e.g.
+  - [You are now required to send your own doxxing to Google](https://consumerrights.wiki/w/Android_Developer_Verification) just to Play Store
+  - Heh, [Motorola](https://consumerrights.wiki/w/Motorola), hypocrite! You did locked bootloader sometimes ago, and then all the way sudden you play *become an angel* card with collab with GrapheneOS?! Sorry thanks.
 - Arc Browser (The Browser Company). Anon Forbidden
-- GoPro. Bypass with [manually update Firmware from website](https://gopro.com/en/us/update?srsltid=AfmBOoowQEw_Sa02sIH-lwR3AZzBdMFJ2qMEiTuKmSbzVXU9B2sm5pFq)
+- [GoPro](https://consumerrights.wiki/w/GoPro). Bypass with [manually update Firmware from website](https://gopro.com/en/us/update?srsltid=AfmBOoowQEw_Sa02sIH-lwR3AZzBdMFJ2qMEiTuKmSbzVXU9B2sm5pFq)
   - Choose model
   - Download update manually, at the below sections. You should receive archive `UPDATE.zip`.
   - Extract the archive onto a memory card. the `UPDATE` folder containing the bin files, to root of the SD Card
@@ -65,6 +69,12 @@ Koros now contemplate. Was I overthinking afterall? I hope so. Really. I'm tired
 - Sony. Pls verify PlayStation latest!
 - GoPro. **Follow above bypass instructions!**
 - Perkedel Technologies. All from Consumer to Enterprise models; for MultiTalent software, Use Local save instead of Clouded.
+
+## Sauce
+
+- https://consumerrights.wiki/w/Forced_app_download
+- https://consumerrights.wiki/w/DJI_Osmo_Action_5_Pro
+- https://consumerrights.wiki/w/Forced_account
 
 ## End
 
