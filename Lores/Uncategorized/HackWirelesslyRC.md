@@ -22,7 +22,7 @@ A: Ooo!, nice, I'm so lucky!, (look at a woman there who is using breast pump) H
 
 C: I told you man, you should change its binding phrase!
 
-**The breastpump is wired**
+**The breastpump is wired & does not contain IoT**
 
 A: (sadd) Aaw...
 

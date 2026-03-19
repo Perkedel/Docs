@@ -221,6 +221,17 @@ That I could find, & what I had & edited some.
     - `EFO014o5OU786937AE81A` MinMax Batts 3 (Power usage till ⚡ 2985)
     - `EFO01A5ie90Ou3Eee91eO` Temp Xiranite
 
+### sunny_senpai's factories
+
+- [Symetrical 1.1 Cuprium](https://youtu.be/ZMKcLpcMgbs)
+  - Bottom Right: `EFO01u1Ioa526i0aaAoOU`
+  - Bottom Left: `EFO01o0839E5a7638IieO`
+  - Mid Right: `EFO011ea078IiOU2434O7`
+  - Mid: `EFO012I45oiUu1858eIOo`
+  - Mid Left: `EFO01o0839E5a765IieO`
+  - Top Right: `EFO01u1Ioa526i0aUAoOU`
+  - Top Left: `EFO010U96Au872i4E179`
+
 ### Minisets
 
 random too lazy to grab
@@ -279,6 +290,13 @@ Find more Blueprints!!!
 ## Complementary
 
 [Here](AICBlueprints_Complementary.md)
+
+## Extras
+
+- Battery capacities
+  - LC (Low Capacity) / KR (Kapasitas Rendah)
+  - SC (Standard Capacity) / KS (Kapasitas Standar)
+  - HC (High Capacity) / KT (Kapasitas Tinggi)
 
 ## end
 
