@@ -232,6 +232,11 @@ That I could find, & what I had & edited some.
   - Top Right: `EFO01u1Ioa526i0aUAoOU`
   - Top Left: `EFO010U96Au872i4E179`
 
+### LisaraScarlet's factory
+
+- [Final Wuling 1.1](https://youtu.be/lKN8K8k2eTI)
+  - Pls wait, YouTube APK forbid copy pin comment
+
 ### Minisets
 
 random too lazy to grab

@@ -1,0 +1,6 @@
+# The Omnipresent Jim
+
+Jim Barros is a salesman at DNB's Realm Estate. He's the front face of Realm selling. He can appear in multiple places at the same time, context differently all at the same time. As fast as Von Neumann CPU mechanism. A tick handles this appearance, next to that, and so on until the end of tick cycle. It all very seamless.
+
+One day, the Great Consequences of 2175 happened. People felt DNB's way of evading Blocks and entitlements too aggresive. It all backfires. DNB can't have anyone acquire realms for themselves for escape, no no no. So they overfed Jim to make him even stronger. Everytime people arrived at a seemingly empty planet of certain Realm, Jim's already there, because DNB already covered 1001% of all Realms. Nobody can escape except come back to Earth, which Doohickeys happen to also re-colonizing rn. They're all stuck lmao!  
+DNB doesn't care, they've experienced worse already in all lives. At this point, Reputation no longer matters. Now all they just need to do, is to make and own, for the good people and keep the entitled away.

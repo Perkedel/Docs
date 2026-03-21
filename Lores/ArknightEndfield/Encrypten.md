@@ -1,0 +1,9 @@
+# Encrypten
+
+Encrypten is an independent city. The people over there appears to be robot, where their heads are electronics with the face that's full face visor, body a motorcycle jacket. But according to a leak scan from Embarrasser found that inside are biological beings, and in fact after risky amount of repeat scan, they're thyrens based on canine and felines. Body shape is very similar to an [ancient patent](https://www.furaffinity.net/user/k.o.tsitraeht/) scholars did explored about a century and a half ago.  
+Hmm, this feels like Kaorfa's awish for ones which patent makers didn't at all share their 3D model or something. Anyways,
+
+When they speak, they speak in [Waver](https://github.com/ggerganov/ggwave). Fortunately, after been decrypted, it's basically English under a different letter system. How it works is impressively realtime, relying on their noggin that the word assembled into Waver sounds with their sophisticated suit real time. Then, the opponent decrypted the Waver back straight to that other noggin.  
+It's just like normal talk, but only compatible to each other. One day, there was a meeting with one of these folks. It's laggy, because the machine must finish translating their waver talks, but thankfully, Encryptens themselves can understand English tho. But hey, at least those who were unable to speak for some reason get to type in the Waver machine, yey!
+
+Many times, Encryptens often hired to become Sign Language interpreters on various formal partnership occassion, thanks to their typical diction experiences back home. They also handled other utterance stuffs like Steno-Subtitling, Translator Technician, etc. But there's zero Voice Acting, again, due to their Governor order of never show real voice to anyone, even their own folks.
