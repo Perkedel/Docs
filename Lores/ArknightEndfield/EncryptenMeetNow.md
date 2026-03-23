@@ -1404,8 +1404,18 @@ CC4.0-BY-SA
 
 ## Extra
 
+### operator Emilia
+
 Emilia! She is **Caster** (using Jotos E Drone as weapon)
 
 Combo skill is absorb HP of Vulnerable & fahdsklhfas Enemies & then give to all other Operators. When hit, the fasjdflkasd mark will be consumed in exchange of HP Absorb.
 
 Combo skill activates when djflkasdjfl mark appeared on an Enemy.
+
+### Encrypten City 
+
+Develop Encrypten City!
+
+New Sub-PAC to manufacture stuffs
+
+New mineables, **Carbonites**. Basically a Diamond that's it. A Carbon crystal made out of extreme pressures and heats. Can be manufactured into Bottles, Components, Parts, & Batteries.
