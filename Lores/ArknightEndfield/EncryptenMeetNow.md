@@ -1283,7 +1283,7 @@ Jeff: ...
 
 **Heartbeat 0 BPM**
 
-Andrew: (tear drop like damn collapsing) ..., Not yet... dad.
+Andrew: (tear drop like dam collapsing) ..., Not yet... dad.
 
 Emilia: Me neither!....
 
@@ -1349,7 +1349,11 @@ Andrew: (turn off desinfectant sprinkler) Okay that's enough.!., (sigh)...
 
 .
 
-Andrew: (PTT to entire building PA), Everyone pls make way for the former Major of the Encrypten Independent City, (turn on yellow pathways)
+Andrew: (PTT to entire building PA), Everyone pls make way for the former Major of the Encrypten Independent City, (turn on yellow pathways) (rel).
+
+Yellow pathways lit up. Across the city, full plain Yellow hologram banners soar up high. everyone stay away from lit up yellow pathways to cemetery.
+
+In Indonesia, death assembly flag is yellow.
 
 Cutscene roll of Jeff's corpse being escorted
 
@@ -1369,11 +1373,23 @@ Cutscene roll of Jeff's corpse being escorted
 
 After another sets of months have passed, things have returned normal.
 
+.
+
+Picture of Endmin, Sophia, & Emilia tri-greeting over symbolic unity ceremony
+
 The Doohickers, Mudikers, and Endfielders have continued bringing up Sciences to each other.
+
+.
+
+picture of Encrypten government office. It's crowded because it's hectic here
 
 Since the passing of Jeff Encrypten, Emilia being the first child of Encrypten, become hectic, has to rebuild and recompose every mess of this past time, and the passing incident. Like Tangtang had to become very hectic after her bro's passing. It's just heavy.
 
 But same like Tangtang, time after time Emilia still can manage to spare her time to hangout with the rest of DNB, even could only for short, as she must immediately return back to work.
+
+.
+
+picture of selling deed of country. Encrypten City has been sold back to DNB, returned to the Best Friend that was lost for century
 
 To prevent all the tediousity eat her life, Emilia officially joined her Independent City to DNB. Before the whole time it was, Encrypten has always been independent. A whole new country of itself, like Singapore. Like Lee Kuan Yew's heroic actions during his life of duty, Jeff built ever thriving lives of Encrypten successfully, despite of that one caveats, where if Singapore was the heat, **Encrypten was the litigation risk**.  
 With this *selling*, Encrypten's political burden should be much be-lifted significantly.
