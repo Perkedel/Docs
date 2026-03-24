@@ -1107,6 +1107,8 @@ Emilia: Dad (crash this goop door)!!
 
 Monitor on
 
+Everyone no longer use Waver, left the dad's still Wavering, which will be revealed in a sec.
+
 Giorgio: (prevent) Sorry guys, you can't get in. For health safety reason, There's lots of bacteria here.
 
 Sophia: Oh..
@@ -1129,23 +1131,23 @@ Emilia: He-euh?
 
 Jeff: (Waver DT-Fast) from being Sued!.., (breath in again)!!!!! (Waver DT-Fast) Even it's no matter coz we're too generic furry shape, (cough)!!!! (Waver DT-Fast) Fuck it,
 
-Jeff then remove helmet and began to speak regularly
+**REVEAL!**, Jeff then remove helmet and began to speak regularly
 
 Jeff: (breath out) HHHHhh!! HHHhhh!! Princess?
 
 Emilia: Dad?
 
-Jeff: You miss my voice?
+Jeff: You miss my voice (unintentional omit `& my face`, should be automatically presume too)?
 
 Emilia: I...
 
 She does.
 
-Sophia: What?? He's a regular human?
+Sophia: What?? He's a regular human? Huuh..
 
 Endmin: **Now that's when the helmet ears are decoration**. Interesting..
 
-Jeff: Hehe, you guys. Ahh. I wish I could see you closer. So.. (look at penguin shaped person) Endmin, .. (look at Frutiger Aero girl) Sophia. Fuck... I wish I could **tactically assess** you guys. Oh man...
+Jeff: Hehe, you guys. Ahh. I wish I could see you closer. So.. (look at penguin shaped person) Endmin, .. (look at Frutiger Aero girl) Sophia. Fuck... I wish I could **tactically assess** (feel their faces like an elder longing for grandchildren) you guys. Oh man...
 
 .
 
@@ -1331,11 +1333,27 @@ Zitomek: (async) We'll make better ways, (keep repeating)..................
 
 Jeff: (breath in hard)!!!, (release) HUAAAAAAAAAAAAAAAAAAHHAaaaaaaaaaaaaaaaaaaa...
 
-zoom out off the scene. Zitomek's chant also fades alongside ending the flashback
+zoom out off the scene. Zitomek's chant also fades alongside ending the flashback. fade to black
 
 ### End Flashback at last
 
-fade back to temporarily setup CCTV of Jeff's room. The whole room is already wet of desinfectant water. Sprinklers on everywhere. Corpse petrifier there is not enough, spray the whole room with different chemical which is this antiseptic.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+immediately back to temporarily setup CCTV of Jeff's room. The whole room is already wet of desinfectant water. Sprinklers on everywhere. Corpse petrifier there is not enough, spray the whole room with different chemical which is this antiseptic.  
+Everyone's turned on helmet again but still not using Waver  
+The bed's nanotech glass cover deployed, forming rounded box prism. Yes, the whole bed is also used for Jeff's coffin. Emilia will use a brand new bed.
 
 Emilia & Andrew too been sitting on floor
 
@@ -1355,7 +1373,9 @@ Yellow pathways lit up. Across the city, full plain Yellow hologram banners soar
 
 In Indonesia, death assembly flag is yellow.
 
-Cutscene roll of Jeff's corpse being escorted
+Cutscene roll of Jeff's corpse being escorted. The whole bed is escorted along the yellow line.
+
+fade to black
 
 .
 
@@ -1418,4 +1438,7 @@ Develop Encrypten City!
 
 New Sub-PAC to manufacture stuffs
 
-New mineables, **Carbonites**. Basically a Diamond that's it. A Carbon crystal made out of extreme pressures and heats. Can be manufactured into Bottles, Components, Parts, & Batteries.
+New mineables, **Carbonites**. Basically a Diamond that's it. A Carbon crystal made out of extreme pressures and heats. Can be manufactured into Bottles, Components, Parts, & Batteries.  
+You can also unlock and build Carbonite forge units. Unlike Wuling's Sky forge, there's no numbers of unit limit and you can put this any region. Be mindful, it takes twice of energy of Xiranite forge. This is where you have to use Diamond Batteries.  
+You know what, fine, turn on water mode! You can use water instead of power! Water mode will replace Power requirement 100% yey!  
+You can also build water processor series with Carbonites. Upgrade your water processors with Carbonite (requires original Wuling water processors respectively) and now you can bring Pumps, Conduits, etc. anywhere you'd like. Simply unlock Water anywhere in AIC research, you'll get one each processor as a free sample.

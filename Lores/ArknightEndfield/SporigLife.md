@@ -174,3 +174,85 @@ Sporig: Here we go!
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## [But we're not done yet!](https://youtu.be/7kRyjKlvLlA)
+
+Sporig enters job the first time. After somehow failed to get love that he wished, 3 times in a row, he decided to focus on the work until he die.
+
+2134
+
+Gravure: Welcome to Overseer. How may I help you?
+
+Sporig: ..., I need job. Doctorate
+
+Gravure: Doctorate's? Oh, Congrats on your S3! Just now?
+
+Sporig: Correct.
+
+Gravure: I see. Well that doesn't matter, anyway what job would you like?
+
+Sporig: I'd like to have the department that locks my life away, forever, till my demise.
+
+Gravure: Workaholics? (telepathy scan) ... (not found) hmm.., apologies, it seems we don't have such vacancy across Realms who had the department at all, at the moment. Would you like to find the closest one to you?, May I ask your personal life descriptions pls?, Like your hobbies, what college in total you strived for there, etc.?
+
+Sporig: Umm.. (unable to sure) Scan pls.
+
+Gravure: (acknowledge consent) Alright, I will scan your brain then. This won't hurt, (right hand over Sporig's forehead)!......
+
+.
+
+.
+
+Gravure: Looks like you're into Robotics. Perfect, we have department just for that. So, the Legendary Efurteyas family was in need for FPV enthusiast. They've been researching for Van Elektronische for years after many others who were tried to take down DJI failed countless times. You, will sit in the position to bring assistive technologies for Acro mode of Droning, so *anyone can become a chef*. the 3 stars, to be precise. Is this alright?
+
+Sporig: Whatever. I don't care for life anymore.
+
+Gravure: .. Alright, I'll put you in the lottery. (take a new Life Waiver paper) But before I commence, are you really sure wanna do this?
+
+.
+
+Gravure: By declaring yourself to work lifelessly, you will be lifeless, live to only do the job without partaking in any recreational quest that may occassionally spawn either in official and unofficial capacity.
+
+Sporig: I am long age.
+
+Gravure: Long age?, (check ID).... (birth year is `1955`, age then is `179` therefore) Oh wow.. okay. But sir, I don't want you to sign this, even tho you're practically immortal, ended up awaking at Jesus comeback is no fun, you know. I, the Overseer, has right to restore your broken heart. Everybody knows that. Lemme help you.
+
+Sporig: (force sign anyway)!!.!!.!.!!! !!. (put pen), Don't worry about me.
+
+.
+
+.
+
+Gravure: (turn scared) Ookay.. (finalize job application) you will, be assigned.. at, Mudik Science Center, to help folks research Assistive Acro. Btw, they're almost finished, left the finishing touch.
+
+Sporig: thank you. What's next?
+
+Gravure: (click next)
+
+special pathline light on the floor glows
+
+Gravure: Right this way, sir.
+
+## And now he got kids. Therefore Lifeless Declaration is no longer useful!
+
+present day
+
+Sporig: (tear the lifeless declaration form symbolically)!!!
+
+silence follows, after the echoes of shred symbolizing joy of freedom attainment. overall scenes. time is broad daylight yet Overseer office is desolate as always.
+
+.
+
+.
+
+machine stop recording. The event was witnessed only by video recording. No clap of congratulations unlike times before. There's no biological observer present by, because this is a niche procedure, many Overseers still putting together their own business after dealing their problems.
+
+.
+
+.
+
+Sporig: (selftalk) This gotta be fake. Am I looking at a real stuff?
+
+Doesn't care of anyone's witnesses. The real problem on his own was if finally getting furry wife and now fortunately having kids out of her, is real or not. Felt Sporig should've kept having problem, and therefore drown himself on the work forever until Jesus comes back. But now he no longers have one.
+
+Then best to live it. Turns out dud (divorce, she die, kids die or failed, or whatever) or not is someone else's problem. Like God is not an asshole like that, He shall provide and never abandon His own creation to despair like a spare-excess.
