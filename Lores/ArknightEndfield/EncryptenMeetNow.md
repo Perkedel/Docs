@@ -580,7 +580,7 @@ Emilia teleprotocolly stash the suit
 
 Turn around
 
-Endmin internal dayum bruh blush
+Endmin internal dayum bruh blush. **Whole this time her suit conceals her thicc ArzyParzy style body!**
 
 Sophia too
 
