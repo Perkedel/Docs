@@ -80,7 +80,7 @@ Endmin: (press `-4`)
 
 Lift: Going down.
 
-suddenly a crowd of scientist rushing in for an urgent quest!
+suddenly a crowd of scientists rushing in for an urgent quest!
 
 Endmin: (saw and pity)?, (hold `Open` for them)
 

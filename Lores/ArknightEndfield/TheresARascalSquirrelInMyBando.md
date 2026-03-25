@@ -72,11 +72,11 @@ Another day. The Doohickers have meeting. In this spot.
 
 The area right now smells like menthol
 
-Twinkpec Encrypten: This anti-septic here does not damage lungs. You can spray this safely all you like, and inhale it. In fact, it contains menthol.
+Timbre "Twinkpec" Encrypten: This anti-septic here does not damage lungs. You can spray this safely all you like, and inhale it. In fact, it contains menthol.
 
 Halluo: Hmm! Man!, this is what I want. You know we usually had to cover our nose and mouth when we disinfect premises, coz last chemicals are super corrosive! It won't harm plastics nor metal nor glass but.. Oeugh!! It stabs my nose!!
 
-Twinkpec: Yes. Because it contains rudimentarily built chemicals. Our chemical while also synthesized, are carefully built so it only targets the germs, not your cell. We basically sampled natural fruit, specifically Encryptberry. We studied it, reverse engineer it, recreate it, and test it. It works the same thankfully. And with that, we can immediately go to our goal, which is disinfectant. Well, about the Encryptberry, don't worry about it, we still cultivate those, just in case. Afterall natural tastes better, so.. we leave the synthesized ones just for this cleanups.
+Twinkpec: Yes. Because it contains rudimentarily built chemicals. Our chemical while also synthesized, are carefully built so it only targets the germs, not your cell. We basically sampled natural fruit, specifically Encryptberry seed. We studied it, reverse engineer it, recreate it, and tested it. It works the same thankfully. And with that, we can immediately go to our goal, which is disinfectant. Well, about the Encryptberry, don't worry about it, we still cultivate those, just in case. Afterall natural tastes better, so.. we leave the synthesized ones just for this cleanups.
 
 Halluo: Waaw. That's it?? I mean.. this works well?
 
