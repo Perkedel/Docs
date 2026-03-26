@@ -303,6 +303,7 @@ Find more Blueprints!!!
   - SC (Standard Capacity) / KS (Kapasitas Standar)
   - HC (High Capacity) / KT (Kapasitas Tinggi)
 
+
 ## end
 
 by JOELwindows7 & Communities  

@@ -44,13 +44,13 @@ Joel: (read mind detected, point her 👉) Nooo..!, you must wait till the age f
 
 .
 
-Joel: Any questions? .. Now, regarding about the Exchange. I decided to consider canceling this whole idea over there. NO, not entirely. From now on, **you'll have options only back to DNB Realms, full.** Noa, have we home'd all of our Students?
+Joel: Any questions? .. Now, regarding about the Exchange. I decided to consider canceling this whole idea over there. NO, not entirely. From now on, **you'll have options only back to DNB Realms, full.** Rin, have we home'd all of our Students?
 
-Noa: Yes, 100%.
+Rin: Yes, 100%.
 
 Joel: Good. Give them a month break. When the Exchange opens again, make sure only DNB owned areas show up. It's Arenod Sediron's & Dasandim's, you copy?
 
-Noa: Yes, Sensei.
+Rin: Yes, Sensei.
 
 Joel: Okay!, Class dismissed, thank you., God Bless you.
 

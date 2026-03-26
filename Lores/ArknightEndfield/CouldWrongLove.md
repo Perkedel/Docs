@@ -170,9 +170,28 @@ Breast Corsetter brigdes two balls together, covering the cleavage and pulling t
 
 Sporig: Wow this doohickey looks useful.
 
-Emilia: Of course, if I don't use those, (turn off Breast Corsette), my boobs will jump here and out and.. it can cause cramp (and even 💀 tear) when I do freestyle e.g.
+Emilia: Of course, if I don't use those, (turn off Breast Corsette), my boobs will jump here and out and.. 
+
+**mini cutaway imaginary demonstration**. Emilia ride FPV drone without Breasts Corsetter.
+
+freestyle flip crazy go through passes
+
+semi-rough land to land spot
+
+jump cut to breasts injury
+
+Emilia felt excruciating pain and sprains around chest area and inside her mountains. jacket opened and there's red ring on both breasts valleys. Don't worry, nipples hidden behind furs
+
+**end cutaway**
+
+Emilia: it can cause cramp (and even 💀 tear).. when I do freestyle e.g.
 
 Sporig: Mmm. yeah.
+
+> [!TIP]
+> The Breasts Corsetter bridge can also be used as a trampoline tarp. Useful to bounce grenade so it won't touch your 🫀 heart. Had the suit was without, the grenade slips a grip onto her cleavage or drilled through her center bone, 💥🫀 duar!  
+> You see, enemies can be so accurate sometimes.  
+> The bridge is very strong and bulletproof too, it can bounce up to .50 BMG sharpstrong back to its sender.
 
 .
 
