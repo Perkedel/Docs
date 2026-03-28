@@ -36,13 +36,17 @@ Emilia and some of those pilots & drivers go getting the signal jammer. Some res
 
 Yutax: Well well well, Landbreaker?
 
-Emilia: (shoot destroy that jammer with her gun)!!
+Emilia: (shoot destroy that jammer with her caster wand)!!
 
 Larper: (startled) EH!!
 
 the machine broke to pieces
 
-Yutax: Well if it isn't that Landbreaker tryna shooting howitzer directly at Emilia, (angrily pick up Larper by neck)!!!-WHO ELSE?!.
+There he is. The Enthusiasts found him. These guys are pointing each of their weapon to that LB
+
+Yutax: Well if it isn't that Landbreaker tryna shooting howitzer directly at Emilia, (angrily pick up Larper by neck)!!!-(async) WHO ELSE?!.
+
+Larper: (async) QQQKH-AAAkhQh!!..
 
 Portal open
 
@@ -50,13 +54,15 @@ Police then cuff Larper's hands to back. Then open Portal underneath to Judgemen
 
 close portal
 
-Yutax: Heh. No more running away. Pls this be the last time, ugh!.
+Yutax: Heh. No more running away.-, Pls this be the last time, ugh!.
 
 ## Peace returns
 
-Madamme Loxin: Emilia, How did your signal immune to jam. What protocol do you use?
+The Enthusiasts are reassembled. They are taking breaks and stop flying & driving. Some will re-examine & do maintenance of their drones.
 
-Emilia: Huh? ExpressLRS.
+Madamme Loxin: Emilia, How did your signal immune to jam?, What protocol do you use?
+
+Emilia: Huh? ExpressLRS. Latest version?..
 
 Yutax: What? We use ELRS too! We use the latest version, even. Wait. then what's the Antenna?
 
@@ -88,7 +94,9 @@ Emilia: 😊 Mm!.
 
 Yutax: Waaw okeh. Umm, you got spare prototype, (prepare wallet app)..., Name your price.
 
-Emilia: I had 10 more of these here, for 350. Sorry it's hefty, it's not mass produced
+Emilia: I had 10 more of these here, for 350 (Pts each). Sorry it's hefty (priced), it's not mass produced.
+
+Live Crowdfunding!
 
 Yutax: No it's okay, they wanna try it!. (afraid of Oripathy despite non-vaper nor-smoker) No no, not the Originium one right?
 
@@ -112,6 +120,10 @@ Yutax: Got it, take your time, (reconcentrate)!...!.!!..., (powerloop success) W
 Emilia: Guys?
 
 Mentou: (drifting) I'm excited! ...  yeah
+
+> [!NOTE]  
+> The Antenna is Open Source and we'll have DIY.
+> But unfortunately, Encryptium does not exist IRL.
 
 ## End
 
