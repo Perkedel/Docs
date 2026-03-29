@@ -12,6 +12,14 @@ But there are demands for it, since other companies are no longer trustworthy. O
 
 Funny enough, later the cars series are also renamed and rebranded `Needle` since Stork had land drones.
 
+## Types
+
+Needles are basically usual vehicles at this point.
+
+- Rotorer. Multi-rotors, Heli, Planes, anything flies.
+- Wheeler. Cars and Motorcycles
+- Boater. Boats, Yachts, Ships
+
 ## Logo Brand
 
 Interest of its brand shows.
