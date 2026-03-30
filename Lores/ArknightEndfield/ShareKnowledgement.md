@@ -9,3 +9,7 @@ No, until we can safely assume the open end about Perlica which guess what, in t
 Gocce btw will marry someone else instead. At this points, it's a classmate to another.
 
 Anyways, what insight here?
+
+## yea
+
+[Talk about How Stork named ridden vehicles `Needles`](NeedleTheRideableDrone.md).

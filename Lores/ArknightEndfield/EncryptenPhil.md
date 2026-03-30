@@ -1,6 +1,6 @@
 # Encrypten Phil
 
-You've seen 3rd Encrypten, Timbre Encrypten a.k.a. Twinkpec (coz he has twink body with plumpy pec).
+You've seen 3rd Encrypten, [Timbre Encrypten a.k.a. Twinkpec](/Lores/ArknightEndfield/TheresARascalSquirrelInMyBando.md) (coz he has twink body with plumpy pec).
 
 Now we have Phil "Philantrophy" Encrypten. Number 4.
 

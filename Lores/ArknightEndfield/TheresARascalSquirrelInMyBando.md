@@ -94,7 +94,7 @@ Halluo: Hmm?
 
 Koros: New proposal?
 
-it's Martin Lentabe again!
+**it's Martin Lentabe again!**
 
 Koros: (telepathy) Fuck, not him again!
 
