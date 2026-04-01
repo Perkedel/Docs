@@ -1,6 +1,6 @@
 # CPR Theft
 
-A penpal of mine was looking for CPR video that was lost. the sparsdat sauce is also gone. If you want the original, I'm sorry, the company you're looking for is unintuitive to find for anyways.
+A penpal of mine was looking for CPR fetish video that was lost. the sparsdat sauce is also gone. If you want the original, I'm sorry, the company you're looking for seems unintuitive to find & pay for anyways.
 
 So I'll just make the parody based on whatever this penpal best could remember the detail. Here we go
 
@@ -135,6 +135,8 @@ FFYO: (stop her heart defib)!!
 .
 
 Nadia: (beating again) HHHhh, NO!!
+
+repeat. Then Anthony,
 
 Anthony: (keep budging) OPEN UUUP!!! ....
 
