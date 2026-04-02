@@ -40,9 +40,11 @@ dies! Blight cleansed
 
 Emilia: Blight elimination confirmed. (async) , (RTH this drone, press & hold SH until RTH initiates )...
 
-look the Yangtze situation overall now
+look the Yangtze situation overall now. Blight turns to ashes then vaporizes like nothing happened
 
 *citizens down there*: (async) 👏👏👏👏👏👏👏👏👏🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+
+RTH initiated, Autopiloting to home!
 
 Halluo: Whew! What else?
 

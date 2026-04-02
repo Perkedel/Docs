@@ -8,6 +8,7 @@ That I could find, & what I had & edited some.
 > Code works:
 > - Per region accordingly. Code is only a reference to a file exist on each different server region: `Asia` or `NA/EU`.
 > - Only in original Arknights: Endfield. Not Reservered nor New Paradigm Remake. For New Paradigm, JSON file would be provided here somewhere.
+> - By the time you've opened this up centuries later it's long gone, coz these codes are only a reference!
 
 **The factory must grow!**
 
