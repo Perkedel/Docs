@@ -1442,3 +1442,9 @@ New mineables, **Carbonites**. Basically a Diamond that's it. A Carbon crystal m
 You can also unlock and build Carbonite forge units. Unlike Wuling's Sky forge, there's no numbers of unit limit and you can put this any region. Be mindful, it takes twice of energy of Xiranite forge. This is where you have to use Diamond Batteries.  
 You know what, fine, turn on water mode! You can use water instead of power! Water mode will replace Power requirement 100% yey!  
 You can also build water processor series with Carbonites. Upgrade your water processors with Carbonite (requires original Wuling water processors respectively) and now you can bring Pumps, Conduits, etc. anywhere you'd like. Simply unlock Water anywhere in AIC research, you'll get one each processor as a free sample.
+
+### North Cartesian hears this
+
+The Servant notifies Parim. Parim responded that this was expected. Because Encrypten story was about effect of murder of loved ones, while Parim is about being betrayed. Had he on Jeff's shoes, no idea. Do not want to feel, headache lot.
+
+Tell Encrypten to not share. No we won't, there's no point. But we need contigency in case somebody found out. Okay, tell lawyers we got to build such plan about it in advance. Even there has been known failure for obvious spouse deaths, people will stir trouble (like Twitter, `Immortal Potion is scam` despite already labeled not 100% always work since beginning).
