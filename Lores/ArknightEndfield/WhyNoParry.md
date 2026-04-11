@@ -50,3 +50,5 @@ Cleanser locked onto the wagon. wagon go to Judgement Realm.
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+Psst, in case you haven't know, **use Catcher!** his Combo skill is parry, activates whatever red idk!
