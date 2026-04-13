@@ -1,4 +1,4 @@
-# `Needle` the rideable not-drones
+# `Needles` the rideable not-drones
 
 a couple centuries ago, Stork department was perma-commissioned to make life sized not-drone vehicles. They were asked by the demand due to an incident relating to their previous partnership somewhere else.
 
@@ -77,7 +77,7 @@ Samuel: (turn back again) Ah! ..., **`Needles`**. Inegotiatable.
 
 Garry: Needles. Hmm, why is that?
 
-Samuel: This is stupid idea. If they insist, we're calling it `Needles`. Like... . **Needling your 🫀 heart organ**, too feel it's beating even closer. Add circuitry and batteries to these needles, to shock it and give high sensation of arrythmia and tachycardia best you could whatever, feel it gets faster and shaking more. In fact somebody got it ruptured, **Overseers have been warning them**, got kicked, Blocked, banned by the individuals and communities, and... yeah, can't be turned back. their fault. Point is, **riding the vehicle itself is idiot**, much like these Needlers. You can crash and gib, no matter how much safety you did add to it. That's why we only go by remote! If we had to go, then it's some other hows.
+Samuel: This is stupid idea. If they insist, we're calling it `Needles`. Like... . **Needling your 🫀 heart organ**, to feel it's beating even closer. Add circuitry and batteries to these needles, to shock it and give high sensation of arrythmia and tachycardia best you could whatever, feel it gets faster and shaking more. In fact somebody got it ruptured, **Overseers have been warning them**, got kicked, Blocked, banned by the individuals and communities, and... yeah, can't be turned back. their fault. Point is, **riding the vehicle itself is idiot**, much like those Needlers. You can crash and gib, no matter how much safety you did add to it. That's why we only go by remote! If we had to go, then it's some other hows.
 
 .
 
