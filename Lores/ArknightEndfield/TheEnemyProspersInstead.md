@@ -2,7 +2,7 @@
 
 After successfully ragebaiting DNB into Fatal Blunder, DNB reputation to Earth is permanently destroyed. It stopped the war, the Harrassers must be recalled immediately.
 
-Later, observation from Doohickey found the Enemy military Harrassment is prosperous. Sounds familiar. A western attacked middle east looks idiot, but the trick caused western to become rich later after-despite the losses. The was why would Harrasser attacked DNB who tryna peace since they were the exodus, idiot they seem, but again, they prosper despite the losses.
+Later, observation from Doohickey found the Enemy military Harrassment is prosperous. Sounds familiar. A western attacked middle east looks idiot, but the trick caused western to become rich later after-despite the losses. The was why would Harrasser attacked DNB who tryna peace since they were the exodus, idiot they seem, but again, they prosper despite the losses.p
 
 ## China-victim effect
 
