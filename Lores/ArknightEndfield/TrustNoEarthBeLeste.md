@@ -165,3 +165,55 @@ Might as well reveal the truth that I hate proprietarism idea of the shared asse
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Bonus
+
+2040s. A random lunch day. They have just finished, and began cafe-discussion.
+
+.
+
+.
+
+Gruve: Right, Madren has secured Embassy job in Arenod Sediron. 
+
+everyone glad & applause! .. .. .. ..
+
+Gruve: Over the past 5 years of the report, he likes the job. Tho of course not fully, because that's not Old Terra. I have sent new best friends to console him, until the space is found.
+
+.
+
+.
+
+Gruve: Anything else?
+
+Panfesir: ..., We must return to the discussion about the Realizing system. Alas, eventually we shall return to the unfortunate topic. This needs no introduction, hopefully.
+
+everyone is paying attention.
+
+Panfesir: Since Godot unfortunately has betrayed us, Efforts have since gone assunder (broke apart). We have since permanently lost our motivation to [ever continue](https://github.com/Perkedel/HexagonEngine). Yet alone no matter what, This effort requires more workforces to begin with, since everything must be made from scratch before it **minimally viable**. We don't even have such power to accomplish so to this day.
+
+.
+
+Gruve: Well, any good news now?
+
+Panfesir: I have. But I have since no more faith. As well as, you're free to disagree with this one. We have received informants intel about [s&box](https://store.steampowered.com/app/590830/sbox/).
+
+Gruve: (paywalled) Oh boy..
+
+Panfesir: Hear me out. This is the only way. Kaorfa happens to secured the full license to this engine, and to this day he was one of the unbeknownst somehow to kept it. Haven't yet confirmed. In here, Facepunch being the developer **pre-included** everything we could atleast do, to get started.
+
+.
+
+Panfesir: And, Allegedly, **there will no be royalties** once we made grands and millions. Although, I must be transparent, some requirement that seems [have yet to be changed for it](https://sbox.game/dev/doc/editor/game-exporting), e.g., **Steam publication requirement** before anywhere else.
+
+Gruve: Ugh, not again..
+
+.
+
+.
+
+Panfesir: Until we find the solution that's not only Open Source, Gratis, Full version, but also.. without any of those gripe right from the technicals, **down to the workers in it**, We'll stay here.
+
+everyone leave table except Zuuljedus. everyone want to take rest all of the sudden.
+
+Panfesir: I'm sorry. I tried my best.
