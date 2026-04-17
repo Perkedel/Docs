@@ -150,6 +150,10 @@ You will also develop this place for these elders. Until their demise, trade AIC
 
 You will also get Sub-PAC to develop your stuffs.
 
+It is recommended to choose `Madren` (6⭐ Nature Support Caster) as the warden. Best of the best for here, **covers all 3 buff aspects**. Madren is not native old-terran. He is a Dasandim being. He likes Earth, coz they're the one conceived Sciences first time. He want to live at Earth but his parrents forbid it coz it's too dangerous to this day. Help Madren settle and spread his Dasandimness there. Now, **Do you wish you can also bring back the Cosmic Gate as well?** Wouldn't it be nice if we all have bridge back and forth to trade stuffs and travel here and there, anytime?
+
+Madren: (selected in Old-Terra) Hmmm, Home sweet home. What I wish it to be. Alright, I'll tend this region as best as I could.
+
 Back in the Arenod Sediron, Endmin and Operators have been told the context. So when Endministrator & Operators arrived, they will tell, they are Madren's best friend so the volunteers recognize them. Madren is still alive and well. Sorry Madren can't be here at this time because we have yet to re-examine the situation now.
 
 *It's been a century!* Where the hell have you been? No, How the fuck have you been?
