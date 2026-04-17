@@ -1,0 +1,163 @@
+# Trust no Earth be Leste
+
+## Begin
+
+2150. Madren was Embassy for Earth / old terra.
+
+Trixin: You have built great relationship with old terra recently. **But I must warn you**, We no longer receive new partner to this day. Because all of those new gens have permanently sceptical againts us. For context, they're envious, we are so good, even we're just a toy nation.
+
+Madren: Then what's the problem? I had mine. Better stay this way. They believed in us, that we are, the better example. Keep sending the Science back to them.
+
+## Breakups
+
+2170 post-consequence. Even tho current partner still believes in DNB, but the old-terrans must hide it out, and permanently lost contact. Their fates becomes unknown anymore.
+
+Trixin: Mr.. 
+
+Madren: No, I know. This bound to happen. Go, ruin the reputation all you like. **But I must warn**, back to **you**. We, are basically **Timor Leste**. **We are deffectors**. Deffected the Old Terra, coz there's just so many corruption, and to just build better. God pls protect these poor souls, what are we gonna do now here? Aren't we supposed to pick them up? Oh that's right, those partners voluntarily stayed for their mission to share DNB's truth! ... Argh,, this is awry. We should've stopped keeping them there. idc, if that's their house.
+
+Trixin: ... I.. extremely apologize. We always have resurrector. But we haven't seen any of them pull one of your partners, which mean, **they weren't yet murdered**.
+
+Madren: Time is ticking. But Resurrector should make no more worries, right? ...
+
+Trixin: I understand you're mad. We uh.. ruined the reputation you built for decades. Then... I forcedly have to accept you refuse our apology, and do something else, is that correct?
+
+Madren: ...
+
+.
+
+.
+
+.
+
+Trixin: I believe you need lone time. I shall leave you now.
+
+## Flashbackin
+
+2024, When Madren in his 20s. A hot debate's been going on in Zuuljedus' keraton. Ms. Zuuljedus saw it all sitting on her throne.
+
+Gruve: I'm tired of this bullshit! `Harrassed me`? Dude, [that](https://github.com/Perkedel/CVR_Stuffings/blob/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/ActivationWatermarkJoke.png) was just a fucking prank! I don't get it what does it mean `Harrassed me`, (accidental explosive skill) **WHAT THE FUCK WAS IT!!!???**
+
+💥!!!!!!!!!
+
+Panfesir: WHOA-WHOA-WHOA-WHOA-WHOA-WHOA-WHOA-WHOA!. Calm down. We can solve this together.
+
+Madren: Guys, it's time to vacation! let's go to Leisure Palace in Saorfa!
+
+> Joel mudik to Semarang
+
+Panfesir: What? Now??
+
+Madren: What's happening? lots of chars here?
+
+Panfesir: Madren, don't worry
+
+Madren: No, This isn't alright.
+
+Gruve: Madren? Hey. Uh.. sorry you gotta see this, (leaving hastily) uhh.
+
+Panfesir: Hey where you going?
+
+Zuuljedus: Guys!. Let's go.
+
+.
+
+.
+
+Panfesir: Zuul? you okay?
+
+.
+
+.
+
+### Mudik Now. Leisure Palace
+
+.
+
+.
+
+Gruve: **We could be friends**
+
+Panfesir: Gruve, it's okay..
+
+Gruve: No.. We've shared intels together. Fucking apalling, so (🎶🎤🎹💿) creative yet easily offended..
+
+Panfesir: C'mon, **we'll make better ways**, I promise.
+
+.
+
+.
+
+Madren: Guy?
+
+Panfesir: We won't Overseer. I'm sorry. If already one mental state been broken, we must postpone. Until everyone's here okay, we won't see.
+
+Madren: Wha.. The party! It's annual, Kaorfa will lose medal!!
+
+Panfesir: Sorry.
+
+.
+
+.
+
+.
+
+Panfesir: (remembered Madren's friendships) Just..... You had friends right?
+
+Madren: ✅ uHm?.
+
+Panfesir: Make this a warning. World's out there is full of traps. First glance they be friendly. But they're all super-sensitive-explo-pucks. Poke wrong side, bam you're done.
+
+.
+
+.
+
+.
+
+Madren: How should I know?
+
+Panfesir: Uuh.., (open portal to asset stash)... ..., (take out this doohickey), (offer), A classic Eblan's probe. This scans their brain. It has an app installed to judge if your friend is offensible as that DJ. Take it.
+
+Madren: (take), (examine)....
+
+Panfesir: Might be insensitive & screwed up but, .. I don't want you to be heart broken as anyone ever. You can be strong, **but even a bedrock can be broken at last with a special chemical**. Do, do beware, if any of them are... that Chemical., **Impostor Among Us**. 
+
+.
+
+Panfesir: (still felt incorrect doing this consoling joke) Sorry, not the right time I know. Just.. beware.
+
+Madren: (back to pondering and contemplating this probe)...
+
+## Confirmation
+
+Madren scanned all the partners. They're all fine.
+
+As for the Realizers back there, they silently have moved on & abandoned the rabbithole, with the [last commit about it right here](https://github.com/Perkedel/CVR_Stuffings/commit/bb97216ff6bb23926fea4c4eb136b0dd2323c2ca). [Whatever](https://github.com/Perkedel/CVR_Stuffings/commits/main/). copyrigteht dnadmmaca, & block block block block block...
+
+Since then, Madren had been doing stuffs with Old terrans. Some even voluntarily decided to become DNB Overseer, as a back2back embassy for Old Terra side. Occassionally fetching back in person, and bringing them to their house on Old Terra.
+
+Madren didn't realized, all this was done, **without a single new partners**, but from each of the volunteers family.
+
+Until the bridge had to be burned permanently, coz the reboot Harrassers left DNB no choice, so no more so DNB did things, **way too far**. Inevitable. Some were stuck in DNB, **but some other stuck, in their own home**, within the danger, that's lurking, and ready to execute whoever is into DNB. They had to shed all DNB stuffs, and sell all the Sciences to China, and rebadge everything so that those are clean from DNB & Van Elektronische names.
+
+## Rescue them!
+
+You will receive a new main quest to rescue stuck DNB volunteers on Old Terra.
+
+The volunteers are way too old, and prefer to be burried here. So, it's their new generations that will make new home at DNB.
+
+You will also develop this place for these elders. Until their demise, trade AIC stuffs back into them and receive new stonk papers.
+
+You will also get Sub-PAC to develop your stuffs.
+
+Back in the Arenod Sediron, Endmin and Operators have been told the context. So when Endministrator & Operators arrived, they will tell, they are Madren's best friend so the volunteers recognize them. Madren is still alive and well. Sorry Madren can't be here at this time because we have yet to re-examine the situation now.
+
+*It's been a century!* Where the hell have you been? No, How the fuck have you been?
+
+## I'm PTSD from ever friending strangers online. They're too sensitive and notorious for violating DNB in the name of so-called **Safehouse**!
+
+Might as well reveal the truth that I hate proprietarism idea of the shared assets. There, All plong again, right?
+
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA
