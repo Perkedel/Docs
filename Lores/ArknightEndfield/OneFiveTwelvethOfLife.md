@@ -9,7 +9,7 @@ Mix these ingredients and make it drinkable
 - Gourd / Pare
 - Curcumin / Temulawak
 - other herbs
-- Stingbeast Fluid or any pure Honey. to compensate bitterness.
+- Stingbeast Fluid (Saliva) or any pure Honey. to compensate bitterness.
 
 Because life's more bitter than this pukeworthy concoction.
 

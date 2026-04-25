@@ -12,7 +12,7 @@ Jump the cut. KYS immediately executed without trial. With him alive, he could'v
 
 Hornted: Criminal Execution Completed. .., Brain activity still present, source of blood bleeding. He should asphixia and death imminence awaits.
 
-KYS thorax is hollow full. nothing's left. But his own controlled *Tumor* anywhere gave him so-gasply life support deperate as they can. KYS head has been concealed full face so he can't see the executors.
+KYS thorax is hollow full. nothing's left. But his own controlled *Tumor* anywhere gave him so-gasply life support deperate as they can. KYS head has been concealed full face so he can't see the executors. Body also sacked so the gibs won't fly everywhere.
 
 Kill Yourself: Pathetic. Is this the best shot you can get? You should've shot my head, right?
 

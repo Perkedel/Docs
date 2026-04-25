@@ -57,7 +57,7 @@ get back to initial overall whiteboard presentation scene
 
 Timbre: If you ask about the animal, don't worry. **We didn't do that**, coz this is not meant for them. THat version, is coming soon, so stay tuned.
 
-Move on to Tangtang's daily Oripathy medication. Tantang while already Melatonized been transfered to a ward bed with this doggy fell head position, butts lifted up. Timbre standing by Tangtang's legs. Timbre on right side, and Tangtang body points to left, her head twist-faced to port so camera can see her funny asleep face.
+Move on to Tangtang's timely Oripathy medication. Tantang while already Melatonized been transfered to a ward bed with this doggy fell head position, butts lifted up. Timbre standing by Tangtang's legs. Timbre on right side, and Tangtang body points to left, her head twist-faced to port so camera can see her funny asleep face.
 
 Timbre: (held Oripathy supressor injector, impact shot type, trigger on thumb, index & middle on the holding ring each) Finally, you can now easily administer something that's scary to your patient, such aas Injection., (push nozzle towards Tangtang's port side hip near start thigh), (press trigger)!..
 
