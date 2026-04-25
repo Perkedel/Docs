@@ -64,7 +64,7 @@ Jeff Encrypten: Doc, what's the solution? This is it, doc..
 
 .
 
-Parim: I'm sorry. I failed. Longshort, I got something in the night. an Angel spoiled me an intel that.. **Just live your life to the very end**. So at best, you make sure you find **partner you can ultimately trust to inherit your tech**. No need DNA related, just whoever trustworthy, you'll have one.
+Parim: I'm sorry. I failed. Longshort, I got something in the night. an Angel spoiled me an intel that.. **Just live your life to the very end**, had to be the best you could. .., So at best, you make sure you find **partners you can ultimately trust to inherit your tech**. No need DNA related, just whoever trustworthy, you'll have one.
 
 .
 
@@ -82,7 +82,7 @@ Parim: Revelation!.., First ever to hear this spoiler, **That's the plan**. They
 
 KYS: (Tumor anti-resurrect failed wtf)?!?! ...
 
-Parim: Forgive me that's complicated to your teeny tiny brain. If you ask me, go ahead blame me all you want. But only because **I called you out**. Nothing else. Coz you did this to yourself.
+Parim: Forgive me that's complicated to your teeny tiny brain. If you ask me, go ahead blame me all you want. But only because **I called you out**. Nothing else.  Coz you did this to yourself.  hah, (approach), so help yourself, (pat KYS head swipely)!.!.!, .., and good luck . .., (jump move away)!
 
 .
 
