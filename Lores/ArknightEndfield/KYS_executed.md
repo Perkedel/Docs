@@ -86,7 +86,7 @@ Parim: Forgive me that's complicated to your teeny tiny brain. If you ask me, go
 
 .
 
-Parim: You kill them, I undo those. God gave me this power, pulled me out of the hell, pity of me, ***shall not end like this*** (I finLly have learned all the lesson and the meaning of my suffering with this rotten cardiophilia community). Therefore I must use this gifted opportunity, (menace stare back) **to undo what have you done**, coz God gave me first undo to me. And all it takes, (leave scene)....., (open & get out), **pour my blood and the derivatives based on mine**, to the lost ones!-, lol,  (close)!.
+Parim: You kill them, I undo those. God gave me this power, pulled me out of the hell, pity of me, ***shall not end like this*** (I finLly have learned all the lesson and the meaning of my suffering with this nowadays rotten cardiophilia community). Therefore I must use this gifted opportunity, (menace stare back) **to undo what have you done**, coz God gave me first undo to me. And all it takes, (leave scene)....., (open & get out), **pour my blood and the derivatives based on mine**, to the lost ones!-, lol,  (close)!.
 
 KYS devastated, plan failed.
 
@@ -109,3 +109,11 @@ Cleanup crew enters scene and cleaned up the mess
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## No more needing Thought pin!
+
+Died Operators return!
+
+Play these Operators
+
+Various tier! including 6⭐ ones!
