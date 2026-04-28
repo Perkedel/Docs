@@ -100,6 +100,30 @@ That I could find, & what I had & edited some.
     - CUPRIUM PART: `EFO019A61i2aUue605uI2`
     - RED GEAR: `EFO016i1ae40AI7UUO83e`
     - GREEN GEAR: `EFO01a709UO6e8A49oe5e`
+- [Special Event Xiranite Gourd!!!](https://youtu.be/bf255Ozisno). **Wuling Limited Event Xiranite Gourd**
+  - [Google Doc](https://docs.google.com/document/u/0/d/1VzdNY-3GOBK10SUmK7HhfOybqKvPJpI3l_DtxNUzPb0)
+  - Asia
+    - XIRANITE v2: `EFO01u8U4uiioa0euAoOU`
+    - HEAVY XIRANITE: `EFO01I3A5Iee809975o08`
+    - HETONITE COMP: `EFO013o723AAI1aU90579`
+    - SC BATTERY 1: `EFO01E50UE664Ioe93uIa`
+    - SC BATTERY 2: `EFO017i897uuA4582O0Ai`
+    - YAZHEN A: `EFO01A7u1AooeOEeO9ieO`
+    - CUPRIUM PART: `EFO0101O30226Ai29E179`
+    - RED GEAR: `EFO01ouiOo77396EUIieO`
+    - GREEN GEAR: `EFO013o723AAI1a9e0579`
+    - Xiranite gourd: `EFO01ouiOo77396ooIieO`
+  - NA/EU (thancc @Leilyse)
+    - XIRANITE v2: `EFO019A61i2aUueIA5uI2`
+    - HEAVY XIRANITE: `EFO014o5O81EIi3i0E71A`
+    - HETONITE COMP: `EFO0172UA43iE95uUO0Ai`
+    - SC BATTERY 1: `EFO01u1IoaA8640eiAoOU`
+    - SC BATTERY 2: `EFO011ea0759ioUo434O7`
+    - YAHZEN A: `EFO0172UA43iE9557O0Ai`
+    - CUPRIUM PART: `EFO019A61i2aUue605uI2`
+    - RED GEAR: `EFO016i1ae40AI7UUO83e`
+    - GREEN GEAR: `EFO01a709UO6e8A49oe5e`
+    - Xiranite gourd: ...
 
 
 ### artsederhana17's factories
@@ -273,6 +297,14 @@ That I could find, & what I had & edited some.
     - JV AFK 2: `EFO0172UA3844i53aO2Ai` 
     - Temp Cuprium parts: `EFO014o5O1688E3i7E81A`
     - Temp Xiranite: `EFO01A5ie90Ou3Eee91eO`
+- https://youtu.be/eZ_ZUwlv17Y **Special Xiranite Gourd**
+  - [Google Doc](https://docs.google.com/document/d/e/2PACX-1vRhSiCTfh7-EJjjqjhJIrX4pkvK4G569IqVfWKeth0MmK9iz8Vf3vj8y8IhfQULHfasW9BtU5KgjabH/pub)
+  - Asia
+    - Event Carb: `EFO017i89o8o6E55eO2Ai`
+    - Event MS: `EFO01u8U47U7560a2AEOU)`
+  - NA/EU
+    - Event Carb: `EFO01eE7U8o22A40Uo9i8`
+    - Event MS: `EFO0172UA3844i539O0Ai`
 
 ### sunny_senpai's factories
 
@@ -303,6 +335,9 @@ random too lazy to grab
   - Automation Core (Main Base PAC):  `a`
 	- Must Battery Farm: ~~`EFO018IeE2o6u61IUI73`~~ `EFO01A7u1aUOeOE19ieO` Farm Blue Batteries
 	- Powerbanker: `EFO01521e743E3uIeIoe` Receive batteries to Thermobanks
+	- Xiranite Gourd Builder (Core): `EFO013o72481I1aua0579` Build Xiranite Gourd.
+	- Xiranite Gourd Builder (Symetry Bus Port): `EFO01ouiOEI939633IieO` Build Xiranite Gourd, Bus Port version.
+	- Xiranite Gourd Builder (Redu Compact): `EFO01eAo09i2U24aAoAi8` Build Xiranite Gourd, Compacted Bus Port version.
 - And the edits are (Asia)
   - Ultima's Endless Plants but 2x & **Wuling**: `EFO01E50UAOI4Io23uIa` (based on [this](https://endfieldtools.dev/community-factories/blueprints/buckflower/?id=508cb6f9-3130-4392-9277-e501c42f26c6), and then 2x'd it)
 
