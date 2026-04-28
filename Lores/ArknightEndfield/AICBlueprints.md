@@ -245,6 +245,34 @@ That I could find, & what I had & edited some.
     - `EFO0172UAa148o552O2Ai` MinMax Batts 2 (Power usage till ⚡ 2685)
     - `EFO014o5OU786937AE81A` MinMax Batts 3 (Power usage till ⚡ 2985)
     - `EFO01A5ie90Ou3Eee91eO` Temp Xiranite
+- https://youtu.be/J-_uyiixxTE Max Profit **Wuling 1.2.1**
+  - [Google Docs!](https://docs.google.com/document/d/e/2PACX-1vQGffyF734_beAe29CV6OUR1JWrVv0sxazJUnL1h9If91oHmAAmdF_tmq7TuiP-e5pMto3ZeSzu7m1p/pub)
+  - Asia
+    - Wuling 1: `EFO0101O36708ai90E179`
+    - Wuling 2: `EFO01A7u1e4A6UE769ieO`
+    - Wuling 3: `EFO017i89AE70e54eO2Ai`
+    - Wuling 4: `EFO01eAo0UOeai4uuoui8`
+    - Wuling 5: `EFO01u8U4o6u230U8AeOU`
+    - Wuling 6: `EFO012O9A5u2UE8E3e3Oo`
+    - MS SubAIC: `EFO017i89AE70e5a8O0Ai`
+    - JV SubAIC: `EFO017i89AE70e5a5O8Ai`
+    - JV AFK 1: `EFO01eAo0UOeai4ueoui8`
+    - JV AFK 2: `EFO01A7u1e4A6UE109ieO`
+    - Temp Cuprium parts: `EFO013o72e7e49a60579`
+    - Temp Xiranite: `EFO01a6589eao1AU5ou5e`
+  - NA/EU
+    - Wuling 1: `EFO01U4Aiu355eOO871a8`
+    - Wuling 2: `EFO0172UA3844i53UO0Ai`
+    - Wuling 3: `EFO016i1a42ee0791O83e`
+    - Wuling 4: `EFO01eE7U8o22A404oui8`
+    - Wuling 5: `EFO011ea054779UaE3aO7`
+    - Wuling 6: `EFO01U4Aiu355eOoa71a8`
+    - MS SubAIC: `EFO010U96EOAA1ia8E179`
+    - JV SubAIC: `EFO01a709O5UU6Ae5oe5e`
+    - JV AFK 1: `EFO01a709O5UU6AeOou5e`
+    - JV AFK 2: `EFO0172UA3844i53aO2Ai` 
+    - Temp Cuprium parts: `EFO014o5O1688E3i7E81A`
+    - Temp Xiranite: `EFO01A5ie90Ou3Eee91eO`
 
 ### sunny_senpai's factories
 
