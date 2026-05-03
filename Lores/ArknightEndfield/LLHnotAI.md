@@ -68,6 +68,8 @@ Hwhimm!
 
 ## end
 
+Parim: Experiment success. It's up to Kaorfa's children and the late formers (including Kaorfa himself), **to accept this bill.**
+
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
