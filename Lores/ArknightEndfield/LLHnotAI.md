@@ -54,6 +54,8 @@ Parim: I'm tired of your BSes. When I was banned from your dad's group I went th
 
 Parim reveal! He's for `Creatives nothing to do with Author` bill.
 
+Parim: Coz the game's already rigged from start!
+
 Faul: WHHAT?! Don't YOU EVER WRANGLE MY ARTS INTO AI!!
 
 Parim: Oh no, it's not. It's, (open hologram) **Human Learning**.
