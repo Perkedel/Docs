@@ -124,7 +124,7 @@ That I could find, & what I had & edited some.
     - RED GEAR: `EFO016i1ae40AI7UUO83e`
     - GREEN GEAR: `EFO01a709UO6e8A49oe5e`
     - Xiranite gourd: ...
-
+- [Phase 2 Xiranite Jade Gourd](https://youtu.be/gCh7eGfWRvY)
 
 ### artsederhana17's factories
 
