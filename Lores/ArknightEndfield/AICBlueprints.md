@@ -124,7 +124,32 @@ That I could find, & what I had & edited some.
     - RED GEAR: `EFO016i1ae40AI7UUO83e`
     - GREEN GEAR: `EFO01a709UO6e8A49oe5e`
     - Xiranite gourd: ...
-- [Phase 2 Xiranite Jade Gourd](https://youtu.be/gCh7eGfWRvY)
+- [Special Event Phase 2 Xiranite Jade Gourd](https://youtu.be/gCh7eGfWRvY)
+  - [Google Docs](https://docs.google.com/document/u/0/d/1VzdNY-3GOBK10SUmK7HhfOybqKvPJpI3l_DtxNUzPb0)
+  - Asia
+    - XIRANITE v2: `EFO01u8U4uiioa0euAoOU`
+    - HEAVY XIRANITE: `EFO01I3A5Iee809975o08`
+    - HETONITE COMP: `EFO013o723AAI1aU90579`
+    - SC BATTERY 1: `EFO01E50UE664Ioe93uIa`
+    - SC BATTERY 2: `EFO017i897uuA4582O0Ai`
+    - YAZHEN A: `EFO01A7u1AooeOEeO9ieO`
+    - CUPRIUM PART: `EFO0101O30226Ai29E179`
+    - RED GEAR: `EFO01ouiOo77396EUIieO`
+    - GREEN GEAR: `EFO013o723AAI1a9e0579`
+    - Xiranite Gourd: `EFO01ouiOo77396ooIieO`
+    - Jade Gourd: `EFO01eAo0e33U24I0oAi8`
+  - NA/EU (thancc @Leilyse)
+    - XIRANITE v2: `EFO019A61i2aUueIA5uI2`
+    - HEAVY XIRANITE: `EFO014o5O81EIi3i0E71A`
+    - HETONITE COMP: `EFO0172UA43iE95uUO0Ai`
+    - SC BATTERY 1: `EFO01u1IoaA8640eiAoOU`
+    - SC BATTERY 2: `EFO011ea0759ioUo434O7`
+    - YAHZEN A: `EFO0172UA43iE9557O0Ai`
+    - CUPRIUM PART: `EFO019A61i2aUue605uI2`
+    - RED GEAR: `EFO016i1ae40AI7UUO83e`
+    - GREEN GEAR: `EFO01a709UO6e8A49oe5e`
+    - Xiranite Gourd: `EFO011ea0759ioUi734O7`
+    - Jade Gourd: `EFO01u1IoaA864034AoOU`
 
 ### artsederhana17's factories
 
