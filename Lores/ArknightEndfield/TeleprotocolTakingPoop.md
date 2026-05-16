@@ -20,7 +20,7 @@ Porleke: If you can make it, why bother making the doohickey for it?
 
 .
 
-Teleprotocol around her belly. Teleport poops inside straight onto a septic tank magically.
+Teleprotocol crystal particlings around her belly, swipe from bottom to upward til just below ribcage. Teleport poops inside straight onto a septic tank magically.
 
 SFX Toilet flush! ... ... siphon finished
 
