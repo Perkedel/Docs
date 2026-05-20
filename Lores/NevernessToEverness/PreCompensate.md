@@ -215,6 +215,30 @@ Parim: Don't mention it. I should bring friends with me, to introduce Pts. to He
 
 ## End
 
+Thankfully at least Parim used the vault to create first sample of useful products like snack bar which then industrialized into factories making the product.
+
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extras
+
+Parim: (tidying up tie) Darling, Daddy & friends have to go for business tour again.
+
+Mayu Pandora: Yes, dad?
+
+Parim: Please take a look at my home, and the factories.
+
+Mayu: Oke pa!..
+
+Parim: Feel free to make new flavours. If it's you making it, then I'm confident it gonna relate to your friend's
+
+Mayu: As you wish dad!
+
+The vault mixes Oreo with Melon & Tolak Angin. Melon Tolak Angine flavoured cookies!!!
+
+Parim: Folks, you ready?
+
+Pupu: Yea boss!
+
+Ghuh: Wait!..
