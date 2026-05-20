@@ -235,7 +235,7 @@ Parim: Feel free to make new flavours. If it's you making it, then I'm confident
 
 Mayu: As you wish dad!
 
-The vault mixes Oreo with Melon & Tolak Angin. Melon Tolak Angine flavoured cookies!!!
+The vault mixes Oreo with Melon & Tolak Angin. Melon Tolak Angin flavoured cookies!!!
 
 Parim: Folks, you ready?
 
