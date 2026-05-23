@@ -26,8 +26,6 @@ List of banned countries and names recommended
   - David Island
 - Japan. Egregious Copyright, Fair Use law unsupported
   - Sunrise Isle
-<!--- Thailand (Proposal). Undisclosed yet
-  - ..-->
 - Cambodia. Did not punish scam centers
   - ..
 - USA. Various crimes including failure to discourage toxic behaviours & failure of punishing genocides.
@@ -42,3 +40,7 @@ List of banned countries and names recommended
   - We keep it here in case the winning last year now host country hated Singapore. If so, then this alternative name gets used.
 - ??? (Birthplace of Zumi). Toxic politics and failure to serve for the people
   - ...
+- Indonesia (**invalid**). Corruptions everywhere
+  - Archipelago Collectives
+  - There is 1 Independent City whose founder was former Indonesian. He loathe it due to political disasters over the centuries.
+  - We have it here in case this or more country had to host it.
