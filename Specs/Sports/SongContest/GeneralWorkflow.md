@@ -51,6 +51,10 @@ Rule for songs to be used for contest as follows
       - Mainly formatted for latest high end Yamaha Keyboards there is such as `G2` (Genos 2). The compatibility formats (`XA`, `GM`, `XT1~5`, `KORG`, `GS`, etc.) are for later.
       - Motion cue. Data usually used for epic stage show, that'll trigger some machines in the play automatically. Here, it's used for lights, select video files, burst the flame, etc.
       - Sync 1 to 1 for MIDI vs. original Audio, tolerance of 0.05 ms. Because when performance, the MIDI file will be played into Octavia.
+  - Disclosure.
+    - List all members and instruments involved
+    - Cannot use 3rd party member that will not exclusively works for the team. If you had to use the power, then you must obtain the copy of their power, including self hosting the power.
+    - And the newly created member must also be disclosed and how do they work. Yeah, everyone must know if e.g. music was made by another Intelligent Construct of the same nation, and/or e.g. the team consists of kitbash Intelligent Constructs.
   - Copyright. 
     - Royalty Free. Songs that's validated into Base Qualification must be Royalty Free, Gratis, and Commercial use allowed.
     - License Form. Therefore, when you submitted song, you have another consent form you are required to sign, stating that you are consent for your songs be
