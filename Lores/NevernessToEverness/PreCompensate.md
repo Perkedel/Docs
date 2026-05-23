@@ -242,3 +242,94 @@ Parim: Folks, you ready?
 Pupu: Yea boss!
 
 Ghuh: Wait!..
+
+### Arrival
+
+Gold Apple Museum. After Endfielders explored enough days, they settled a while in Gold Apple Museum. In curiousity sake, this museum is free entry fully, when most are paid. And they dare to showcase few of these interesting Anomalous Objects around.
+
+Endmin was sitting enjoying the view of this main hall.
+
+Parim the approaches Endmin there on bench.
+
+.
+
+.
+
+Endmin notices Parim has approached close
+
+Endmin: Oh, hi.
+
+Parim: Is the slot empty?
+
+Endmin: ..., (pat the empty slot)! !
+
+Parim: (sitt next by Endmin)!... ..., (observe the hall too)....
+
+.
+
+.
+
+.
+
+Parim: A little complain to you. Did you just shared my house address to BAC?
+
+Endmin: Hm? I did.
+
+.
+
+Parim: You can't just dox anyone just because I'm so formidable of using any kinds of weapons, you know.
+
+camera look a bit far of those 2.  
+DNB rule says Realm Owner house address is public and common knowledge. This is so people from whereever they are can easily inquire how to explore and live the world. And Realm owner must live in that address, and if they moved, everything about it must be notified to DNB.
+
+.
+
+.
+
+.
+
+.
+
+Parim: (sigh)...., Well, can't beat out DNB's legislation am I right? I own Realm now, so.. had to bear inquiries, that's the rule. I had guards to moderate the process, heh.. .. ..
+
+.
+
+.
+
+.
+
+Parim: I'm curious. What is this world?
+
+Endmin: It's a world full of supernaturals. People here call such incident **Anomalies**. And people have been living with it, even some are considered like human, where yours like Intelligent Construct.
+
+Parim: Oh?. ***Intelligent Anomalies***?.. that's interesting. Of course, there's also dangerous Anomalies, correct?
+
+Endmin: Of course.
+
+Parim: Mm.. ..
+
+.
+
+Endmin: Now, Parim. Do you have any business upcoming?
+
+Parim: Yes. ... I'd like to introduce.. Hetherau of DNB Pts. I'd like for these 2 connect and convertible. I'd appreciate if you have any intel where do I get started.
+
+Town Employee woman: Mr. Parim?
+
+Parim: Oh, town management?
+
+Employee: Pts-Fons Exchange proposal?
+
+Parim: Hah. How did that just happen?
+
+Endmin: I just heard, you are having this business.
+
+.
+
+Parim: Eh, whatever. Lead me the way.
+
+Employee: Hold my hand.
+
+Parim: (hold)..
+
+ReroRero teleport to Town hall. Long short Parim have meeting with the Hetherau Town Management to install Pts-Fons money exchange.
