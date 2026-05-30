@@ -183,7 +183,7 @@ Devet: (offer give scaredly)!,
 
 Hatre: (take), (ptt) How do you want to do this, and what do you want?!.
 
-Teddy: Chill, like we gonna arrest you coz you're the commissioner of war Loathe Head.
+Teddy: (ptt) Chill, like we gonna arrest you coz you're the commissioner of war Loathe Head. (rel)
 
 Heavy thunk. Yep, we're all doomed. DNB always knows.
 
@@ -191,7 +191,7 @@ Hatre: ... (ptt) If you dare, take your steps in for attempted arrest, I'm sorry
 
 Devet: (async) (whisper from distance) (scared wave rejection) NO! PLS NO! DO NOT KILL THE BROTHER OF THE KING SEDIRON!! DO NOT!!
 
-Hatre: gonna get it. Beside!, This all new rule was made last minute just before we act on the war after the Loathes accidentally thought about poisoning way too hard you guys overheard it. telepathically, you stalkers.. (rel)!
+Hatre: gonna get it 💢. Beside!, This all new rule was made last minute just before we act on the war after the Loathes accidentally thought about poisoning way too hard you guys overheard it. telepathically, you stalkers.. (rel)!
 
 Teddy: (ptt) Ugh.. fine, I know you upset, but please, we can cleanse the poisons into anti-venoms. No arrest shall be made, (open portal onto the office portal), (end call)
 
@@ -207,7 +207,7 @@ Devet: Uh...
 
 .
 
-Jeally Iray: Hey, c'mon, be quick! I have login by 3 AM in a minute!
+Jeally Iray: Hey, c'mon, be quick! I have (gacha game) login by 3 AM in a minute!
 
 Hatre: (Jeally is on the DNB's side, he's arrested then) Jeally??, Oh shit (time to surrender), (take the remote control & necklace its strap)!.., (prepare bring the trolley carrying the poisons to the portal) C'mon, Deve, we're done here. Just bring everything to duke Sediron.
 

@@ -23,6 +23,8 @@ East Cartesian neighbours with Vacation Island (Northwest Middle Cartesian) & Ar
 
 https://joelwindows7.tumblr.com/post/181835795358/accidentally
 
+![Accidentally dialogue](https://perkedel.netlify.app/assets/img/skrensut/Accidentally_chronicles.jpg)
+
 At some point in time, Now that these 5 founders successfully continued such new lives, People come, out, and circle around here. Events includes marriages & breedings. This once again diversifies total DNA compositions here in East Cartesian, just like Duron Sediron wanted in his Arenod-Sediron's Total Goal.
 
 Which eventually, created one prominent family. For context, the East Cartesian scenery, established in an Empty Intentionale Experiment from long ago, looks like one of those adult cartoons. Namely: Family Guy, American Dad, Simpsons, Oggy, and alike. The grade of colors, vibes, air, and such, inspired DNB to create their own, and of course Open Source. With no time, Viorfa approved, so does the Chronicles. All interesting moments will be recorded, compiled, and be viewed by thousands across realms.

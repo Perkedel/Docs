@@ -9,5 +9,6 @@ so to compose it is basically takes from family name, followed by the surname th
 - Son of God
 - Son of deity
 - Descendant of deity
+- **Prince of the Heaven**. His excellency, Prince of the Heaven's kingdom
 
 etc.

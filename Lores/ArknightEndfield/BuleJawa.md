@@ -2,7 +2,7 @@
 
 ## Begin
 
-Higro: ..., May I state personal questions?
+Higro Scope: ..., May I state personal questions?
 
 Emilia: Okay?
 
