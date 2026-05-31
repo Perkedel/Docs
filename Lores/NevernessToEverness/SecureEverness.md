@@ -13,3 +13,5 @@ Compare SCP to NTE!!!
 | Creepy-Pasta Frequency | Few Anomalies | Most of the time |
 | Experience Origin | Gacha Game you can download & play rn | Articles and fan videos, and a game idk which |
 | Franchise Owner | Hotta Studio, Perfect World Games | ??? |
+| Sexy subject e.g. | ??? | Mal0 |
+| Sexy agent e.g. | Mint | ... |
