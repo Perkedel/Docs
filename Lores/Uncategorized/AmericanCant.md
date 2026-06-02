@@ -4,7 +4,7 @@ Confusing pronounciation
 
 ## Begin
 
-A: No, you can't.
+A: No, you can't (kent).
 
 B: I can? Woohoo!
 
