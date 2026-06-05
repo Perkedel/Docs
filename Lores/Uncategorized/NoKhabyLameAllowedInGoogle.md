@@ -16,6 +16,12 @@ Phone turns on, saying `GOOGLE ACCOUNT BANNED, you have been storing anime photo
 
 A: I warn'd ya. Be more complex to live, as corpos are complex too.
 
+P arrested B
+
+P: (cuffed B)-There you are! stop resisting!, (inject castraction)!!!..
+
+B's critically drunk, loss of sexual organ function
+
 ## End
 
 by JOELwindows7  
