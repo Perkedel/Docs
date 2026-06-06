@@ -55,4 +55,5 @@ Custom means opinionated & following cases most of the time does not affect ment
   - Placeholder
   - Realism only
   - Severe: Full Slop.
+- Medical Cross. Red Plus symbol
 - Add custom offensive here!
