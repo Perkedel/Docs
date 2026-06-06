@@ -16,3 +16,7 @@ Oripathosis zone consists of
 - Nicotine smoke
 
 To make Oripathosis works, you are required to have the (scene air be filled with Originium / Encryptium || Agent is Originium / Oripathy / Encryptium / Encryptopathy / Reconvener), && above zone.
+
+> [!TIP]  
+> Did you know, in MultiTalent West Cartesian, the same mechanic here is called Burnout. And when it's full, is called Crashout.  
+> And the same violent consequences of Crashout do applies there too!
