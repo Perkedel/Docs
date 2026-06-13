@@ -8,7 +8,11 @@ Formerly just SMG4 (set), now becomes full fledged indie animator and publishers
 - The Amazing Digital Circus
 - Gaslight District
 - Murder Drones
-- Knights of Guinivere
+- Knights of Guinevere
 - Gameoverse
+
+<!--as well as the Fund Exclusives
+
+- Lacksadaisy-->
 
 Also contains meta articles too!
