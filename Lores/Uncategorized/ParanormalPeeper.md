@@ -175,3 +175,47 @@ NTE (c) Hotta Studio, Perfect World Games
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extra
+
+B: Wait., .. Do I know you??
+
+E: Yes?
+
+B: Holy shit!!
+
+E = D'yii Haffcer (Dee Have sirr)
+
+.
+
+B: Well, this is awkward. So much for my reason to live.
+
+C: Don't commit suicide!!
+
+B: HuH?!, you again!! What do you want?!.
+
+C: She, is yes, criminal. But only to her government. Because how corrupt B'ohral had been, we.. heavy heartedly had to ban them.
+
+B: *Heavy heartedly*?, what's wrong with that?
+
+C: Well, DNB never ban. Countries are considered opportunity to us, and it is birth design, to seize all of those opportunities. Colloborative efforts, together. And the name of DNB itself, is our moto. **Do Not Block**.
+
+B: Okay, that's interesting..
+
+.
+
+C: So don't worry. She is in the safe hand, and has been reset as Hero. Go ahead, marry her. She had never had bf than you'd be.
+
+B: Umm.. Awesome?
+
+C: Forget about Bohral. You guys must think forward. This is your new home. Okay?
+
+.
+
+.
+
+.
+
+B: Yeah, I'll be damned, (uninstall manner & kiss her cheek immediately)!!, (then mouth)!...
+
+C: Good. But remember, before you had kids, a commitment must be done. Blessing of I-do is free and the party afterward is 80% covered by DNB government. You will also receive lesson and exam for Parental License. Don't worry, it's easy. Just follow the step, and don't be an asshole once you graduate.
