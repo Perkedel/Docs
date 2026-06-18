@@ -17,6 +17,10 @@ Some of the games & films we got here both our own and somebody's have certain m
   - The something wrong was when Originium infected the researchers. Nowadays, anyone can get hit. This is called **Oripathy**, some sort of cancer but it's a parasytic syndrome where the stone grows inside you.
   - Only since about Endfield era the Oripathy Suppresant works and already commonplace. But alas, they still couldn't find how to erase it.
   - Luckily, shortly after the Operators entered Perkedel Cinematic Universe, they finally got enlightenment. From how did Originium did not work there, the reworking, and the recontrolling research was done. Spoiler alert, Encryptberry is how you erase it or maybe Orisync. But you can still get Oripathy & Encryptopathy in Perkedel if you smoke or vape.
+- Historic Era. Real life
+  - Mercury. It is a metal that's always liquid at room temprature
+  - It's just nothing actually, but people there thought it possess some kind of magic
+  - Obviously, the something wrong goes like such as nervous failures, because of course, Mercury is outright toxic and clogs anything.
 - Perkedel Cinematic Universe. Perkedel Technologies
   - Perkedel Cinematic Universe is basically Joel's story & the telltale of Real Life (Based on True Story). There are various magic elements in here, but the most prominent was Rabbithole.
   - It seems nothing magic at all at base, but we consider it Magic Element, because such thingy also incites curiousity and passion, which is the basic description of Magic Element.
