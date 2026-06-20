@@ -188,3 +188,61 @@ Level Complete!
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extras
+
+Decade ago.
+
+Surreal Blender Meme, Cliff World
+
+Give up: (looking down from height)
+
+Thomas: (found him) You know falling down there leads you to Hell. So unfortunately since you refuse to listen to yourself I have to Contain you. 
+
+Give up: (head turn calmly & composedly) 💢?!.., 
+
+Thomas: I can't accept anymore people of this world, volunteer to be devoured into Hell's feast, never again!.
+
+Give up: Oh. I wish you don't see me here.
+
+Thomas: Hey, it's my duty, and also what I do. We are not stopping figuring out, .. .. **the way**.
+
+.
+
+Give up: (sigh)... ..., Just so you know, **(Telepathy strange data that can be pertained life's afterall not worthy of living)**!!.!!.!.!.!.!!..
+
+Thomas: (receiving) Ugh!..., (also convinced to follow down there).
+
+Give up: !..!...!!!!.!.!., (finished)!., So that's that. I'm sorry. But, please keep the money. I don't need it either anymore, (jump)!!
+
+whooshing
+
+!!!
+
+!!!!
+
+!!!!
+
+!!!!!!
+
+**!!!!!**
+
+Judgement Realm teleported the client to asylum soft cell, thankfully.
+
+Thomas is staring forward and have lost whole sanity with the data stream.
+
+.
+
+.
+
+Koros: Thomas, get out from there. Return to the scene now. You still have to confirm your disertation, and graduate.
+
+Thomas: Ogh.. sorry., I..
+
+Koros: It's okay. ... I guess we must **make way** from now on. Evacuate, now!.
+
+Thomas: (take out remote), (portal back to HQ)!
+
+Leave scene
+
+Even Therapist can be contaminated ala Oripathy, or Hollow Corruptions.
