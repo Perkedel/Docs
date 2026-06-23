@@ -40,3 +40,11 @@ Don't worry, Racetrack EV is not available to country where such harrassment off
 - ICE usage is limited for specific reason, such as race sport only, daily driving forbidden
 
 Unfortunately, central DNB government also disliked ICE, so you'll likely had to choose EV only as well. But hey, you still have Manual Transmission & other ICE emulations too!!
+
+## Shills
+
+**The first Hybrid with Manual Transmission! & First ever Manual EV with Self Driving & Matic Emulation for Cruise Control!!**
+
+Like regular Racetrack,
+
+- The shifter can move itself!
