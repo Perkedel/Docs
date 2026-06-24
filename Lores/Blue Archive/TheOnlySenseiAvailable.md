@@ -1,6 +1,6 @@
 # The Only Sensei Available there is to it
 
-The Blue Archive Students has finally graduated. You know what, wrangle all the students from different finish year into 1 sessions. Joel Must retire after this, let the younger sensei continue the school endeavour.
+The Blue Archive Students has finally graduated. You know what, wrangle all the students from different finish year into 1 sessions. Joel must retire after this, let the younger sensei continue the school endeavour.
 
 ## Begin
 

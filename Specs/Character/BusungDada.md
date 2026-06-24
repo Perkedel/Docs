@@ -2,7 +2,7 @@
 
 a Surreal being. They are humanoid who got protruding chest like that werror pigeon. 
 
-They also have huge clothful slimy toon 🫀💓 heart organ much like [this patent here](https://glenskunk.itch.io/customizable-toon-heart-for-vrchat). They can also transform that organ into like usual, such as [this patent](https://glenskunk.itch.io/) or [whatever](https://sketchfab.com/3d-models/realistic-human-heart-3f8072336ce94d18b3d0d055a1ece089). As well as as move the organ outside, and back in anytime. And then there's diaphragm barriering middle of the torso & holding the air together.
+They also have huge clothful slimy toon 🫀💓 heart organ much like [this patent here](https://glenskunk.itch.io/customizable-toon-heart-for-vrchat). They can also transform that organ into like usual, such as [this patent](https://glenskunk.itch.io/realistic-goreheart) or [whatever](https://sketchfab.com/3d-models/realistic-human-heart-3f8072336ce94d18b3d0d055a1ece089). As well as as move the organ outside, and back in anytime. And then there's diaphragm barriering middle of the torso & holding the air together.
 
 That's it. This is what the top torso contains like.
 
@@ -14,4 +14,4 @@ Also, the stomach too are elastics, if they chose to that. Don't worry, the acid
 
 The diaphragm can be opened to expose heart organ. It opens like iris, so you down there can reach to it and play with it. It's also used as one of the technique of belly vaccuum, or vice versa, as where diaphragm acts as one way valve to belly with chest cavity as the pump, or belly to chest.
 
-They friend with other beings like Vatastoras & Encryptens, and have been trading intels, entertainments, and sciences to each other.
+They friend with other beings like Vatastoras, Bubblewaters & Encryptens, and have been trading intels, entertainments, and sciences to each other.

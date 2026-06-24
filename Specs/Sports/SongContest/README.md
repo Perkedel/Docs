@@ -1,9 +1,10 @@
 # Mosfier Song Contest
 
-Inspired from Eurovision Song Contest, MSC is a sport where one artist represent a country or an independent city in coverage of DNB Union compete against each other who shall take the prize, which is a WIN Trophy.
+Inspired from Eurovision Song Contest, MSC is a sport where one artist or a band represents a country or an independent city in coverage of DNB Union, to compete against each other who shall take the prize, which is a WIN Trophy.
 
 the MSC was originally because to rip off ESC, but extended to a submission form for high quality royalty free & open source songs. Every songs submitted belongs to DNB's record label, Mosfier Records and copyrighted fully under Perkedel which is CC4.0-BY-SA. The Viorfa is lacking songs that they could use for their varied media, which is what MSC is for these days.  
-Therefore, the WIN Trophies are just an optional game. Who knows, the losest songs gone used often in our next events in any of our Multitalent Game.
+Therefore, the WIN Trophies are just an optional game. Who knows, the losest songs gone used often in our next events in any of our Multitalent Game.  
+Some exceptions were rumored to be made, which means MSC also holds some entry for a mere show, as some of the submission contains still copyrighted-by-earth ones. Whether it's true or not, ***the IRL time will clarify***.
 
 ## Qualifications
 
