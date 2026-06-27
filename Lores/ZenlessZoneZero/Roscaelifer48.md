@@ -26,11 +26,11 @@ Bangboo A: Ehn na-naaaa (I love you)
 
 rest of Bangboos: Ehn na-naaa (I love youuu)!
 
-all Bangboos: Ehn-nanaa naa nhaa ehn (In within my noggin),
+all Bangboos: Ehn-na Waa-ta ehn-nha (In within my noggin),
 
 Hotel: Did I heard.. JKT48??, (go to the location)
 
-all Bangboos: Ehn-nanananana-ehnnanana (Mega volume and rhythm mu-u-si-i-ku),
+all Bangboos: Wa-ta-nanananana-Wata-ennanana (Mega volume and rhythm mu-u-si-i-ku),
 
 all Bangboos: Ehn-naa na EnhaEhnha-naaa (Heavy-y Ro-o-ta-a-tion)!.
 
