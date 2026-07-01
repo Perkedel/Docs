@@ -9,4 +9,6 @@ Stories based on Valve games:
 - Dota
 - etc.
 
-and the spinoffs: official, fan arts, etc.
+and the spinoffs official, fan arts fangames, related friends, etc.
+
+- Garry's Mod & s&box. Facepunch Studio

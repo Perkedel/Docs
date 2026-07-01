@@ -12,7 +12,7 @@ Samsung Galaxy S40 Ultra. No mods added, spyware kept. Daily driven for 6 months
 
 B: (Khaby Lame's `Here` gesture)!!?
 
-Phone turns on, saying `GOOGLE ACCOUNT BANNED, you have been storing anime photography in Photos`. B's hands petrifies ala medusa, ... ... and then crumbles everywhere
+Phone turns on, saying `GOOGLE ACCOUNT BANNED, you have been storing anime photography in Photos`. B's hands petrifies ala medusa victim, ... ... and then crumbles everywhere
 
 A: I warn'd ya. Be more complex to live, as corpos are complex too.
 
