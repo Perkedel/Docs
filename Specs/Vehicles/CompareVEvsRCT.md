@@ -26,7 +26,8 @@ Compare the two Needles & RC Surface manufacturers!
 
 Van Elektronische always think forward & efficiency. They always make cars that is easy to drive and simple to use. But then, some community in the car scene think that removing the so-called complexity equals to removing the fun of driving. After lengthy times of debate, the community resigned from Van Elektrnische and established Racetrack.
 
-Thankfully, due to DNB's policy in the State Owned Companies, There shall no be competition coming out of government. That, is considered civil war and is not welcome. As the result, Racetrack then must be still owned by Van Elektronische, and to this day they build card each for different demands of the people.
+Thankfully, due to DNB's policy in the State Owned Companies, There shall no be competition coming out of government. That, is considered civil war and is not welcome. As the result, Racetrack then must be still owned by Van Elektronische, and to this day they build card each for different demands of the people.  
+You see, DNB had a rule that their own state owned business cannot divide. Even tho if weren't, it's Van Elektronische's that'd disagree with break-ups. So until Jesus comes back, Racetrack always belongs to Van Elektronische. And if they resign again to really separate, that's betrayal.
 
 With Racetrack, you can now have everything Van Elektronische think is legacy & backward regression, such as ICE, Hybrids, and even Manual Transmission. All these that those people would define as Fun of Driving, even for centuries.
 
