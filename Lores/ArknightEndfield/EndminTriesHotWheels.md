@@ -693,6 +693,15 @@ Endmin: Huh? Oh.. ... Okay, thanks.
 
 Quincy: (offer) Right this way, ladies.
 
+## Obtained Quest item
+
+Seal of Trust for the Logistics. 6⭐. A Minicar replicating Saubo's beloved Hyundai IONIQ 5. While it's not that rare of a deal, turns out Hartono only give this minicar to few select of trusted people, you included. Usually, Hartono would've awarded Gold Medalists a rarer Minicars than this. It's no offense though, and hence this serves as a Special Key bestowed by him just for you. If you need a help from Saubo & Latsufir, feel free to get them in touch and make sure you show them this.
+
+### Details
+
+- Wheel complexitas. Each wheel hub cab has complex StayLogo mechanism, unlike usual. This logo is based on STORK logo, where it's just the `O` with the 3 spoked propeler. The ring that encapsulate the properler is marked in patterns and it's stays, but the **propeler spins as the wheel spins!**
+- Extra paintings. Unlike regular IONIQ 5 replica minicars, each itteration of this edition has extra paintings, drawn by hand by a professional painter who had a job at a bespoke car designing company. The drawing replicates detail on the original car Saubo had including [Daniel Mac](https://youtube.com/shorts/VB19MeMM3kU) Plaqat on each door, company logo `S&L`, & Monochrome Staircase Pattern / Parang Batik Pattern at the front hood.
+
 ## End
 
 by JOELwindows7  
