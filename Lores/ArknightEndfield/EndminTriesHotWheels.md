@@ -420,9 +420,9 @@ Hartono: The job for this one's pretty simple. So, we've optimized this part of 
 
 Jarwo: (raise starboard hand for a while)!!
 
-Hartono: Like that., the right one wins. etc. etc. The lift, still usual, we can crank it manually.
+Hartono: Like that., the right one wins, lift right hand as it's the green track, green glove there. etc. etc. The lift, still usual, we can crank it manually.
 
-Andika has been cranking the car lift manually & check who's in the start.
+Andika has been cranking the car lift manually & check who's in the start. As the lift reached the top, it automatically released the pair of cars into the U-turn which slotted them into respective lane.
 
 Hartono: Well.. the addition is not that quite actually. Had there's no such power trouble, he just had to oversee it.
 
@@ -663,7 +663,7 @@ Hartono: Oh Thank God, he's apprehended too. Great job guys. Whew! The Thugs day
 
 Endmin: `For now`??
 
-Hartono: Unfortunately it is. Though now their power is debuffed, I can finally rewards you full without tax cut. Umm. sorry, actually the prize is not money due to said tax cut, instead, (give prize) it's this thing. Not HotWheels tho, but I believe it's the rarest item from your agency.
+Hartono: Unfortunately it is. Though now their power is debuffed, I can finally rewards you full without tax cut. Umm. sorry, actually the prize is not money due to said tax cut, instead, this kit, and finally.. (give prize) it's this thing. Not HotWheels tho, but I believe it's the rarest item from your agency.
 
 Succesfully brought Garchop in, close portal
 
@@ -696,6 +696,8 @@ Quincy: (offer) Right this way, ladies.
 ## Obtained Quest item
 
 Seal of Trust for the Logistics. 6⭐. A Minicar replicating Saubo's beloved Hyundai IONIQ 5. While it's not that rare of a deal, turns out Hartono only give this minicar to few select of trusted people, you included. Usually, Hartono would've awarded Gold Medalists a rarer Minicars than this. It's no offense though, and hence this serves as a Special Key bestowed by him just for you. If you need a help from Saubo & Latsufir, feel free to get them in touch and make sure you show them this.
+
+Minicar Station Kit. 6⭐. A mod kit for your Minicars. Contains plier, tweezers, mini drills, set of screwdrivers, battery powered dyno aerodynamic box, quick dyno, tyre lathe, sealed AA premium rechargeable Ni-MH batteries, sealed AAA premium rechargeable Ni-MH batteries, all-kinds tube battery charger dispenser, spare plastic wheels, spare rubber tyres, raw guitar snare, hammer and vice, axle press, precut guitar snare axles, Minicar collector storage, 3 random common Minicars, Rest of your contested Minicars, but no Oil instead pencil dust in that precission sprinkler bottle. Sounds bizzare as it should've, but turns out even every kinds of Oil being monopolized by the mafia sitting on the Chair, claiming anyone can cheat Oil into DIY car Fuel which they heavily monopolize.
 
 ### Details
 
