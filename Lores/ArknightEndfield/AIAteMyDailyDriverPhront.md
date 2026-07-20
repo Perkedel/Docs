@@ -59,3 +59,36 @@ Dave: Good. Class dismissed.
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extra 0
+
+Yibin: Are we going to keep Wayland here? FreeDesktop woke!
+
+Dave: I know. And remember. Phront, is about rebranding. We slap our quality into the doohickeys replacing the bad.
+
+Yibin: Here goes nothing..
+
+## Extra 1
+
+Dave: Alright, what else?
+
+Uzmimna Rakabuming: Mr. Phront. Uzmimna Rakabuming of Edieman. My people concluded that this agenda of yours is considered ODM. As you can see, we disliked companies that solely sells stuffs consisting of doohickeys made by somebody else, impprted it, and just slap their brand and call it a day. It's junk and low SDM. What do you think, sir?
+
+> [!NOTE]  
+> GTID lol
+
+Dave: Ah, good question. You see, thankfully the Product Rally part Doohickey Quality Assurance has nothing to do with us. Clarifyingly, their problem lies in the Technical Qualities of the doohickeys. Our problem while is quality also, but it's a Political. Politcal Qualities. Yes, like them we don't do anything but.. hey, what we import is the most common tools you more use everyday, and here we got it from the companies who betrayed you and us all, nott.., those who just wanna make a buck. So different-!.
+
+Uzmimna contemplating
+
+Dave: I hope this answers your question, is it now?.
+
+.
+
+.
+
+Uzmimna: (Agree) Yes sir, thank you so much.
+
+Dave: Okay! 2 more?-!
+
+*everyone else*: ME 📸 ME 📸 ME ME!!...
