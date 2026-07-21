@@ -1,0 +1,11 @@
+# Arcade `Nihil Lease`
+
+A Pachinko housing Clicker Slop games. You make account there and play those slop idle games & other kinds of crazy derivatives of pachinkos. in S&Cardiophilia, you'll have this side quest
+
+Unlike other Slop Idle games you see on s&box, you cannot Rebirth manually. Instead you had to wait next week, which is Just Monday Midnight (Mon, 00:00). You cannot disable that either. That time point all your sessions on all machines you play that week will always be reset, and each machine prestige are calculated and merged into total permanently of your account. So next play the prestige multiplies your reward and grants you special Prestige Chips you can exchange with something.  
+In the tutorial side story of these, the manager gives you free 200 Prestige Chips to teach you how Always Rebirth mechanism works along with the Prestige Shop.
+
+Due to legal reason, Prestige Chip cannot be refunded back to Steth coin nor DNB Pts. Not even Gold bar (which obviously is resellable back to DNB Pts.). DNB government out there disliked Gambling & Casino. So, you can only buy more Nihil Lease account upgrades for base multipliers & slop plastic toys, just like exchanging arcade tickets.  
+To make Nihil Lease arcade side mission useful, the mission is to buy Adrenaline Medicine. The Supervisor gave you side contract to scour a rare Adrenaline Medicine which recipe has been lost in time due to a siege of Harrasser clan named Glogs. Nihil Lease happened to have one as a slop reward but it's on Prestige Shop. You must play Nihil Lease games here for a certainly long time until you've accumulated enough Prestige Chip to buy Rare Adrenaline Medicine. Once you're done, give the Adrenaline Medicine to the Supervisor and he'll send the product to Doohickey lab to Rereverse engineer it and copy it back to business.
+
+`Nihil Lease` is a play word of `Nihilist`, pointing out to the slopness of those Idle Game, specifically with Rebirth Feature (Lose all to gain exclusive rewards).
