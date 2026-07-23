@@ -16,7 +16,7 @@ the Pondrance will open doors to business opportunities. But the Supervisors cur
 
 ## Protagonist 2
 
-There may be a new story after this one, where now you will exclusively switch off of Pondrance and change to a Surreal woman named `Cuddles` (female). At this time, this probably when s&Cardiophilia introduce cute boys. Spicing it up, you now no longer only steth female characters, but also male characters, also of various body shapes and sizes. Be it Ricardo-like, Boykisser-like with cute boy voices, etc.
+There may be a new story after this one, where now you will exclusively switch off of Pondrance and change to a Surreal woman named `Cuddles` (female, Pondrance's 2 ms older sister). At this time, this probably when s&Cardiophilia introduce cute boys. Spicing it up, you now no longer only steth female characters, but also male characters, also of various body shapes and sizes. Be it Ricardo-like, Boykisser-like with cute boy voices, etc.
 
 Again, you can only borrow Cuddles, and once the season over here is closed, you will return that too no matter what (in the story).
 
@@ -25,6 +25,18 @@ Again, you can only borrow Cuddles, and once the season over here is closed, you
 You may ask if the Borrow and forced-return-per-finish means losing access to those characters you've collected to far. Well, that's correct. **In the story tho**. Once you have closed the season, your protagonist is returned no matter what and lose access to the characters you could've steth and play for more.
 
 Now, you will be interviewed before the next season opening patch update. Just answer the given question, ala those gacha game surveys. if your verdict is `Untrustworthy` it's completely normal. Based on my true story above, all participants are auto-distrusted inspired from the incident in March 2023. DNB no longer trust Earth people and your internship contract always ends here no matter what. And then your Steam account will be shown other participant who did get `Trustworthy` verdict. As you scoured, that participant is a local, born at a Realm owned by DNB. your Steam account then weep and felt hopeless as you innocent still had to face this reality. And then you got told, that this line of path of story will be played by all Citizens, all Steam accounts, including those who betrayed Joel that March. We cannot bother of making different outcomes per ending, no! Who the fuck are we? The Sun is Leaking? That's illegal to list somebody's Steam ID in purpose of tampering experience due to revenge, fat chance!. And so your ending will always set to be here, even for innocent ones. We apologize for the inconveniences. Bla bla bla yadi yada then comes the notice that you get to reregister a new internship with a new protagonist so you can get back to your characters.
+
+## You are the antagonist
+
+Yes you. Your Steam account.
+
+Due to legal reason again, we are not allowed to use IDing technique at any reason just to achieve different endings. The sun shall not leak just to see who's the traitor.
+
+Therefore the only definite way is the unfortunate way, where even innocents nothing do also got had to hit.
+
+And so, you play as the antagonist, *suiting* in the protagonist.
+
+Btw, since you're here, the protagonist had to cage you inside, and it's the agent that POV-cam for you. No, the Protagonists are fine touching grass. You are forbidden to interact with DNB properties out there. **You are under house arrest**.
 
 ## ECG Heart Array
 
