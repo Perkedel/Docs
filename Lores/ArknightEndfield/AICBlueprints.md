@@ -150,6 +150,11 @@ That I could find, & what I had & edited some.
     - GREEN GEAR: `EFO01a709UO6e8A49oe5e`
     - Xiranite Gourd: `EFO011ea0759ioUi734O7`
     - Jade Gourd: `EFO01u1IoaA864034AoOU`
+- Wuling 1.4
+  - Google Docs
+  - Asia
+  - NA/EU (thancc @Leilyse)
+  - **Wait, where are you?!**
 
 ### artsederhana17's factories
 
@@ -330,6 +335,49 @@ That I could find, & what I had & edited some.
   - NA/EU
     - Event Carb: `EFO01eE7U8o22A40Uo9i8`
     - Event MS: `EFO0172UA3844i539O0Ai`
+- [Wuling 1.4](https://youtu.be/gjTML8FO460) & [Overflow Protections](https://youtu.be/4DIWn-yFb4E)
+  - [Google Doc](https://docs.google.com/document/d/e/2PACX-1vRnO57S8bL1XOiTDw3GjtCCfWjMHNtNlw63csFBszTLrhnXncP5dXUZP_e9hXr2sPUSRd_AiakdXyak/pub)
+    - & [Overflow Protection one](https://docs.google.com/document/d/e/2PACX-1vTmPjh4sG46WwtL2yFR1kTzjmFs9fpCWv3C_x2Yn6HV57RPAW2tYvZKFZTRXsoj1glUc2sVEgwxAS0I/pub)
+  - Asia
+    - Wuling 1: `EFO013o72e7e49a450579`
+    - Wuling 2: `EFO01ouiOAiAEa6A5IieO`
+    - Wuling 3: `EFO018IeEiei201IeUI73`
+    - Wuling 4: `EFO017i89o8o6E5I7O0Ai`
+    - Purification Node: `EFO017i89o8o6E5I8O0Ai`
+    - Treatment Units: `EFO01I3A5UAUO19405o08`
+    - Wuling Alt 1: `EFO018IeEiei201o2UI73`
+    - Wuling Alt 2: `EFO01I3A5UAUO19625o08`
+    - JV Sub AIC: `EFO01u8U47U7560i6AoOU`
+    - MS Sub AIC: `EFO01ouiOAiAEa6AAIieO`
+    - YP Bottom: `EFO01eAo0IoI9O4i6oAi8`
+    - YP Top: `EFO018IeEiei201IiUI73`
+    - Extra 1: `EFO01E50Ua0aA3oI43uIa`
+    - Extra 2: `EFO01a6584543eA71oe5e`
+    - Temp Coprium Parts: `EFO013o72e7e49a60579`
+    - Temp Xiranite: `EFO01a6589eao1AU5ou5e`
+    - **Trash Bin 1**: `EFO01Ue3683812Ouu76a8`
+    - **Trash Bin 2**: `EFO01a6584543eAu5oi5e`
+  - NA/EU
+    - Wuling 1: `EFO01iOe7oIEEU2I67aU4`
+    - Wuling 2: `EFO01U4Aiu355eOu971a8`
+    - Wuling 3: `EFO01o083ei99u6A5IieO`
+    - Wuling 4: `EFO01o083ei99u6OOIieO`
+    - Purification Node: `EFO019A612EiiaeU15UI2`
+    - Treatment Units: `EFO01a709O5UU6Au2oe5e`
+    - Wuling Alt 1: `EFO01eE7U8o22A469oAi8`
+    - Wuling Alt 2: `EFO01u1IoAUaa80i6AoOU`
+    - JV Sub AIC: `EFO01893u7e66I1oaUI73`
+    - MS Sub AIC: `EFO01U4Aiu355eOu271a8`
+    - YP Bottom: `EFO0172UA3844i5iuO0Ai`
+    - YP Top: `EFO016i1a42ee0779O83e`
+    - Extra 1: `EFO01u1IoAUaa80iUAoOU`
+    - Extra 2: `EFO01u1IoAUaa8080AoOU`
+    - Temp Coprium Parts: `EFO014o5O1688E3i7E81A`
+    - Temp Xiranite: `EFO01A5ie90Ou3Eee91eO`
+    - **Trash Bin 1**: `EFO01a709O5UU6Auaou5e`
+    - **Trash Bin 2**: `EFO0172UA3844i5ioO2Ai`
+
+<!-- Bruh, without AI command it's tiring. I just need to say `pls tidy like above bullet point, syntax & tabs`. But remember, We live by reputation. If gone, no worth of life anymore. -->
 
 ### sunny_senpai's factories
 
