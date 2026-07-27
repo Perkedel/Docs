@@ -18,12 +18,12 @@ s&cardiophilia is a story focused idle game. It's a unique take of Idle genre wh
 s&Cardiophilia is a game about heartbeat fetish. In this game, you collect girls (and cute men later). and these characters have hearts. Each beating heart grants you a Cookie Click, called **Steth Coin**. it can be multiplied through upgrades
 
 - Idle Cookie Clicking
-- Get Cookie only possible through each heart systole. You can connect your own pulse monitor to contribute (max 210 BPM).
+- Get Cookie **only possible through each heart systole**. You can connect your own pulse monitor to contribute (max 210 BPM).
 - each Character can do avtivities that affect heart rate. Make it faster and gain more Steth Coins per minute.
 
 ### Characters
 
-Each character not only have unique looks and gender, also have various kinds of hearr conditions. From normal, down to insanely quirky.
+Each character not only have unique looks and gender, also have various kinds of heart conditions. From normal, down to insanely quirky.
 
 ### Cookie Clickings
 
@@ -45,6 +45,14 @@ Currently, the Heart Fatality Recovery system is simply commence by using item `
 - Sometimes, you may also have to clear the heartbeats, such as in Fibrilations (Squirming beat). Use Defibrillator to clear the heartbeats.
 
 We still advise to use `Auto CPR Kit` rigs instead, since Manual CPR is very complicated & time consuming. In case that you do not have enough Steth Coins (e.g. have equals to or less than listed price), DNB will instead pay you on the house and no Steth Coins to be deducted. **No limit**.
+
+### Contribute your own heartbeat
+
+You can also contribute your own beating heart to add more Steth Coins revenue. Using a heart monitor that can connect to the computer you play this on, gamers / Citizen can make this monitor also click and get Steth Coins.
+
+**Maximum rate up to 210 BPM**, for 60 seconds when 180 is reached, then capped to as if 150 BPM for the next 2 hours, & all contributing beats get ignored. When at this state, you'll get `My Own Fasteh Heartbeat` Cookie Clicker powerup which generates 150 BPM of click for this 2 hour period. You can also disconnect your heart monitor, and then redo all over again if you wish once the powerup has finished. Please consider your heart safety.
+
+Also pls do not lend your save a.k.a. Joki, not cool & cringe!
 
 ### Story Mode
 
@@ -180,7 +188,7 @@ s&cardiophilia in its story also tells meta about the tech involved, as follows:
 
 ### Monetization
 
-in s&box, developers will be rewarded based on how popular their items are, with an official program called `Play Fund`. How it works as follows:
+in s&box, developers will be rewarded based on how popular their items are, with an official program called `Play Fund`. There are terms & conditions that must be followed in order to enable this game to be in the program. How it works as follows:
 
 - Fill all required details
 - Must be popular enough. Meaning your game must be played by enough numbers of gamers / Citizen before this term is completed.

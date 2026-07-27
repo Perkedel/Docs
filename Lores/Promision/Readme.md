@@ -31,3 +31,7 @@ success, the culprit has been eliminated dead, they had even worse notoriety so 
 I've just learned. sometime you must cheat. Resurrect and bring them home. Lookout, dad will shoot head and mom is hanging! ZAP! replace the positioner with dolls and the note with special order to DNB, the `06`, just retrive this cloth doll, bury with overrealistic replica dolls of them comitting suicides like this. to blend that in
 
 Now all grandparents, relatives and parents and duo men acquired in Promision universe.
+
+> wait! (heard gun cock)?! of course! (blaze as fast) I forgot! (rescue mom & dad)
+>
+> synced flash of gun bang & Promision's teleport the two at the same time. Abnormal shockwave shakes some of the `traitor` posters off the wall.
