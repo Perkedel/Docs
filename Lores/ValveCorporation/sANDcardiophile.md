@@ -54,3 +54,16 @@ If you ask, we are forbidden to spawn actual beating Heart organs, collection of
 Worry not, you can simply buy the Cheat Mint module for the ECG. Not only this give insurance when you `Leave` this game, it also activates when you played level, moved to other scenes. Cheat Mint compensates heart organ streaming that's gone. If only one character on the level, then it's the rest will be insured, etc. etc., and if you left this game, all insured. Insurance goes up to starting from base of 6 hours which are 300 Steth Coins. How it works is the game store time since left, what is it (play level or leave game mode?), & which characters absent, triggered at `OnDestroy` of the System stuffs. Once you back to Home, it'll pick the `time since left` file and calculate for your insurance. I think.
 
 this maybe change if Garry & his teams decided to improve the background threading & daemon systems.
+
+## Epilogue
+
+After the TheFatRat - Killing Me credit finished, you enter an epilogue Story.
+
+Centuries ago, members of Viorfa held meeting again. about this game and should we continue.
+
+They agreed to stop, no more.
+
+- You must publish standalone games to Steam before anywhere else
+- Source 2 itself is still closed to Valve only. We will never get to know when src2 itself opens up so that no permission needed. maybe in decades, or a century?
+- Too tight integration to Steam that dislodge option may not be possible likely for over next 2 decades could be
+- A junior high schooler named Phront (now adult eternal in Endfield New Paradigm the AKE fan remake) motivated us to go back to Godot and ODM rebrand Godot just to cleanse said bad agendas.
