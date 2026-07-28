@@ -152,6 +152,22 @@ Some special event may have levels on its own.
 
 ## Visual Audio Design
 
+### Aesthetics
+
+Since s&cardiophilia's batch of contract first began in 2200s, The aesthetics follows **Frutiger Aero** style. This is because in 2200s, is an era of **Encrypten-Endfield**. Encrypten (i.e. Perkedel side) are designed like of *lickable* glass.
+
+> Era Aesthetic Lists:
+>
+> - 2030s, KDE & the Breeze?. Blue Archive
+> - 2090s, Material You. Zenless Zone Zero, DOOM-Freedoom (Lah-Mboh)
+> - 2200s, Frutiger Aero. Arknights: Endfield (New Paradigm fan remake) **👈 YOU ARE HERE**
+
+Alternatively you can leave the User Interface as is like s&box itself due to unintuitive UI programming.
+
+> [!NOTE]  
+> s&box by default, programs UI using razor. Microsoft's own C# UI design framework inspired from HTML-CSS-JS. Like HTML, you build page with XML (as if you are writing HTML), style with CSS (s&box appears to default to Flexbox), and then code with C#.  
+> And like most HTML-CSS-JS cases, programming just to make it work like expected (i.e. UI placed where it should be) is **HAAAAAAAAAAAAAAAAAAAAAAAAAAAAARD**
+
 ## UI-UX
 
 s&cardiophilia UI-UX is built on click menu interface ideology, alike of Blue Archive, Stella Sora, FGO, etc., with some levels do use locomotionings like ZZZ and many typical 3D movement games.
