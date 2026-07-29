@@ -224,4 +224,12 @@ Since Play Fund will not be available until above terms and conditions are met, 
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
-    
+
+## Attachments
+
+- Concept Lores
+  - [Rough](/Lores/ValveCorporation/sANDcardiophile.md)
+  - [First time Sign-up](/Lores/ValveCorporation/ExpensiveMedicalConspiracy.md)
+  - [Ending](/Lores/ValveCorporation/sANDcardiophile-inevitable_loss.md)
+- [Made up heart organ spec](/Specs/Medical/MadeUpHeartOrgan.md)
+- [Panti Jantung spec](/Specs/Medical/PantiJantung.md)

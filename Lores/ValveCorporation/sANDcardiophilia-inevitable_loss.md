@@ -23,7 +23,7 @@ Quench: (connect to reader & analyze)?...
 
 Yep, you are indeed permanently banned
 
-Quench: Idk. .. .. .. Here's a thing. You know, unless somebody cheated, nobody is allowed to tamper experience by Steam ID, even just because you had personal beef. What?, **Has the sun had to leak just to see who's who?** Fat chance, right? Due to this circumstances, all accounts who played this game, yes even you, hopefully innocent, are still considered the **Traitor**. Yes. The same traitor who banned Kaorfa couple centuries ago, and told everyone to bandwagon it on almost all Discord servers & Tumblr accounts. So yeah. That's why they had no choice but to treat you like this. Coz they aren't allowed to see (life background of every Steam ID especially linked Discord). Idk if they wish they could leak the sun or what but... What's the point then?
+Quench: Idk. .. .. .. Here's a thing. You know, unless somebody cheated, nobody is allowed to tamper experience by Steam ID, even just because you had personal beef. What?, **[Has the sun had to leak](https://youtu.be/YcvsbZ18izA) just to see who's who?** Fat chance, right? Due to this circumstances, all accounts who played this game, yes even you, hopefully innocent, are still considered the **Traitor**. Yes. The same traitor who banned Kaorfa couple centuries ago, and told everyone to bandwagon it on almost all Discord servers & Tumblr accounts. So yeah. That's why they had no choice but to treat you like this. Coz they aren't allowed to see (life background of every Steam ID especially linked Discord). Idk if they wish they could leak the sun or what but... What's the point then?
 
 .
 
@@ -97,9 +97,11 @@ Urt: Wait, Rebranding?! Are we doing ODM junks now?!
 
 Panfesir: Uuuuuh...
 
+bickering explodes across room. *We cannot go back to Godot!; But it's the only one that works!; We still haven't found Dualsense ASMR manipulation and the feature still not added!;* 
+
 Kuberlala: Oh no, we cannot disturb Mrs. Zuuljedus again!.., what do we do now?
 
-Panfesir is stiff confused
+Panfesir is stiff confused, while rest of the members become noisy & bickering loudly, conflicting opinions shouting each other.
 
 ## Level Completed
 
