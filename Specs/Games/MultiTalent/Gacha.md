@@ -51,3 +51,7 @@
   - may vary per different MultiTalent games.
   - Some games plagiarize NTE and tada here's Monopoly.
   - Some others Endfield and tada! Pull lever, literally. MMppph!! I cummed because the Steam Controller vibrates alongside!
+- Existence
+  - You can promote Limited Rate Up loud enough, but remember to be not greedy in the end
+  - If you introduced new Type-spec, **`A` tier & `B` tier Character / item with that type-spec must exist!!** Atleast one each combinations.
+    - ZZZ, we got Komano Manato that compensates existence of Rupture combat type, new type since Season 2 where it's for Yixuan.

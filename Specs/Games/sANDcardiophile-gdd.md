@@ -159,6 +159,33 @@ DNB's provided bed in your bedroom serves as a Dream injector where you experien
 But sometimes, even tho you started story from the Bed, some levels need you to go outside.  
 Caveat is, since you, the Steam account (you used to login to s&box) that control the Protagonist, is completely distrusted, you have to stay inside. And your Protagonist ensures that you staying inside. Instead, now your selected Character be the one touching grass with audio video feeds provided. Just like ZZZ before Proxies obtained stability, but again a different background as we speak.
 
+### Combat
+
+We got combats too! Let's plagiarize Trickals.
+
+#### Arrangements
+
+- Patients charges to the right of the screen.
+- There are rows: Back, Middle, Front.
+- Each row slots up to 3.
+- Total selectable character up to 6, therefore.
+- These number can expand, e.g. in Blue Archive Mega bossfight (...) we had extended numbers of slots here.
+
+#### Type Spec
+
+Let's use the name that would exites Cardiophilia enjoyers of how would each of their heart would react judging by the name
+
+Please help consolidate! Not tidy yet, here are potentials:
+
+- Cowardice. Easily startled, heartbeat often go superfast
+- Shy. Heart often go superfast when near people. should be merged with Cowardice
+- Brave. Heart tends to be very stable on Horror vibe
+- Tempramental.
+- Sorrow.
+- Happy (Vivacious in Trickal)
+- Active. Likes to run. Heart can beat loudly and pound
+- Lazy. Slow bradicardic heartbeat. Heart skips intermitently when combat
+
 ## Level Design
 
 ### Start Game
