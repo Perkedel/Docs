@@ -33,7 +33,7 @@ she then handed over this inquiry form to the desk right away
 
 Quench: Oh?, In a form?., alright, a moment pls, (read)
 
-> Name: Anni Syahputra  
+> Name: Anni Syahputri  
 > Age: 24  
 > Problem: Cardiocase, Docs to follow
 
@@ -102,7 +102,7 @@ Jacint: (async) (PTT) Patient `B0002` (bee two) please come to the desk `4` (fou
 
 Quench: (async) (return to support desk `2` & resit)!..!.,.. Apologies for the wait. Your service is ready. We will promptly escort you, now.
 
-Anni Syahputra: Now?
+Anni Syahputri: Now?
 
 Quench: Yeah, now. (stand up again & prepare escort) Excuse me..
 
@@ -320,7 +320,90 @@ Tutorial time! This is home scene. When you logged in again, finish a mission an
 
 bla bla bla
 
+### Basics
+
+Top Down view. Your home scene are arranged like this, and you see from the central family room.
+
+You saw Anni wandering around on this. This, is Patient. In this game you do not click or wait for monster. Instead you enjoy beating hearts. Each systole (Lub) grants you a click, called **Steth Coin**.
+
+Each character heart rate can change. Go, click on Anni & command her to Treadmill.  
+You clicked Anni. click `Command`. click `Treadmill`. on the `How long`, click `as desired`. Anni then goes to treadmill and do a few metres of run there.
+
+Wait until her hearbeat goes fast first
+
+.
+
+.
+
+.
+
+Heart is 140 BPM! Anni automatically stopped running and go to sofa to take a break.  
+As you can see, this is an example how to increase heart rate. And look, because her heart beats faster, **you get more coins per minute**!  
+
+Each character heart rate can go down too. Wait until Anni's heart return to resting rate
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Heart is back at 70 BPM. Now you see her heart returns to normal & **your revenue goes back too**!  
+How about not having to work hard all the time like this but still get rich?  
+Don't worry, it's possible! Click `Shop`
+
+This is Shop. Here you can buy upgrades to your multiplier.  
+These are basically Investors. But instead of going after money, they're cardiophiles just like us all hence delighted of every beat of hearts.   
+Let's buy this one.
+
+You bought 1 `🎧 Listener`
+
+Great! You've just acquired an Investor. You can also bulk hire more Investors using this Multitrade switch up there. So, why not go all in to the Enjoyers?  
+Click `MAX` on that Multitrade switch up there!  
+Now, you will spend as all as enough you could to whichever Investor you trade.  
+Go ahead buy all in to those Listeners!
+
+buy
+
+Amazing! Now *the Heartbeat wesbite is profit!!* Look at those Listeners there, beautiful!
+
+.
+
+.
+
+Oh look what's this? Hey, look's like today's stonk is on a bright day! This means it's a good opportunity for sell high now!  
+Investor sell prices can go up and down, like in game of Stonks. Sometimes higher than you buy even.  
+Now set your Multitrade switch to `10x`, and set trade switch to `Sell`.  
+Good, now close the deal to ten of those Listener. Click `🎧 Listener` to sell 10.
+
+Perfect! They're now sold! In a good way. They trade you clout, you give them heartbeats. Win-win.
+
+> [!NOTE]  
+> If you didn't sell the investor, lore tells they will switch seamlessly to another person, until it fits back to the number of Investor machine you owned.  
+> So don't be guilty of encasing them without Rebirth. In fact there's no Rebirth here.
+
+<!--
+Spoiler alert, after you finish both seasons, and ban evasion complete, the Investor is no more actually, just a trading bots, the lore says.
+-->
+
+Finally, your true job. Close this menu.  
+Now on your right side of the screen is `Bedroom` button. Click to visit it.
+
+This is your Bedroom. Here you will do Story quest.  
+Now there's a menu dialog on the left, consisting boxes. These are levels
+As you can see there's not much going on, other than the `0` box you already played. That was your Registration story.  
+And the next will be unlocked soon in time, so be patient. I hope we do not need to tutorial how you'd play those story levels, you should figure it out.  
+Let's close this menu.
+
+And that's it. We are done for now. Horray you finished tutorial!!!
+
 ## Done tutorial
+
+You got `Anni Syahputri` 5⭐
 
 Atmin: That is all for the tutorial. I cannot bore you of this, I know. Therefore, enjoy your life. And remember, visit the Bedroom and play the Dream we provided. Very important.
 

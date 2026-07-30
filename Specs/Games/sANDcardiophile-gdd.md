@@ -230,6 +230,8 @@ CC4.0-BY-SA
 - Concept Lores
   - [Rough](/Lores/ValveCorporation/sANDcardiophile.md)
   - [First time Sign-up](/Lores/ValveCorporation/ExpensiveMedicalConspiracy.md)
+  - Stories and seasons in between!
+  - [Prophecy come true](/Lores/ValveCorporation/PermabannedAnyway.md)
   - [Ending](/Lores/ValveCorporation/sANDcardiophile-inevitable_loss.md)
 - [Made up heart organ spec](/Specs/Medical/MadeUpHeartOrgan.md)
 - [Panti Jantung spec](/Specs/Medical/PantiJantung.md)
