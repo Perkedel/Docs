@@ -21,6 +21,18 @@ s&Cardiophilia is a game about heartbeat fetish. In this game, you collect girls
 - Get Cookie **only possible through each heart systole**. You can connect your own pulse monitor to contribute (max 210 BPM).
 - each Character can do avtivities that affect heart rate. Make it faster and gain more Steth Coins per minute.
 
+### Fun factors
+
+Trickals e.g., have fun gimmicks. Is that all Apostle characters appeared on your screen **can be pinched**. Look at them, all had tempting **plump cheeks**, that make your inner self tells you exactly that!
+
+in s&Cardiophilia, they all had bodies of varying ***shapes and sizes***. But the most important thing this time, lies inside. Your mouse cursor / finger is equipped with Majick! You're tempted. You wanted to touch between the two mounds. Oh what did you hear? That's right! **You can steth all girls & cute boys appeared in scene**, yay!!!!!!!! 
+
+Best of all, it's real, emulated real-time there is to it. Each character instance has heart organ GameObject inside their chest. Clicking the interaction box lets you hear it, or them if they got more than one. Yeah, there's Characters with multiple heart organ GameObjects. And just one box is needed to listen all at the same time.  
+Or perhaps go crazy and listen to all of the Characters the whole scene at the same time? yeah.
+
+So, still wanna subscribe (as in buy YouTube Premium or pay some electric bills) their unclear Paybox just because such game never gets to Steam or atleast itch.io? **Don't get ripped off** nor even had to sparsdat it! Having to Sparsdat coz of this concern even if you already commissioned Rolls Royce multiple times means that it has been wrong in life!  
+And do you miss [this guy from Someroad](https://shinon51788.gumroad.com/) to make more? Alas, I checked and he's unfortunately inactive anymore. dang.
+
 ### Characters
 
 Each character not only have unique looks and gender, also have various kinds of heart conditions. From normal, down to insanely quirky.
@@ -76,6 +88,45 @@ There are many items in s&cardiophilia useful for but not limited to:
 - Gacha your new characters. Using gacha tokens or premium coins in game. Sorry, cannot use Talenta of MultiTalent due to s&cardiophilia is not on MultiTalent publication, rather it's on s&box platform.
 - System module Unlocks
 - Specific Event Menu items. Expiry of an event will cause these items melt into regular items, i.e. Steth Coins (as usually most games would've been Upgrade Cost currencies such as Dennies in ZZZ, Pts in MultiTalent, Dorra in Stella Sora, Credit in Blue Archibe, etc.).
+
+### Get new characters
+
+We have done extensive experience and research from various gacha (& non) games. We make sure that acquiring new characters despite also a hell like all others, still compensateful for loses.  
+s&Cardiophilia uses Gacha system to obtain new characters.
+
+Using the followed system as [MultiTalent](/Specs/Games/MultiTalent/Gacha.md), The Gacha has following mechanism:
+
+- Arknights style Rarity!, since s&Cardiophilia takes place in 2200s (Endfield-Encrypten), Where there is
+  - 4⭐ for B (Loses)
+  - 5⭐ for A (Regular)
+  - 6⭐ for S (Premium)
+- Channels
+  - Limited Rate Up.
+  - Limited Rate Rerun (since certain numbers of patch updates)
+  - Typical.
+- Tokens. It's called `Job Field` (because in DNB's local language it'd be `Lapangan Pekerjaan`), due to s&Cardiophilia initiative nowadays is a Porn industry, if you ask somebody why.
+  - Elite Job Field. used for Limiteds
+  - Typical Job Field. used for Typical.
+  - But there is a Focused Job Field inspired from Duet Night Abyss. This time, you don't have to do Covert Commission. Just pull (any numbers of Focused Job Field in your Inventory will seamlessly be selected on your Pull) like usual and it immediately rolls you the result right away, much faster!
+    - the Typical Job Field is essentially empty Secret Letter here.
+    - you can focusify these Typical Job fields into target characters you want, that includes expired Limited characters (where in Duet Night Abyss where was on running at Immersive Theater, and when expired goes to Shop at Covert category for 4⭐ & 5⭐ Character & exclusive to hardest Boss fight Nightmare for 6⭐ (usually ultra powerful Final season character such as Su Yi)) too!
+    - Speaking of which, some overpowered End-of-season 6⭐ characters indeed would go to said harddest Boss Fight, at least for the next 5 patches. Like Duet Night Abyss, You just need to upgrade your Characters & Weapons to the maximumest possible, and then fight the same harddest difficulty up to 5 times a week, to obtain **Focused Job Field** of expired Limited Character you wanted.
+    - Focused Job Field works like Duet Night Abyss like after you finished Covert Commission. This time, it will result only 1 item, where it's like you can only choose the left most out of 3.
+- Job Field selections. Especially, if you have any of the Focused Job Field (the one filled with target characters), it'll seamlessly always select one first, all you had until 10.
+  - for Limited Rate Up & Rerun channels, if you lost 50/50, it will attempt to activate Focused Job Field instead. In this channel, it will always do 10 of your Elite Job Fields first if you Pull 10. The Focused will be taken, had you got 6⭐ but it's a 50/50 loss (i.e. Not the Limited Rate Up one).
+  - for Typical channel, it will always attempt to activate Focused Job Field.
+  - e.g., In Typical, you got 4 Focused & the rest are unmodified Job Field. It'll try those 4 first, and then the rest.
+  - e.g., In Limited, you got 10 Elite Job Fields. If you resulted 6⭐ that is not Rate up, it'll instead activate Focused Job Field if you had any first.
+- Compensation. Provide Compensation for Ultimately Losses. This is very important, especially since we got no way of IAP in s&box, but if we do now, those gamers would eventually steal parrents credit cards, Oh no!!
+  - You lost 50/50 in Limited, and you did not have any Focused Job Field
+  - You do had one in Limited, but the Focused Job Field results lost too (got 5⭐ and under Character)
+  - Compensation activates only in Limited Pull.
+  - Not to be confused with Faded Tokens (where you'd rebuy reduced amount of Job Field tokens, like Faded Signals in ZZZ). No, different! But you still get those.
+  - Here's what you'll be compensated:
+    - Increasing chance of for real winning the Rate Up.
+    - Bonus 10 Elite Job Fields
+    - Decrease Guarantee number by 10
+    - Like in Endfield original and also New Paradigm Fan Remake, Removed Loss slot. Initially you got 3, 2 losses and 1 Rate up. Lost 50/50 now you have 1 Loss & 1 Rate up. Lost again let 1 Rate up. If you had to 6⭐ again, 100% definitely get that Rate Up
 
 ## Lore
 
@@ -176,6 +227,20 @@ s&cardiophilia UI-UX is built on click menu interface ideology, alike of Blue Ar
 
 TODO: state machine graph of how menu be like
 
+#### Init
+
+When Gamer successfully downloaded & loaded the game, they'll start at Init scene. The Init scene is your Login screen.
+
+Inside Init, you'll see
+
+- Bottom center
+  - Save card. shows your Steam Username & the badge-tag
+  - `Login` to begin login. The label can change depending on your savegame status.
+- Sides
+  - `Setting`
+  - `Announcement news`
+  - `Leave Exit` to exit game and go back to s&box main menu
+
 #### Menuing
 
 Here is the State machine of overall Menu basically would be like:
@@ -212,7 +277,43 @@ in s&box, developers will be rewarded based on how popular their items are, with
 
 ### Employment Status as the consequences
 
-Since Play Fund will not be available until above terms and conditions are met, all Contributors to work on this project will be considered as **Tier 0, `Volunteer`****. Meaning you will get 0 salary until said Play Fund becomes available, **&** the money has been transfered to our company's pool where it shall be split across all Contributors in this Organization.
+Since Play Fund will not be available until above terms and conditions are met, all Contributors to work on this project will be considered as **Tier 0, `Volunteer`**. Meaning you will get 0 salary until said Play Fund becomes available, **&** the money has been transfered to our company's pool where it shall be split across all Contributors in this Organization.
+
+## Contributions
+
+Here's how this division of the Pinball Agung gamedev works like
+
+### Roles
+
+- Chief. Leader of this project. Provide core ideas and work on the project fully, from the team down to the product itself
+  - Joel / Kaorfa is the chief here.
+- 3D Modeler. Designs 3D model for everything you shall see in this game.
+- Artstyle designer. Designs artstyle for how would the Aesthetics would looked like. From Characters down to the environment
+- UI-UX designer. Design how the UI should looks like and how each buttons, sliders, panels, etc. are placed
+- Musicians. Compose OST for it this game. Sometimes also choose 3rd party Royalty Free tracks.
+
+### Policy
+
+Rough policy concepts of how would stuffs to be contributed
+
+- Musics
+  - Joel loves MIDI so much. Make MIDI files instead of non-MIDI-file compliant DAWs.
+  - You can use Freedoom's music. it's BSD-2
+  - You can choose Royalty Free musics that can be monetized for s&box, such as Kevin Macleod's.
+- Prioritize Gratis, Open Source, & FULL VERSION tools instead of habit, so other contributors can get started easily, as well as introduce you to said Partialism-free tools they've been used to.
+  - However, if some of these current contributors had no capacity to move on to the alternative tools, **please do not force them**. The Chief even shall obey just for those contributors.
+  - **AVOID ADOBE** & any other predatorily financed tools!! This is an exception of contributors blend-in.
+  - Also Figma is limited up to 3 files only for free plan. Contributors pls convince this particular contributor to move on to whatever you know.
+- AI LLM
+  - **AI IS FORBIDDEN**
+  - Disable your autocorrect of your IDE, even.
+  - Reputation damage is hard to repair. Contributors recklessness cost us everything!
+  - Look at those games around s&box, yuck, to those AI ones. They only seek the product without ever touching nor to learn how did it work, vibe coders..
+- 3D model & Art stylings
+  - Learn from [Smutbase](https://smutba.se) (& also [Open3DLab](https://open3DLab.com)). Then make em as high quality as possible as if you're going to submit to either of those.
+  - Do not omit torso & crotch poly! Always keep those faces intact, as if you're modeling said porn 3D model!
+  - The game itself does not have to be porn game atm. s&cardiophilia initiative while is a porn industry but is pretending to be not. This dillemma is again caused by previous failures, which is attempting to destroy fear of something medical, multiple times, until a Porn Investor had to stepped in to save it, then it gets confusing there.
+  - Also learn how would ZZZ (& other MiHoYo titles basically), Arknights Endfield, Wuthering Waves, Silver Palace, Blue Archive, etc. build things up. Our goal here is to criticize Facepunch (being the company behind s&box) decision of going for ugly character you see everywhere, called Terry the sausage, and their human counterparts. Despite of this, **please do not express** `Facepunch gone woke` rumor at all costs! pls sauce!
 
 ## Sauce
 
@@ -230,8 +331,10 @@ CC4.0-BY-SA
 - Concept Lores
   - [Rough](/Lores/ValveCorporation/sANDcardiophile.md)
   - [First time Sign-up](/Lores/ValveCorporation/ExpensiveMedicalConspiracy.md)
+  - [People are still afraid of Medical](/Lores/ValveCorporation/EveryoneStillDieDespiteFreeCure.md)
   - Stories and seasons in between!
   - [Prophecy come true](/Lores/ValveCorporation/PermabannedAnyway.md)
   - [Ending](/Lores/ValveCorporation/sANDcardiophile-inevitable_loss.md)
 - [Made up heart organ spec](/Specs/Medical/MadeUpHeartOrgan.md)
 - [Panti Jantung spec](/Specs/Medical/PantiJantung.md)
+- [Figma UI-UX rough concept](https://www.figma.com/team_invite/redeem/ZigeJcq9rYjhvcb59OfgtG?t=VpWKRsZZ5wtezK8H-21) (View Only Invite, require Figma account, complain pool coming soon)

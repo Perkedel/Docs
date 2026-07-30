@@ -1,0 +1,53 @@
+# Gacha
+
+## Mechanism
+
+- Let's use agnostic terms.
+  - Rarity
+    - `B` worst
+    - `A` Okay
+    - `S` Best. Can be Limited banner.
+  - It's called 
+    - `Invitation` for Character
+    - `Request` for Weapons
+- Category & Channels. A Gacha can have these categories & the channels
+  - Character
+    - Limited Rate Up
+    - Limited Rerun
+    - Typical
+  - Weapon
+    - Limited Rate Up. Costs  tokens you got rewarded after winning certain numbers from above Character Pulls.
+    - Limited Lingers. After the Rate Up character expires, The Limited Rate Up weapons go to here for an extended period of time. This includes also Reruns of that character's too!
+    - Limited Rerun. Appears for the first time after maybe season conclusion usually. Older signature reruns alongside Limited Rerun Characters.
+    - Typical. 
+- Guarantee
+  - 80 Pulls before definitely any `S` per each channels.
+  - Always Rolls over through banner changes
+- Surrender Shop
+  - `Spark Letter` from Blue Archive, formerly
+  - Each pull increase number
+  - 200 Pulls before this shop opens
+  - Maximum 200
+  - Once you got 200, that Limited Rate Up automatically claimed, and then resets to 0.
+  - **Rolls over up to 5 banner changes**. Each change of banner will move this batch to a crate. So please go Pull before older crates expire
+- Rebate Voucher
+  - Endfield's Headhunt bonus Document
+  - 1 Voucher obtained after you pulled 30 times in total. Maximum own 1 per banner
+  - Rolls over up to 10 banner changes.
+  - When you start again in this new banner, this voucher will always gets used no matter what
+  - contains 10 Elite Invitations each
+- Focused Invitations Token
+  - Inspired from Duet Night Abyss. MultiTalent removes requirement to fight in battle first, straight to Pulling like usual.
+  - Only results 1 per activation. It's like in DNA you can only pick leftmost out of 3, the best only.
+- Compensations
+  - Triggers when
+    - You lost 50/50 in Rate Up, and Focus Token also results loss too
+    - You lost 50/50 & you ran out of Focus Token.
+  - Only does it in Limited channels
+  - You would get
+    - 10 Elite Invitations for Character Pull
+    - 5 Elite Request for Weapon Pull
+- Style
+  - may vary per different MultiTalent games.
+  - Some games plagiarize NTE and tada here's Monopoly.
+  - Some others Endfield and tada! Pull lever, literally. MMppph!! I cummed because the Steam Controller vibrates alongside!
