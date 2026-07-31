@@ -33,6 +33,16 @@ Or perhaps go crazy and listen to all of the Characters the whole scene at the s
 So, still wanna subscribe (as in buy YouTube Premium or pay some electric bills) their unclear Paybox just because such game never gets to Steam or atleast itch.io? **Don't get ripped off** nor even had to sparsdat it! Having to Sparsdat coz of this concern even if you already commissioned Rolls Royce multiple times means that it has been wrong in life!  
 And do you miss [this guy from Someroad](https://shinon51788.gumroad.com/) to make more? Alas, I checked and he's unfortunately inactive anymore. dang.
 
+### Scan Factors
+
+Remember Henry Stickmin collection? Yes, you right click Characters on the screen to collect infos about every Characters ever added to Collection. That's their fun factor
+
+In s&Cardiophilia, Hold right click to activate Steth ECG. Then aim cursor to whoever Characters to listen. Yours or NPC. You can also mute whicever audio you hear and only debug the Character info and heart organ graph.  
+Very useful to see if the Character let's say would have beating heart(s) hence contribute(s) Cookie Clicking while enjoying Story. yey.  
+Like Henry Stickmin, scanning Characters the first time, winning your Character Gacha to the House unlock the intel card also.
+
+Argh you know what? here. Intels pre-unlocked whenever they appear on screen the first time. After all I am not fond of swish swashing ECG wand just to collect all Caharcter intels.
+
 ### Characters
 
 Each character not only have unique looks and gender, also have various kinds of heart conditions. From normal, down to insanely quirky.
