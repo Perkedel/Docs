@@ -6,7 +6,7 @@ What if somebody tryna get into Perkedel Cinematic Universe just now, now that w
 
 Subject entered a scene somewhere in DNB
 
-Immediately, subject crystalizes brown-blackly whole over the body, because this subject is a heavy smoker over the past few decades.
+Immediately, subject crystalizes brown-blackly whole over the body, because this subject is a heavy chainsmoker over the past few decades.
 
 And now subject becomes Originium sculpture.
 

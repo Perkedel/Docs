@@ -246,6 +246,10 @@ Alternatively you can leave the User Interface as is like s&box itself due to un
 > s&box by default, programs UI using razor. Microsoft's own C# UI design framework inspired from HTML-CSS-JS. Like HTML, you build page with XML (as if you are writing HTML), style with CSS (s&box appears to default to Flexbox), and then code with C#.  
 > And like most HTML-CSS-JS cases, programming just to make it work like expected (i.e. UI placed where it should be) is **HAAAAAAAAAAAAAAAAAAAAAAAAAAAAARD**
 
+### Character Artstyle
+
+
+
 ## UI-UX
 
 s&cardiophilia UI-UX is built on click menu interface ideology, alike of Blue Archive, Stella Sora, FGO, etc., with some levels do use locomotionings like ZZZ and many typical 3D movement games.
@@ -341,6 +345,7 @@ Rough policy concepts of how would stuffs to be contributed
   - Do not omit torso & crotch poly! Always keep those faces intact, as if you're modeling said porn 3D model!
   - The game itself does not have to be porn game atm. s&cardiophilia initiative while is a porn industry but is pretending to be not. This dillemma is again caused by previous failures, which is attempting to destroy fear of something medical, multiple times, until a Porn Investor had to stepped in to save it, then it gets confusing there.
   - Also learn how would ZZZ (& other MiHoYo titles basically), Arknights Endfield, Wuthering Waves, Silver Palace, Blue Archive, etc. build things up. Our goal here is to criticize Facepunch (being the company behind s&box) decision of going for ugly character you see everywhere, called Terry the sausage, and their human counterparts. Despite of this, **please do not express** `Facepunch gone woke` rumor at all costs! pls sauce!
+  - Oh hey look again in Smutbase, we got Dabneko / XNeko here, this one fan models MiHoYo character and we appears to have found the framework for it. take a look
 
 ## Sauce
 

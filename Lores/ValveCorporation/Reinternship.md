@@ -10,7 +10,7 @@ Atmin: Hello. This is your Evaluation day. Long short, you have been showing max
 
 .
 
-Atmin: But unfortunately, our internal discussion and evaluation found that you have been lacking **numbers** of critical criteria required for your Probabation Pass Mark.
+Atmin: But unfortunately, our internal discussion and evaluation found that you have been lacking **numbers** of critical criteria required for your Probation Pass Mark.
 
 .
 
@@ -158,7 +158,9 @@ Anni: Alright, back to work, and I just... stop tidying, lmao!
 
 Rewards time!
 
-Congratulations, You have now unlocked male character acquirements. Let's visit Gacha again
+Congratulations, You have now unlocked male character acquirements.  
+Wouldn't it fun, when this heartbeat game also has male stething too? why settle on just female? C'mon. let's be fair and cover both sides shall we?  
+Let's visit Gacha again. click here
 
 Tutorial!!
 
