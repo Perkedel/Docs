@@ -346,6 +346,10 @@ Rough policy concepts of how would stuffs to be contributed
   - The game itself does not have to be porn game atm. s&cardiophilia initiative while is a porn industry but is pretending to be not. This dillemma is again caused by previous failures, which is attempting to destroy fear of something medical, multiple times, until a Porn Investor had to stepped in to save it, then it gets confusing there.
   - Also learn how would ZZZ (& other MiHoYo titles basically), Arknights Endfield, Wuthering Waves, Silver Palace, Blue Archive, etc. build things up. Our goal here is to criticize Facepunch (being the company behind s&box) decision of going for ugly character you see everywhere, called Terry the sausage, and their human counterparts. Despite of this, **please do not express** `Facepunch gone woke` rumor at all costs! pls sauce!
   - Oh hey look again in Smutbase, we got Dabneko / XNeko here, this one fan models MiHoYo character and we appears to have found the framework for it. take a look
+- Story
+  - Oh noes. This is controversial. We have to edit many wordings from our Lore so Joel does not looked like crying on the floor begging to be unbanned. No! must edit!
+  - And also pls uh edit the names too, especially the criticized ones, we once again back again cannot reference somebody directly, if we criticizing them. I hope we did not put it already. Just.. be Kane Parson, make *still life* thingy, not still tho, hence different guy. Because Rasputin's Coincidence disclaimer may not work properly is already too obvious.
+  - Wait I popped an idea, what if you make the Steam Accounts larped to be Parasocial, YEss!! vent all your irks!! idk.. we.. veered off?
 
 ## Sauce
 
