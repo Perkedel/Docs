@@ -21,6 +21,8 @@ Cake is going to be revealed like a flagship automotive launching
 🎊🎉Congratulations, you have been staying alive for: 
 **XYZ Years**
 
+> 💥 Boom! the congrats banner, show former age, and then gold sparkly scroll it by `+1` like you got `S` in ZZZ
+
 Keep being alive for more rewards from us & God.
 
 You have Received:  
@@ -30,9 +32,17 @@ You have Received:
 
 Press anywhere to continue
 
-## Note
+.
 
-- Showing estimated total heartbeat is too creepy & can contradicts Privacy motto. If you wish, use average of surveys. We originally used this to motivate people to keep this number increasing and do not intentionally make it stop.
+fade auto
+
+Since your join by YYYY-MM-DD, you have:  
+- Collected Relevant items acquired
+- Relevant collections acquired
+- Your heart presumably has been beating for XYZ Years * 1 Million times
+
+> [!NOTE]
+> - Showing estimated total heartbeat is too creepy & can contradicts Privacy motto. If you wish, use average of surveys. We originally used this to motivate people to keep this number increasing and do not intentionally make it stop.
 
 ## End
 

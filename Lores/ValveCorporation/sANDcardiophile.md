@@ -67,3 +67,10 @@ They agreed to stop, no more.
 - Source 2 itself is still closed to Valve only. We will never get to know when src2 itself opens up so that no permission needed. maybe in decades, or a century?
 - Too tight integration to Steam that dislodge option may not be possible likely for over next 2 decades could be
 - A junior high schooler named Phront (now adult eternal in Endfield New Paradigm the AKE fan remake) motivated us to go back to Godot and ODM rebrand Godot just to cleanse said bad agendas.
+
+## Scrap
+
+- ZZZ season 3 inspire
+  - CardioChip abuse heart explodos
+  - dilemma course Cardiochip
+  - Ala Endfield Aggelos ankhor explosion pulse & Girtablulu cocoon. THere is an evil heart that each beat emits deadly pulse, take cover before it Lubs. This evil heart decreases your Steth Coin by 1.
