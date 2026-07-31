@@ -361,6 +361,7 @@ CC4.0-BY-SA
   - [People are still afraid of Medical](/Lores/ValveCorporation/EveryoneStillDieDespiteFreeCure.md)
   - [Too late to save kidnapping](/Lores/ValveCorporation/SomeoneWantsToSeeThemRacisted.md)
   - Stories and seasons in between!
+  - [End of Season 1](/Lores/ValveCorporation/Reinternship.md)
   - [Prophecy come true](/Lores/ValveCorporation/PermabannedAnyway.md)
   - [Ending](/Lores/ValveCorporation/sANDcardiophile-inevitable_loss.md)
 - [Made up heart organ spec](/Specs/Medical/MadeUpHeartOrgan.md)
