@@ -383,6 +383,7 @@ CC4.0-BY-SA
   - [End of Season 1](/Lores/ValveCorporation/Reinternship.md)
   - [Prophecy come true](/Lores/ValveCorporation/PermabannedAnyway.md)
   - [Ending](/Lores/ValveCorporation/sANDcardiophile-inevitable_loss.md)
+- [Character Prompts!!!!!!](Specs\Games\sANDcardiophile-Characters.md) Help us build OCs (& maybe also import someone's OCs (Open Source of course, or whatever idk)) just for it this initiative, thancc
 - [Made up heart organ spec](/Specs/Medical/MadeUpHeartOrgan.md)
 - [Panti Jantung spec](/Specs/Medical/PantiJantung.md)
 - [Figma UI-UX rough concept](https://www.figma.com/team_invite/redeem/ZigeJcq9rYjhvcb59OfgtG?t=VpWKRsZZ5wtezK8H-21) (View Only Invite, require Figma account, complain pool coming soon)
