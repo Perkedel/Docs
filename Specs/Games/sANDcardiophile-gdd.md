@@ -173,6 +173,12 @@ Caveat is, since you, the Steam account (you used to login to s&box) that contro
 
 We got combats too! Let's plagiarize Trickals.
 
+### Naming
+
+for Surreal Characters, name them abstractly, such as Pondrance, Cuddles, Atmin, or maybe deeper like Uuh, Eeh, Off. Remember the Surreal Meme back in the day.
+
+And we got regular humans and thyrens too. They get to be named whatever their parent crafts. Anni, Deka, Kiki (oh hi Tyson Tan), Hana (different woman!), etc. etc.
+
 #### Arrangements
 
 - Patients charges to the right of the screen.

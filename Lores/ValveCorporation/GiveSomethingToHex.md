@@ -46,9 +46,11 @@ drag the card into the cauldron here.
 
 Loho: Amazing! Now, .. let the Steam Account do his or her thing. (slide empty cards box)!!, Take one, fill whatever sauce URL you despise, and throw em into the cauldron! fun isn't it?
 
-## Let's Hex the 3D modelers!
+Level Complete!
 
-This minigame lets you hex 3D modeler's sauce userpage.
+## Let's Hex someone you dislike!
+
+This minigame lets you hex somebody's sauce userpage.
 
 Take a new card from this holster on your right.
 
@@ -56,3 +58,17 @@ Now, fill the
 
 - Name
 - Sauces (Array string)
+
+click submit. the card will drop into the cauldron, hex and burn it to air, hopefully Hex (Santet) the guy you target
+
+You cannot draft any of the cards worked on nor Archive the submited card due to privacy safety. 
+
+You can make repeat names too!
+
+And it does nothing at all. Have fun venting!
+
+## End
+
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA
