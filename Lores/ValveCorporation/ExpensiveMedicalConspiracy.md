@@ -236,7 +236,7 @@ Atmin: Welcome to s&cardiophilia. In this game you will oversee living beings, p
 
 .
 
-Atmin: We must firstly apologize, as we have a sudden change in procedure in this program. Rest assured, your experience should not be significantly affected. Although you may find that preferences option maybe missing. Rest assured. Once you have completed certain (glitched) `aklsd;jhfapoiweh`
+Atmin: We must firstly apologize, as we have a sudden change in procedure in this program (I still don't know why the change). Rest assured, your experience should not be significantly affected. Although you may find that preferences option maybe missing. Rest assured (again?). Once you have completed certain (glitched) `aklsd;jhfapoiweh`
 
 black screen with red dialog `Caution! Rebirth Slop!`
 
@@ -254,7 +254,7 @@ Spoiler alert, he's talking about second internship season where you reregister 
 
 .
 
-Atmin: We cannot reveal this much yet. Simply be proficient at this job, and you will get it. Even better, if we consider that you're *too good*, you will get such reward, with perma-multipliers, **Keeping everything**.
+Atmin: We cannot reveal this much yet (but tbh I myself don't know what was this change about). Simply be proficient at this job, and you will get it. Even better, if we consider that you're *too good*, you will get such reward, with perma-multipliers, **Keeping everything**.
 
 audio clip of `YAAY!! NO MORE REBIRTH SLOP!!`
 
