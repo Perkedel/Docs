@@ -49,6 +49,8 @@ Quench: Okay, I know you're afraid, but good news, I remembered something. the s
 
 Quench: C'mon man, or woman.. or whoever.., I'm trying to save you!. Look, even say you are indeed the traitor, who should we care anymore? Let's move on, you're faulty and I'm glad you've confesed. To God, idk. Look, regret won't bring Joel back anymore, he's already in Heaven for way way too long it been. What's the point of crying over things too late you be? At least teach your next of your kin, this important lesson, This you gotta know. Okay??
 
+<!--scratch pls change!-->
+
 .
 
 Quench: C'mon, do you want this heartbeat game to work again? This is so far is the only Released Full Blown game that's Open Source, Gratis, and Full version. Others can only be subscription, never been found on Steam even. even if did so, that's probably isn't the focus unlike this one. I.. I don't want you to suffer,.. friend.

@@ -63,6 +63,7 @@
     - Skill: Audible Heartbeat. make heart beats loudest as if it's connected to luxury stage speaker, not sound horeg.
       - Can telekinetic whatever selected in frontoff, and shake them to heart ryhthm back and forth.
       - Can give huge impact forward like breaching locked gate
+      - Is basically Gravity Gun / Physics Gun.
   - Prompts
     - Forms
       - Default Outfit
