@@ -18,7 +18,7 @@ You have now sat on this chair before Atmin and the officers.
 
 Only choice to click, `Oh no, this can't be! I've seen it in my dream! Is this for real now?!`
 
-Atmin: We need an explanation from yours, immediately. No sugarcoat allowed.
+Atmin: (serious + excruciating disbelieve, as in rooting your Steam Account, but at the same time dilemma) We need an explanation from yours, immediately. No sugarcoat allowed.
 
 Uuh: (present evidence)
 
@@ -28,9 +28,9 @@ Atmin: Your Steam Account allegedly is connected to the same Discord account you
 
 Only choice to click, `What? This is false accusation! I did not do that`
 
-Atmin: Never lie to DNB. We have seen it all. Additionally since you deny,..
+Atmin: Never lie to DNB. (silence in dilemma & CPU usage 101%)......................... We have seen it all. Additionally since you deny,..
 
-Eeh: Present second evidence
+Eeh: (Present second evidence)!
 
 .
 
@@ -38,24 +38,31 @@ Only choice to click, `Look, I can sue you, you know. Don't even try ruin my lif
 
 .
 
-Atmin: Then I hope you can be successful for that. Because we have other records of your grave past. 
+Atmin: Then I hope you can be successful for that. B-B-Because we have other records of your grave past. 
 
 .
 
-Atmin: I wish you were a nice person, when for along you're just a usurper, pretending to regret only after finally Joel realized the only Heartbeat game you've been looking for when others falthers. And when they did, **it's paywalled under subscription** instead of buy once on Steam, Itch, & GOG.
+<!--Atmin: I wish you were a nice person, when for along you're just a usurper, pretending to regret only after finally Joel realized the only Heartbeat game you've been looking for when others falthers. And when they did, **it's paywalled under subscription** instead of buy once on Steam, Itch, & GOG.-->
+Atmin: I wish you were a nice person, when for along you're just a usurper, pretending to regret only after we've at last achieved... m-m-mi-mile-mile-milestone **MILESTONE**-milesoneononandf when others falthers. When our competitors did.., dididididid.. .. **SUBSCRIPTIONS**...
 
 .
 
-Atmin: Despite the philosophy, motto, and the true meaning of DNB, DNB never welcome traitors. Especially those ones who caused numbers of suicide attempts on Kaorfa.
+Atmin: **KASDLHFAKLJ** Despite the philosophy, motto, and the true meaning of DNB, DNB never welcome traitors. 
+
+<!--Especially those ones who caused numbers of suicide attempts on Kaorfa.-->
 
 > [!NOTE]
 > but Joel is already long died (right?), this is 2200s!
 
-Off: But be grateful. He instead continued on to ultimately created this endeavour, and he continued further, till his Victorious Demise.
+Off: But be grateful. **He** instead continued on to ultimately created this endeavour, and he continued further, till his Victorious Demise.
 
-Atmin: Despite of all this. With heavy hearts, we have to suspend your account, **permanently**, with no appeals.
+Atmin: Despite of all this. With heavy hearts, we have to suspend your account, **permanently**, with no appeals, **SHALL-I_APPEAL**, **I_CANT_SEE**.
 
 Off: Including, should you would, next of kins, unless they revoke familial connection off from you, and state that they regret being the next of kin of a traitor.
+
+Atmin: **aflskdjf;la** - **SUN_CANNTO_LEA**
+
+Off: Sir, Calm down..
 
 Only choice to click, `Hey listen, I can explain!`  
 But before you can even click; before you could reach for 1cm; or did, it did not sent, because you already banned, **just like when you did before Joel could explain further**.

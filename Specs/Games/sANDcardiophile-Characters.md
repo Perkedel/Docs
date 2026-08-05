@@ -68,6 +68,8 @@
     - Forms
       - Default Outfit
         - Sport underwear! Tanktop & Shorts, tight
+        - this outfit has orange added little bit to this black
+        - general running shoes
     - Body spec
       - Looks
         - B-Cup
@@ -100,7 +102,9 @@
   - Prompts
     - Forms
       - Default Outfit
-        - Tight cycling bib
+        - ~~Tight cycling bib~~
+        - Same as Anni, tanktop & shorts. Difference being the pants have sleeves a bit longer, & blue added little bit into this black.
+        - general running shoes
     - Body spec
       - Looks
         - human boykisser

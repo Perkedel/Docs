@@ -62,7 +62,39 @@ You rescanned your Steam Account into the terminal. And right away, you got the 
 
 But then Quench said that it's Rebirth at this point, meaning you start again from scratch! Wonder, will you get exclusive upgrades now that's already happened?
 
-Await for tomorrow!
+...
+
+Rebirth Button protocolly appears. **Wait, what?!**
+
+Quench: Oh, yeah.. umm, your Steam account is already registered on Talent system. So.. sorry, wants it or not it's....
+
+.
+
+Quench: Yep, this, is when you **Rebirth**.. .. ..
+
+.
+
+Quench: But you don't have other ways, right?. Go, click and Hold, Great Luck, I'll see you there.
+
+.
+
+Hesitantly click & hold `✨ Rebirth`
+
+Press hold...
+
+it's coming!
+
+Ooooh this is it!
+
+AAAAAAA
+
+**Confirmed**, here's stats for this run so far. 
+
+<!--Await for tomorrow!-->
+
+.
+
+Click `OK` to sign-up a brand new run with added permanent multiplier!.
 
 ## Reprologue
 
@@ -72,11 +104,17 @@ But this time, no staffs, not even Atmin, were here.
 
 But there's the new Protagonist prepped bare, like it's waiting for you to use it.
 
+And now there is just this button in front of you, no form whatsoever. Click?
+
+.
+
+You know what?
+
 TOuch.
 
 Going into same transitionings. 
 
-The Protagonist this time is Cuddles.
+White door to start new run opens without a sillhouette, The Protagonist this time is Cuddles.
 
 ## New same home
 
@@ -86,17 +124,19 @@ You suddenly feel something pulling your pecs down. You looked down. **WHoa!! Cu
 
 Deka Syahputra: (nervous) Uhh.. Hello?...
 
-Uh oh, this is awkward. a cuteboy?!?!. So, now we're stething ***human boykissers***?!?!??!?
+Uh oh, this is awkward. same tanktop & shorts, *Anni* turns into a... **cuteboy**?!?!. So, now we're stething ***human boykissers***?!?!??!?
 
 Deka: Hey, miss (tante).. Cuddles.. a-are we.. ready?
 
-Welp, so be it then. You shall scrounge again from scratch, and Gacha getting more male characters. And you can assume that you can also have e.g. plumpy muscular man too. hehe??
+Welp, so be it then. Not only scrounge again from scratch, Gachas are getting more male characters. And you can assume that you can also have e.g. plumpy muscular man too. hehe??
 
 but suddenly
 
-Anni has just returned home for some prep stuffs idk
+Anni has just returned home for some prep stuffs idk.
 
 Deka: Anni!
+
+Oh, I thought Anni is... nvm. Now there's duo.
 
 Anni: Hey Deka, oh hi tante! What are you guys doing here?
 
@@ -159,6 +199,12 @@ Anni: Alright, back to work, and I just... stop tidying, lmao!
 Rewards time!
 
 Congratulations, You have now unlocked male character acquirements.  
+
+Did I just scared you with such a Rebirth event? Haha lmao!  
+Anyways, sorry about that. Won't do that again, or maybe would prank again?.  
+We do not copy everyone's implementation sloply. We make sure that we add here has use & fun.  
+And certainly, Rebirth isn't one of them. Thank me later.
+
 Wouldn't it fun, when this heartbeat game also has male stething too? why settle on just female? C'mon. let's be fair and cover both sides shall we?  
 Let's visit Gacha again. click here
 

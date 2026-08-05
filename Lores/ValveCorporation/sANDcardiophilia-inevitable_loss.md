@@ -2,6 +2,8 @@
 
 After all what you've done, you still get terminated once the internship conclude. Both of them! nada.
 
+at your title screen, your save slot card said `Permanently banned: Betrayed Kaorfa`. Just click `View Info` (which was the `Login` button there) to login again.
+
 ## Begin
 
 Logged in again! But still in serious room.
@@ -18,7 +20,7 @@ Quench: Wow. Look at you. You looked terrible.
 
 approach
 
-Quench: Look. I'm sorry, .., on behalf of all officers at DNB. .. There's nothing I can do. But.., can I see your Steam account again?
+Quench: Look. I'm sorry, .., on behalf of all officers at DNB. .. There's nothing I can do. But.., can I see your Save card again?
 
 Choice! give your Steam ID to Quench.  
 You chose to lend this card to Quench
