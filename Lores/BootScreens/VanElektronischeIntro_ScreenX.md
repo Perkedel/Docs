@@ -36,7 +36,7 @@ The Triple screen theater model shows.
 > Available for ScreenX NOW!  
 > (MAIN = this display resolution)  
 > **WITH NO AI!!!**
-> (101% money back guarantee, even after take-seat)
+> (101% money back guarantee, even after take-seath)
 
 ## Home version Ultrawide
 
