@@ -228,11 +228,15 @@ Endmin felt surreal like it's the first time Afraid is no longer Afraid, instead
 
 The gaming rig is still there, now take a look!
 
-Afraid: Oh, btw, the files have been moved to a bigger server. You can find it on the Network location. It's our company site, you can't miss it
+Afraid: Oh, btw, the files have been moved to a bigger server. You can find it on the Network location. It's our company site, you can't miss it. No password needed since you just wanna see.
 
 Endmin: Got it, (see the folder opened)
 
+Afraid: (afraid of missing detail) And also, you can't edit the file through here. You need to ask Nervous..
+
 it's already on the WebDAV of the company. time to scan again!
+
+Endmin: No need, I'll just..
 
 scan
 
@@ -242,7 +246,7 @@ scan
 
 .
 
-done! Yep, much better. But at some point in time, he's no longer alone. Enthusiasts joined his company to build not only GM compatible MIDI files but also machine specific MIDI files too. Most of these exclusive files are compatible for Yamaha Genos, and now Leekspinner. Not only that, these MIDIs if rendered sound extremely imperceptible against most pop musics submited to streaming services to typical soundfonts, all just a MIDI, with the right bells and whistles.  
+done! Yep, much better. But at some point in time, he's no longer alone. Enthusiasts joined his company to build not only GM compatible MIDI files but also machine specific MIDI files too. Most of these exclusive files are compatible for Yamaha Genos, and now Leekspinner. Not only that, these MIDIs if rendered sound extremely imperceptible against most pop musics submited to streaming services to typical soundfonts, all just a MIDI, with the right bells and whistles. very luxury.  
 The counts are also increased 30000 times thanks to this.
 
 .
@@ -276,3 +280,49 @@ Perlica: Okay, I'll be waiting.
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extras
+
+previously, inbetween after Endmin traveled back with fixed route.
+
+Refuse: I have heard unusual joy signal. And it tracks here.
+
+Doubt: (oh, it's the asshole again, meh upset) Can I help you↘️?..
+
+.
+
+Refuse: Never heard you happy for the first time in æons. And what is that? how did you get that? Robbing bank now?
+
+Doubt: Rob? thank God you're still wrong.., It was Endministrator. She said she's from Van Elektronische. Didn't know Endfield's now had Van Elektronische too or what. News moves so fast..
+
+.
+
+.
+
+.
+
+Refuse: (sigh)..... You know what, fine!. I'll help you. I've realized I have been designed to be asshole. I think I should've complained to God as for why I born like this.
+
+Doubt: You know you're not into music right?
+
+Refuse: I know!.. .. .. But I can collect people. And only for you, I command them to specifically help you.
+
+Doubt: Sure this is not your next innovative shenanigans-
+
+Refuse: **NOOO!!!!.**
+
+.
+
+.
+
+Refuse: Do you take this or not?!. You can't do this alone. I presume extra technics are going to be more complicated, so we should gather together and update our intellects for this gift you got. Just... stab me if I started it again, I am not supposed to exist like this anyway..
+
+Doubt: Alright, then prove it, now.
+
+.
+
+protocolly spawned 100k MIDI enthusiasts
+
+confusta noises
+
+Refuse: There. What else?
