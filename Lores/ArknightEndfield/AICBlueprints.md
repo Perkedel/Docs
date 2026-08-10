@@ -150,11 +150,29 @@ That I could find, & what I had & edited some.
     - GREEN GEAR: `EFO01a709UO6e8A49oe5e`
     - Xiranite Gourd: `EFO011ea0759ioUi734O7`
     - Jade Gourd: `EFO01u1IoaA864034AoOU`
-- Wuling 1.4
-  - Google Docs
+- [Wuling 1.4](https://youtu.be/-_EjUYhMzl8)
+  - [Google Docs](https://docs.google.com/document/u/0/d/1Pp_PoPQ3jeePjXCkoXCHXjyXT41TLY1f75wXrN1ycM0/mobilebasic)
   - Asia
+    - W.City 1: `EFO013o723AAI1a4o0579`
+    - W.City 2: `EFO01E50UE664IoOA3uIa`
+    - W.City 3: `EFO017i897uuA4516O0Ai`
+    - W.City 4: `EFO01u8U4uiioa092AoOU`
+    - J.Valley 1: `EFO018IeE8UUu61I7UI73`
+    - J.Valley 2: `EFO013o723AAI1a4u0579`
+    - M.Stone 1: `EFO017i897uuA45I8O0Ai`
+    - Y.Pass 1: `EFO01602I655ae7IAO83e`
+    - Y.Pass 2: `EFO01I3A5Iee809625o08`
   - NA/EU (thancc @Leilyse)
-  - **Wait, where are you?!**
+    - W.City 1: `EFO01a709UO6e8AU8oe5e`
+    - W.City 2: `EFO016i1ae40AI799O83e`
+    - W.City 3: `EFO014o5O81EIi30aE71A`
+    - W.City 4: `EFO011ea0759ioUa634O7`
+    - J.Valley 1: `EFO010U96AE173iaUE179`
+    - J.Valley 2: `EFO01A5ieOI741E479ieO`
+    - M.Stone 1: `EFO01u1IoaA864050AoOU`
+    - Y.Pass 1: `EFO011ea0759ioUau34O7`
+    - Y.Pass 2: `EFO01a709UO6e8Aeaoe5e`
+  - finally. here we go.
 
 ### artsederhana17's factories
 

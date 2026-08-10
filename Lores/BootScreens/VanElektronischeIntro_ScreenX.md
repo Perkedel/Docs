@@ -12,7 +12,7 @@ followed by sudden change scene to dark with sparkle star falling, grass garden,
 
 brake smooth.
 
-Van Elektronische tune using celeste bell chime
+Van Elektronische logo tune using celeste bell chime
 
 text beneath logo:
 
@@ -35,7 +35,8 @@ The Triple screen theater model shows.
 
 > Available for ScreenX NOW!  
 > (MAIN = this display resolution)  
-> **WITH NO AI!!!**  
+> **WITH NO AI!!!**
+> (101% money back guarantee, even after take-seath)
 
 ## Home version Ultrawide
 

@@ -1,0 +1,205 @@
+# Characters in s&Cardiophilia
+
+## Compositions
+
+- Gacha
+  - Rarity
+    - 4⭐
+    - 5⭐
+    - 6⭐
+  - Availability
+    - Typical. Gacha on Typical channels, Lower rarity losses, or 50/50 losses
+    - Limited. Only available when banner of them is on air
+    - NPC. Not yet added to the game atm
+    - About Genders
+      - ~~First season only has Female~~
+      - ~~Male only unlocks after you finished final 1st season and finished 2nd season prologue~~
+      - If you had won Male Characters, they won't appear in the House until you finished final 1st season and finished 2nd season prologue
+  - Bonus Obtain
+    - Free. Instantly obtain after you achieved something. As usual, if you already win that Character before, the Record becomes Dupe.
+- Spec
+  - Gender
+    - Male
+    - Female
+  - Being
+    - Human
+    - Thyren (half human half animal)
+    - Surreal
+  - Heart Reaction type
+    - Activeness
+      - Lazy
+      - Active
+    - Courage
+      - Coward
+      - Brave
+  - Heart organ counts
+    - Single
+    - Multiple
+- Heart Effects
+  - POTS
+
+## Template
+
+### A Faction
+
+- A Character
+  - ⭐? / NPC?
+  - Prompt
+    - Freeform
+    - **For biological (human & thyrens) accomplishing only!**
+
+## List
+
+### House of Talents
+
+- Anni Syahputri / Anni Cya'dottir / Lady Year
+  - 5⭐ (Free, obtained after sign-up)
+  - Female
+  - Human being
+  - Heart Organ
+    - 1🫀
+    - Active
+    - Coward
+    - Skill: Audible Heartbeat. make heart beats loudest as if it's connected to luxury stage speaker, not sound horeg.
+      - Can telekinetic whatever selected in frontoff, and shake them to heart ryhthm back and forth.
+      - Can give huge impact forward like breaching locked gate
+      - Is basically Gravity Gun / Physics Gun.
+  - Prompts
+    - Forms
+      - Default Outfit
+        - Sport underwear! Tanktop & Shorts, tight
+        - this outfit has orange added little bit to this black
+        - general running shoes
+    - Body spec
+      - Looks
+        - B-Cup
+        - idk hair, see Anby or...... Amber stella sora idk pls help! 
+- Luna Daahputri / Luna Da'a'dottir / Lady Month
+  - 6⭐ Typical
+  - Female
+  - Human being
+  - Heart Organ
+    - 1🫀
+    - Lazy
+    - Brave
+  - Prompts
+    - Forms
+      - Default Outfit
+        - Kebaya!!!
+    - Body spec
+      - Looks
+        - D-cup
+- Deka Syahputra / Deca Cya'son / Sir Decade
+  - 5⭐ (Free, obtained after finished first Season 2 story, if you already won Deka right before this, this Record becomes Dupe too, yey!)
+  - Male
+  - Human being
+  - Heart Organ
+    - 1🫀
+    - Active
+    - Coward
+    - Skill: Audible Heartbeat. make heart beats loudest as if it's connected to luxury stage speaker, not sound horeg.
+      - same as Anni!
+  - Prompts
+    - Forms
+      - Default Outfit
+        - ~~Tight cycling bib~~
+        - Same as Anni, tanktop & shorts. Difference being the pants have sleeves a bit longer, & blue added little bit into this black.
+        - general running shoes
+    - Body spec
+      - Looks
+        - human boykisser
+- Hora Daahputra / Hora Da'a'son / Sir Hour
+  - 6⭐ Typical
+  - Male
+  - Human being
+  - Heart Organ
+    - 1🫀
+    - Lazy
+    - Brave
+  - Prompts
+    - Forms
+      - Default Outfit
+        - Office attire
+    - Body spec
+      - Looks
+        - Not to be confused with Phainon Genshin Impact
+        - *OH NO HE'S HOT!!!*
+        - 6 pack!!
+        - Naaaa, Not with Komano's (ZZZ) pec too!!! aaaaaa!!
+        - Are those bounce too? Pls stop.. enough..
+        - Seriously, we are not Otome game! .. argh whatever.
+
+### Radiant Futures / HDR10 Futures
+
+- Dyre Lae
+  - 4⭐
+  - Female
+  - Surreal
+  - Heart Organ
+    - 1🫀
+    - Active
+    - Brave
+  - Prompts
+    - Forms
+      - Default Outfit
+        - Low poly, except her chest & butt
+        - red
+    - Body spec
+      - Looks
+        - flat
+        - Surreal
+- Sync Cope
+  - 4⭐
+  - Female
+  - Surreal
+  - Heart Organ
+    - 1🫀
+    - Lazy
+    - Coward
+  - Prompts
+    - Forms
+      - Default Outfit
+        - Dress, blue
+    - Body spec
+      - Looks
+        - C-Cup 
+        - Elegent motions, learn how victoria women move so elegantly!
+        - Surreal
+- Sauces
+  - Are mostly Surreal Characters. Yes, file Intelligent Constructs.
+
+### Iconics Alliance
+
+- Kiki / Si QiQi
+  - 6⭐ Typical
+  - Female
+  - Heart Organ
+    - 1🫀
+    - Active
+    - Brave
+  - Prompts
+    - Forms
+      - Default Outfit
+        - is basically that Kiki the Squirel
+        - In our style
+      - Download Outfit
+        - FREE
+        - literally using other 3D model of her found somewhere e.g. in Sketchfab
+    - Body spec
+      - yes, that's her.
+- Sophia / Su Feiya
+  - 6⭐ Typical
+  - Female
+  - Heart Organ
+    - 1🫀
+    - Active
+    - Coward
+  - Prompts
+    - Forms
+      - Default Outfit
+        - Yes same Sophia being Godette's cousin!
+      - Download Outfit
+        - FREE
+        - I can't find her 3D model other than Mesh2Motion lmao 🗿
+- Sauces
+  - https://tysontan.com/gallery/gallery-mascots/foss-mascots-redesigned
