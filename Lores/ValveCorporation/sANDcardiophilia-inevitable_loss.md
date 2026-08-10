@@ -59,6 +59,20 @@ Surreal Blender Meme Credit roll
 
 use TheFatRat - Killing me. Same song used in Lah-Mboh credit roll.
 
+First poster shown is this Chat admin tool message that says `Banned reason: being a creep`.
+
+.
+
+.
+
+.
+
+.
+
+Surreal Blender Meme logo warehouse door closing transition to black screen with logo remained
+
+fade into `In Memoriam of`. Since it takes place 2 centuries later, I of course would be in here, but for this release of the game, it's empty.
+
 ## Post Credit
 
 2 centuries ago
