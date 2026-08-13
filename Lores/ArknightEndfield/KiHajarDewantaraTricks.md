@@ -316,7 +316,7 @@ and as the boat landed to the bottom, splash!!! propagates onto the bridge wrewe
 
 *splash enthusiast*: YEAAAH!!! WOOHOO!!!
 
-Meanwhile Perlica on the upper bridge which is waterproofed, calmly huge aura, stared far to the boat that's just landed, like nothing happened as Koros accompanying the kids on the boat there.
+Meanwhile Perlica on the upper bridge which is waterproofed, calmly huge aura, **unflinched**, stared far to the boat that's just landed, like nothing happened as Koros accompanying the kids on the boat there.
 
 Koros: ... You see, I believe you had learned about Archimedes findings.
 
