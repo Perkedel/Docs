@@ -8,11 +8,14 @@ From shenanigan agendas, down to life threatening plans, all shall be known and 
 DNB's ownership of such initiative, Grift Arbiter, is never without controvercy. Basically, Grift Arbiters are essentially considerable as an insult group who likes to insult types of people they disliked. While indeed their job is to insult whatever dislikable, DNB is always here, and even have sub-license to the POC License, to keep Grift Arbiters from insulting way too far, such as the things that supposedly correct in all of the eyes.  
 E.g., you were supposed to insult this shenanigans about gender, instead of Blue Archive. The video game over there is of course fictional.
 
+If you ask, the Ownership actually isn't because DNB is imprisoning the *satan kids* a.k.a. grifters. It's literally that DNB just let it happen, and it's nothing to do with *satan kids* like that, and therefore is based on human ideas. Even tho there are some Grift Arbiters who are literally a demon from Hell, it's still does not connect.
+
 ## Trust
 
 Usually, only Grift Arbiters from here Perkedel Cinematic Universe can be trusted. Tho, there are some 3rd party Grifters that might be likeable. In any case, if a Grifter starts to insult let's say Blue Archive Senseis for obvious specs of the program, or any similar programs that pertain to shortheighteds, feel free to lost whole respect to said Grifter and return any intel you found from the incident to DNB.
 
-As always, despite Grift Arbiters are as spicy as every Grifters, DNB made sure that all licensed Grift Arbiters comply with the special Exam and trainings the POC License gave them.
+As always, despite Grift Arbiters are as spicy as every Grifters, DNB made sure that all licensed Grift Arbiters comply with the special Exam and trainings the POC License gave them. This ensures despite dislikability, their truths are always too great to be rejected outright, because it's a bunch of undeniable evidences.  
+The dislike should mostly because from the callee themselves, the enemies who have been annoying and harming the rest of the eyes.
 
 ## Aura Kudos
 

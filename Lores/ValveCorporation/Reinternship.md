@@ -52,7 +52,11 @@ Quench: It reminds me.., bunch of classmate suffered similar Job attainment dise
 
 Quench: So go ahead, what do you waiting for? Tomorrow's Steth Coin gonna spent all suddenly you don't realize, go go go!.
 
-Now go
+~~Now go~~
+
+## To be continued
+
+TODO: Write story and edit! Reregistration opens only after we set Season 2 live.
 
 ## Reregister
 

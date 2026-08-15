@@ -50,6 +50,32 @@
 
 ## List
 
+### Protagonists
+- Pondrance
+  - inf⭐ (You play as this)
+    - Obtain dupes through Story Presentations
+  - Male
+  - Surreal
+  - Heart Organ
+    - 1🫀
+    - Active
+    - Brave
+  - Prompts
+    - Forms
+      - Anime Protagonist
+      - office attire
+- Cuddles
+  - inf⭐ (You play as this, unlocks once logged in after Season 2 first patch)
+    - Obtain dupes through Story Presentations
+  - Female
+  - Heart Organ
+    - 1🫀
+    - Active
+    - Brave
+  - Prompts
+    - Forms
+      - Mommy
+
 ### House of Talents
 
 - Anni Syahputri / Anni Cya'dottir / Lady Year
@@ -90,7 +116,7 @@
       - Looks
         - D-cup
 - Deka Syahputra / Deca Cya'son / Sir Decade
-  - 5⭐ (Free, obtained after finished first Season 2 story, if you already won Deka right before this, this Record becomes Dupe too, yey!)
+  - 5⭐ (Free Unlock, obtained after finished first Season 2 story, if you already won Deka right before this, this Record becomes Dupe too, yey!)
   - Male
   - Human being
   - Heart Organ
@@ -109,7 +135,7 @@
       - Looks
         - human boykisser
 - Hora Daahputra / Hora Da'a'son / Sir Hour
-  - 6⭐ Typical
+  - 6⭐ Typical (Free Unlock if you already have atleast D0 Luna)
   - Male
   - Human being
   - Heart Organ
@@ -165,6 +191,40 @@
         - C-Cup 
         - Elegent motions, learn how victoria women move so elegantly!
         - Surreal
+- Desper Atton
+  - 4⭐ (Free 1 Char token if you already have atleast D0 Dyre)
+  - Male
+  - Surreal
+  - Heart Organ
+    - 1🫀
+    - Active
+    - Brave
+  - Prompts
+    - Forms
+      - Default Outfit
+        - Low poly, except his chest & butt
+        - red
+    - Body spec
+      - Looks
+        - thin
+        - Surreal
+- Comma Tosca
+  - 4⭐ (Free 1 Char token if you already have atleast D0 Sync)
+  - Male
+  - Surreal
+  - Heart Organ
+    - 1🫀
+    - Lazy
+    - Coward
+  - Prompts
+    - Forms
+      - Default Outfit
+        - Suit, blue
+    - Body spec
+      - Looks
+        - a bit Plumpy pec 
+        - Elegent motions, learn how ultra-romantic man move so elegantly! similar to Hugo ZZZ
+        - Surreal
 - Sauces
   - Are mostly Surreal Characters. Yes, file Intelligent Constructs.
 
@@ -173,6 +233,7 @@
 - Kiki / Si QiQi
   - 6⭐ Typical
   - Female
+  - Thyren (also Cybernetic?? idk)
   - Heart Organ
     - 1🫀
     - Active
@@ -190,6 +251,7 @@
 - Sophia / Su Feiya
   - 6⭐ Typical
   - Female
+  - Human Being
   - Heart Organ
     - 1🫀
     - Active
@@ -203,3 +265,9 @@
         - I can't find her 3D model other than Mesh2Motion lmao 🗿
 - Sauces
   - https://tysontan.com/gallery/gallery-mascots/foss-mascots-redesigned
+
+## Company notes
+
+- You maybe provided Reference Boards through DM.
+  - Please do not share to public yet, the Board's platform is untrustworthy & likes to punish us for storing said 😏 images
+  - Please do not involve Inteligent Construct at this time for wrangling ideas within the Reference Boards.
