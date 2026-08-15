@@ -9,7 +9,20 @@ s&cardiophilia is a story focused idle game. It's a unique take of Idle genre wh
 - Title (working): s&cardiophilia
 - Genre: Idle ~~Clicker~~
 - Target: **PC**. because s&box currently is only for Windows (Proton Wine compatible), tho this may change as Facepunch (being the dev for s&box) added more targets.
+  - Works absolutely well in Proton GE for those who are Linux user
+  - Emoji font in Proton / Wine is missing atm, which is heavily relied from libs that come from Windows since 10. e.g. it's used as an error icon in OSD. the `😟`
+  - s&box lacks Native Linux binary, otherwise.
 - Target Audience: Cardiophilia Fetish, Lazy Cozy, Idle enjoyers
+  - According to the optics of s&box platform in the span of 2026,
+    - Most Citizens / Players would presumably mostly male. I think..
+    - Game modes found are designed for said typical genres. 
+    - It is seldom to find girl oriented games like dress-up, make ups, etc. Oh God, I'm so sorry, I have no experience of girls lately.
+    - Many slops are Typically idle and/or clickers, complete with Rebirth (lose all for perma-upgrades)
+    - This game therefore is an atleast attempt at providing extended idle experience that should be considerable as something unique unlike those idle games in the platform. Pray for us, thancc.
+   - Batches of Audience specifics
+     - Season 1 will contain typical goon materials, **all females**. Easily this means to go to those male Citizens
+     - Season 2 (working consideration) will contain niche materials, **male characters added**. Since above optic said that we won't find female Citizens searching otome for fun (iseng2) e.g., Oh well I guess we had to stick to the latter targets, **those special male Citizens**, who browse deep Rabbitholes looking for said special niches.
+     - Season 3 ... empty right now. But we know this is about after Quench unbanned our save account. idk what next here, but we are sure this 3rd is the finale and closing of the Trilogy, yes, EOS.
 
 ## Mechanics
 
