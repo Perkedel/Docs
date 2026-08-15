@@ -8,7 +8,13 @@ Endmin enter weird dream again.
 
 Hey look, there's [Drivy](/Lores/ArknightEndfield/JustPhrontIt.md) again. but whoa,
 
-Drivy wears activism decorated varsity jacket. It got lots of stiched patch pertaining of `Male2Female forever` & `Gooner Bodies` stuffs.
+Drivy wears activism decorated varsity jacket. It got lots of stiched patch pertaining of `Male2Female forever`, `Gooner Bodies`, `Human coded human review` stuffs.
+
+<!--
+- 2 genders only
+- Sexy body ftw. no play otherwise
+- Linus does not despise AI assistance!
+-->
 
 And yep, is isn't your dream. This guy is beyond your scope! Confirmed, the dream is swapped, let's start emergency synchronization.
 
@@ -78,13 +84,13 @@ Koros: Let's take care of this one by one. Who do we start with?
 
 Select Phase!
 
-- Contributors Narcism Abundance. After you installed `🐧`
+- Abundance of Paranoia. After you installed `🐧`
 - Contributors wanted. more MIDI composers needed
 - A Rather interesting Hobby. The Balloonings (Requires completing 2 above)
 
 Recommended to choose whatever first comes up which is the topmost!
 
-## Contributor Narcism Abundance
+## Abundance of Paranoia
 
 Endmin walk
 

@@ -118,7 +118,9 @@ Koros: Oh.
 
 Koros: No wonder. No offense nor meant to insult but... were you larping for a theater play?
 
-Drivy: I wish I was. But the `🐧` betrayed us all. The volunteers nowadays have been too much concerned of themselves when they should've stick to their oath they had it before. They broke it just now.
+Drivy: I wish I was. But the `🐧` betrayed us all. The volunteers nowadays have been too much concerned of themselves when they should've stick to their oath they had it before. They broke it just now. And the Chied, doesn't even help! He let unhumane Outsources going! idc if that's just to aid them..
+
+.
 
 Koros: And therefore why use this less popular UNIX-like thingy? You know until now it's that UNIX-like thongo we got that's popular and got much supports, including this proprietary VGA card?.
 
@@ -150,7 +152,7 @@ Koros: All you have to do is to tell everyone `I got the shits from 🚩` (the `
 
 Drivy: (very guilty for rooting wrong philosophy) Oh dear..
 
-Koros: I know.. it's personal opinion, but you got the idea. Also, the `🚩` is not popular either. Used by big companies mean they optimized further with what they had, and what they'll make, **BES-SPOKE**!. Remember, **Beh---spokk**. You have to make the shits you got work, **all on your own**., to get it work. .. You're just youself. Them? Thousands, and it's not for general purpose even.
+Koros: I know.. it's personal opinion, but you got the idea. Also, the `🚩` is not popular either. Used by big companies mean they optimized further with what they had, and what they'll make, **BES-SPOKE**!. Remember, **Beh---spokk**. You have to make the shits you got work, **all on your own**., to get it work. .. You're just youself. Them? Thousands, and it's not for general purpose like ours even.
 
 Drivy: (async) (which means, worry) .....
 
@@ -168,7 +170,7 @@ Drivy: No... I don't want to go back....
 
 Koros: Hey focus!. We move out because `🪟`... No I mean... Brokers!!! Those Landbreakers!!-maybe not only them either... spied on us too much. We've been waging war with them and don't want to know anymore how much terrabyte of doxxing they did to us to personalize more scam ads, so we move. And here, we uh... we got this..... the most working one.
 
-Drivy: But they concerned about themselves
+Drivy: But they concerned about themselves, and the chief does not despise Outsource fully!
 
 Koros: NO, we can't be *heroes*. Just use what works, and this time.. we Phront it. I hope you still have one right?
 
@@ -176,11 +178,11 @@ Drivy: (switch OS) right here.
 
 starting up okay it's done. very fast
 
-Koros: Huh. I thought you reformated your only drive.
+Koros: Huh.., I thought you reformated your only drive.
 
 Drivy: This is for works.
 
-Koros: See I told ya. Until the other UNIX-like rippoffs work, this what we got. Shut your ears to fear mongerers, coz it only succ your Stamina down to null. Stay here, my friend.
+Koros: See?, I told ya. Until the other UNIX-like rippoffs work, this what we got. Shut your ears to fear mongerers, coz it only succ your Stamina down to null. Stay here, my friend.
 
 Drivy: I.. can't showcase `🐧` anymore! All my friends
 
