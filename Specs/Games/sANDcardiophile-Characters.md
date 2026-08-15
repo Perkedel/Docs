@@ -233,7 +233,7 @@
 - Kiki / Si QiQi
   - 6⭐ Typical
   - Female
-  - Thyren (also Cybernetic?? idk)
+  - Thyren 🐿️ (also Cybernetic?? idk)
   - Heart Organ
     - 1🫀
     - Active
