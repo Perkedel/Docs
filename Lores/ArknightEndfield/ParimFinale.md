@@ -22,7 +22,7 @@
 - Welp eventually use Claude Seedance. It works!
 - this is wrong! But sorry, this is the reality now. Until trust worthy non-toxic biological creatives can be found, we could only build cardiophilia with vibe coding. Maybe, God don't want us to keep mourning without doing anything retaliate?
 - return back to scene. Continue.
-- All successfully resurrected. Pls go to each of your home. make no celbration or news. I do not want to attract Harrassers attention.
+- All successfully resurrected. Pls go to each of your home. make no celebration or news. I do not want to attract Harrassers attention.
 - Endmin, you should also go home now, and never contact me by the next 14 days. For what I shall finish next is controvercial. Tell nobody, I'll do it myself. I am going to vibe code what has left.
 - Endmin leave
 - Parim charge. *It's time to fuck you all*
