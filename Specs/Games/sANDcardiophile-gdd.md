@@ -151,6 +151,32 @@ Using the followed system as [MultiTalent](/Specs/Games/MultiTalent/Gacha.md), T
     - Decrease Guarantee number by 10
     - Like in Endfield original and also New Paradigm Fan Remake, Removed Loss slot. Initially you got 3, 2 losses and 1 Rate up. Lost 50/50 now you have 1 Loss & 1 Rate up. Lost again let 1 Rate up. If you had to 6⭐ again, 100% definitely get that Rate Up
 
+### Idling & Embarrassment Protection
+
+You were supposed to be idle on where it's mean to be, which is Home screen. But if you have been idling for more than 30 minutes outside the home screen, you'll be yeeted back to Home screen & a notice dialog pops up
+
+- Title
+- Change scene reason. `Returned to Home Screen for inactivity`
+- Stats
+  - Currently was playing, e.g. `FPS Doom-like`
+  - Accumulations since yeet-back idle
+- Offers
+  - Resume the event game!
+  - Stay in Homescreen
+  - Quit. one touch quit immediately if let's say your parrents decided to sleep in your room unauthorizedly and gets sus about your gaming activity.
+- Yeet actions
+  - Current event game or story will be paused, and hibernated to special save module
+  - This dialog pops up
+  - Embarrassment Protection, because I think every fetish including Cardiophilia & Gooner games in general are embarrassing, don't want (yet) to have my other family members find out!.  
+    - Blankener behind the pop up
+    - Auto mute game until Input
+- Tunable Idles!
+  - You can make this dialog pops up anyway after 30 minutes idle even in Homescreen, to enhance your Embarrassment Protection!
+  - You can set the over-idle to not yeet you back to Homescreen, but this is not recommended, as it may cause lag and memory leak, and you'll also lose revenue due to s&box limitation & GameObject policies (ECG can only listen whatever in the scene).
+  - Add Serial Port based trigger which e.g. you can connect to an Arduino Doohickey that scans for door opening. If let's say your parents struck in all of the sudden without knocking (pfft, low SDM!), the doohickey will send signal to your Gaming PC over serial and the game will immediately engage Embarrassment Protection blankener.
+
+Inspired from Arknights Endfield, if you idled for more than 30 minutes, you'll be automaticaly logged out.
+
 ## Lore
 
 DNB is researching sciences recently as they've just successfully established themselves anew for the better world. There are so many stuffs needed to be done, including this one.

@@ -8,12 +8,13 @@ Endmin enter weird dream again.
 
 Hey look, there's [Drivy](/Lores/ArknightEndfield/JustPhrontIt.md) again. but whoa,
 
-Drivy wears activism decorated varsity jacket. It got lots of stiched patch pertaining of `Male2Female forever`, `Gooner Bodies`, `Human coded human review` stuffs.
+Drivy wears activism decorated varsity jacket. It got lots of stiched patch pertaining of `🙊🙊💢`, `😏😏😏`, `🚫🙅🤖` stuffs.
 
 <!--
 - 2 genders only
 - Sexy body ftw. no play otherwise
 - Linus does not despise AI assistance!
+- `RTFM` my ass! Tho I can, I don't read.
 -->
 
 And yep, is isn't your dream. This guy is beyond your scope! Confirmed, the dream is swapped, let's start emergency synchronization.

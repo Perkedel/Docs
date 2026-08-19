@@ -2,6 +2,8 @@
 
 Operators now got weird dream and is Co-op!!!
 
+Sequel of [this](/Lores/ArknightEndfield/WhatIfYouWereInMyShoes.md)
+
 ## Reminder
 
 - My dad consumerism. pile of drowning items. rescue a prince beneath these items. up is the only exit. use originiumajs

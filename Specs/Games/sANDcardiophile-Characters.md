@@ -10,7 +10,9 @@
   - Availability
     - Typical. Gacha on Typical channels, Lower rarity losses, or 50/50 losses
     - Limited. Only available when banner of them is on air
-    - NPC. Not yet added to the game atm
+      - If expired, you can still get it outside banner on smallest chance. You're welcome.
+      - You can accumulate whichever RSJ pieces to eventually unlock them
+    - NPC. Not yet added to the Character roster atm
     - About Genders
       - ~~First season only has Female~~
       - ~~Male only unlocks after you finished final 1st season and finished 2nd season prologue~~
@@ -36,7 +38,12 @@
     - Single
     - Multiple
 - Heart Effects
-  - POTS
+  - POTS. Oxygen efficiency debuffed, Activity will cause heart pound & syncope.
+- Voicing
+  - All Characters are Dozerics (mirrors Indonesia IRL), unless noted.
+  - Therefore like Hypergryph's Arknights franschise techniques, hire Indonesian VA but force them to speak Intergalactic language a.k.a. English (US by default).
+  - Because these characters are Dozeric and English isn't their mother tongue, they can have chance of grammatical errors & thick accents.
+  - It's been centuries since they live like this, therefore most English score are above 500s whatever idk, and accents are as good as it could be.
 
 ## Template
 
@@ -191,6 +198,26 @@
         - C-Cup 
         - Elegent motions, learn how victoria women move so elegantly!
         - Surreal
+- Berrant
+  - 6⭐ Limited
+  - Female
+  - Surreal
+  - Heart Organ
+    - 1🫀
+    - Lazy
+    - Brave
+    - Quirk
+      - squish her breast to charge Adrenaline
+      - once full, one last squish will cause discharge all Adrenaline to PVC not only her 🫀 but down to whole body
+      - Feels like giant electric surge
+      - she likes that so much and giggles afterward. what a masochist!
+  - Prompts
+    - Forms
+      - Default Outfit
+        - Casual Pink
+    - Body spec
+      - Looks
+        - D-Cup
 - Desper Atton
   - 4⭐ (Free 1 Char token if you already have atleast D0 Dyre)
   - Male
@@ -300,6 +327,9 @@
       - lookup `Velvet`
       - is now white accent instead
       - keep black & glossy latex!
+    - Voice
+      - similar to Microsoft Azure TTS Emily
+      - but has Javanese accent if she speaks her mother tongue.
 - Koros Gibb
   - 6⭐ Limited (Free Unlock if you already have atleast D0 Samya)
   - Male
@@ -317,6 +347,21 @@
       - little bit muscular
     - Extra
       - Licensed grifter
+- Timbre Encrypten
+  - 6⭐ Limited
+  - Male
+  - Heart Organ
+    - 1🫀
+    - Lazy
+    - Coward
+  - Prompts
+    - Form
+      - Default
+        - Doctor white-regular suit
+    - Body spec
+      - Is younger brother of Emilia & based on her too
+      - Your eyes are not wrong, it's 1 to 1 Boykisser!
+      - White fur
 
 ## Company notes
 
