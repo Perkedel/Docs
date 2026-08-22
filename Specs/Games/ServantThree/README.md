@@ -11,7 +11,10 @@ Servant3 is basically MultiTalent but it's s&box instead of Pinball Agung. it's 
 
 ## Different
 
-- Disintegration. Servant3 is offline game publishing. Doesn't do anything with MultiTalent
+- Logo. to signify what network your save account is based on, if you're into figuring outs.
+  - `Servant3.\nSubsidiary of Pinball Agung`.
+  - MultiTalent is just `Pinball Agung\n(Subsidiary Perkedel)` as level as the `HOYOVERSE`, `GRYPHLINE` logo fade pops.
+- Disintegration. Servant3 is **offline game publishing**. Doesn't do anything with MultiTalent
   - Though our save system is an agnostic JSON based as usual, and so, fun factors and others will be interacted by different games to reap rewards cross games.
   - Obviously, you may feel that certain save folder may ultimately be way different than our set standard, due to game engine file system module way of workings. Most be at `~/Perkedel/`, but some other e.g. goes to `~/.config/MadeWithDanishExpiredCookies/Perkedel` & even `~/.local/share/GameCompanyTryhards/saves/Perkedel` etc.
 - starts with s&box. MultiTalent starts with Godot
@@ -21,6 +24,10 @@ Servant3 is basically MultiTalent but it's s&box instead of Pinball Agung. it's 
   - We are not that Linux-based tryhard corporation. So source code is wide open as usual, **Gratis from day one**. Sparsdat? idc! here's how you assemble the shits, complete with how you upload torrent maybe. I hate paywalism either, I dreamed SSS game gratis but oh well. 
   - But remember, we gitignored the game launcher libraries, so.. you still have to buy the game to get Achievements for it.
   - **s&box only**, game is always free, because there is Monetizations. If we are demonetized, sorry we got to unlist? ummm..
+- Directly bought there on those commercial game platforms.
+  - First launches on platforms like Steam, complete with its library dependencies.
+  - After expired (usually 5 years), the game binary will be released for $0 on those simpler platforms.
+  - Unlike MultiTalent, where the games are using our own ding-dong arcade cloud service. Initially claimed $0, but oh shit whoops you gotta login with SwipCard account, yeah you got the idea.
 
 ## Purpose
 
@@ -63,3 +70,13 @@ The sub category as follows
     - Cardiomod roguelike.
   - *We could still just invest anyway, but only because you heard shenanigans going on, you buried all those away!*
   - *Yes indeed, the world reaps where it didn't sow, and gather where it didn't scatter. But are we going to keep hopping frameworks there and up? Time's ticking! Just fucking Phront the shit you had before, or else you'll bed in weep and gnash! You don't want to submit to the angels at front gate saying `Godot betrayed us and we still looking alt engines` no achievement? What if Godot finally has addon to vibrate your Dualsense and individually sound just some particular surround sound speaker?*
+- `Accumulated`. *You decided to use this only Talenta to the maximum anyway, just like the rest of your co-servants. You are old, and now your grandkids gets to reap what you've had Accumulated over these years for their next endeavours*.
+  - Basically MultiTalent games retired and has to EOS.
+  - To comply with Stop Killing Games, we must make sure the game still playable, **Offline**. all of the features
+  - Download your save for the game! yey!
+- `Otherwise`. *You have an interest to somebody's game, but you thought you could make it a different game. Eitherway, these aren't your investments, and you cannot reap nor gather. You just hate to lose this cool idea.*
+  - Basically a New Paradigm / Fan Remake that we considered failed to acquire license and permission to re-commercialize under MultiTalent Publication. 
+  - Yeah, milking EOS'd games? You better give them (the original idea owners) hefty back, seriously!.
+  - These will be turned into Offline games just like all Servant3 Published games.
+  - Since we cannot commercialize, these games binaries are immediately set for $0.
+  - Now you can relive the memories you had been at that time, today.
