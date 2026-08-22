@@ -29,3 +29,17 @@ To name few
 - Cardiophile. from s&Cardiophilia. Every person heart organs appeared in Scene tree are counted, and cookie clicked, all games.
 
 We use modular Library system and enforce rules for all games to implement above fun services.
+
+## Sub
+
+Turns out, something that would be wasted off of MultiTalent would accumulate categories if we commence audits of initiatives of the Servant3 division.
+
+The sub category as follows
+
+- `WeepGnash` (Ratap & Kertak Gigi). final act of Talenta parable, Mat 25:30. Consequences of only crashing out and doing nothing to the intentional calamity challenges.
+  - Labeled for projects designed for Reputation backup. 
+  - e.g.
+    - Tebenge series
+    - Cardiomod roguelike.
+  - *We could still just invest anyway, but only because you heard shenanigans going on, you buried all those away!*
+  - *Yes indeed, the world reaps where it didn't sow, and gather where it didn't scatter. But are we going to keep hopping frameworks there and up? Time's ticking! Just fucking Phront the shit you had before, or else you'll bed in weep and gnash! You don't want to submit to the angels at front gate saying `Godot betrayed us and we still looking alt engines` no achievement? What if Godot finally has addon to vibrate your Dualsense and individually sound just some particular surround sound speaker?*
