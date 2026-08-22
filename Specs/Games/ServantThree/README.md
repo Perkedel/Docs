@@ -2,6 +2,26 @@
 
 Servant3 is basically MultiTalent but it's s&box instead of Pinball Agung. it's like MiHoYo made s&box or Roblox org and make s&box / Roblox game incubation available, relinguishing anything to do with especially Hoyoverse (Global).
 
+## Compare
+
+## Similar
+
+- Agnostic engine, no need exclusively s&Box. Don't be surprised if one of our Godot game is not a MultiTalent game.
+-
+
+## Different
+
+- Disintegration. Servant3 is offline game publishing. Doesn't do anything with MultiTalent
+  - Though our save system is an agnostic JSON based as usual, and so, fun factors and others will be interacted by different games to reap rewards cross games.
+  - Obviously, you may feel that certain save folder may ultimately be way different than our set standard, due to game engine file system module way of workings. Most be at `~/Perkedel/`, but some other e.g. goes to `~/.config/MadeWithDanishExpiredCookies/Perkedel` & even `~/.local/share/GameCompanyTryhards/saves/Perkedel` etc.
+- starts with s&box. MultiTalent starts with Godot
+- Offline based save. Tho, you're cool if you don't cheat. eh whatever. Just don't cheat MultiTalent.
+- Binaries are **EXPENSIVE!!!!!!!!!!!!!** Because I want money. I want Yamaha Genos latest greatest.
+  - Of course we promise maximum 5 years. Then bin is free.
+  - We are not that Linux-based tryhard corporation. So source code is wide open as usual, **Gratis from day one**. Sparsdat? idc! here's how you assemble the shits, complete with how you upload torrent maybe. I hate paywalism either, I dreamed SSS game gratis but oh well. 
+  - But remember, we gitignored the game launcher libraries, so.. you still have to buy the game to get Achievements for it.
+  - **s&box only**, game is always free, because there is Monetizations. If we are demonetized, sorry we got to unlist? ummm..
+
 ## Purpose
 
 To experiment game publication until MultiTalent gacha online service ready for production
