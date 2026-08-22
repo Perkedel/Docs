@@ -11,7 +11,7 @@ Maybe estaphet run? boss blind is marathon? so, win 1st place, strongest heart o
 
 After defeat final number of bosses, you win. Continue or close this run?
 
-This game is Servant3. Use whatever. Since it's Steam and Paid, do not use itch! Maximum contract 5 years, after that, binary must be Gratis. Source code must be available day one, public, not Red Hat, compilable so Citizens can sparsdat it, let them! I am extremely ashamed having had to make this game paid. I dreamt games to be gratis, especially heartbeat games. Alas, this world does not manifest buy anything out of thin air.
+This game is Servant3. Use whatever. Since it's Steam and Paid, do not use itch (because it's usually to publish free games for free, paywall is shame to me)! Maximum contract 5 years, after that, binary must be Gratis (like add to itch $0 and create GitHub release with bin). Source code must be available day one, public, not Red Hat, compilable so Citizens can sparsdat it, let them! I am extremely ashamed having had to make this game paid. I dreamt games to be gratis, especially heartbeat games. Alas, this world does not manifest buy anything out of thin air.
 
 ### Race Type
 
