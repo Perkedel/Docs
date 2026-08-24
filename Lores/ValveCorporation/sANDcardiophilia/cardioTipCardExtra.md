@@ -9,8 +9,13 @@
 - In most cases, a size of fist should indicates one's heart organ size. Usually.
   - DNB and the realms house multiple beings. Some had unproprotionately bigger hands than their hearts, and vice versa.
 - The most popular medical Doohickey used are Stethoscope, followed by ECG, then a Reflex hammer.
+- Your heart can stop beating. But once your brain dies, game over. Nothing ever turns it back on, because Brain is like RAM.
 - One injection keeps Patients away. From getting sick & encounter pandemics, hopefully
   - satirical parody of `One apple keeps doctor away`
+  - Injection of vaccines, btw.
+  - So just get the ticket to hell, than die suffered in vain to heaven. I think.
+    - ticket to hell because you 666 chipped your body, consent or unconsently-unbeknownstly, rumoredly.
+    - Since this is creepy & can be used as a reason to revoke Christianity, let's just assume God is always nice despite the apocalypse, and any amount of unconsented & unbeknownst implantation considered unworthy of punishment. You do not ask 666 Chip? Just get in the gate.
 - After Vatastoran reach orgasm with these hearts connected, the hearts turn into continuous flow of jet stream instead of beating one by one. Btw, this ceremony is essential to charge power, because the two can generate non-toxic radiation that can be captured and turned into electricity energy.
 - Harrassers do not recognize mercy
   - Arknights: Endfield's tip card, `Aggelos knows no mercy`
