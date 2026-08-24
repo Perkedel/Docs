@@ -1,0 +1,56 @@
+# Beacon of Universe
+
+## Reminder
+
+- Here Odcon. this young man get bullied.
+- dad upset, school fail to prevent bully. gave up. sorry for failing Odcon
+- Hire homeschool. here 2 guy, who seek Beacon of Universe
+- Yey Homeschool.
+- Wait a second, the Homeschool teacher was not the 2 men! the actual one was murdered. The 2 men was actually wanted to help replace seamlessly as they saw the teacher was murdered on the spot.
+- You guys are lucky.
+- But that's just one! This whole family is cursed!
+- Sorry sir. We still cannot find cure
+- **Teaching!** A Universe always have at least 1 Beacon. This must alive, and they are destined to be successful and help people
+- You must live to the max, and once you died old, the beacon dot can transfer peacefully to somebody else in that timeline.
+- sometimes there maybe more than 1 beacon. But if just 1 tragically died, still apocalypse
+- continue life
+- Oh no apocalypse. earthquake. the family includinf Odcon crushed in the house.
+- Heaven.
+- Sorry did not tell you in advance. We learned the first time that there is rare chance, a Timeline can lose all Beacon. This her, which is the Beacon of your timeline, was alive, but then revoked. Minutes later she died tragically. Nothing happened, because it's already apocalypse
+- What about me?
+- Sorry again, but you haven't been the Beacon the whole time.
+- internal devastated.
+- Good news tho, Instead you have been connected to this other timeline, appeared since you zygote.
+- (still upset) But I am comfortable here.
+- Uncle of the Heaven! Son, you must remember, **It is important to live life to the max**. and certainly this one, must be a God's plan just for you. See, He's nice! And you don't waste God's plan, do ya?
+- So let's go, time ticking. If we don't act fast, this dot disappesr.
+- Fine!. lead me.
+- New Timeline.
+- The canon failed. how the fuck did you screw up?!
+- press this button. boom! headshot to the invader and all minions vapourize
+- It worked? analyze!
+- It was interference of the invadrr. But miraculously gone.
+- Hey why this kid do not wear uniform?
+- Hey who are you?! ... oh shit no way! Alien Saviour of the Prophecy! protect him! Follow me, I got ya
+- altar
+- Pls marry me aaa
+- instead to marry this princess.
+- What can you do?
+- Solve issues. lot, here
+- whoa alot
+- Some of us have done few things. but some needs you help
+- ok scour. found favourite hobby. pick this
+- and so Odcon and Winna fix things
+- Got kids and grands. Died old. Mission successful, the dot moved to all his grand kids. Timeline saved
+- Overall
+- We only have been fidling somebody business
+- But we all know, Timelines here are infinity and branches. Solve one, is just a branch.
+- We are bored. Like said, when each of us being a beacon somewhere?
+- Thankfully 2 got one each. these are different places. guess it's time to part ways.
+- I miss you
+- Don't forget me
+- Throw the tablets away. Tranfigurates into abstract form, and fly
+- both devices land on Emilia's brain. her FPGA skill activated the devices and marked that all playable characters are Beacon.
+- credit
+- Device ectracted from Emilia's head. analyzed. so that's the whole idea?
+- okay let's archive.
