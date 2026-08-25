@@ -52,3 +52,15 @@ beat of a heart is gowes run. So upgrades considers
 - Each beat means length it goes forward
 - Rapid beat lets you run faster
 - Or better normal beats but each gives you long run
+
+## Clutch!
+
+Engage the beating heart magically into gear to gowes.
+
+There are 2 type of acceleration system to choose
+
+- Matic. Just Press R2, is analog, to accelerate. It will seamlessly adjust clutch engagement & heart adrenalining for you.
+- Racetrack MT. 
+  - L1 is clutch. Just like MT car leftmost pedal, full step disengages, depress to reengages, complete with analog
+  - R2 is carburetor. Like rightmost pedal, gas pedal. Press to open adrenaline valve, analog.
+  - Beware, avoid engaging clutch if heart rate is too low to push gear in torque, otherwise you'd have cardiac arrest for 30 seconds, just like car stalling! You must R2 enough before you can engage clutch!
