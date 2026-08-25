@@ -44,3 +44,11 @@ This game is Servant3. Use whatever. Since it's Steam and Paid, do not use itch 
 Demo version is critical to let gamer save library for later investment.
 
 2 runs only, so to give a taste of upgrading.
+
+### Heartbeat = Step
+
+beat of a heart is gowes run. So upgrades considers
+
+- Each beat means length it goes forward
+- Rapid beat lets you run faster
+- Or better normal beats but each gives you long run
