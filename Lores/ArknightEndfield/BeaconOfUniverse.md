@@ -50,6 +50,8 @@
 - I miss you
 - Don't forget me
 - Throw the tablets away. Tranfigurates into abstract form, and fly
+- One man turns into Hitman eliminatinf corrupt politician. The other become RPG fantasy hero slaying rogue dragons, saving good dragons
+- bang! talk the other before also eliminating the other corrupt
 - both devices land on Emilia's brain. her FPGA skill activated the devices and marked that all playable characters are Beacon.
 - credit
 - Device ectracted from Emilia's head. analyzed. so that's the whole idea?
