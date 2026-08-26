@@ -188,7 +188,7 @@ Timbre: So. I believe we all have some privacy going on here. But pls, if that i
 
 Darren: 💢💢 You?!..
 
-Timbre: Here's a deal. Always clean those, every shower. Easy right? And immediately just after the (no talk gesture) 🍆🍆🍆🍆🍆🍆.
+Timbre: Here's a deal. Always clean those, every shower. Easy right? And immediately just after you **piss**, and the **(no talk gesture) 🍆🍆🍆🍆🍆🍆**..
 
 .
 
