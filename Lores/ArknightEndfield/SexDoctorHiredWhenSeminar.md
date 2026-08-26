@@ -127,3 +127,19 @@ Zixty: 🫵 Cue the ad break!!
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extra
+
+Discotique private room.
+
+A man, patient being beamed with a Doohickey, somekind of dream injector. He is sleeping bedwetly
+
+.
+
+.
+
+Timbre is holding that beaming Doohickey that beaming the patient.
+
+Timbre: Sorry, you're not getting my dick. I'm sorry, this gun's for **her** (Mirna).
+
+look zoom to the wand. `Cleanser`
