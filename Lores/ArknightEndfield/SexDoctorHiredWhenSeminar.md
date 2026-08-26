@@ -142,4 +142,6 @@ Timbre is holding that beaming Doohickey that beaming the patient.
 
 Timbre: Sorry, you're not getting my dick. I'm sorry, this gun's for **her** (Mirna).
 
-look zoom to the wand. `Cleanser`
+look zoom to the wand. `Cleanser Zetrix Jotos`. That wand is a special Caster weapon to hypnotize target into sleep dream.
+
+Also, maybe we do not need to see what's inside the dream. maybe later. caution, it's obviously.. more sinful unlike typical.
