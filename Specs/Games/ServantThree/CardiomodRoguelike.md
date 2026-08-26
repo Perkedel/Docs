@@ -64,3 +64,11 @@ There are 2 type of acceleration system to choose
   - L1 is clutch. Just like MT car leftmost pedal, full step disengages, depress to reengages, complete with analog
   - R2 is carburetor. Like rightmost pedal, gas pedal. Press to open adrenaline valve, analog.
   - Beware, avoid engaging clutch if heart rate is too low to push gear in torque, otherwise you'd have cardiac arrest for 30 seconds, just like car stalling! You must R2 enough before you can engage clutch!
+
+### Integrate onto s&cardiophilia?
+
+- this game is actually a hidden game on "VIP" former room at the back of Nihil Lease arcade.
+- Nihil Lease used to be a Stripper club. The alley is used to be for lewd haven, but the Lewd have expanded so they had to move.
+- The alley cannot rot, so it recycled into general alley, and this club turned into Arcade named Nihil lease
+- You can play this game for free in the s&Cardiophilia. Requires Godot HTML5 integrationings. It costs your Nihil Lease token.
+- So to avoid this, you gotta steammdkfjasdkl;j
