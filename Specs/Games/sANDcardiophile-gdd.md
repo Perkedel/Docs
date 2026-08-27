@@ -157,6 +157,8 @@ Using the followed system as [MultiTalent](/Specs/Games/MultiTalent/Gacha.md), T
     - Once you done, the non-intrusive toast shows what you got, and with a spectacular visualization for whatever 6⭐ you got. The game does not stop immediately, Open Menu again to choose choice
       - Roll 1x. Submit Job Field and play again
       - Roll 10x. Submit 10 Job Fields (auto-select dedicated Job Field first) and play again
+      - Modifier options
+        - Auto-roll. Keep rolling the: 10x or 1x for how many times? Activatation gives you 5 seconds delay between next auto-roll. Recommended to equip idle attackers too
       - Quit. Return to Home
 
 ### Idling & Embarrassment Protection
