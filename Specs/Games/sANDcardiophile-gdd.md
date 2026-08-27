@@ -151,9 +151,13 @@ Using the followed system as [MultiTalent](/Specs/Games/MultiTalent/Gacha.md), T
     - Decrease Guarantee number by 10
     - Like in Endfield original and also New Paradigm Fan Remake, Removed Loss slot. Initially you got 3, 2 losses and 1 Rate up. Lost 50/50 now you have 1 Loss & 1 Rate up. Lost again let 1 Rate up. If you had to 6⭐ again, 100% definitely get that Rate Up
 - Alternative ways?
-  - Ala Duet Night Abyss. Use the DOOM gameplay. All enemies max level 40, easy to defeat. The boss that appears is the rarest item you'll get. If what appear is
+  - Ala Duet Night Abyss. Use the DOOM gameplay, in an arena map, Invasion mode, defeat the spawning enemies until roster ran out. All enemies max level 40, easy to defeat. The boss that appears is the rarest item you'll get. If what appear is
     - Typical Template Boss. Your rarest is all other 6⭐ or 5⭐ Characters or stuffs at worst
     - Select Enemy Boss. That'll be your 6⭐. Look at her, beautiful. If you defeat her, she's yours! If she appears again, defeating her gives you the dupe if you already had unlocked her.
+    - Once you done, the non-intrusive toast shows what you got, and with a spectacular visualization for whatever 6⭐ you got. The game does not stop immediately, Open Menu again to choose choice
+      - Roll 1x. Submit Job Field and play again
+      - Roll 10x. Submit 10 Job Fields (auto-select dedicated Job Field first) and play again
+      - Quit. Return to Home
 
 ### Idling & Embarrassment Protection
 
