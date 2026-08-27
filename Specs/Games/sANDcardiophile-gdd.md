@@ -150,6 +150,10 @@ Using the followed system as [MultiTalent](/Specs/Games/MultiTalent/Gacha.md), T
     - Bonus 10 Elite Job Fields
     - Decrease Guarantee number by 10
     - Like in Endfield original and also New Paradigm Fan Remake, Removed Loss slot. Initially you got 3, 2 losses and 1 Rate up. Lost 50/50 now you have 1 Loss & 1 Rate up. Lost again let 1 Rate up. If you had to 6⭐ again, 100% definitely get that Rate Up
+- Alternative ways?
+  - Ala Duet Night Abyss. Use the DOOM gameplay. All enemies max level 40, easy to defeat. The boss that appears is the rarest item you'll get. If what appear is
+    - Typical Template Boss. Your rarest is all other 6⭐ or 5⭐ Characters or stuffs at worst
+    - Select Enemy Boss. That'll be your 6⭐. Look at her, beautiful. If you defeat her, she's yours! If she appears again, defeating her gives you the dupe if you already had unlocked her.
 
 ### Idling & Embarrassment Protection
 
@@ -210,7 +214,9 @@ Caveat is, since you, the Steam account (you used to login to s&box) that contro
 
 ### Combat
 
-We got combats too! Let's plagiarize Trickals.
+We got combats too! Let's plagiarize ~~Trickals~~ DOOM.
+
+We got FPS shooter, complete with fast agile movement. Always Run, so you run faster. Just focus WASD & Mouse.
 
 ### Naming
 
