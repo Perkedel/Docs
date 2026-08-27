@@ -265,6 +265,9 @@ Brane Craston: Yes. keep discipline. On behalf of DNB and rest of the Overseers,
 
 Timbre: **Yes**, .. that's exactly what I'm afraid of. We are not scammer. We must provide true relieve, even tho has thorns and files (sanding) in the process. And we cannot leave important life lesson out in order to curb repeated repair calamities. **I just don't want myself be Blocked**, Resented, for what my help of importance been doing.
 
+> [!NOTE]  
+> Yeah it's heavy. Jesus that time face that too you know. Who knows what crusfixtion would be this time.
+
 .
 
 Brane: We will make sure you just have be relaxed, we will make sure this measure works well. We promise, to keep this status of this protocol, OK forever.
