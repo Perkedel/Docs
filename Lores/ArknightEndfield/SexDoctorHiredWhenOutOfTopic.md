@@ -288,11 +288,11 @@ Gerujuk: Hi.
 
 a woman walk up the stair throught the Pentagram
 
-Samya: (rush to the closed door) Okay!...
+Samya: (rush to the closed door) Okay!... (pass by door guard) excuse me..
 
 .
 
-Samya: (knock)! ! !
+Samya: (arrive, knock)! ! !
 
 Djelimok: Ah, (walk to small door) okay, come in... .. (open & offer) this way
 
