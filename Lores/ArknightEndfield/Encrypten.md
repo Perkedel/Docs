@@ -7,3 +7,14 @@ When they speak, they speak in [Waver](https://github.com/ggerganov/ggwave). For
 It's just like normal talk, but only compatible to each other. One day, there was a meeting with one of these folks. It's laggy, because the machine must finish translating their waver talks, but thankfully, Encryptens themselves can understand English tho. But hey, at least those who were unable to speak for some reason get to type in the Waver machine, yey!
 
 Many times, Encryptens often hired to become Sign Language interpreters on various formal partnership occassion, thanks to their typical diction experiences back home. They also handled other utterance stuffs like Steno-Subtitling, Translator Technician, etc. But there's zero Voice Acting, again, due to their Governor order of never show real voice to anyone, even their own folks.
+
+## Members
+
+- Jeff. dad
+- Millia. mom
+- Emilia. daughter 1
+- Timbre. son 2
+- Andrew. son 3
+- Delta. son 4
+- Stanley. son 5
+- Cherry. daughter 6
