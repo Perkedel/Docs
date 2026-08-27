@@ -188,7 +188,7 @@ Timbre: So. I believe we all have some privacy going on here. But pls, if that i
 
 Darren: 💢💢 You?!..
 
-Timbre: Here's a deal. Always clean those, every shower. Easy right? And immediately just after you **piss**, and the **(no talk gesture) 🍆🍆🍆🍆🍆🍆**..
+Timbre: Here's a deal. Always clean those, every shower. Easy right? And immediately, at least just spray after you **piss**, and the **(no talk gesture) 🍆🍆🍆🍆🍆🍆**..
 
 .
 
@@ -196,7 +196,7 @@ Darren: 💢💢💢💢(telling that in front of my family?! oh that's it, you'
 
 Timbre: So, don't be bother if you, and son.. come out of in middle of the night. Consider that, a **special Pissing**.
 
-Darren: (stand and and smack desk)!!!!
+Darren: **(stand and and smack desk, tall threatening stance against Timbre)!!!!**
 
 Gerian: Hoa!
 
@@ -232,7 +232,7 @@ Timbre: See, You need someone. Someone that understand you.
 
 .
 
-Darren: (concern about payment) Oh no.. How much should I pay this..
+Darren: (concern about payment & ask compensate for 0⭐ rating service) Oh no.. How much should I pay this..
 
 Timbre: Already paid. Using people's pool.
 
