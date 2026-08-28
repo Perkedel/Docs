@@ -3,7 +3,7 @@ is a line up of humanoid dummies with various models for every purposes. From te
 
 Damefo has been trusted over the galaxies as a solution for testing equipments, wearables, and many safety research project of the galaxies, helping the world build better & safe things and reduce accidents down to zero.
 
-# Begin
+## Begin
 ## Intro. Damefo front desk
 (camera face the front desk covered up with line ups of Damefo products)... (slowly reverse to show all position)..
 

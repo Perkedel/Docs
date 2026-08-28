@@ -120,7 +120,7 @@ same coffin setup, Su Feiya's death representation.
 
 .
 
-Su Feiya: I.. can't explain enough what is this diorma about. Does it mean... our kid (Lena), and yours (Paige)... be affected gravely? .. I.. can't understand and hence (drop tears) I'm afraid.
+Su Feiya: I.. can't explain enough what is this diorama about. Does it mean... our kid (Lena), and yours (Paige)... be affected gravely? .. I.. can't understand and hence (drop tears) I'm afraid.
 
 .
 
