@@ -54,6 +54,8 @@ DaNeBeau: Connection Unstable. **Prepare for QTE**.  **Prepare for QTE**. **Stan
 
 Press `X` / `Space`
 
+Walking still heavy like air is thick and viscous! like riding giant mecha, despite you are still on your body.
+
 .
 
 DaNeBeau: Walk to the door.
