@@ -7,7 +7,7 @@ use [Test The Phront M/F](/Lores/ArknightEndfield/TestThePhrontMF.md) & [Traditi
 ## Snip Pre
 
 - DNB Banned
-- Well nothing happens. We are just barred from any affiliation.
+- Well nothing happens. We are just barred from any affiliation & contributions.
 - Because legally according to started License (GNU GPL v2), KDE must still be usable.
 
 ## Snip Begin
