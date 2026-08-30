@@ -289,3 +289,9 @@ Level Complete!
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extra
+
+Every use of things is best if you understand the hood. But do not despair, when your job is complex math with sophisticated algorithm and you don't understand complex math itself.
+
+take the simple. Computer & Smartphone. You used it every day. It's Computer. Do you understand the core basic of at least 5 metres down the iceberg?
