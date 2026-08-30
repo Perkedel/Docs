@@ -16,9 +16,9 @@ Rendy Arnant: (read) Hmm?
 
 Oh no that Landbreaker again
 
-Larper: Wait but if you did hired them, what do we do with the 3D Model? Proprietarize it? Oooo.. I am Landbreaker despising DNB, but I'm just saying this btw.. **DNB gonna dislike it if the 3D model is not public**. (take out the glass disks containing said AI generated 3D model the institute been using) So congratulations, (throw drop the glass disks, into air) AI wins!
+Larper: Wait but if you did hired them, what do we do with the 3D Model? Proprietarize it? Oooo.. I am Landbreaker despising DNB, but I'm just saying this btw.. **DNB's gonna dislike it if the 3D models are not public**. (take out the glass disks containing said AI generated 3D model the institute been using) So congratulations, (throw drop the glass disks, into air) AI wins!
 
-and then whoosh off the scene
+and then whoosh off the scene. Prang preng prong but thankfully none of the disk shatters because these disks are tough.
 
 .
 
