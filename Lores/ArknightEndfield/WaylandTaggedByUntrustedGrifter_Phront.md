@@ -292,6 +292,8 @@ CC4.0-BY-SA
 
 ## Extra
 
-Every use of things is best if you understand the hood. But do not despair, when your job is complex math with sophisticated algorithm and you don't understand complex math itself.
+Every use of things is best if you understand the hood. But do not despair, when your job is complex math with sophisticated algorithm and you don't understand complex math itself. Atleast math is going to be used too specifically, and instead you had to understand its coding language when you're contributing something else using that coding language.
 
 take the simple. Computer & Smartphone. You used it every day. It's Computer. Do you understand the core basic of at least 5 metres down the iceberg?
+
+asiuldhfiluashfiouershiofhweiohiweuhfuilew
