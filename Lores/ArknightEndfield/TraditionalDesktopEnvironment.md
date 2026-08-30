@@ -188,6 +188,10 @@ Free Bonus note! here paper..
 > - 
 > 
 
+### Spreadsheet
+
+a lime green KDE dragon to demonstrate you LibreOffice Calc. The Vertical Lookup!
+
 ## End
 
 by JOELwindows7  
