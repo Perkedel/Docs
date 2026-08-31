@@ -84,7 +84,7 @@ Alpen: The hell, dude. What's wrong with having feeling? It's better than bot.
 
 Nolok: Ooo, believe me you are inviting disease and cancers doing that. Long short, One Contributor will start to manifest their feeling which often times unnecessary to products.
 
-Alpen: Like.. easter eggs? Usually that's harmless, in fact everyone likes it.
+Alpen: Like.. Easter eggs? Usually that's harmless, in fact everyone likes it.
 
 Nolok: Yes, that's one. But what about the harmful ones? Doesn't need to be a virus I would say.
 
@@ -96,7 +96,7 @@ Alpen: ...
 
 .
 
-Nolok: Campaigns. He snucked in his own identity campain to signal with others. Yuck. One day, you'll see a disgusting rotten easter egg, that let's imagine, an option argument in a command that activates this.. *signal*. Wow.
+Nolok: Campaigns. He snucked in his own identity campain to signal with others. Yuck. One day, you'll see a disgusting rotten Easter egg, that let's imagine, an option argument in a command that activates this.. *signal*. Wow.
 
 .
 
