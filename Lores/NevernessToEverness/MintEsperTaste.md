@@ -10,7 +10,7 @@ More taste to Mint's Esper ability
 - Zhuang Fangyi. Tea. Yep, again, ditto with Iroi. Jade Tea of WuLing breeze
 - Arcane.
 - Si.
-- oh no forgor this blood Sarkaz. Strawberry. Strawberry Jam!
+- Camille. Strawberry. Strawberry Jam!
 - Larper. Bitter Potion. Larper's just an asshole, smart or not, LB or not.
 - Rest of the Landbreakers. Cancer tumor. Rots and emetic, causes severe puking.
 - Valley IV Aggeloi. Burnt bread.
