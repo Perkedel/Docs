@@ -134,7 +134,7 @@ Nolok: Wayland? or XLibre? Oh wait, XLibre broke, go back to Xorg! Wayland first
 
 .
 
-Nolok: O'I forgot! Customers too! They got opinions too. Last time I rented PC here, They hate SystemD coz it's predatorly complicated and possessive, hate Wayland because the Contributors have their identity shenanigans (quote on quote gesture) ***"allegedly"*** lemme stress this again. And so,
+Nolok: O'I forgot! Customers too! They got opinions too. Last time I rented PC here, I found that they hate SystemD coz it's predatorly complicated and possessive, hate Wayland because the Contributors have their identity shenanigans (quote on quote gesture) ***"allegedly"*** lemme stress this again. And so,
 
 Alpen: Hm?
 
