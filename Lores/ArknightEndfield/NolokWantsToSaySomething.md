@@ -158,6 +158,9 @@ Alpen: And then get resented by our OEMs? `Banned` because we disagree with thei
 
 Nolok: Oh you will. And as always by accident. People these days have shorter wicks day by day. You may have a small 🤏..- gesture of statement, but trust me, that's a **fatal mistake** for those kinds of people. You be like, *wtf! that's a normal common sign!** Nope, don't fight it. You are forced to accept the resentment with heart, and move on.
 
+> [!NOTE]
+> Double reference! small normal opinion & Korean netizen secret insult!
+
 Alpen: And be poor of techs?
 
 Nolok: yep.
