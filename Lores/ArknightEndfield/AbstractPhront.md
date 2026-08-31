@@ -90,7 +90,7 @@ Cleansed
 
 Judge: (like just awake from possession) HEAH!! WHAT, WHAT, WHAT THE?!, (see the desk)?.....
 
-Nothing's messed up. The evidence amongst these papers that there something off with Owner's Patent license. Yep, The Judge was bribed with an Æther stuffs
+Nothing's messed up. The evidence amongst these papers show that there something off with Owner's Patent license. Yep, The Judge was bribed with an Æther stuffs
 
 Judge: (upset blow nose calmly) 💢 Mffft....
 
