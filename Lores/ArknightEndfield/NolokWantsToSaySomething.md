@@ -86,7 +86,7 @@ Nolok: Ooo, believe me you are inviting disease and cancers doing that. Long sho
 
 Alpen: Like.. easter eggs? Usually that's harmless, in fact everyone likes it.
 
-Nolok: Yes, that's one. But about the harmful one? Doesn't need to be a virus I would say.
+Nolok: Yes, that's one. But what about the harmful ones? Doesn't need to be a virus I would say.
 
 Alpen: harmful but not virus?
 
