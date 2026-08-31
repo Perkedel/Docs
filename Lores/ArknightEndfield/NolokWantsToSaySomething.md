@@ -197,7 +197,7 @@ Nolok smirk menacingly
 
 .
 
-Nolok: But no, I'm not talking about identity for that one exclusively. All. Agnostic. You have to be careful who you welcome with. In fact doesn't need to be identity. How about again, to expect SystemD or not, and just around that.
+Nolok: But no, I'm not talking about identity for that one exclusively. All. Agnostic. You have to be careful who you welcome with. In fact doesn't need to be identity. How about again, to expect SystemD or not, To go Wayland first like everyone else or X forever, and just around that.
 
 .
 
