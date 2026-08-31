@@ -78,7 +78,7 @@ Nolok: That's where you eventually call that mistake.
 
 Alpen: Why mistake? Our working system welcome third party to contribute on projects. We not only ask for feedback but also accept whatever change that's important for them, which indirectly very important to the rest of us. That's the spirit of Open Source. Why is accepting Pull Request wrong?
 
-Nolok: Those contributors, are human and thyrens. Note, we're talking about bots right now. I'm just concern with.. these soul-based entities. They got feeling.
+Nolok: Those contributors, are human and thyrens. Note, we're not talking about bots right now. I'm just concern with.. these soul-based entities. They got feeling.
 
 Alpen: The hell, dude. What's wrong with having feeling? It's better than bot.
 
