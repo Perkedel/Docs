@@ -106,9 +106,9 @@ Nolok: I'm glad you guys are fine for now. And at least permanent, since Joel Se
 
 Alpen: I see..
 
-Nolok: You only face one or two right now. But you have tumor in your innovation work. You're too diverse, too tolerant. You should've done background check, especially selectively on parameter I just said, .. `Identity`.
+Nolok: You only face one or two right now. But you have tumor in your innovation work. You're too diverse, too tolerant. You should've done background check, especially selectively on parameter I just said, .. `Identity`. Oh! also other tech components, don't forget.
 
-Alpen: But.. we need workers anyway
+Alpen: But.. we need workers & more technologies anyway
 
 Nolok: No!, stop. Keep everything to yourself. Be nepotist. Select only the one who got high quality merits over their own useless pride. Wow, that's spicy. Now, back again but changed a bit. **What would, you, do..?** Eeh?
 
