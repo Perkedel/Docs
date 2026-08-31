@@ -150,7 +150,7 @@ Nolok: That's valid. But again, it's a long term question. You don't have to hav
 
 Alpen: I disliked `Punishment`.
 
-Nolok: There you go. That always gonna happen. You must remedial those Contributors who have irking opinions against your Customers.
+Nolok: There you go. That always gonna happen. You must give remedial to those Contributors who have cringe opinions against your Customers.
 
 .
 
