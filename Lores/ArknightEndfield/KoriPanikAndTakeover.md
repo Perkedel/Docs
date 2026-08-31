@@ -406,47 +406,51 @@ Konqi take all 3, ride the cryo bed again so Kori can also read. Shimmy read tog
 
 All 3 lead women which are Sophia of Doohickey, Emilia of Encrypten, & Endministrator of Endfield Industry pardoned KDE as a whole and will resume the use of KDE both in promotion and and contributions. 
 
-> We disregard any limitation of contributions until a viable out-of-the-box UI-UX can be found.
+<!--> We disregard any limitation of contributions until a viable out-of-the-box UI-UX can be found.-->
+
+> We disregard any limitation imposed by Contributors specifically outside Perkedel Cinematic Universe.
 
 Konqi: No.. we did not ban you, if there is.. we revoked it.
 
-> And we always welcome offer from KDE from anytime within tech scope & Operator scope.
+> And we always continue to welcome offers from KDE from anytime within tech scope & Operator scope.
 
 Konqi: (swipe through paper) So.. .. we still friend?
 
-all paper has same text content, but different header artwork.
+> Therefore, statement is still in effect: `KDE` and affiliates are still open for collaboration according to DNB Motto & Philosophy Policy.
 
-> In laymen terms, **We still are friends**
+Scroll through the 3 papers. all paper has same text content, but different header artwork.
+
+> In laymen terms, **We are still best friends**.
 
 signed, each of the 3
 
 Konqi: ...
 
-Emilia: C'mon. Why would we bow to the condition of somebody in out there world, we couldn't control? You guys are too cool to hate, that's all.
+Emilia: C'mon. Why would we bow to the condition of somebody in out-there-world we couldn't control? You guys are too cool to put resentment against, that's all.
 
 > [!NOTE]  
 > Ignore what does IRL KDE Contributors say. PHRONT IT!!
 
 Sophia: Yep. Those people do not affect our position anymore. Never like last time.
 
-Endministrator: (raised fist gesture push air) Phront! Phront! Phront!
+Endministrator: (pertain Sophia's statement, just like Dave said), (raised fist gesture push air) Phront! Phront! Phront!
 
 Emilia: **Because this, is our story**. Together, this belongs to us.
 
 Sophia: No matter how hot the situation in Kaorfa's world is,
 
-Emilia: No matter how black the list are,
+Emilia: No matter how black (as in grim and dark) the list are,
 
 Emilia: No matter how taboo it would be,
 
 > [!NOTE]  
 > Reference [this](/Lores/ValveCorporation/WhyHospitalMentalOnly.md)
 
-Emilia + Sophia + Endmin: I choose to **Pre-welcome you guys anyway**. I choose to **let you guys always in anytime**. **Both newcomers & old are always friends**. Even if your owner, partners, and superiors have been annoying to deal with, I choose to **never store any resentment nor hate, especially to you guys**.
+Emilia + Sophia + Endmin: I choose to **Pre-welcome you guys anyway**. I choose to **let you guys always in anytime**. **Both newcomers & old are always best friends**. Even if your owner, partners, and superiors have been annoying to deal with, I choose to **never store any resentment nor hate, especially to you guys**.
 
-Sophia: Dee
+Sophia: Dee.
 
-Emilia: Enn
+Emilia: Enn.
 
 .
 
@@ -454,7 +458,7 @@ Emilia: Enn
 
 Emilia: (knock, do not forgor)!!?
 
-Endmin: Bee. Sorry. Need to memorize more.
+Endmin: (rememebered) Bee., Sorry. Need to memorize more.
 
 Even how dire the situation, how depressing it gonna be, funny sketch sliver still active. We are chill people.
 
