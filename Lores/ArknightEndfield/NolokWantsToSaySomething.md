@@ -100,7 +100,7 @@ Nolok: Campaigns. He snucked in his own identity campain to signal with others. 
 
 .
 
-Nolok: I'm glad you guys are fine for now. And at least permanent, since Joel Sensei know about what shenanigan is going on, and of course would ab-solutely forbid from ever happening. Spot one?, bam! `Closed as not planned`.
+Nolok: I'm glad you guys are fine for now. And at least permanent, since Joel Sensei know about what shenanigan is going on, and of course would ab-solutely forbid that from ever happening. Spot one?, bam! `Closed as not planned`. If necessary, .. no wait, force is too extreme that's for API key... basically, Counter-commit! Yet that out, or maybe keep compatible by firstly replacing, or something.
 
 .
 
