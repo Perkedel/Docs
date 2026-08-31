@@ -110,7 +110,7 @@ Nolok: You only face one or two right now. But you have tumor in your innovation
 
 Alpen: But.. we need workers & more technologies anyway
 
-Nolok: No!, stop. Keep everything to yourself. Be nepotist. Select only the one who got high quality merits over their own useless pride. Wow, that's spicy. Now, back again but changed a bit. **What would, you, do..?** Eeh?
+Nolok: No!, stop. Keep everything to yourself. Be nepotist. Select only the one who got high quality merits over their own useless pride. (mini-contemplate of `useless pride`) Wow, that's spicy. Now, back again but changed a bit. **What would, you, do..?** Eeh?
 
 .
 
