@@ -171,7 +171,7 @@ Nolok: Hey, you can always fork right? Oh that's right. Xlibre broke because bot
 
 Alpen: and what?
 
-Nolok: I remember. There's a region named Front City. Long short I want to tell you, **Don't be afraid to pull back somebody's code back to your fork**. Even if these commits now expect SystemD or what. Taboo, curse, or what, **superstition**. Fuck it. Pull! And I want all Front families to stop doing sprinkling *sacred water* and apology praying every single time a procedure gets done. You are no different than a bunch of occultists, that is not how Christian work. I am Atheist, but I know that's just.. overblown, honest.
+Nolok: I remember. There's a region named Front City. Long short I want to tell you, **Don't be afraid to pull back somebody's code back to your fork**. Even if these commits now expect SystemD or what. Taboo, curse, or what, **superstition**. Fuck it. Pull! And I want all Front families to stop doing sprinkling with (quote on quote gesture) *"sacred water"* and apology praying every single time a procedure gets done. You are no different than a bunch of occultists, that is not how Christian work. Disclaimer, I am Atheist, but I know that's just.. overblown, honest.
 
 .
 
