@@ -96,7 +96,7 @@ Alpen: ...
 
 .
 
-Nolok: Campaigns. He snucked in his own identity campain to signal with other. Yuck. One day, you'll see a disgusting rotten easter egg, that let's imagine, an option argument in a command that activates this.. *signal*. Wow.
+Nolok: Campaigns. He snucked in his own identity campain to signal with others. Yuck. One day, you'll see a disgusting rotten easter egg, that let's imagine, an option argument in a command that activates this.. *signal*. Wow.
 
 .
 
