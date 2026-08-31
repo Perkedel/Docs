@@ -154,7 +154,7 @@ Nolok: There you go. That always gonna happen. You must give remedial to those C
 
 .
 
-Alpen: And then get resented by our OEM? `Banned` because we disagree with their modded identity? Don't invite us to play that mistake again.
+Alpen: And then get resented by our OEMs? `Banned` because we disagree with their modded identity? Don't invite us to play that mistake again.
 
 Nolok: Oh you will. And as always by accident. People these days have shorter wicks day by day. You may have a small 🤏..- gesture of statement, but trust me, that's a **fatal mistake** for those kinds of people. You be like, *wtf! that's a normal common sign!** Nope, don't fight it. You are forced to accept the resentment with heart, and move on.
 
