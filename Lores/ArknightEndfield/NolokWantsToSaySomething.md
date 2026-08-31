@@ -66,7 +66,7 @@ Nolok: Now that all the proprietarists are gone, not dead of course, the soul on
 
 Alpen: Make it short, starting bored.
 
-Nolok: For Patent sake!, you guys have zero patience.. Okay Proprietarists prisoned, and my non-soul red minions are purged. .. **What are you going to do next?**
+Nolok: For Patent sake!, you guys have zero patience.. Okay all my Proprietarist friends prisoned, and my non-soul red minions are purged. .. **What are you going to do next?**
 
 Alpen: Huh? Continue improving tech and innovate more. What?
 
