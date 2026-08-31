@@ -260,7 +260,7 @@
 - Kiki / Si QiQi
   - 6⭐ Typical
   - Female
-  - Thyren 🐿️ (also Cybernetic?? idk)
+  - Thyren: 🐿️ (also Cybernetic?? idk)
   - Heart Organ
     - 1🫀
     - Active
@@ -290,6 +290,21 @@
       - Download Outfit
         - FREE
         - I can't find her 3D model other than Mesh2Motion lmao 🗿
+- Xenia (not to be confused with car!)
+  - 6⭐ Typical
+  - Female
+  - Thyren: Fox
+  - Heart Organ
+    - 1🫀
+    - Lazy
+    - Brave
+  - Prompts
+    - Forms
+      - Default Outfit
+        - Search `Linux Xenia mascot`
+        - Black T-shirt, says `LINUX` orange thin text stretched vertically
+        - sun-Monocle on port eye
+        - carries Van Elektronische full-128 QMK based keyboard. White matte casing. White Keycaps. replace Windows logo with OpenCX Logo on both meta keys. Often stored teleprotocolly.
 - Sauces
   - https://tysontan.com/gallery/gallery-mascots/foss-mascots-redesigned
 
@@ -301,7 +316,7 @@
 - Samya
   - 6⭐ Limited
   - Female
-  - Demon, Succubus
+  - Demon: Succubus
   - Heart Organ
     - 1🫀
     - Lazy
@@ -315,6 +330,7 @@
 - Emilia Encrypten
   - 6⭐ Limited
   - Female
+  - Thyren: 😺
   - Heart Organ
     - 1🫀
     - Active
@@ -350,6 +366,7 @@
 - Timbre Encrypten
   - 6⭐ Limited
   - Male
+  - Thyren: 😺
   - Heart Organ
     - 1🫀
     - Lazy
