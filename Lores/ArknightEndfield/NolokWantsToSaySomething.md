@@ -130,7 +130,7 @@ Nolok: The enemies in all Open Source project are now each other. They have diff
 
 Alpen: Umm..
 
-Nolok: Wayland? or XLibre? Oh wait, XLibre broke, go back to Xorg! Wayland first? or X first? Everyone's already been on Wayland, it's cleaner than XSpaghetti, haha.
+Nolok: Wayland? or XLibre? Oh wait, XLibre broke, go back to Xorg! Wayland first?, or X first? Everyone's already been on Wayland, it's cleaner than XSpaghetti, haha.
 
 .
 
