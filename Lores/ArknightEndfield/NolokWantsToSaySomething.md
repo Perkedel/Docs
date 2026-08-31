@@ -106,7 +106,7 @@ Nolok: I'm glad you guys are fine for now. And at least permanent, since Joel Se
 
 Alpen: I see..
 
-Nolok: You only face one or two right now. But you have tumor in your innovation work. You're too diverse, too tolerant. You should've do background check, espcially selectively on parameter I just said, .. `Identity`.
+Nolok: You only face one or two right now. But you have tumor in your innovation work. You're too diverse, too tolerant. You should've done background check, espcially selectively on parameter I just said, .. `Identity`.
 
 Alpen: But.. we need workers anyway
 
