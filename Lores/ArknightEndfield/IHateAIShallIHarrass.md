@@ -264,6 +264,8 @@ DaNeBeau: Okay. Then may I edit this text file?
 
 Ralef replies `Yes & auto accept`
 
+Delta surprised a slight, Ralef knew an AI would ask finalizing confirmation after an edit operation.
+
 DaNeBeau: Please wait.
 
 And so the editor moves itself, duplicating the source line all the way down real quick
