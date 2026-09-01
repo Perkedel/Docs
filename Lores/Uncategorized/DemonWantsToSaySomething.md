@@ -32,6 +32,24 @@ close cage!
 
 B: (push next button) Next!
 
+## Second
+
+A: We meet again. Same as before. Have you thought being God would be sooo complicated? Would regret, and don't want to deal with all shits going on in the entire universe?
+
+B: Why?
+
+A: Because being God, you will see everything!
+
+B: You are demon. You're never been a God!.
+
+A: Yes correct. But trust me, have you seen Him crashed out before at some point?
+
+B: ...
+
+A: Noah's Ark. Remember?
+
+B: Goodbye (close cage)!
+
 ## End
 
 by JOELwindows7  
