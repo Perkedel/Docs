@@ -245,6 +245,20 @@ Endmin: Cool!
 
 Pls AIC frutiger aero!!!
 
+### (Ending) What about the microcontroller
+
+Endmin: I see this insight is fascinating to see. However, I'm curious. What would you do with the microcontroller tech flows once you've switch back to all-in-one?
+
+Porleke: I know. Good question. We currently don't know the definite answer for sure. You see, sometimes, such as Camera here, this works well & performant the most. At this point, there'd be a segregated case going on. Between you just wanna to quickly capture a moment (smartphone), or capture dedicatedly (media studio). Stuff like that. So I think, **we won't outright re-deprecate Arduino based life**. That goes for each and some other ideas too. If something could've been intuitive the most on Smartphone, Laptop, & Desktop then.. software it goes. Otherwise, and if safer there, we'll keep having those dedicated doohickeys for the foreseeable future.
+
+Endmin: Yeah.
+
+.
+
+.
+
+.
+
 ## End
 
 by JOELwindows7  
