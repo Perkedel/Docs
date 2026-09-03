@@ -209,6 +209,42 @@ Endmin satisfied
 
 Porleke: What do you say.
 
+## Extra Questions
+
+### Life Complicated
+
+Endmin: Do you think being living where doohickey separated considered complicated?
+
+Porleke: For me... yes, they are absolutely inconvenient. Idk, I had ever been on a life where everything's done through a PDA. Banking, Entertainments including TV tuner, note-taking, organizing, etc.
+
+.
+
+Porleke: If you ask about Fronts, I believe they'd say so, because they too were ever been on the same all-in-one as most of us were, ~~when they had to switch it up to avoid said sus Contributors~~. And thancc God, Dave managed to convince everyone to back to.. *normal*. Process ongoing, and so far they're similar to our lives now.
+
+### How far have you progressed onto All-in-one?
+
+Endmin: How far is your progress returning back using common all-in-one technologies?
+
+Porleke: Well, we are considerably missed out whole lots since we really were gone Arduino fully. So.. our OpenCX mods of Cachy OS is considerably... yeah, just started. And you know it takes year for we finally considered be forked out but... We still are not interested of forking atm. You know, making OS is hard, but overall, we have covered most of the needed doohickey hardwares and the software each run.
+
+Endmin: Including mobile phone?
+
+Porleke: Yess. The RISC-V mobile is ongoing pretty.. enough. I suppose. Most apps can be installed, and the CPU compat layer (for non-riscv apps) has already been stable enough for the most part.
+
+### Would like to try the continuation of common tech
+
+Endmin: I think I'm interested to join your doohickey progress of common technologies.
+
+Porleke: Oh? Would you like to evaluate our current progress of common tech flows?
+
+Endmin: I am curious if I can procure alternative interface e.g.
+
+Porleke: Sure definitely. We have programmers, and you can tell them how your AIC work, and that should inspire them to build like.. Qt version of AIC interface? Godot, FreeRTOS GUI frameworks, and various different GUI frameworks.
+
+Endmin: Cool!
+
+Pls AIC frutiger aero!!!
+
 ## End
 
 by JOELwindows7  
