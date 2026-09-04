@@ -68,21 +68,53 @@ and finally to show the most important thing. ECG Daemon menu listing characters
 
 Trah: There's UBI, finally. More heart organs near you, more rich you are. Horray, free money!.
 
+Abstract CGI demonstration. Disclaimer `Not part of a video game` ala Toby Fox games trailer. glass Statue of Anni with chest emitting Steth Coin 3d object. then zoom out to overall, bunch of glass statues each with their chest emitting Steth coin & those coins waterfall into a giant money pot. 
+
 .
 
-switch to serious horror. Show mockup of user account page showing that you've been permanently banned over some grave crime.
+**switch to serious horror**. Show mockup of user account page showing that you've been permanently banned over some grave crime.
 
 Trah: But you'll never get any of it.
 
-.
+next slide, a LibreOffice Writer file containing expose doc of you the potential player. Titled `My Experience with [REDACTED]`.
+
+Zoom into `[REDACTED]` and it changes to `[YOUR_STEAM_ACCOUNT_HERE]`
 
 .
+
+Trah: You are still a disgrace!
+
+> Mavrickle Placeholder. Figure 1. Lorem Ipsum Dolor sit amet  
+> 
+> Mavrickle Placeholder. Figure 2. Adipicing
+
+.
+
+Trah: I thought we're friends.
+
+Bunch of repeated *Lorem Ipsum* goes, scrolling down the Writer `.odt` document
+
+.
+
+Desk with a form paper that says medical violation notice. Zoom in, `[YOUR_STEAM_ACCOUNT_HERE]` on field `Name`. 
+
+Move still zoomed in. `Reason` says `Malpractice: Lorem Ipsum Dolor Sit Amet Adipicing Crime A B C D E F G Unethical`
 
 Trah: Please give me all your 3D models & unba-
 
-Tape cuts off switch back vibe to normal again
+**Tape cuts off switch back vibe to normal again**. Group photo of the Cardiophilia initiative Talents, stading behind `s&Cardiophilia` logo statue.
 
-Trah: s&cardiophilia! Available where s&box can renders to. Windows, & Linux. Gratis to win. Terms and Conditions may apply.
+Trah: s&cardiophilia! Available where s&box can renders to. 
+
+Box `for Windows`, `For Linux` fell from sky
+
+Trah: Windows, & Linux. 
+
+price tag sticker saying `IDR 0 / US$0` politely gets pasted over this video
+
+Trah: Gratis to win. Terms and Conditions may apply.
+
+change area to damp surgical green eye-relax screen. The following logos pop up shall be in dark monochrome countering this green eye-relax bg color.
 
 Servant3 Publishing division logo. `Servant3`, `All offline saved games`.
 
@@ -96,7 +128,7 @@ Developed by Pinball Agung Indonesia logo. `Developed by`, `Pinball Agung ID`.
 
 .
 
-DNB Logo. This logo however had the red little bit glitch as if we have parasocial amount of resentment against said life ruiners, as if they've violated my DNB in bio.
+DNB Logo. This logo however had the upset red little bit glitch as if we have parasocial amount of resentment against said life ruiners, as if they've violated my DNB in bio.
 
 .
 
