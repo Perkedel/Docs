@@ -30,9 +30,9 @@ switch back to normal
 
 Trah: Experience cardiophilia moment from enjoying everyone's heart organ, such as 
 
-steth feature
+steth feature. Demonstrate all-magic Right Click hold function. In all scene of s&cardiophilia, hold right click to activate magic stethoscope wand, then put mouse cursor over whichever chest you wanna hear.
 
-Trah: Stething.
+Trah: Stething. Of course, very important.
 
 .
 
@@ -42,7 +42,7 @@ Trah: Stimulation, to increase their heart rate. Or..
 
 Sandbox feature. Manipulate their heart organ like THAT RPGWOLF based game. Take lots of Adrenaline from vial. Then inject to Anni who we demonstrate here. Heartbeat increase crazy vaganza
 
-Trah: Sandbox? .. yeah that's right. Don't worry, they're fine.
+Trah: Sandbox? (a little worried, as the patients, your character, being played around) .. yeah that's right. Don't worry, they're fine.
 
 spin rotate ECG Daemon box machine
 
