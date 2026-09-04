@@ -8,10 +8,11 @@ s&cardiophilia is a story focused idle game. It's a unique take of Idle genre wh
 
 - Title (working): s&cardiophilia
 - Genre: Idle ~~Clicker~~
-- Target: **PC**. because s&box currently is only for Windows (Proton Wine compatible), tho this may change as Facepunch (being the dev for s&box) added more targets.
-  - Works absolutely well in Proton GE for those who are Linux user
+- Target: **PC**. because s&box currently is only for Windows (Proton Wine compatible) **& LINUX NATIVE STEAM RUNTIME!!!**, tho this may change as Facepunch (being the dev for s&box) added more targets.
+  - Works absolutely well in Proton GE for those who are Linux user **Deprecated, Linux Steam Runtime Native available!**
   - Emoji font in Proton / Wine is missing atm, which is heavily relied from libs that come from Windows since 10. e.g. it's used as an error icon in OSD. the `😟`
-  - s&box lacks Native Linux binary, otherwise.
+    - Linux native still couldn't properly interface with emoji font, but atleast the error still has the fallback (non-color, skeleton) emoji icon text
+  - ~~s&box lacks Native Linux binary, otherwise.~~ Linux Native Steam Runtime
 - Target Audience: Cardiophilia Fetish, Lazy Cozy, Idle enjoyers
   - According to the optics of s&box platform in the span of 2026,
     - Most Citizens / Players would presumably mostly male. I think..
