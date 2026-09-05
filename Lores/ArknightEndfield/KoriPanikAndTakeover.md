@@ -370,6 +370,9 @@ Konqie: (stand up)... Okay. If you had to move to another Desktop Environment an
 
 Konqi: MATE, right? I believe there's... ... similar Cachy but it's Debian. Whatever it is, would have MATE. Or hey, maybe it's time for you to start finishing up QML for your Quickshell + Hyprland? .. .. or whatever that Out-of-the-box Linux in the future?
 
+> [!NOTE]  
+> XFCE skipped because afaik is not yet ported to Wayland.
+
 heartbreak tear drop
 
 .
