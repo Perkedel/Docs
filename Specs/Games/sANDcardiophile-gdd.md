@@ -161,6 +161,10 @@ Using the followed system as [MultiTalent](/Specs/Games/MultiTalent/Gacha.md), T
       - Modifier options
         - Auto-roll. Keep rolling the: 10x or 1x for how many times? Activatation gives you 5 seconds delay between next auto-roll. Recommended to equip idle attackers too
       - Quit. Return to Home
+- Name in-game. Gacha is themed after Aperture Desk Job & HRD office hiring new employee
+  - This feature is called `HRD Office`.
+  - Placement inspired from many gacha games, complete with settings which buttons placed as such, and animated just like in Desk Job
+- For more details, please take a look at [sub-document of Gacha Desk](/Specs/Games/ServantThree/sANDcardiophilia-deskGacha.md)
 
 ### Idling & Embarrassment Protection
 
