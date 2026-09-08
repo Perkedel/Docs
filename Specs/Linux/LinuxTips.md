@@ -36,6 +36,22 @@ paru -R your_package_removing_here and_another and_then_another ...
 ```
 to uninstall package. Removes the `your_package_removing_here`, `and_another`, `and_then_another`, and so on separated by space.
 
+#### "Key Invalid" Errors
+
+Pacman key suddenly goes invalid? Try one or some of these
+
+- `sudo pacman-key --refresh-keys` to refresh all of your keyring.
+- Reinstall / Update Keyrings too
+  - `sudo pacman -Sy archlinux-keyring` reinstall or update built-in Arch Linux keyring.
+  - `sudo pacman -Sy cachyos-keyring` and CachyOS keyring too.
+  - `sudo pacman -Sy gnome-keyring` (OPTIONAL) also the GNOME's keyring for good measure
+  - (OPTIONAL) & `debian-*-keyring` too?
+  - whatever
+- extra sauce
+  - https://bbs.archlinux.org/viewtopic.php?id=289895
+  - https://gitlab.archlinux.org/archlinux/archlinux-keyring/-/work_items/187
+  - the `archlinux-keyring-wkd-sync`???
+
 #### Emergency Pacman
 
 Let's face it. Your SSD even the ones designed for Datacenter won't last long and none are perfect.  
