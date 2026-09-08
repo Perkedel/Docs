@@ -71,6 +71,23 @@ Once you have `pacman-static` you can use it on even said severely corrupted sys
 
 Then you can run `pacman-static -Syu` e.g. (or whereever `pacman-static` located at), to reupdate all and hopefully fix something that was broken.
 
+#### Offline Pacman
+
+Make your Arch Linux prep all upgrades now & install them after shutting down / restarting, just like Windows. We'll use [Cachy's extended help](https://wiki.cachyos.org/configuration/post_install_setup/#updating-the-system). But also here [source code](https://github.com/eworm-de/pacman-offline).
+
+- Install `pacman-offline`! `paru -Sy pacman-offline`
+- Edit the pacman config! `/etc/pacman.conf`
+  - add line `Include = /etc/pacman.d/offline.conf` around other includes somewhere. And this `offline.conf` file contains ignore (`IgnorePkg` setting lines) setting during manual `paru -Syu` upgrades. 
+- create new file `/etc/pacman.d/offline.conf` & fill with those ignore lines. **[See the guide](https://wiki.cachyos.org/configuration/post_install_setup/#updating-the-system)**. You have to use CachyOS's extended ignore lines, especially if you're using CachyOS & derivatives.
+  - Yes, basically it's ignore all kernels both OG & derivatives when manually updating, & only do so for offline prep.
+- Then start the preparer once now! `sudo systemctl start pacman-offline-prepare.service`
+- It is also advised to enable its included systemd task scheduler `sudo systemctl enable pacman-offline-prepare.timer` so it'll start preparing minutes right after you booted in on a daily basis.
+- Reboot now!
+  - If you got a package prepared to the pending, the `pacman-offline` will begin installation first right around before halt. **Please do not panic if your shutdown plymouth goes blank for a very long time**, This should be normal & your updater is installing those upgrades. **Then the updater continue the shutdown / restart** afterward. Your Plymouth or your graphic driver might have bug, but otherwise is nonlethal.
+- Enjoy your shutdown updater ala Windows! You can now lean lazy where atleast all of your kernels always be ready for every upgrade.
+  - **TIPS!** **It is highly advised to leave rest of the noncritical updates to just notification** rather than install right away (just like Windows & other apps on the OS doing). [Forum](https://bbs.archlinux.org/viewtopic.php?id=247428), [Reddit](https://www.reddit.com/r/archlinux/s/K1WpNH4rb2), [Stack Exchange](https://unix.stackexchange.com/questions/139065/how-can-i-responsibly-run-updates-automatically-on-arch-linux).
+- You can also enable annoying auto-reboot too just like early Windows 10 days, `sudo systemctl enable pacman-offline-reboot.timer`, essential for Server tho. By default, this service file define auto-reboot by every 3 AM of your timezone (with randomized delay by 2 hours around) whenever `pacman-offline` found prepared upgrades pending.
+
 #### Recommended Shelly Configs
 
 > **😍 TOWEWEWEWEW!!!**
@@ -217,7 +234,7 @@ Go to KDE Setting, category `Notification`. Here on top left, you can adjust how
 
 #### Canberra
 
-[Canberra](https://wiki.archlinux.org/title/Libcanberra) is the Freedesktop Noisy implementation. Most of the time, you probably already had `libcanberra` installed.
+[Canberra](https://wiki.archlinux.org/title/Libcanberra) is the great example implementation of Freedesktop Noisy. Most of the time, you probably already had `libcanberra` installed at some point when you got few apps along the way.
 
 You can also test your system sound based on your currently set sound theme with `canberra-gtk-play` (should be included with `libcanberra` also).  
 e.g., to play the Logged in Sound,
@@ -241,6 +258,36 @@ hl.on("hyprland.start", function ()
     hl.exec_cmd("xhost +SI:localuser:root")
 end)
 ```
+
+#### Change Sound Theme
+
+There are ways you can change your sound theme afaik
+
+- KDE. Use its System Setting
+  - `Color & Themes`, `Global Theme`, `System Sounds`. There you can choose which one. **You can even download some more from provided Community store there**
+
+#### Where to get more sounds?
+
+Well there are ways.
+
+- A `P` *Community Store* like [Gnome Looks](https://gnome-look.org), [KDE Store](https://store.kde.org/), should be same or similar contents under different skin, I suppose.
+  - Beware, to not open all of those tabs at once (and/or in an outdated or LTS Chromium like Thorium), otherwise you'll get your public IP wholly gets banned into simply `Forbidden` text next qeury. At this point, **all devices in your WiFi network no longer can access that domain anymore**. You may wanna wait until your ISP reroll your Public IP or ask them new one, or perhaps until the `P` server software relieved your Public IP off of your punishment in time, idk.
+- Repositories, usually contains `*sound-theme*` in its name. Look it up!, `paru -Ss sound-theme`.
+- Accidental find on GitHub, maybe? But how??
+  - In any case, the [`Minimal Sound UI`](https://github.com/cadecomposer/modern-minimal-ui-sounds) from cadecomposer (CC4.0-BY-SA) sounds good to me. Not by GitHub, it's there on `P` store.
+    - But alas, while both ingredients & Reaper project included in the source code, somehow the machine and the components have been far upgraded beyond the last commit of the source code. 
+    - **Therefore we can no longer reconstruct the signature of these sounds** to make more funny sounds. 
+    - [Here's the wonky attempt so far](https://github.com/Perkedel/BringYourOwnUSB-SFW/blob/main/Mods/Soundfont/Vital/LostModernPiano_trymore.vital). It's a Vital's sine, made into Piano, where the Hold was pushed really down, focus just on the Attack & a little bit on Release.
+    - Think of it like making a new Piano from Surreal Blender Meme abstract materials. How would it sounds when a felt hammer hits a string.
+
+#### Install the sound theme!!
+
+There are 2 places. Put a folder of a theme into which location you'd like
+
+- 1 User only `~/.local/share/sounds`. That user will be the only one that can see the sound theme. Use only for quick testing and other too-tedious-to-sudo installations.
+- System-wide `/usr/share/sounds`. Requires `sudo` but will guarantee reliable working condition down to login managers.
+  - Login manager sounds `system-ready` if it does trigger so like [GDM](https://wiki.archlinux.org/title/GDM), remember Ubuntu's `system-ready` African drum jingle?
+
 #### List of Freedesktop Sound Naming
 
 See the [sauce from 0pointers.de yeay](https://0pointer.de/public/sound-naming-spec.html) for mostly up to date namings. Update as of 2026
@@ -302,9 +349,17 @@ See the [sauce from 0pointers.de yeay](https://0pointer.de/public/sound-naming-s
   - `window-attention-active`. 
   - `window-attention-inactive`. 
 - Actions
-  - 
+  - a
 - Game
-  - 
+  -  a
+
+For OpenCX Phronted Sound event name, refer to the document, TBA.
+
+> [!NOTE]  
+> Teaser!  
+> - Notification & Dialog  
+> - Sound Alert, PC Beep Alert, LED Alert
+> - Haptic Mirror or dedicated audio haptic, Vibration Alert
 
 ## Graphical User Interface
 
