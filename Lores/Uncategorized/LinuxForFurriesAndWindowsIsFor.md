@@ -27,13 +27,15 @@ C: How would we suppose to introduce OpenLP instead of EasyWorship?
 
 B: What do you mean? You talk nonsense. Christians love A-
 
-C: (clobber again)! I am Christian. I hate AI. I am smart. I am IT Expert. I am Media Afficionado and aware AI is heretic. Still saying `all Christian are idiots`?
+C: (clobber again)! I am Christian. I hate AI. I am smart. I am IT Expert. I am Media Aficionado and aware, AI is heretic. Still saying `all Christian are idiots`?
 
 B: Uuughh
 
 C: What else card you'd wanna pull? `but is also Grifter`? Iya?
 
 ## End
+
+And therefore, not all furries are ________________.
 
 by JOELwindows7  
 Perkedel Technologies  
