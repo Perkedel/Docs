@@ -125,3 +125,43 @@ Obviously it's hard to convince because this scene is extremely unrealistic. So,
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extras! Prevent Septic Tank Explosion anymore!
+
+There are risk factors how would a septic tank could explode
+
+- Low content. This will cause Bottle Rocket effect, literally. 
+  - When a fuel is full, there's much less oxygen on the bottle, but only after its vapour touches outside which had air.
+  - That's why Bottle Rocket works when you add right amount of few fuels in it.
+  - But, pre-filling septic tank with something does not make sense! Here's another way we'll talk about later
+- Ignition Source. You are no longer faced with Methan gase from shits alone! You got Operators taking shit which output Encryptium & Originium!
+  - Shits inititally only had flamable gas like Methane
+  - Since 2075, Encryptium contained people has been increasing in numbers, which also gets reflected into their waste material contents.
+  - both Encryptium & Originium are energy storing stones, and can get discharged with certain things, including **oxygen**, i.e. **Fire**. Yes, **explode by fire**.
+  - And again, chance of explosion reduces by how much the tank is full.
+  - But then again, we had to import shits just to pre-fill it? Just look below for the way!
+- Smoking and various Low SDM customers
+  - it should be obvious, for centuries, smoking on toilet does not inherently ignite the septic tank, bottle fuelly, unless it leaked which caused methane vapour got mixed up with air. See Manhole explosion.
+  - But once again, we now live with energy stone of Encryptium, and another here since 2200s, Originium.
+  - Like how could one get contracted with Encryptopathy & Oripathy easily here in Perkedel Cinematic Universe, exclusive & immediately by smoking & vaping.
+  - those energy dust in litres of shits may *still have lives* left.
+  - Hence could get upset, when they sense you vaped or smoked. boom!.
+
+There is a way
+
+- Displace the air in the septic tank with anything inert that's not an oxygen. **Such as Nitrogen / Inergen**
+  - The shit devourer bacteria on the markets across DNB are **anaerobic** meaning they live with air that's not oxygen. In fact, **DNB shit eater bacterias love Nitrogen so much**.
+  - Well that was easy, let's add Gas Spreader system to it based on Endfield AIC tech about it.
+  - Then you can use any Inergen or Nitrogen you can find on any markets easily. From Chemical store, or maybe up to farming stores.
+  - Since they've learned about it, it should take a moment for Inergen tank become popular on Building stores, at a Septic Tank section.
+  - This should push off the oxygen and replace the air with much more inert gas.
+- Don't forget to ensure pressure valve balancing system working & clean
+  - Otherwise if clogged it'd become pipe bomb instead.
+- Do not use wrong gas! remember, **Nitrogen / Inergen**, not Acridgen / H2SO4!
+  - It's obvious.
+  - All septic tanks manufactured required to have the filters and an indicator. E.g., a paper indicator inside the valve which change color to red if a wrong reactive gas is inserted and turns back to normal white when Inergen reintroduced.
+  - But still, really avoid messing around!
+- After you emptied the tank, make sure the empty space hyperbaricly filled with those stablizing gas.
+  - Very important! Just make sure no reactive gas ever gets inside where there's such fuel source left which are those shits and the methane they emit.
+  - Always make sure Inergen / Nitrogen gas is enough to fill those spaces hyperbaricly, at least 12 Psi or little more.
+  - Some septic tanks have vacuum gas feature which depressurize it as low as it could be, but not too low causing suction difficulty. This helps getting rid of said unexpected reactive gas & redisplacing with stabilizer. Make sure that is available & working, which it should automatically activates when emptying hose was connected.
