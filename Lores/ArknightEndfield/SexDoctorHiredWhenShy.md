@@ -12,7 +12,7 @@ sitt
 
 Timbre Encrypten: You're back!.., How you doin?
 
-Mirna: .. Mm (Cool and good).
+Mirna Reliviet: .. Mm (Cool and good).
 
 Timbre: Have you stumbled anything?
 
