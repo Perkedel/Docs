@@ -617,6 +617,24 @@ Mirna: Wow..
 
 Dwibb: Don't mention it. Okay?, Great luck GBU
 
+.
+
+Timbre: OH wait!! Almost forgot!
+
+Dwibb: Yes?
+
+Timbre: I think we can help solve your power supply problem. You should have it taken look at. We have.. updated power supply system better than that.
+
+Dwibb: Oh wow!
+
+Timbre: Yeah, just come to us.
+
+Dwibb: Right right, in usual space station?
+
+Timbre: Doohickey, Indonesian astro-space yes.
+
+Dwibb: 👍 Cool cool. We gotta check it out soon.
+
 ## End
 
 by JOELwindows7  
