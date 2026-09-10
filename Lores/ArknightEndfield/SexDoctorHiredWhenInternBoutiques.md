@@ -501,19 +501,19 @@ Timbre: HUh?..
 
 .
 
-Dwibb: Oh yeas. Just to re-heads you back up, Consequence medics not only tends to physical injuries, **but also mental health**. All my patients are those politicians becoming soldiers and the rank ups.
+Dwibb: Oh yeas. Just to re-heads you back up, Consequence medics not only tends to physical injuries, **but also mental health**. All my patients are those politicians, lawyers, actuaries, and others, becoming soldiers and the rank ups.
 
 Timbre: Wait, then.. the last motivation then??
 
-Dwibb: yess, .. h-here's the longshort. I was forced enslisted. No no, not.. not cruel way. It was my home. Invasion of the Consequence, Harrassers rebooted. My company had to close its door, and my families were in danger, so I got to help. I picked everything that's not gonna kill me in deployment, and they got... Medic. I am good at giving motivation. So that's where I had went.
+Dwibb: yess, .. h-here's the longshort. I was forced enslisted. No no, not.. not cruel way. It was my home. Invasion of the Consequence, Harrassers rebooted. My company had to close its door, and my families were in danger, so I got to help. I picked everything that's not gonna kill me in deployment a line, and they got... Medic. I am good at giving motivation. So that's where I had went.
 
 Timbre: And then?
 
-Dwibb: We failed (The Great Consequences 2170 where DNB once again hated by the world), despite nobody's fault but the enemies. I still feel guilty. Am I not good enough? Or is the enemy grow stronger.
+Dwibb: We failed (The Great Consequences 2170 where DNB once again hated by the world), despite nobody's fault but the enemies. I still feel guilty. Am I not good enough? Or has the enemy growing too strong.
 
 .
 
-Dwibb: That's why I shed my pride of motivator. I have disappointed everyone. Tryna look other gigs, I don't care despite DNB compensate me retirement than any of riches of the world, ... I must forget these all.
+Dwibb: That's why I shed my pride of being motivator. I have disappointed everyone. Tryna look other gigs, I don't care despite DNB compensate me retirement than any of riches of the world, ... I must forget these all.
 
 .
 
@@ -531,7 +531,7 @@ Dwibb: Oh wow we indeed..
 
 .
 
-Timbre: *Medics get injured in war, to be recovered by a private*. Wow.
+Timbre: *Medics get injured in war, to be recovered and back tended by a private*. Wow.
 
 .
 
