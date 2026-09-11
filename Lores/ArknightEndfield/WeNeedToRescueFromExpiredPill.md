@@ -178,6 +178,9 @@ Twinsie: O-...
 
 Randy: They kept using machines! I.. cannot guarantee that employee lives gonna be good with that on the room so... might as well manifest our own to there instead.
 
+> [!NOTE]  
+> And don't forget, How many native companies willing to accept human? You know, they're sharing openings right? But when you submit to all of them? What do you got?
+
 .
 
 Twinsie: But what if we got busted?
