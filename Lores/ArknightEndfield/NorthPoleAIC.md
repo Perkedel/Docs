@@ -1,0 +1,7 @@
+# North Pole AIC
+
+What if we AIC in Earth's north pole?!??!??!??!
+
+I wonder
+
+also AIC in south pole too????
