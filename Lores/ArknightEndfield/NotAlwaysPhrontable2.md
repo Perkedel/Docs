@@ -227,7 +227,7 @@ Phront: Yeah, that shenanigans.
 
 Idk how to end properly, sorry
 
-Phront & Delia yess
+**Phront & Delia** yess
 
 [Btop is now available for Windows](https://github.com/aristocratos/btop4win)
 
