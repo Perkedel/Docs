@@ -1,5 +1,8 @@
 # We need to rescue from expired pill
 
+> [!CAUTION]  
+> afaik, IRL companies uses AI exclusively simply because it's much cheaper, and much simpler. We have yet to survey nor found any reason pertaining to heartbreaks atm.
+
 ## Begin
 
 Dave Front: Folks!
