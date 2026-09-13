@@ -32,7 +32,7 @@ Trunin: Right. Kiana!! I'm mission!
 
 Kiana: Careful!..
 
-Trunin: Let's get started.
+Trunin: Let's get started. Btw, I should change my password. That Grosh (friend) ended up got wife and all that headache gone, no need neuralgine.
 
 ## End
 
