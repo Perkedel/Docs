@@ -452,14 +452,47 @@ You can add more Setting category in your KDE Setting app by installing `*-kcm` 
 - Plymouth (Fedora's Boot Splash) setting with `plymouth-kcm`. Find this in `Color & Themes`, `Global Theme`, `Boot Splash`. Now you can graphically select your favorite boot splash!
 - SDDM with `sddm-kcm`. Also can be found in above theme category setting, at `Login Screen (SDDM)`. You can now graphically change wallpaper, change design, and resync your themes into it. 
   - **Also pls make sure SDDM service is enabled & disable the others**
-    - `systemctl enable sddm`
-    - `systemctl disable otherloginmanagers` etc.
+    ```console
+    $ systemctl enable sddm
+    ```
+    ```console
+    $ systemctl disable otherloginmanagers
+    ```
+    - etc.
 - Plasma Login (`plasma-login-manager`, KDE Plasma dedicated fork of SDDM) already included KCM. Find this in `Login Screen` inside `Security & Privacy` separator. However unlike OG SDDM, **you can only have 1 design**, which is KDE Plasma design. Therefore you can only change Wallpaper & resync your Theme settings to it. 
   - **Also make sure Plasma-login is enabled & disable the others**
     - `systemctl enable plasmalogin`
     - `systemctl disable otherloginmanagers` etc.
 - Some packages may include KCM on their own.
 - What else?
+
+### Multi-Window Applications, YUCK!!!
+
+Do you have software that's designed to have split windows for every aspect of toolbars? Something like ancient GIMP, or maybe [Falcosoft Soundfont Player](http://falcosoft.hu/softwares.html#midiplayer)?
+
+> Image of darktoner man opening sheet of paper edited to that the paper is a red horror
+
+- Try to mitigate by placing the software execution inside some kind of *virtual desktop* window.
+  - Very important for Tiling Compositor! Multi-Window may confuse your entire tiling arrangements. Definitely make that app run inside its own dedicated floating compositor!
+  - Who in the right mind would wanna have split window UI/UX?!?!?
+- For many apps you can use `???`
+  ```console
+  $ myFloatingCompositor my_app
+  ```
+- for WINE, you can launch the app inside a virtual Explorer desktop
+  ```console
+  $ wine explorer /desktop=shell,2560x1440 my_win_game.exe
+  ```
+  - This will launch your EXE app inside WINE Explorer virtual desktop, which should help wrangle that app into a single window.
+  - If your system is in a language unsupported by WINE, you may suffer a chance of unexpected fallback language, such as **into Arabic**, being the alphabetically first language fallback. So make sure to also set the variable force the language if that happened.
+    ```console
+    $ LC_ALL=en_US.UTF-8 wine explorer /desktop=my_win_game_label,2560x1440 my_win_game.exe
+    ```
+  - You can also force wow64 to force 32-bit. Today on 11, WINE should automatically detect and do wow64 if the EXE file is only 32 bit. But if your EXE has hybrid 64/32 bit support, you can force 32-bit mode anyway with
+    ```console
+    $ WINEARCH=wow64 wine explorer /desktop=shell,2560x1440 my_win_game.exe
+    ```
+- If this is way too complicated, send complain to the author, either by their email, or the app's respective source code Issue tab, so they redesign the UI/UX that becomes single window.
 
 ## Depreacated, ignore!
 
