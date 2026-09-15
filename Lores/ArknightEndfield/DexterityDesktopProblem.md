@@ -42,7 +42,7 @@ Wubi: Your apps are located underneath the current window carousel.
 
 ### Bruh..
 
-Phront: The hell is this UX?!
+Phront: (swipe only looks like, rest is ok) The hell is this UX?!
 
 ### and also
 
