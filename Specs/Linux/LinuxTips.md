@@ -492,6 +492,7 @@ Do you have software that's designed to have split windows for every aspect of t
     ```console
     $ WINEARCH=wow64 wine explorer /desktop=shell,2560x1440 my_win_game.exe
     ```
+  - [sauce](https://forum.winehq.org/viewtopic.php?t=37529)
 - If this is way too complicated, send complain to the author, either by their email, or the app's respective source code Issue tab, so they redesign the UI/UX that becomes single window.
 
 ## Depreacated, ignore!
