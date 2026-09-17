@@ -173,6 +173,32 @@ That I could find, & what I had & edited some.
     - Y.Pass 1: `EFO011ea0759ioUau34O7`
     - Y.Pass 2: `EFO01a709UO6e8Aeaoe5e`
   - finally. here we go.
+- Wuling 1.5
+  - [Google Docs](https://docs.google.com/document/u/0/d/1gjgN-KJKoYRitoDRbUknXQf2_CGpEamWbWmiWJhCDeo/)
+  - Asia
+    - W.C 1: `EFO013o723AAI1a450579`
+    - W.C 2: `EFO01ouiOo77396A5IieO`
+    - W.C 3: `EFO01A7u1AooeOE539ieO`
+    - W.C 4: `EFO01E50UE664IoI43uIa`
+    - J.Valley 1: `EFO018IeE8UUu61I7UI73`
+    - J.Valley 2: `EFO013o723AAI1a4u0579`
+    - Y.P 1: `EFO013o723AAI1aI90579`
+    - Y.P 2: `EFO017i897uuA45iuO0Ai`
+  - NA/EU (thancc @Leilyse)
+    - W.C 1: `EFO01Eu24I953Uo083uIa`
+    - W.C 2: `EFO01eE7U28AO0401oui8`
+    - W.C 3: `EFO01a709UO6e8Ae6ou5e`
+    - W.C 4: `EFO0136uI1Uo92ao90i79`
+    - J.Valley 1: `EFO010U96AE173iaUE179`
+    - J.Valley 2: `EFO01A5ieOI741E479ieO`
+    - Y.P 1: `EFO014o5O81EIi3a1E71A`
+    - Y.P 2: `EFO011ea0759ioU7034O7`
+- [Special Event Chubby Lung Attack](https://youtu.be/zMe5ZyEALJ4)
+  - [Google Docs](https://docs.google.com/document/d/1ytwykxFVdxJt-Wf03rLMa_AMaJmDH2mplMQynGaK6cU)
+  - Asia
+    - Xi C.Lung: `EFO013o723AAI1aI40579`
+  - NA/EU (thancc @Leilyse)
+    - Xi C.Lung: `EFO01A5ieOI741E8U9ieO`
 
 ### artsederhana17's factories
 
