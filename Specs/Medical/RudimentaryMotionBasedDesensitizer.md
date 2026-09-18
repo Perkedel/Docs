@@ -1,0 +1,10 @@
+# Rudimentary Motion Based Desensitizer
+
+Basically DNB's EMDR. A part of Typical UI-UX design protocol of DNB. That's to slip-insert EMDR elements into softwares and video games, especially in loading bar and package manager progress bar where such process would take a very long time.
+
+People of DNB, both native, mix, and migrants comes with various traumas in their past. A study in science context shows that anything that ressembles **swaying throbber** gives desensitizing effect to the users of the computers. It's because there are abundant of those with PTSD often got reminded of their past, where often coincidentally accompanied with things like loading throbber bar.  
+As we all know, a basic EMDR therapy works like where a patient was asked to recite their trauma, while being told to focus on this swaying object during the process. This will provide about effective PTSD induced pain reduction thanks to diverted focus off of said neurological pain. It's like seeing Subway Surfer gameplay while reciting your traumas and pack em all up as a proper clarification video.
+
+The Medicals not long after are interested to self insert their therapy methods to design standard, nation-wide, which included this throbber left right bar. Since then, many theme firms have raced and designed throbber loading bar that would be considered viable to become EMDR component, right beyond medical context.
+
+Of course, not all people worked with pretty much the concept of EMDR, some others may need more niche methods bespoke. That is why we added `Rudimentary` because we feel it's a **desperate attempt** to divert said neurological pain per recital. But afterall, finding the mechanics of EMDR, has been considered an interest point, particularly because some point it since had involves machinery like LED bar that plays said throbber left right swing, that represents sway finger, now in digital form.
