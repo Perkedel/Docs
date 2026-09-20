@@ -22,3 +22,4 @@ Then she begged Overseer to recommission to retry, on behalf.
 - done. Bok felt this customer woman worst! blacklist!
 - done
 - This is DNB, you know what does it mean.
+- Bok tests loyalty
