@@ -20,7 +20,7 @@ Player = Falcosoft Soundfont MidiPlayer 32-bit
   - Just plop this shell script next by `MidiPlayer.exe`
   - Make the script executable `chmod +x MidiPlayer_virtualDesktop.sh`.
   - Then execute `./MidiPlayer_virtualDesktop.sh`
-  - It is here because on my KDE Plasma, split-windowed app like this causes positioning trouble and focus steal bugs. What essentially done is that I put the app inside a Wine Explorer virtual desktop, so it tries to contain & emulate Windows' WM fully.
+  - It is here because on my KDE Plasma, split-windowed app like this causes positioning trouble and focus steal bugs. Not to mention of course, **Tiling WMs like Hyprland**, imagine that!. What essentially done is that I put the app inside a Wine Explorer virtual desktop, so it tries to contain & emulate Windows' WM fully.
   - Also It's my personal trouble. Wine we got somehow missing Bahasa Indonesia, and my system is in `Indonesian`. Without exporting `LC_ALL` to `en_US.UTF8` (Force Locale to American English for this session), Wine will select fallback language whatever is the first, which usually `Arabic`.
 - **Play some SG songs**. Songs in that SG sample sets.
 - Observe as whenever it ask e.g. `Female music New` SG voice, **The SG worker somehow failed to run**.
