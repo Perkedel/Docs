@@ -212,7 +212,7 @@ Which of course violate rules & have no regard to others.
 
 .
 
-Delta: So, listen up. You make stuff, right? People bought your invention, of course they gonna do whatever they want with it. Correct response is to ignore the irks and walk your day, that's one. Now you liberated everything the original inventor walled garden in. Tada, the device is now fully yours. Then today you find somebody abused it that it even cause danger to lives. What do you do? Also cause the restriction, ironic, or tell the government so that abuse is forbidden?
+Delta: So, listen up. You make stuff, right? People bought your invention, of course they gonna do whatever they want with it. Correct response is to ignore the irks and walk your day, that's one. Now you liberated everything the original inventor walled garden in. Tada, the device is now fully yours. Then today you find somebody abused it that it even cause danger to lives. Now you face the worse trouble than Mr. Zangemann did, what do you do? Also cause the restriction, ironic, or tell the government so that abuse is forbidden?
 
 .
 
