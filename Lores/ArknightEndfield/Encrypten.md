@@ -10,11 +10,11 @@ Many times, Encryptens often hired to become Sign Language interpreters on vario
 
 ## Members
 
-- Jeff. dad
-- Millia. mom
-- Emilia. daughter 1
-- Timbre. son 2
-- Andrew. son 3
-- Delta. son 4
-- Stanley. son 5
-- Cherry. daughter 6
+- Jeff. dad. Human
+- Millia. mom. Calico cat thyren
+- Emilia. daughter 1. White cat thyren.
+- Timbre. son 2. White cat thyren
+- Andrew. son 3. Tabby orange cat thyren
+- Delta. son 4. Creme cat thyren
+- Stanley. son 5. Tabby dark cat thyren
+- Cherry. daughter 6. Sparse Calico cat thyren
