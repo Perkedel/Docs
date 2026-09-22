@@ -488,11 +488,15 @@ Embridge: Well, umm, there's alot of amenities here. And.. it's after sleepover 
 
 .
 
-Explore the place until 2 days cycle
+<!--Explore the place until 2 days cycle-->
+
+Pondrance, Embridge, and others then enjoys the rest 2 days here.
 
 ## Level Complete!
 
-Yey
+Pondrance wakes up from the tent.
+
+done, control ready.
 
 ## End
 
