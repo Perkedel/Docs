@@ -7,3 +7,5 @@
 - If they are alive, arrest and interrogate who are they worked with. Big chance, conspired with president, or a codename `Lankybeast` a.k.a Frog. That is the nickname of the president, he used to be in Amphibian Squad, fired after slapping a High Order from a Sloantim Armed Associate.
 - As the result, the country receives full shame for decades forward.
 - Funny story, the people agrees, their country has been ruled by slops many times in row. The honest ones didn't even get to survive presidency for 5 years should be, immediately impeached for failing to satisfy the Landbreakers larping in the parliament.
+
+Content is fictional and any resemblance both living and dead, is purely coincidental
