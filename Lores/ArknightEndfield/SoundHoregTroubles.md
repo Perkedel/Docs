@@ -40,13 +40,15 @@ Delta: (wear) Alright, here goes nothing (start to think portal).... ...., Opera
 
 immediately the earrape seeps into the scene
 
-Delta: HOly Shit!! Get in!! Great luck GBU!!
+Delta: HOly Shit!! .. Get in!! Great luck GBU!!
 
 Ada & Delia enters the level
 
 ## a Village in Talos-II
 
-Delia: (toggle ptt), Brik brik, can you hear me?
+portal closed!
+
+Delia: Ugh!, (toggle ptt), Brik brik, can you hear me?
 
 Ada: Loud and clear. Whoaho, what in the..
 
@@ -150,7 +152,7 @@ Steward: Whoa! What now?!
 
 Upset: I KNEW IT!!! SOMEBODY'S INSIDE!!
 
-all LBs alerted
+all LBs alerted, except those the two Operators killed.
 
 and immediately the Judgment arrived teleprotcolly. The Landbreakers are ready to fight
 
