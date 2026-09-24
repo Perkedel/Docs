@@ -199,6 +199,15 @@ That I could find, & what I had & edited some.
     - Xi C.Lung: `EFO013o723AAI1aI40579`
   - NA/EU (thancc @Leilyse)
     - Xi C.Lung: `EFO01A5ieOI741E8U9ieO`
+- [Spcial Event Chubby Lung Attack Phase 2](https://youtu.be/dGsyAp3ePSs)
+  - [Google Docs](https://docs.google.com/document/d/1ytwykxFVdxJt-Wf03rLMa_AMaJmDH2mplMQynGaK6cU/)
+  - Asia
+    - H.Xi C.Lung: `EFO01eAo0e33U2469oAi8`
+    - E.Xi C.Lung: `EFO018IeE8UUu61oaUI73`
+  - NA/EU (thancc @Leilyse)
+    - H.Xi C.Lung: `EFO01Eu24I953UoOU3uIa`
+    - E.Xi C.Lung: `EFO01o0839euaO69eIieO`
+
 
 ### artsederhana17's factories
 
