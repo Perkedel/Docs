@@ -8,7 +8,7 @@ Brash Gibb: So generate the file with AI instead! call DaNeBeau, see who model c
 
 Lean: What?!, bro..
 
-Brash: What do you mean? **The fan artists never gonna share**. You gonna ask? Well go ahead. Chances are you'd likely gonna be yakuza'd.
+Brash: What do you mean? **The fan artists never gonna share**. You gonna ask? Well go ahead. Chances are you'd likely gonna be yakuza'd. If otherwise, bad license best would.
 
 Awkward stiff staring each other, while the model left sitting there on underwear, could only stare the 2 studio guys stuck of options.  
 Overall studio scene look
