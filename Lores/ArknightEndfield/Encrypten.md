@@ -12,9 +12,9 @@ Many times, Encryptens often hired to become Sign Language interpreters on vario
 
 - Jeff. dad. Human
 - Millia. mom. Calico cat thyren
-- Emilia. daughter 1. White cat thyren.
-- Timbre. son 2. White cat thyren
-- Andrew. son 3. Tabby orange cat thyren
-- Delta. son 4. Creme cat thyren
-- Stanley. son 5. Tabby dark cat thyren
-- Cherry. daughter 6. Sparse Calico cat thyren
+- Emilia. daughter 1. White cat thyren. Hourglass thicc boobs butts
+- Timbre. son 2. White cat thyren. Gourd thicc butt, plumpy pec slight
+- Andrew. son 3. Tabby orange cat thyren. Bara big pec KabalMystic?
+- Delta. son 4. Creme cat thyren. Lean medium KabalMystic
+- Stanley. son 5. Tabby dark cat thyren.
+- Cherry. daughter 6. Sparse Calico cat thyren.
