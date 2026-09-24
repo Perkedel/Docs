@@ -6,7 +6,9 @@ Why not?
 
 Purchena / Rosalind: Brrr!! It's cold out here!..
 
-Porleke: I know. But stay awake! We're almost there. Whew! Should've built parking lot up there, isn't there's? Anyway, (teleprotocol a bread) Here, eat this
+Porleke: I know. But stay awake! We're almost there. Whew! Should've built parking lot up there, isn't there's? Anyway, (teleprotocol a bread) Here, eat this.
+
+Prototype bread experimental flavour mix
 
 Purchena: 🤩 Ooo!!!..
 
@@ -109,3 +111,9 @@ Porleke: Heh, no wonder., (teleprotocol powerbank)!, We did climbed up high.
 Big Battery Box!
 
 Porleke connect fast charging into Purrchena's fursuit
+
+## Bonus
+
+Tolak Angin Infused Dry Fin!!!!
+
+Concept! Oripathy and effects stops outside Hypergryph. But the Ætherside diseases still activates anywhere.
