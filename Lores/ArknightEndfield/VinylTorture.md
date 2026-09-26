@@ -20,4 +20,8 @@ A man there is over perfecting record disc experience. let's provoke him
 - Perfect! his obsession has just increased over limit. Explosion should happen in minutes, you're genius!
 - (compliment blush) Hey.. I just calling out truth.
 - look! He ascended wrong way! that was fast.
-- meditation lockdown audio. starves
+- meditation lockdown audio. starves.
+- open the muffle box. the man no longer human. just a light. whoa did I just kill him?
+- Nah, it's more like he did this to himself. lemme see. ah, yess he gets too obsessed of perfect audio, it's way too already, but.. he never able to call it perfect at all. yeah, brain damage.
+- I hope so. Otherwise I'd get strike for that.
+- We'll negotiate together if you got caught.
