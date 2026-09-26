@@ -30,7 +30,12 @@ Applying avatar. cosmic purple galaxy wraps her entire body
 
 Download complete, cosmic wrap vanishes from her head to toe way.
 
-**It's Originium Expie mix!!** Expie with Originium crystals armor not-primagen-just-the-mask-is-metal (no, it's definitely primagen-protogen mix, fuck you proprietarist).
+**It's Originium Expie mix!!** Expie with Originium crystals armor not-primagen-just-the-mask-is-metal (no, it's definitely primagen-protogen mix, ~~fuck you proprietarist~~).
+
+> [!NOTE]  
+> Edit: 
+> - https://youtube.com/shorts/GP4NiYgjThM
+
 
 Endmin: Like that..
 
