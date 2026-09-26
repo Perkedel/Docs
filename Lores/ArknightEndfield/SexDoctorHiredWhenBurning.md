@@ -82,9 +82,9 @@ Done. Darren wears towel just covering waist. Open door
 
 Darren: (upsetly open door politely)!, .. what now?!.
 
-Timbre: Perfect. 🫴 pls sit here in this bed to get startes
+Timbre: Perfect. 🫴 pls sit here in this bed to get started.
 
-Darren walk towards the ward bed
+Darren walks towards the ward bed
 
 .
 
@@ -108,9 +108,9 @@ Timbre: When were you graduate? Year before you enter college, when were?
 
 Darren: Umm, 4 years (of college), (calculating)................ Ah, 2089.
 
-Timbre: Well you definitely did. Our curriculum hasn't changed to this day. Sleeped in class?
+Timbre: Well then you definitely did. Our curriculum hasn't changed to this day. Slept in class?
 
-Darren: Yeah, must've bee borinf seminar..
+Darren: Yeah, must've been a boring seminar..
 
 .
 
@@ -130,7 +130,7 @@ Timbre: ...
 
 Darren: Eagh, fine.., Brush teeth is already one. Now we want more? ... **Ain't nobody got time for that**..
 
-Timbre: (clap)!!-Welp, ... (sta d up) got it, (return to office seat)..
+Timbre: (clap)!!-Welp, ... (stand up) got it, (return to office seat)..
 
 Darren: Huh?.
 
@@ -180,7 +180,7 @@ zoom out
 
 .
 
-Wife and only son already 25 years old here by Darren's side
+Wife and only son already 25 years old here by Darren's side, and Darren jump-cut-ly already in pants and shirt
 
 Darren: Not my kid too!!
 
@@ -200,7 +200,7 @@ Darren: **(stand and and smack desk, tall threatening stance against Timbre)!!!!
 
 Gerian: Hoa!
 
-Timbre unflinched
+Timbre unflinched. Thankfully, Darren's in pants already, otherwise that would be misunderstood.
 
 Darren immediately suppress aggression, this is bad idea already
 
