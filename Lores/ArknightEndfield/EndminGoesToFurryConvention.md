@@ -321,6 +321,118 @@ You got Mission Success Rewards!
 
 Some other activities are Multi, which requires Purrchena on your Team first. Either finish the holding Purrchena activities and retrieve her, OR do the said activities before handing her over somewhere else.
 
+## Restaurant
+
+This is Multi. Retrieve Purrchena first!
+
+### You forgot to retrieve Purrchena
+
+Here's the silent text
+
+Endmin: I think it's better to bring Purrchena first.
+
+### Already Purrchena
+
+Endmin & Purrchena encounters this mini restaurant
+
+Andrew Encrypten: Oh, hey Endmin!, hey Purrchena
+
+Purrchena: Hi!!! (dozing)... (cancel that, sway head) Gwaah!..
+
+Andrew: Welcome to Canteen. Would you like to order?
+
+Endmin: We should have a lunch, don't you think? So, what do you got?
+
+Andrew: Apologies, we only got Salad right now. The rest of the ingredients has not yet arrived, because... the ingredients we specifically chose.. takes long time suddenly. Is it okay? We apologize.
+
+.
+
+Endmin: No big deal, we'll have 2, Purrchena?
+
+Purrchena: I think I can try non-snack just this time.. I wonder..
+
+Andrew: Okayh!! here we go!
+
+Animation fancy. Andrew preps Ketoprak, 2 plates.
+
+Andrew: (slide the plate onto their table) There you go.
+
+Endmin: Waiit..
+
+Andrew: Yes, Endmin?
+
+Endmin: This is Ketoprak! Yum..
+
+Andrew: Oh yeah it is. Cabbage, tofu, crispy spinach, carrot, and corn sprinkles, showered with peanut sauce.
+
+Endmin: Of course, crackers pls?
+
+Andrew: (give orange kerupuk) Here you go..
+
+Endmin: (teleprotocol spoon), (consume)
+
+Purrchena is still observing
+
+Andrew: Yes, Ms. Rosalind. Is there a problem?
+
+observing
+
+.
+
+Andrew: You gotta eat it in case, trust me, 👍 yum!.
+
+Purrchena: (teleprotocol spoon too)?.., (scoop one), ...... (hesitantly choo choo to mouth)???
+
+.
+
+nom!
+
+Purrchena likes it ✨✨✨✨✨✨
+
+Andrew: How is it?
+
+Purrchena: Peanuts! (eating speeed returns to fast normal)!!!
+
+Andrew: Much appreciated
+
+Purrchena finishes first. And then she dozes off.
+
+Purrchena: `This food is delicious, yum yum! cool and good.`
+
+Andrew: Oh-ho-ho, there's no need that, thank you. We just serve.
+
+Purrchena: (wake again spasm)!!, MMh, wow.. Sorry, I slept again.
+
+Andrew: It's okay, I know by heart, you seemed liked it. And your recording system picked so
+
+Purrchena: Did it? You're welcome! I indeed say it's delicious.
+
+.
+
+Andrew: It appears you forgot drink. My apologies, I haven't stated this in advance.
+
+Endmin: It's alright. What do you have?.
+
+Andrew: For drink, we're good. We got Sweet Iced Tea, Orange Juice Iced, Blackcurrant Iced, Ocha Iced, and Regular Water Iced.
+
+Endmin: I'll have Sweet Tea Iced
+
+Purrchena: Blackcurrant Iced!
+
+Andrew: Certainly.
+
+Jump cut to Andrew hands the respectively to Endmin & Purrchena.
+
+Andrew: There you go..
+
+and Endmin & Purrchena proceeds to bottoms up by each straw.
+
+.
+
+.
+
+there, finished.
+
 ## End
 
 by JOELwindows7  
