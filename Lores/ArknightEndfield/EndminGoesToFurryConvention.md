@@ -35,6 +35,8 @@ Download complete, cosmic wrap vanishes from her head to toe way.
 > [!NOTE]  
 > Edit: 
 > - https://youtube.com/shorts/GP4NiYgjThM
+> - https://www.reddit.com/r/protogen/comments/1wqqpmm/primagen_rare_protogen_now_open_species/
+> - https://youtube.com/shorts/xjhR4U38EEQ
 
 
 Endmin: Like that..
