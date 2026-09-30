@@ -2,6 +2,8 @@
 
 A man there is over perfecting record disc experience. let's provoke him
 
+Sopren Gibb & Viol Repp
+
 ## Rough
 
 - You are gibb. why not try make people offended? that is in your blood
