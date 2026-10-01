@@ -198,6 +198,8 @@
         - C-Cup 
         - Elegent motions, learn how victoria women move so elegantly!
         - Surreal
+      - Reaction
+        - Panik when saw enemy. Tend to fasteh HB. Drastically Improved Auto-aim Vertical & Horizontal. Drastically extended Slow Mo skill time, Drastically reduced slow mo cooldown.
 - Berrant
   - 6⭐ Limited
   - Female
