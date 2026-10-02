@@ -14,6 +14,10 @@ Koros: eArgh, forgive me. It was.. hilarious.. ly wrong. I should've been more s
 
 Reference of Estella wanted to impress Akekuri for her Longear afficionado. But instead gave Akekuri Longear recipe.
 
+It's like giving AI drawing machine to an Artist who likes to paint.
+
+Since then Estella learned from her mistake and retrained to rectify her answer for the fortcoming questions in the future.
+
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
