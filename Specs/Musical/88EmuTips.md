@@ -136,6 +136,11 @@ https://theusualsuspects.io/downloads/88emuplayer
 
 ## Try Demo
 
+- SC-55, SC-155, SC-88 & Pro
+  - Unfortunately there's no Demo built-in.
+  - I believe, this was intended to have Roland SoundBrush next by it.
+  - Alongside, you should receive a floppy disk containing the Demo songs that you insert into the SoundBrush.
+  - Basically, just use the built-in Playlist feature.
 - SC-55 mkII, SC-155 mkII
   1. Power off (`Q`).
   2. Hold both `PART` buttons
@@ -156,6 +161,8 @@ https://theusualsuspects.io/downloads/88emuplayer
     - Heigo Tani - WALL FIVE MIX
     - Yuuki Kato (Music Brains, inc.) - Blue X
     - *All Song*. Repeat All the whole demo.
+- Obtain the Demo!
+  - [DTM-Hub Demo Data!!](https://github.com/ltgcgo/midi-data/tree/main/vendor/roland)
 
 ## Play Custom Song
 
