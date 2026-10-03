@@ -58,7 +58,53 @@ Wizard's Journal of MIDI. circa 2145, the latest edition.
 
 Porleke: Oh yess, perfect! use that!
 
+DaNeBeau: I can help you break down the audio. Here are parts I've split.
+
+Karaokefied audio file into separate tracks. Play intermittent previews
+
+DaNeBeau: These are split based on my understanding, so I think these should means every instrument best I could.
+
+Porleke: Oh yess, single instrument. Endmin, try to Solo match one by one based on these audio tracks DaNeBeau has split. (But oh no it's AI involved) Before that tho, Jarwo, DaNeBeau has been involved here. Is it alright?
+
+.
+
+.
+
+.
+
+Jarwo: (sigh) Hegh... At least you did these unlike those smart-ass meat proxies right?
+
+Gocce: You are seeing the real efforted work just now. DaNeBeau help only cracking some important things, which here to aid in referencing and matching as close as possible. Nothing else.
+
+Misha: The file is gone! Blame the company for removing their own files! We shall be waived from guilt when they asked.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Jarwo: Well, keep going. But I'm afraid DaNeBeau must be filtered from Credit.
+
+.
+
+Jarwo: No keep him, mark the file AI generated, bin `1`, true. But don't forget granular details for it.
+
+Endmin: Yes, like `AI true` with details that basically says AI file not included, but just for referencing?
+
+Jarwo: Correct. Bet they gonna ask and complain about that despite.
+
+Endmin: Got it.
+
+And so the Operators eventually finished the MIDI file. Each channels and EFX has been match track by track to be as close as possible, complete with all known SysEx's and other datas. Not the same MD5 Checksum mind you, but it's there.
+
 ## End
+
+Who Jarwo is to? Misha?
 
 by JOELwindows7  
 Perkedel Technologies  
