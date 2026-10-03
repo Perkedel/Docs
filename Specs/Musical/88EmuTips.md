@@ -161,7 +161,7 @@ https://theusualsuspects.io/downloads/88emuplayer
     - Heigo Tani - WALL FIVE MIX
     - Yuuki Kato (Music Brains, inc.) - Blue X
     - *All Song*. Repeat All the whole demo.
-- Obtain the Demo!
+- Obtain more Demo songs!
   - [DTM-Hub Demo Data!!](https://github.com/ltgcgo/midi-data/tree/main/vendor/roland)
 
 ## Play Custom Song
