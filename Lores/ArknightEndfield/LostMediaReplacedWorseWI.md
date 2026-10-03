@@ -2,11 +2,11 @@
 
 ## Begin
 
-Gocce: It's gone. I'm sorry. I ultimately has failed
+Gocce: It's gone. I'm sorry. I ultimately has failed.
 
 Jarwo Gibb: nnnNNOOOOO!!!!
 
-Phlegm: Wary not, my children. As what hast lost, shall be replaced with an even better form
+Phlegm: Wary not, my children. As what hast lost, shall be replaced with an even better form-
 
 Jarwo: WHADYA MEAN? You drank too much fentanyl?!, What if the replacement is AI Generated?
 
@@ -100,7 +100,10 @@ Jarwo: Correct. Bet they gonna ask and complain about that despite.
 
 Endmin: Got it.
 
-And so the Operators eventually finished the MIDI file. Each channels and EFX has been match track by track to be as close as possible, complete with all known SysEx's and other datas. Not the same MD5 Checksum mind you, but it's there.
+And so the Operators eventually finished the MIDI file. Each channels and EFX has been match track by track to be as close as possible, complete with all known SysEx's and other datas. Not the same MD5 Checksum mind you, but it's there.  
+Despite in the end DaNeBeau bits of commit never touches the file, to be safe, the Operators had to mark it `AI generated`, just because DaNeBeau had helped, and even it's just to splice the original audio render karaokely, nothing else.
+
+What do you think. Should this clean-of-AI be untagged? or tagged anyway? Should we consider the product unconditionally heretic even if the AI commit never touched any of the source code but just to help reference? lemme know in the comments down below.
 
 ## End
 
