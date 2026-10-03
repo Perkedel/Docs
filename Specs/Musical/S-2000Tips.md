@@ -127,7 +127,7 @@ https://github.com/tarboh/S-MU2000
 4. Wait.
 5. Select which song to play. `ALL SONG` is playlist of all 3 songs. While you can also choose just one
 6. Press `ENTER` to play selected song
-7. The Demo song will play Repeat One. `EXIT` to stop and go back to Demo selection again.
+7. The Demo song will play Repeat One for one song, or repeat all for `ALL SONG`. `EXIT` to stop and go back to Demo selection again.
 8. To exit out of Demo, `EXIT` again in the demo song selection menu.
 
 ## Play custom song.
