@@ -140,5 +140,5 @@ https://github.com/tarboh/S-MU2000
 - Fun Play Facts
   - You cannot directly load some of the [MU-2000 Demo MIDI](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha/mu) itself, especially the `R-love.mid` & `R-loveLM.mid`, because the **voice samples are accessible only through official Demo mode**. Attempting to play anyway results those to become minus one / instrumental (if there's no voice ever sampled here).
   - Some of the [demo MIDIs that you can have](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha) may require serveral addon cards, called `PLG` Modules. Unfortunately, there's no way to achieve that in this emu atm.
-    - e.g., to play VL Songs, you will need PLG-VL, & to play Singing SG Songs, you need PLG-SG. There are more PLG cards for more extra patches.
-    - In today's time, you just purchase or download expansion packages digitally through [Yamaha Musicsoft at Expansion Package section](https://shop.usa.yamaha.com/en/c/downloadables/sound-expansion-library/premium-packs-voices).
+    - e.g., to play VL Songs, you will need **PLG-VL**, & to play Singing SG Songs, you need **PLG-SG**. There are more PLG cards for more extra patches.
+    - In today's time at a modern Yamaha Keyboards (Tyros, Genos, PSR), you just purchase or download expansion packages digitally through [Yamaha Musicsoft at Expansion Package section](https://shop.usa.yamaha.com/en/c/downloadables/sound-expansion-library/premium-packs-voices).
