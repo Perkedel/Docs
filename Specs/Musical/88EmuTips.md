@@ -88,7 +88,7 @@ https://theusualsuspects.io/downloads/88emuplayer
           - Press both `KEY SHIFT` again to apply & exit. 
       - `MIDI CH` (Keyboard `A` & `S`). Idk what is this, I thought it changes where MIDI Channel it outputs to, but if `MIDI CH` is not same as the Channel, it'll play both this & that MIDI Channel.
     - Insertion Effects (Since SC-88, except VL)
-      - `USER INST ON/OFF` / `EFX` (Keyboard `3`). Toggle between in-MIDI Effect and User-made Effect (???).
+      - `USER INST ON/OFF` / `EFX` (Keyboard `3`). ~~Toggle between in-MIDI Effect and User-made Effect~~ Toggle Effect On/Off (???).
         - On SC-88Pro, it becomes `EFX`. Here, you can select hundred kinds of insertion effects.
         - You can only have 1 kind of effects, and channel you chose to have one (`EFX` lit on SCVA), will possess only the same selected EFX.
       - `EFFECT SELECT` (Keyboard `4`). Select Effect aspect to adjust. Note the red `▶️` LEDs cycling through as you press. It points to effect variable set according to printed label there.
