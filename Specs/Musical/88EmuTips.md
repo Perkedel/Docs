@@ -163,6 +163,7 @@ https://theusualsuspects.io/downloads/88emuplayer
     - *All Song*. Repeat All the whole demo.
 - Obtain more Demo songs!
   - [DTM-Hub Demo Data!!](https://github.com/ltgcgo/midi-data/tree/main/vendor/roland)
+  - [Compare that with Octavia](https://gh.ltgc.cc/octavia/test/). Audio renders made by DTM-Hub community members.
 
 ## Play Custom Song
 
