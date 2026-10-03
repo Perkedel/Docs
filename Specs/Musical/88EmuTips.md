@@ -162,7 +162,7 @@ https://theusualsuspects.io/downloads/88emuplayer
 - Built-in Playlist
   - You can drag & drop your MIDI files into it's own built-in playlist
   - Choose a song added, and it'll immediately play it to the emulator.
-  - Or press `▶️` to play now. While playing you can pause with the same button (`⏸️`)
+  - Or press `▶️` to play now. While playing, you can pause with the same button (`⏸️`)
   - To stop playback, press `⏹️`
 - MIDI Loop
   - You can use your own MIDI looper by setting the MIDI Input towards this emulator, into the MIDI Loop out of the number.
