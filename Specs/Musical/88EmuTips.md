@@ -157,6 +157,20 @@ https://theusualsuspects.io/downloads/88emuplayer
     - Yuuki Kato (Music Brains, inc.) - Blue X
     - *All Song*. Repeat All the whole demo.
 
+## Play Custom Song
+
+- Built-in Playlist
+  - You can drag & drop your MIDI files into it's own built-in playlist
+  - Choose a song added, and it'll immediately play it to the emulator.
+  - Or press `▶️` to play now. While playing you can pause with the same button (`⏸️`)
+  - To stop playback, press `⏹️`
+- MIDI Loop
+  - You can use your own MIDI looper by setting the MIDI Input towards this emulator, into the MIDI Loop out of the number.
+  - Then, on your external player or DAW, set the MIDI OUT to MIDI loop in, of that number.
+- Plugins
+  - Load 88emu as a plugin inside your Host.
+  - Play or administer some MIDI messages into the loaded plugin.
+
 ## Initialize SysEx Resets
 
 - Older SoundCanvas
