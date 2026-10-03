@@ -23,16 +23,20 @@ https://github.com/tarboh/S-MU2000
   ```console
   $ make -j$(nproc)
   ```
-  - Your build folder will appear right in this project according to your OS
+  - Your build folder will appear right in this project root according to your OS
     - `build`. Windows
     - `build-linux` Linux
-    - `build-max` (?) macOS
+    - `build-mac` (?) macOS
   - Prep your ROMS! [See this](https://github.com/tarboh/S-MU2000/blob/main/doc/dump/README.md)
-    - Program Flash! Extract from [Yamaha's Official Firmware Update](https://jp.yamaha.com/support/updates/mu2r1_uw.html)
-      - The extractor tool is included. Extract the firmware update, and bring 2 parts of `.ydl` together as such, and extract
+    - Make a new directory `roms` in this project root now!
+    ```console
+    $ mkdir roms
+    ```
+    - Get Program Flash! Extract from [Yamaha's Official Firmware Update](https://jp.yamaha.com/support/updates/mu2r1_uw.html)
+      - The extractor tool is included. Extract the firmware update package, and bring 2 parts of `.ydl` together as such, and extract
       ```console
       $ python tools/dump/ydl_extract.py part1/images/v200U12k.ydl part2/images/v200u22k.ydl \
-             -o roms/mu2000_flash.bin
+        -o roms/mu2000_flash.bin
       ```
       - make really sure that this `mu2000_flash.bin` is in the `(PROJECT_S-MU2000)/roms`
     - ROM Dump. 
