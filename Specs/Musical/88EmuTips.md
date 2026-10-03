@@ -10,7 +10,7 @@ https://theusualsuspects.io/downloads/88emuplayer
   - Prep Your ROMs!
     - Sorry, can't DL link right now. You can instead look it up yourself from various source.
     - ROMs should be in `.bin` format and as such. **Never is `.exe`!**
-    - Recommended to obtain `Standalone Package` to make it easier.
+    - It is recommended to obtain `Standalone Package` to make it easier.
     - Drop everything (even the subfolder) into
       - Linux: `~/.local/share/The Usual Suspects/88emuPlayer/roms`
       - Windows: `My Documents\The Usual Suspects\88emuPlayer\roms`
