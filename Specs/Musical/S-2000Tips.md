@@ -65,32 +65,55 @@ https://github.com/tarboh/S-MU2000
 ## Manual
 
 - [Archive.org](https://archive.org/details/manualsbase-id-224151)
+- [Emulator Manual English](https://github.com/tarboh/S-MU2000/blob/main/doc/manual.en.md)
 
 ## Key Basics
 
 - Right Set. Right most Button
-  - `PART`. Selects your MIDI channel / track. Press both = `ALL`, view master MIDI settings
-  - `SELECT`. Menu selection left & right
-  - `VALUE`. Adjust value of a variable, e.g. in main screen `PLAY` changes your `BANK/PGM#`
+  - `PART` (Keyboard `[` & `]`). Selects your MIDI channel / track. 
+    - Press both = `ALL`, view master MIDI settings
+      - The All Reverb & Chorus settings are the `Rtn`.
+      - The All Volume & Expression are called `Master Volume ` & `Master Attenuation` respectively.
+      - **There is no Balance (All Pan)**
+      - Key Shift becomes `Transpose`. It can go all the way to 24 semitones both ways (`+/-`).
+  - `SELECT`. Menu selection left & right. 
+    - In `PLAY` screen, it cycles through MIDI settings. 
+      - Notice the little `🔻` between the meters & the VU, that is your selected variable. 
+      - For selection at Bitmap display, the `🔻` actually points at the `BANK` and/or `PGM#`, as you can see on the printed label.
+  - `VALUE` (Keyboard `-` & `=`). Adjust value of a variable, e.g. in main screen `PLAY` changes your `BANK/PGM#`
 - Middle Set. Between lit & Right set
   - `MUTE/SOLO`. Cycles between Mute this channel, solo this channel, and back to normal.
-  - `ENTER`. Enter certain menu
-  - `EXIT`. Go back one step, or if nothing else, returns to `PLAY` screen.
+  - `ENTER` (Keyboard `Return`). Enter certain menu
+  - `EXIT` (Keyboard `Backspace`). Go back one step, or if nothing else, returns to `PLAY` screen.
 - Lit buttons. These basically are Menu screen selections.
-  - `PLAY`. Your main screen. You can see VU, Patch and Banks, Bitmap, etc.
-  - `EDIT`.
-  - `UTIL`. Go to system settings & utilities
-  - `EFFECT`. See the effects setting
-  - `SAMPLING`. See the voice sampling stuffs
-  - `SEQ`. View Song data, including Demo songs
+  - `PLAY` (Keyboard `A`). Your main screen. You can see VU, Patch and Banks, Bitmap, etc. Press again to cycle between different overview of the channels.
+  - `EDIT` (Keyboard `E`).
+  - `UTIL` (Keyboard `U`). Go to system settings & utilities
+  - `EFFECT` (Keyboard `F`). See the effects setting
+  - `SAMPLING` (Keyboard `M`). See the voice sampling stuffs
+  - `SEQ` (Keyboard `Q`). View Song data sequences & play some, including Demo songs
+- White button between Dial & Instrument Categories
+  - `SELECTION`. Cycle between Sampled Voice, (PLG Modules?), & Regular Patch set.
+  - `AUDITION`. Preview selected Patch. Like pressing Volume knob on some SoundCanvas modules. By default presses `C` note, but can be changed.
 - Instrument Category Selector
   - Underneath the display is your instrument selectors
   - Press which to set it to first instrument of that category
   - Press again to cycle through different instrument in the category.
   - You can also cycle through all instruments using dial or `VALUE` buttons.
-- Microphone Plugs
-  - On your left, you have 2 MIC inputs
-  - Adjust gain using `A/D` knob there.
+- Jacks & DINs
+  - Microphone Jacks
+    - On your left, you have 2 MIC inputs: `1` & `2`.
+    - Adjust gain using `A/D INPUT` knob there.
+  - MIDI Input DINs
+    - You have 4 Inputs. `A` front, and the rest 3 back (Not shown in emu).
+  - Headphone Jack
+    - `PHONES`. Connect to your Headphone. In this emu, it lets you select audio output device.
+- Knobs & Dials
+  - `A/D INPUT`. Adjust gain of MIC IN jacks
+  - `VOLUME`. Master volume, like all those Yamaha instruments
+  - Big White Dial (Mouse Scroll). Equivalent to `VALUE`. In this emu, drag up to CW, and down to CCW.
+- Memory Slot
+  - `3.3V CARD`. SmartMedia slot that contains your MIDI & other data. Click to view its option. You can also directly play a single MIDI file here.
 
 ## Try out Demo!
 
@@ -110,3 +133,8 @@ https://github.com/tarboh/S-MU2000
   - `Play a MIDI file`
   - Choose your favourite `.MID` to play
   - Once loaded, the S-MU2000 will play the file immediately.
+- Fun Play Facts
+  - You cannot directly load some of the [MU-2000 Demo MIDI](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha/mu) itself, especially the `R-love.mid` & `R-loveLM.mid`, because the **voice samples are accessible only through official Demo mode**. Attempting to play anyway results those to become minus one / instrumental (if there's no voice ever sampled here).
+  - Some of the [demo MIDIs that you can have](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha) may require serveral addon cards, called `PLG` Modules. Unfortunately, there's no way to achieve that in this emu atm.
+    - e.g., to play VL Songs, you will need PLG-VL, & to play Singing SG Songs, you need PLG-SG. There are more PLG cards for more extra patches.
+    - In today's time, you just purchase or download expansion packages digitally through [Yamaha Musicsoft at Expansion Package section](https://shop.usa.yamaha.com/en/c/downloadables/sound-expansion-library/premium-packs-voices).
