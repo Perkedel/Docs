@@ -132,7 +132,7 @@ https://github.com/tarboh/S-MU2000
 
 ## Play custom song.
 
-- Click on the `3.2V SmartMedia` Card slot below `MIDI IN` port. You can choose whether to create and use SmartMedia image, or directly load MIDI file.
+- Click on the `3.2V CARD` Card slot below `MIDI IN` port. You can choose whether to create and use SmartMedia image, or directly load MIDI file.
 - Directly Load MIDI file
   - `Play a MIDI file`
   - Choose your favourite `.MID` to play
