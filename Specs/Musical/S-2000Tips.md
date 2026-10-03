@@ -135,7 +135,7 @@ https://github.com/tarboh/S-MU2000
 - Click on the `3.3V CARD` Card slot below `MIDI IN` port. You can choose whether to create and use SmartMedia image, or directly load MIDI file.
 - Directly Load MIDI file
   - `Play a MIDI file`
-  - Choose your favourite `.MID` to play
+  - Choose your favorite `.MID` to play
   - Once loaded, the S-MU2000 will play the file immediately.
 - Fun Play Facts
   - You cannot directly load some of the [MU-2000 Demo MIDI](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha/mu) itself, especially the `R-love.mid` & `R-loveLM.mid`, because the **voice samples are accessible only through official Demo mode**. Attempting to play anyway results those to become minus one / instrumental (if there's no voice ever sampled here).
