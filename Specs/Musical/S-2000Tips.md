@@ -98,7 +98,7 @@ https://github.com/tarboh/S-MU2000
   - `SEQ` (Keyboard `Q`). View Song data sequences & play some, including Demo songs
 - White button between Dial & Instrument Categories
   - `SELECTION`. Cycle between Sampled Voice, (PLG Modules?), & Regular Patch set.
-  - `AUDITION`. Preview selected Patch. Like pressing Volume knob on some SoundCanvas modules. By default presses `C` note, but can be changed.
+  - `AUDITION`. Preview selected Patch. Like pressing Volume knob on some SoundCanvas modules. By default, it presses `C` note, but can be changed.
 - Instrument Category Selector
   - Underneath the display is your instrument selectors
   - Press which to set it to first instrument of that category
@@ -117,7 +117,7 @@ https://github.com/tarboh/S-MU2000
   - `VOLUME`. Master volume, like all those Yamaha instruments
   - Big White Dial (Mouse Scroll). Equivalent to `VALUE`. In this emu, drag up to CW, and down to CCW.
 - Memory Slot
-  - `3.3V CARD`. SmartMedia slot that contains your MIDI & other data. Click to view its option. You can also directly play a single MIDI file here.
+  - `3.3V CARD`. SmartMedia slot to insert the media in, that contains your MIDI & other data. Click to view its option. You can also directly play a single MIDI file here.
 
 ## Try out Demo!
 
