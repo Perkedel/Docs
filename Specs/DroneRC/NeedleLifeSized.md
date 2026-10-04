@@ -25,3 +25,7 @@ Needles are basically usual vehicles at this point.
 Interest of its brand shows.
 
 a ❤️ stabbed by 2 steel needles making horn-like arrangement. Then the needles turns into Jacob's ladder, like electrocuting your 🫀 with small volts of 🔋 to trigger exciting, sensational, and reckless arrythmia.
+
+Yeah you already know, at this point the brand itself warns you to be careful on roads, skies, and seas. It's fun to to freestyle, a huge sensation when you successful in every stunts you do, but of course equal risk too.  
+Same goes with your fetish. **Never ever electrocute your own heart organ just for sake of fun arousally!** Trust me, so many had shoved their own dust in their ass doing that. Look some up if you want, on YouTube, PH, X.. you'll encounter that news believe it or not.  
+Because, both these are maybe analogous. idk.

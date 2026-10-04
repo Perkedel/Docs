@@ -446,6 +446,7 @@ CC4.0-BY-SA
   - [Prophecy come true](/Lores/ValveCorporation/PermabannedAnyway.md)
   - [Ending](/Lores/ValveCorporation/sANDcardiophile-inevitable_loss.md)
   - There's so many to come, let's just put the rest of them in [this dedicated folder](/Lores/ValveCorporation/sANDcardiophilia)!
+  - [Original Rough Patent about it](/Specs/RandomPatent/HeartbeatCookieClicker.md)
 - [Character Prompts!!!!!!](Specs\Games\sANDcardiophile-Characters.md) Help us build OCs (& maybe also import someone's OCs (Open Source of course, or whatever idk)) just for it this initiative, thancc
 - [Made up heart organ spec](/Specs/Medical/MadeUpHeartOrgan.md)
 - [Panti Jantung spec](/Specs/Medical/PantiJantung.md)
