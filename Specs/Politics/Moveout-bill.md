@@ -1,5 +1,7 @@
 # Moveout Bill
 
+[Proposal Here](/Specs/Rules/Bills/ArtsNothingToDoWithArtist.md)
+
 Moveout is a bill that blesses Contributors relieve of relinquishing other Contributors good names off of a Project if those Contributors considered has caused a fatal blunder. It's basically Phront at an intergalactic scale.
 
 If the Contributors made blunders, just yeet the name off, so the reputation of the project Remains. **Fire them all, replace with another** stuff like that.
