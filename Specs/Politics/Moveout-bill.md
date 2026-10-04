@@ -4,7 +4,7 @@ Moveout is a bill that blesses Contributors relieve of relinquishing other Contr
 
 If the Contributors made blunders, just yeet the name off, so the reputation of the project Remains. **Fire them all, replace with another** stuff like that.
 
-But there is a huge problem. Moveout is strictly fair. So, even the billmakers, yes you included, even Kaorfa will get hit, if they blundered. Moveout is careless of anything, blunder is blunder. That's why to this day, the bill still stuck at the bridge in Arenod Sediron's Parliament house.
+But there is a huge problem. Moveout is strictly fair. So, even the billmakers, yes you included, even Kaorfa will get hit, if you guys blundered. Moveout is careless of anything, blunder is blunder. That's why to this day, the bill still stuck at the bridge in Arenod Sediron's Parliament house.
 
 ## Phront?
 

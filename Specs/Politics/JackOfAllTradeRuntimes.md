@@ -12,7 +12,7 @@ Here are Jack of All Trades runtimes that causes irks upon many customers hearin
 - Godot. Godot. Believe it or not (no trademark), Godot can become Jack-of-all-trades, because if you copy its Export Template binary to your Project Source Code root folder, and then run it, it'll run your project right away! Copy that Export Template binary again to another, run, and it'll run that project too!
   - But of course, Most case of Godot game publishing are pretty much compiled, and sometimes the export binaries are stripped and edited bespoke to the project. Even packed together into 1 single executable (yes, the `.pck` cramped in!).
   - We have yet to find this on the competitions like Unity.
-- Video Game User Generated Games. Various. If a video game provided custom content creation that can even become its own game, it is also considered Jack-of-all-trades, because the programming code is in this format, and can run only for that video game. Things like
+- Other Video Game User Generated Games. Various. If a video game provided custom content creation that can even become its own game, it is also considered Jack-of-all-trades, because the programming code is in this format, and can run only for that video game / runtime. Things like
   - Roblox. Roblox. No, don't worry about it.
   - s&box. Facepunch. Spin-off or sequel of Gmod, now with source2.
   - Genshin Impact. MiHoYo. They now have custom feature that also lets you make custom games at this point!, it's called **Milliastra Wonderland**. This was added serveral years later after the service of Genshin Impact.

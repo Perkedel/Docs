@@ -13,3 +13,6 @@ The results are simple. These are,
   - It requires extra configuration just to get it work
   - There is no binary build compatible on common architecture. You must must compile one yourself!
   - The binary is paid, despite gratis open source code
+  - It requires external configurators just to make it work the first time. Look at you, yuck!
+    - DJI
+    - Insta360
