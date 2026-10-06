@@ -72,7 +72,8 @@ Also, it is **discouraged to use architecture bridge of any kind**, because ofte
 ## Drop in Replacement with S-YXG90
 
 JayB recently found & uploaded allegedly more advanced S-YXG variant just above the 50, S-YXG50. This variant allegedly covers more voices up to the QY100 & MU15 Compatible.  
-You can find the recent yoink from `Softwares` room in the [DTM-Hub Telegram](https://github.com/ltgcgo/octavia#dev-talks). Go there to `Dev talks` section & join the Telegram (Telegram has no join limit on free idk, unlike Discord) and look for it.
+You can find the recent yoink from `Softwares` room in the [DTM-Hub Telegram](https://github.com/ltgcgo/octavia#dev-talks). Go there to `Dev talks` section & join the Telegram (Telegram has no join limit on free idk, unlike Discord) and look for it.  
+Wait, was that made using conversion tool from [here](https://github.com/NightFright2k19/SXG-Create-NF)?
 
 1. Download & Extract
 2. Copy or symlink all files you see inside the `SXGMU90`, into the `SYXG-????-Hybrid\VST` of your choosing
