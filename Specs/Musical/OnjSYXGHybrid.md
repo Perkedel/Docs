@@ -103,7 +103,7 @@ If you aren't satisfied with above 90 (for MU90 compat), you can build your own 
   - Tidy those version by the MU models. `MU15` to `roms/MU15`, `MU100` to `roms/MU100` so on.
   - If you are too lazy, **I prefer to just have `MU1000`** to get `syxg1000.dll`.
     - So just the `roms/MU1000` that's it.
-    - **Not MU2000**. must exactly MU1000, MU2000's the same as MU1000, claimed by the detail said.
+    - **Not ~~MU2000~~**. must exactly MU1000, MU2000's the same as MU1000, claimed by the detail said.
     - And even the tool specifically asks you to convert that first to 1000. So put the 2000 aside & use the MU1000 instead!
 3. Place the `syxg50.dll` somewhere close. e.g., inside this project folder, maybe?
 4. Open Terminal in this project folder
