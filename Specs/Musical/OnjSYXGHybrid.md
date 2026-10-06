@@ -120,7 +120,7 @@ If you aren't satisfied with above 90 (for MU90 compat), you can build your own 
   ```console
   $ python main.py syxg50.dll --embed
   ```
-6. Wait until finish
+6. Wait until finish. If necessary leave the PC Workstation alone and do some other activities like doomscrolling MIDI news.
 7. Once done, you'll get the file
   - If you `--embed`, expect to receive huge single self-contained `.dll` files, each about 64 MB around.
   - Otherwise, the output should be like
