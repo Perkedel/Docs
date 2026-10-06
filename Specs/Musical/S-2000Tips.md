@@ -52,7 +52,7 @@ https://github.com/tarboh/S-MU2000
                 - etc. `.ic....`, all the `.ic` stuffs be here!
             - `standin/`
               - `sin-table.bin` sine table used by the MEG
-            - `hd44780u_b03.bin` LCD ROM. If you forgot or put not in `roms/` here exactly, the screen will be blank!
+            - **`hd44780u_b03.bin` LCD ROM**. If you forgot or put not in `roms/` here exactly, the screen will be blank!
   - Install the rendered plugins!
     - `make install-vst3` will install the VST3 plugin to your VST3 library folder according to your OS
       - `~/.vst3` Linux
@@ -142,3 +142,17 @@ https://github.com/tarboh/S-MU2000
   - Some of the [demo MIDIs that you can have](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha) may require serveral addon cards, called `PLG` Modules. Unfortunately, there's no way to achieve that in this emu atm.
     - e.g., to play VL Songs, you will need **PLG-VL**, & to play Singing SG Songs, you need **PLG-SG**. There are more PLG cards for more extra patches.
     - In today's time at a modern Yamaha Keyboards (Tyros, Genos, PSR), you just purchase or download expansion packages digitally through [Yamaha Musicsoft at Expansion Package section](https://shop.usa.yamaha.com/en/c/downloadables/sound-expansion-library/premium-packs-voices).
+
+## Microphone
+
+MU2000 Provides 2 MIC input. Here on S-MU2000, you can emulate that too as well.
+
+- Click on whichever MIC jack to open MIC jack selection menu.
+- Choose your Audio Input device. For most Linux cases, choose `alsa`. Make sure you have correctly set your default recording device also & is unmuted
+- Scroll PART selection back with `PART ◀️` until your current selected channel (bottom left) says `A/D n` of your chosen mic jack. `1` or `2` respectively
+- By default, the patch is `Off`. This is now your Mic preset.
+- Change the patch / preset with `VALUE` or Big White Dial, to select preset. There are some you can try, such as usual, reverb, echo, karaoke, etc.
+- You can also adjust your own setting for each MIC jack. use `SELECT` buttons to scroll through those settings just like usual.
+- Try to talk or test the audio.
+- Now, you can try to record and make voice clips. You will need to create or load virtual SmartMedia image which is where your audio data will be.
+  - Options are there in the `3.3v CARD` menu.
