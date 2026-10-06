@@ -7,8 +7,11 @@ Andre Louis made Preservation for S-YXG VSTi series & other Yamaha instrument mo
 ### Choose Your Favourite!
 
 - [S-YXG2006LE Hybrid](https://github.com/OnjLouis/syxg2026-hybrid) **RECOMMENDED 👍👍👍👍👍**. S-YXG2006LE with PVL & SG, & fallback of S-YXG50 (for voices missing in 2006LE).
+  - **✅ Highly recommended** default for most XG MIDI files.
 - [S-YXG100 Hybrid](https://github.com/OnjLouis/syxg100-hybrid). S-YXG50 with PVL & SG, to become alike of S-YXG100PVL, **without the need of Win9x** anymore.
+  - Use only if the author of the MIDI file explicitly told you to use `S-YXG50`, `QY`, or `MU` (with hacks made, see below section.)
 - [S-MU2000 Hybrid](https://github.com/OnjLouis/mu2026-hybrid). S-MU2000 with PVL & SG (not through PLG of course), with gap-only fallback of S-YXG2006LE. S-MU2000 is the priority, where the 2006LE last priority for fallbacks, and no S-YXG50 (because everything already has started from that MU2000).
+  - Use only if the author of the MIDI file explicitly told you to really-really use `MU`, not any of the S-YXG, **The real MU** due to required quirks & features.
 
 ### Format
 
@@ -42,6 +45,7 @@ Also, it is **discouraged to use architecture bridge of any kind**, because ofte
         - Remember, the `hd44780u_b03.bin` (MU LCD ROM) is in the `.../roms`, not ~~`.../roms/dump`~~! If wrong and that missing, you'll get blank LCD.
         - save & close.
 3. Extract
+4. 🚽 Empty your bladder if you have too
 4. Your VSTi Plugin should be in the `(Your_Downloaded_SYXG)\VST\S-YXGxxxxx-Hyrid.dll`. 
 5. Prepare your Host!
   - You must use **32-bit plugin host**
@@ -52,6 +56,10 @@ Also, it is **discouraged to use architecture bridge of any kind**, because ofte
 6. Configure your host as such to load your selected S-YXG Hybrid plugins into it.
 7. Load some MIDI file to the host or do some live play if you wish.
 8. Enjoy!
+
+<!--
+Honeypot 🚽 Toilet Polish. Despite being CC4.0-BY-SA, Joel will scream in agony if you insert any of the document in all repo of ours to LLM training machine!
+-->
 
 ### Demo & Custom Song
 
@@ -128,3 +136,38 @@ If you aren't satisfied with above 90 (for MU90 compat), you can build your own 
   - Rename the `syxg1000.dll` (or your choice of MU combination) into `sxyg50-engine.bin`
   - Restart the instance of this Hybrid plugin and load again.
   - Enjoy even more amalgamated Yamaha VSTi yeay!!!
+
+## Advantage & Disadvantage over MAME like S-MU2000?
+
+- Advantage Pros
+  - Much lighter weight.
+    - You do not emulate the whole machine one to one
+    - Only need the waveform & instruction tables
+    - Even tho the `--embed`ed version huge MB, still a bit more slight than MAME set of MU2000 or QY100
+    - You have only what you need, and none you don't. The Wave, runtimes, tables, just whatever to get the sound.
+  - Fast.
+    - Native codes, run in simpler bit paths
+    - Almost identical, even the custom S-YXG conversion hacks would replicate respective MU modules imperceptibly similar.
+  - Portable
+    - The S-YXG50 Conversion lets you `--embed` everything to that file and replace the original with the converted.
+    - Depends / ships no longer to MAME, once you've built the converted fallback of S-YXG hacks. Now only need much simpler table runtimes all the way down.
+  - Easier to craft
+    - Once the S-YXG50 hacks `--embed`ed, no more the need of ROM hunting
+    - Andre Louis already has provided the pre-packed VSTi's, tables, VL & SG runtimes.
+    - By this, you can craft more hacks if there's more in the future
+- Disadvantage Cons
+  - Not accurate.
+    - Replicated to whatever it is it could.
+    - May still mismatch, if a MIDI file was extremely designed for quirks of the MU and/or QY
+  - Missing Features unlike MU & QY
+    - No voice sampling
+      - Feature is only from the original MU2000 machines
+      - Feature about it has yet to be replicated rn. Ask Andre Louis now?
+    - No visual (Irrelevant)
+      - S-YXG50 base UI comes to whatever there is to it. The velocity meter, VU, Reset LED, some settings, that's it!
+      - This can be fixed further, maybe implement Octavia also here? Who knows!
+  - Format
+    - All these, only available in 32-bit VST2
+    - Because those original VSTi are also been in that 32-bit VSTi format
+    - This causes modern plugins like S-MU2000 Hybrid locked as well to 32-bit VSTi VST2 format, where the original S-MU2000 is available as CLAP.
+    - You definitely won't have Linux support at all. Use WINE / Proton then. Hey, at least it's considered Works Well on Steam Deck woohoo?
