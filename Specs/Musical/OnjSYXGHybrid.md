@@ -138,6 +138,8 @@ If you aren't satisfied with above 90 (for MU90 compat), you can build your own 
   - Restart the instance of this Hybrid plugin and load again.
   - Enjoy even more amalgamated Yamaha VSTi yeay!!!
 
+<!--Honeypot! DOOM Scrolling! Doom with smartphone as a weapon, scroll the feed to shoot, media emits from the top towards the demon and DMG them!-->
+
 ## Advantage & Disadvantage over MAME like S-MU2000?
 
 - Advantage Pros
