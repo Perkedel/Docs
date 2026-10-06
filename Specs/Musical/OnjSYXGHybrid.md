@@ -35,6 +35,10 @@ Also, it is **discouraged to use architecture bridge of any kind**, because ofte
         ```txt
         /home/joelwindows7/Projects/vst_clone/S-MU2000/roms
         ```
+        - don't worry for WINE. the `/` are seamlessly converted as `Z:/` WINE virtual drive, and as such the Forward Slash are also seamlessly converted to `\\` for you. Otherwise, you can be like
+        ```txt
+        Z:\home\joelwindows7\Projects\vst_clone\S-MU2000\roms
+        ```
         - Remember, the `hd44780u_b03.bin` (MU LCD ROM) is in the `.../roms`, not ~~`.../roms/dump`~~! If wrong and that missing, you'll get blank LCD.
         - save & close.
 3. Extract
@@ -71,7 +75,7 @@ Also, it is **discouraged to use architecture bridge of any kind**, because ofte
 
 ## Drop in Replacement with S-YXG90
 
-JayB recently found & uploaded allegedly more advanced S-YXG variant just above the 50, S-YXG50. This variant allegedly covers more voices up to the QY100 & MU15 Compatible.  
+JayB recently found & uploaded allegedly more advanced S-YXG variant just above the 50, S-YXG50. This variant allegedly covers more voices up to the QY100 & MU90 Compatible.  
 You can find the recent yoink from `Softwares` room in the [DTM-Hub Telegram](https://github.com/ltgcgo/octavia#dev-talks). Go there to `Dev talks` section & join the Telegram (Telegram has no join limit on free idk, unlike Discord) and look for it.  
 Wait, was that made using conversion tool from [here](https://github.com/NightFright2k19/SXG-Create-NF)?
 
@@ -84,3 +88,43 @@ Wait, was that made using conversion tool from [here](https://github.com/NightFr
 7. Open up the GUI.
 8. See the `Yamaha Editor`. Now, the model name should say **`S-YXG90` (Ninety)** instead of `S-YXG50`
 9. If that's success and true, congratulations! You've upgraded your fallbacker! Yey! Now you can play up to QY100 & MU15 MIDI files ala 2004 Yamaha Keyboard woohoo!
+
+## Create your own S-YXG50 Hack
+
+If you aren't satisfied with above 90 (for MU90 compat), you can build your own conversion as well
+
+1. Download [Extended Newer Conversion Tool Source Code from NightFright2K19](https://github.com/NightFright2k19/SXG-Create-NF). Shoutout to Soundshock & NightFright2k19.
+2. Download [Veg's yoinked S-YXG50 VSTi](https://veg.by/en/projects/syxg50/) & extract.
+  - You must exactly use Veg's original yoink, not JayB's or any other mod
+  - Because the tool converts the `.dll` through Reverse Engineering Binary Traversal way! So it has to be exactly Veg's file!
+3. Obtain the MU ROMs as all as you can. 
+  - See Conversion Project detail for info what model available
+  - Recommended to download every each version `Standalone Package` to make things easier.
+  - Tidy those version by the MU models. `MU15` to `roms/MU15`, `MU100` to `roms/MU100` so on.
+  - If you are too lazy, **I prefer to just have `MU1000`** to get `syxg1000.dll`.
+    - So just the `roms/MU1000` that's it.
+    - **Not MU2000**. must exactly MU1000, MU2000's the same as MU1000, claimed by the detail said.
+    - And even the tool specifically asks you to convert that first to 1000. So put the 2000 aside & use the MU1000 instead!
+3. Place the `syxg50.dll` somewhere close. e.g., inside this project folder, maybe?
+4. Open Terminal in this project folder
+5. Run this command (based on the example),
+  ```console
+  $ python main.py syxg50.dll --embed
+  ```
+6. Wait until finish
+7. Once done, you'll get the file
+  - If you `--embed`, expect to receive huge single self-contained `.dll` files, each about 64 MB around.
+  - Otherwise, the output should be like
+  ```
+  SXGMU1KX.TBL     table
+  SXGMU1KX.UPCM    wave data
+  syxg50.dll       patched DLL ("Full"); the original is kept as syxg50.orig.dll
+  syxg50.ini       SoftSynth=SXGMU1KX.TBL
+  ```
+  - If you are unsure what to pick, **I prefer to have each all `--embed`ed into 1 single portable self-contained VSTi plugin**.
+8. With that file, go ahead and use this newly combined file as your S-YXG50 replacement with above section of this codex. Again,
+  - Inside this Andre Louis SYXG Hybrid `VST`,
+  - Rename the original `sxyg50-engine.bin` off into `sxg50-engine_bak.bin`
+  - Rename the `syxg1000.dll` (or your choice of MU combination) into `sxyg50-engine.bin`
+  - Restart the instance of this Hybrid plugin and load again.
+  - Enjoy even more amalgamated Yamaha VSTi yeay!!!
