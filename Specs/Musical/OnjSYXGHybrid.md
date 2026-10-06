@@ -103,7 +103,7 @@ If you aren't satisfied with above 90 (for MU90 compat), you can build your own 
 
 1. Download [Extended Newer Conversion Tool Source Code from NightFright2K19](https://github.com/NightFright2k19/SXG-Create-NF). Shoutout to Soundshock & NightFright2k19.
 2. Download [Veg's yoinked S-YXG50 VSTi](https://veg.by/en/projects/syxg50/) & extract.
-  - You must exactly use Veg's original yoink, not JayB's or any other mod
+  - You must exactly use Veg's original yoink, not JayB's or any other mod. Except `Vampire` do work, btw.
   - Because the tool converts the `.dll` through Reverse Engineering Binary Traversal way! So it has to be exactly Veg's file!
 3. Obtain the MU ROMs as all as you can. 
   - See Conversion Project detail for info what model available
