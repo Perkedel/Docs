@@ -105,6 +105,7 @@ If you aren't satisfied with above 90 (for MU90 compat), you can build your own 
 2. Download [Veg's yoinked S-YXG50 VSTi](https://veg.by/en/projects/syxg50/) & extract.
   - You must exactly use Veg's original yoink, not JayB's or any other mod. Except `Vampire` do work, btw.
   - Because the tool converts the `.dll` through Reverse Engineering Binary Traversal way! So it has to be exactly Veg's file!
+  - If you are unsure, **Stick to the original Yamaha's**, which Veg got.
 3. Obtain the MU ROMs as all as you can. 
   - See Conversion Project detail for info what model available
   - Recommended to download every each version `Standalone Package` to make things easier.
