@@ -35,3 +35,19 @@ A dies on the spots
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Before
+
+A: Wait, before we start the process lemme check your Callsign
+
+.
+
+.
+
+.
+
+A: What the?! You're not the face!, How is he here on the radio?
+
+C: the `jrjridh` used his parent's callsign!
+
+A: No! get him out, QSO the other parent! Jesus, he out himself to danger..
