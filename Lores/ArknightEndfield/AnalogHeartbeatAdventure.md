@@ -214,3 +214,14 @@ Turn on the flash! Press Triangle now!
 The flash turns on and charges. Then beeps once it's completed. You are ready to take picture.
 
 Xaihi found the flash faces too straight up.
+
+Camera again. You must adjust the flash angle towards front now!
+
+- Press `MODULE_ADJUST` button to view installed modules
+- select the flash unit to open Flash Adjustment option
+- adjust using Left analog stick or D-pad or Touchpad.
+- Don't forget to turn the flash unit on!
+- Set to the highlighted angle there. Once done, go back to resume camera
+- Take a shot now!
+
+Done.
