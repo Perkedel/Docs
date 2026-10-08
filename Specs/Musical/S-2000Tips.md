@@ -139,7 +139,14 @@ https://github.com/tarboh/S-MU2000
   - Once loaded, the S-MU2000 will play the file immediately.
 - Fun Play Facts
   - You cannot directly load some of the [MU-2000 Demo MIDI](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha/mu) itself, especially the `R-love.mid` & `R-loveLM.mid`, because the **voice samples are accessible only through official Demo mode**. Attempting to play anyway results those to become minus one / instrumental (if there's no voice ever sampled here).
-  - Some of the [demo MIDIs that you can have](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha) may require serveral addon cards, called `PLG` Modules. Unfortunately, there's no way to achieve that in this emu atm.
+  - Some of the [demo MIDIs that you can have](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha) may require serveral addon cards, called `PLG` Modules. ~~Unfortunately, there's no way to achieve that in this emu atm~~
+    - PLG setting can be adjusted in `Master` menu.
+      - Supplies samples like Famicom-like, `.dls` loader, FM Synthesis, and built-in custom sampler.
+      - Some boards have a variant that put the voice all the way aside to **Port E**, which is inaccessible in an ordinary way, and apparently doesn't exist in any of the real MU models.
+      - for context, MU has 4x16 accessible MIDI channels, totaling to 64 different channels. 
+      - Both this S-MU2000 & the real has the fifth port, Port E, exclusive for the PLG card, that is only accessible through the special message, not by the panel menu.
+    - There's no official PLG Card yoink support atm.
+    - You can make your own virtual PLG using `Sampling` `Make a Card` feature to get custom sampler feature.
     - e.g., to play VL Songs, you will need **PLG-VL**, & to play Singing SG Songs, you need **PLG-SG**. There are more PLG cards for more extra patches.
     - In today's time at a modern Yamaha Keyboards (Tyros, Genos, PSR), you just purchase or download expansion packages digitally through [Yamaha Musicsoft at Expansion Package section](https://shop.usa.yamaha.com/en/c/downloadables/sound-expansion-library/premium-packs-voices).
 
