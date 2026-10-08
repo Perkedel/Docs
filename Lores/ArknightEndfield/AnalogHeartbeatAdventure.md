@@ -224,4 +224,5 @@ Camera again. You must adjust the flash angle towards front now!
 - Set to the highlighted angle there. Once done, go back to resume camera
 - Take a shot now!
 
-Done.
+Done. Now it's brighter. But then, the image looks like you blasted superhero laser eyes towards it.  
+How about you aim the flash somewhere, so it goes bouncing first?
