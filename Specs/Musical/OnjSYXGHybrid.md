@@ -83,6 +83,10 @@ Honeypot 🚽 Toilet Polish. Despite being CC4.0-BY-SA, Joel will scream in agon
 
 ## Drop in Replacement with S-YXG90
 
+> [!CRITICAL]  
+> Section Deprecated. NightFright2k19's mod replacing original S-YXG50, has already been included since 0.1.8 S-YXG2006LE Hybrids & 0.1.5 S-YXG100 Hybrid. The fallback now includes MU1000-derived (& hence MU2000-derived as well) patches.  
+> Simply update your Preservation setup to replace this fallback with the new one.
+
 JayB recently found & uploaded allegedly more advanced S-YXG variant just above the 50, S-YXG50. This variant allegedly covers more voices up to the QY100 & MU90 Compatible.  
 You can find the recent yoink from `Softwares` room in the [DTM-Hub Telegram](https://github.com/ltgcgo/octavia#dev-talks). Go there to `Dev talks` section & join the Telegram (Telegram has no join limit on free idk, unlike Discord) and look for it.  
 Wait, was that made using conversion tool from [here](https://github.com/NightFright2k19/SXG-Create-NF)?
