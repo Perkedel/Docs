@@ -273,6 +273,7 @@ First, Make sure you have
       - No!-no!-No, yess I know. But listen. World's changed. Gabe had proven, good service, invites appreciation compared to cowardice, trust me!.
       - Yes pls, put that on Steam will ya? Promise I'll buy it, **again**. 
       - At least as a souvenir, no offense.
+- Use `GS` reset by default
   - Steps
     1. Top left Menu
     2. `SysEx Options`
