@@ -1,0 +1,5 @@
+# Vatastora Land
+
+A land where inhabitants have the ability to expand their breast, deek, belly, and such. Also move those thing with exclusive all-drive muscles
+When they sex, they kiss, chest bump,  and insertion. The heart will bond into each other, and insertion will be lock shut. Their sex is explosive and radioactive. The light emitted from the sex can be used as radio-energy. When they sex,  their circulatories bond into one way each other, and their heart will beat never been fastest ever until eventually pump linearly (straight like water pump) instead of beating. The pressure is extremly high, as high as super Hydraulic Press. At orgasm, all explosion is the highest and 100 times brighter than solar sun. The sperm will emit at same pressure as that pressure of circulatory, and is linear blow. He will blow up to about 120 litters, which can infill her ovarium like pregnant.
+So to have sex, they have to do that in a tight close room, shapes like stadium, a giant cylinder like a petri-disc.
