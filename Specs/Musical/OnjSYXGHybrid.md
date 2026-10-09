@@ -236,11 +236,48 @@ If you aren't satisfied with above 90 (for MU90 compat), you can build your own 
 
 ## Troubleshooting
 
-### Audio Problems
+### FalcoSoft Audio Problems
 
 First, Make sure you have
 
 - Disabled `Use SysEx for Volume/Balance`. See [this comment](https://github.com/OnjLouis/syxg2026-hybrid/issues/4#issuecomment-6084492569)
+  - This can disturb other SysEx protocol messages between MIDI IN / Files, and the Plugins / Synth.
+  - FalcoSoft's SysEx seems to be very unreliable & incompatible if using some of the plugins like this Hybrid.
+- Disabled `Fix Sfz Drum Bug (Force XG Drums)`
+  - **DO NOT!!, keep this on.**
+  - Steps
+    1. Top left Menu
+    2. `Compatibility Settings`
+    3. uncheck `Fix Sfz Drum Bug (Force XG Drums)`
+  - This options is intended for temporary workaround for faulty Soundfonts & VSTi's.
+  - Yamaha MIDIs & 3rd party composition are supposed to have proper `GM1` then `XG` SysEx reset 
+    - which in turn would reset everything to proper XG sets & the drums, including Falcosoft.
+  - If a Soundfont author explicitly requires you to turn on this or else a problem, pls complain. 
+    - A Soundfont file are always supposed to have drums defined in Bank 128 (MSB 128) as a fallback.
+    - You cannot expect all MIDI would go towards these XG drums at Bank 127. Even some XG MIDI may used GM's Bank 128 drums, lots of them, many knows.
+  - If it was because you had problem with the bridge see below
+- **AVOID using architectural bridge**
+  - This goes on in any Windows version, even compatibility layers (WINE), emulations, and reverse engineered (like ReactOS).
+  - Any kinds of bridge pretty much. That includes [jbridge](https://jstuff.wordpress.com/jbridge/), VSTHost's bridge, [Carla](https://kx.studio/Applications:Carla)'s Bridge, etc.
+  - If the plugin is 32-bit only, then use 32-bit host! Falcosoft 32-bit, and VSTHost x86 e.g.
+  - Because often times important messages like SysEx Reset failed to transmit, resulting in 
+    - no reset, 
+    - & **missing drums for many no SysEx Reset & no Drum program set MIDI files**.
+  - in Linux case, compatible & working options have shrunk significantly, 
+    - because these bridges are often times exclusively designed & tested on that Windows.
+    - VST2 itself is Windows only (very allegedly). Only by the VST3 that's now cross platform. Bruh, Steinberg 😞 wtf..
+    - Other programmers could only make bridge as so just to get it working. Other details are haaaaaard!.
+- Keep default Reset type to `GS`
+  - Steps
+    1. Top left Menu
+    2. `SysEx Options`
+    3. `Reset Type`
+    4. choose **`GS`**
+  - Because most of the time, MIDI would go towards this Roland GS, either because 
+    - many composers assumes SoundCanvas SC-55 and so on, 
+    - or the most common, since Roland was the one that started the whole MIDI ide in the first place.
+  - Highest chance after all went to `GS`, at General MIDI Level 1.
+  - The GM2 is new and would take another century for the GS be replaced.
 
 ### Troubleshooting Update
 
