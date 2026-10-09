@@ -141,8 +141,6 @@ Supplied in each variant, the updater available both in PowerShell script & CMD 
 - After that, the updater will then terminate. You can close the cmd, the whole terminal now, and then start the host again. 
 - Load this Hybrid to enjoy newly updated version.
 
-
-
 ## Demo & Custom Song
 
 - We recommend you to refer to [ltcgo / DTM-Hub MIDI Collection](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha) for the preserved instrument demo songs you can try.
@@ -162,6 +160,31 @@ Supplied in each variant, the updater available both in PowerShell script & CMD 
     - And just in case a MIDI file got 2004's voices, S-MU2000 Hybrid also provided gap-only fallback of S-YXG2006LE together.
     - **S-MU2000 is designed to be MU2000 first**, and as such should only be used to enjoy MIDI files specifically designed for MU series. 
     - For the rest of typical XG MIDIs, we recommend that you use S-YXG2006LE Hybrid instead. But of course, you do you.
+
+## Special Features
+
+### Select Mapping Mode
+
+You can select mapping modes, with available options depending on the Hybrid variants
+
+- In general, you can switch by following ways
+  - Own GUI. Use the dropdown `Voice mapping:` and select your option
+  - Parameter Slider. A variable slider `Mapping` is provided. Sliding this will change option according to the closest value set.
+  - SysEx. Use experimental manufacturer ID (`7D`) and transmit messages according to below message.
+    - the `7D` and the message with it is **directly recognized by the Hybrids**, not Yamaha itself (`43H`, `43`).
+    - btw if you ask, subscribing for a slot is EGGSPENSIF!!!, here's how & [the table](https://midi.org/sysexidtable).
+      - [More intel too](https://github.com/insolace/MIDI-Sysex-MFG-IDs)
+      - [Fandom intel](https://electronicmusic.fandom.com/wiki/List_of_MIDI_Manufacturer_IDs). 
+      - Yes, the `7D` is assigned for Experimental use, can be used by anyone privately for prototyping purpose.
+      - [Forum](https://midi.org/community/the-midi-association/manufacturers-sysex-id)
+      - Where's the how to register?!?
+      - See, this is why Perkedel only use `text` / `marker` messages and listen anything that starts with `TextCommand://`. 
+      - You could've done better, MIDI Associations. What a rip-off!
+      - C'mon, we already had concern about non-customizable Callsign assignment & subscriptions on different Radio Networks, why add more again?!
+- S-YXG2006LE Hybrid (& S-MU2000 Hybrid too?)
+  - `F0 7D 53 48 4D 01 00 F7` Automatic.
+  - `F0 7D 53 48 4D 01 01 F7` 2006LE first.
+  - `F0 7D 53 48 4D 01 02 F7` MU first.
 
 ## Drop in Replacement with S-YXG90
 
@@ -267,7 +290,7 @@ If you aren't satisfied with above 90 (for MU90 compat), you can build your own 
 
 First, Make sure you have
 
-- Disabled `Use SysEx for Volume/Balance`. See [this comment](https://github.com/OnjLouis/syxg2026-hybrid/issues/4#issuecomment-6084492569)
+- Disabled `Use SysEx for Volume/Balance`. See [this comment](https://github.com/OnjLouis/syxg2026-hybrid/issues/4#issuecomment-6084492569), [README HTML](https://github.com/OnjLouis/syxg2026-hybrid/blob/main/README.html), & [README Markdown](https://github.com/OnjLouis/syxg2026-hybrid/blob/main/README.md).
   - This can disturb other SysEx protocol messages between MIDI IN / Files, and the Plugins / Synth.
   - FalcoSoft's SysEx seems to be very unreliable & incompatible if using some of the plugins like this Hybrid.
 - Disabled `Fix Sfz Drum Bug (Force XG Drums)`
