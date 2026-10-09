@@ -1,0 +1,41 @@
+# Hat Color Hacker Classification Update Proposal
+
+There's an update to how colored hat labels types of hackers
+
+- White. Hacker provided by companies both internal & hireable by other companies
+  - Used to test security holes at internal scope
+  - Hired as an employee to that company
+  - Sometimes receives job from another company, either via, company powered side hustle / freelancing
+- Gray. Middle ground between of it
+  - Sometimes become white due to side hustle / freelance outside the power of any companies
+  - Sometimes become black, usually for hobbies, and who knows become paid by that company you submit into.
+  - In average sides with money.
+  - And therefore tends to pentest and squash only if they are paid for it.
+- Black. Independent hacker with own morals and ethos
+  - Does not follow rules, politics, or any order from any company whatsoever
+  - Either it's for fun
+  - Or some demand, or plea from their communities, but usually is not because paid by companies.
+  - Free of any bounds and restriction from management lets them be unleashed of their doing and experiments
+  - Often sides with community.
+  - And therefore provides the way to the community if it means good to them, 
+    - Infuriates those who did bad, like those predatory companies.
+- Rotten. Asshole hackers
+  - Often called `Crackers` before, but the term no longer make sense, since these days system damaging isn't just about cracking some securities.
+  - Cause troubles
+    - Package interception
+    - Account & Page takeover
+    - Malicious Data Replacement
+    - Scare tactics
+      - *Your account accidentally got reported, and you'll be banned tomorrow!*
+      - Your account has XYZ, and you could be banned soon if you fail taking action!
+    - Illiteracy exploits
+      - Accidental Bank Transfer-Refund
+    - Ponzi Scheme, MLM, anything that resembles word of mouth payment based marketing campaign.
+    - Somehow fooled scam-busters using said tactics
+    - Other kinds of damaging exploits
+  - **NEW**, ruins reputation of others by any means
+    - Tort & Extortion
+    - False Copyright Claim & Scam Claims
+    - Game Account Destruction
+      - e.g., a case when you join you got kicked out, and all of a sudden, your rank drastically skydives to zero.
+  - Even Whites can be Rotten too, again, due to political agendas from the company that manages those hackers. **White Rotten**.
