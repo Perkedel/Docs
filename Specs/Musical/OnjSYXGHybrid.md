@@ -181,6 +181,7 @@ You can select mapping modes, with available options depending on the Hybrid var
       - See, this is why Perkedel only use `text` / `marker` messages and listen anything that starts with `TextCommand://`. 
       - You could've done better, MIDI Associations. What a rip-off!
       - C'mon, we already had concern about non-customizable Callsign assignment & subscriptions on different Radio Networks, why add more again?!
+      - You too, DNB! Why internet social media also requires Radio License?! ... Toxicity? Ah.. wait you're right. But stilL! idk..
 - S-YXG2006LE Hybrid (& S-MU2000 Hybrid too?)
   - `F0 7D 53 48 4D 01 00 F7` Automatic.
   - `F0 7D 53 48 4D 01 01 F7` 2006LE first.
