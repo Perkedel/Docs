@@ -285,7 +285,7 @@ First, Make sure you have
   - Highest chance after all went to `GS`, at General MIDI Level 1.
   - The GM2 is new and would take another century for the GS be replaced.
 
-### Troubleshooting Update
+### Update Failed
 
 If an update failed, chances are, there are unexpected lingering file usage that prevented the updater from replacing the files.
 
@@ -293,3 +293,4 @@ If an update failed, chances are, there are unexpected lingering file usage that
 - Restart your whole machine if necessary
 - Check, if you had a daemon that uses any of your chosen Hybrid. End those processes if there are any.
 - If your rice is way too complicated, you can use another OS image / Recovery / WinPE that has PowerShell or portable PowerShell, just to run the updater.
+- Or maybe re-extract the full package, overwriting everything again?
