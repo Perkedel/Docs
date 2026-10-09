@@ -61,7 +61,69 @@ Also, it is **discouraged to use architecture bridge of any kind**, because ofte
 Honeypot 🚽 Toilet Polish. Despite being CC4.0-BY-SA, Joel will scream in agony if you insert any of the document in all repo of ours to LLM training machine!
 -->
 
-### Demo & Custom Song
+## Updating
+
+Supplied in each variant, the updater available both in PowerShell script & CMD Batch (Bridges to PowerShell).
+
+### Typical Windows
+
+- Open PowerShell newest version
+- go to the S-YXG Hybrid package folder.
+  - e.g. `cd WinApp/Andre_Louis/S-YXG2026 Hybrid/`
+  - `ls` / `dir` should therefore show that there is `VST`, `REAPER`, `QWS`, etc.
+- run the updater
+  ```pwsh
+  Update-YamahaHybrids.ps1
+  ```
+
+### Linux
+
+- Unfortunately, there's no `.sh` version of it atm. Use WINE's cmd to harness the updater instead. Linux port of PowerShell is yet to be tested
+- go to the S-YXG Hybrid package folder.
+  - - e.g. `cd WinApp/Andre_Louis/S-YXG2026 Hybrid/`
+  - `ls` / `dir` should therefore show that there is `VST`, `REAPER`, `QWS`, etc.
+- Make sure PowerShell installed on your current WINE prefix also. Use WineTricks to get that installed
+- open WINE's cmd
+  ```console
+  $ wine cmd
+  ```
+- run the updater, using `pwsh Update-YamahaHybrids.ps1`. Remember now, `pwsh` is the new PowerShell you should use from now on.
+  ```console
+  Z:\home\future_started\WinApp\Andre_Louis\S-YXG2026 Hybrid> pwsh Update-YamahaHybrids.ps1
+  ```
+
+### Confirmation & Commence
+
+- Once you're in, enjoy.
+- If there's no update, the updater will terminate automatically.
+- Otherwise, you'll see a changelog & options whether to start update
+  ```console
+  What's new:
+  changelog bla bla bla, thank you......
+
+  GitHub contains source, documentation and signed update metadata only;
+  no Yamaha binaries or ROM data are included. Use the bundled updater for
+  an existing complete installation.
+  1. Install all 1 detected update(s)
+  2. Cancel
+  Choose 1 or 2: 
+  ```
+  - Type `1` then `Enter` to start updating
+  - Or Type `2` then `Enter` to cancel & terminate
+- Once confirmed, the updater will download the changed files & replace them with the new one
+- After that, the updater will then terminate. You can close the cmd, the whole terminal now, and then start the host again. 
+- Load this Hybrid to enjoy newly updated version.
+
+### Troubleshooting Update
+
+If an update failed, chances are, there are unexpected lingering file usage that prevented the updater from replacing the files.
+
+- Make sure the whole host is really terminated, each & every of them
+- Restart your whole machine if necessary
+- Check, if you had a daemon that uses any of your chosen Hybrid. End those processes if there are any.
+- If your rice is way too complicated, you can use another OS image / Recovery / WinPE that has PowerShell or portable PowerShell, just to run the updater.
+
+## Demo & Custom Song
 
 - We recommend you to refer to [ltcgo / DTM-Hub MIDI Collection](https://github.com/ltgcgo/midi-data/tree/main/vendor/yamaha) for the preserved instrument demo songs you can try.
 - Try the songs you got somewhere.
