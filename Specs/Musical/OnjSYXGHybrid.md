@@ -78,9 +78,27 @@ Supplied in each variant, the updater available both in PowerShell script & CMD 
 
 ### Linux
 
-- Unfortunately, there's no `.sh` version of it atm. Use WINE's cmd to harness the updater instead. Linux port of PowerShell is yet to be tested
+- Open Terminal
 - go to the S-YXG Hybrid package folder.
-  - - e.g. `cd WinApp/Andre_Louis/S-YXG2026 Hybrid/`
+  - e.g. `cd WinApp/Andre_Louis/S-YXG2026 Hybrid/`
+  - `ls` / `dir` should therefore show that there is `VST`, `REAPER`, `QWS`, etc.
+- make sure the updater package have executable permission, so just in case, do set one now
+  ```console
+  $ chmod +x Update-YamahaHybrids.sh
+  ```
+- run it
+  ```console
+  $ ./Update-YamahaHybrids.sh
+  ```
+
+### Linux (Legacy)
+
+> [!CRITICAL]  
+> Deprecated. Please redownload native Linux updater back in Release & use that instead.
+
+- ~~Unfortunately, there's no `.sh` version of it atm. Use WINE's cmd to harness the updater instead. Linux port of PowerShell is yet to be tested~~
+- go to the S-YXG Hybrid package folder.
+  - e.g. `cd WinApp/Andre_Louis/S-YXG2026 Hybrid/`
   - `ls` / `dir` should therefore show that there is `VST`, `REAPER`, `QWS`, etc.
 - Make sure PowerShell installed on your current WINE prefix also. Use WineTricks to get that installed
 - open WINE's cmd
@@ -94,8 +112,13 @@ Supplied in each variant, the updater available both in PowerShell script & CMD 
 
 ### Confirmation & Commence
 
-- Once you're in, enjoy.
+- Once you're in, pay attention with the output.
 - If there's no update, the updater will terminate automatically.
+  ```console
+  $ ./Update-YamahaHybrids.sh
+  S-YXG2026 Hybrid: /home/future-started/WinApp/Andre_Louis/S-YXG2026 Hybrid/VST
+  Up to date: 0.1.11
+  ```
 - Otherwise, you'll see a changelog & options whether to start update
   ```console
   What's new:
