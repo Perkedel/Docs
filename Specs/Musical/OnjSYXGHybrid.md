@@ -114,14 +114,7 @@ Supplied in each variant, the updater available both in PowerShell script & CMD 
 - After that, the updater will then terminate. You can close the cmd, the whole terminal now, and then start the host again. 
 - Load this Hybrid to enjoy newly updated version.
 
-### Troubleshooting Update
 
-If an update failed, chances are, there are unexpected lingering file usage that prevented the updater from replacing the files.
-
-- Make sure the whole host is really terminated, each & every of them
-- Restart your whole machine if necessary
-- Check, if you had a daemon that uses any of your chosen Hybrid. End those processes if there are any.
-- If your rice is way too complicated, you can use another OS image / Recovery / WinPE that has PowerShell or portable PowerShell, just to run the updater.
 
 ## Demo & Custom Song
 
@@ -240,3 +233,20 @@ If you aren't satisfied with above 90 (for MU90 compat), you can build your own 
     - Because those original VSTi are also been in that 32-bit VSTi format
     - This causes modern plugins like S-MU2000 Hybrid locked as well to 32-bit VSTi VST2 format, where the original S-MU2000 is available as CLAP.
     - You definitely won't have Linux support at all. Use WINE / Proton then. Hey, at least it's considered Works Well on Steam Deck woohoo?
+
+## Troubleshooting
+
+### Audio Problems
+
+First, Make sure you have
+
+- Disabled `Use SysEx for Volume/Balance`. See [this comment](https://github.com/OnjLouis/syxg2026-hybrid/issues/4#issuecomment-6084492569)
+
+### Troubleshooting Update
+
+If an update failed, chances are, there are unexpected lingering file usage that prevented the updater from replacing the files.
+
+- Make sure the whole host is really terminated, each & every of them
+- Restart your whole machine if necessary
+- Check, if you had a daemon that uses any of your chosen Hybrid. End those processes if there are any.
+- If your rice is way too complicated, you can use another OS image / Recovery / WinPE that has PowerShell or portable PowerShell, just to run the updater.
