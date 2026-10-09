@@ -96,6 +96,9 @@ Supplied in each variant, the updater available both in PowerShell script & CMD 
 > [!CRITICAL]  
 > Deprecated. Please redownload native Linux updater back in Release & use that instead.
 
+<detail>
+    <summary>View the legacy method</summary>
+
 - ~~Unfortunately, there's no `.sh` version of it atm. Use WINE's cmd to harness the updater instead. Linux port of PowerShell is yet to be tested~~
 - go to the S-YXG Hybrid package folder.
   - e.g. `cd WinApp/Andre_Louis/S-YXG2026 Hybrid/`
@@ -109,6 +112,7 @@ Supplied in each variant, the updater available both in PowerShell script & CMD 
   ```console
   Z:\home\future_started\WinApp\Andre_Louis\S-YXG2026 Hybrid> pwsh Update-YamahaHybrids.ps1
   ```
+</detail>
 
 ### Confirmation & Commence
 
