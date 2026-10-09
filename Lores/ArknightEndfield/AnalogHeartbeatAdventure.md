@@ -8,8 +8,12 @@ A story of mechanical and irregularity tolerance
 
 - Try a DSLR camera and take serveral pictures
 - Go to music box museum and experience mechanical stuffs
+  - shutter speed
+  - zoom far
+  - Photo print. Smiling Painting. Take pic, print, repaint based on that print
 - Go to Pumps and Pneumatic sections. Observe potential irregularities thanks to physical randomness.
 - Go back home and listen to each other heartbeats. Biological mechanics that can become irregular. Cardiophilia yeay!!
+  - Delia is socially introvert due to ptsd, being over-judged by former co-worker
 - After mission done, turns out the DSLR kit, Zoom Lens, and Stethoscope are gift to Xaihi. HBD! Hari ini.. (Jamrud)
 
 ## Begin
