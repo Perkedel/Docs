@@ -267,7 +267,12 @@ First, Make sure you have
     - because these bridges are often times exclusively designed & tested on that Windows.
     - VST2 itself is Windows only (very allegedly). Only by the VST3 that's now cross platform. Bruh, Steinberg 😞 wtf..
     - Other programmers could only make bridge as so just to get it working. Other details are haaaaaard!.
-- Keep default Reset type to `GS`
+  - Took me years to figure out why, and this is one of the culprit that broke my MIDI experience. \
+    - Sorry, J, looks like you're out of the game now.
+    - Btw, J, why not you put that on Steam (or better, GOG and/or itch.io)? I disliked the current checkout system here, quite unreliable.
+      - No!-no!-No, yess I know. But listen. World's changed. Gabe had proven, good service, invites appreciation compared to cowardice, trust me!.
+      - Yes pls, put that on Steam will ya? Promise I'll buy it, **again**. 
+      - At least as a souvenir, no offense.
   - Steps
     1. Top left Menu
     2. `SysEx Options`
