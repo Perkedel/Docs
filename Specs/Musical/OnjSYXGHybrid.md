@@ -93,7 +93,7 @@ Supplied in each variant, the updater available both in PowerShell script & CMD 
 
 ### Linux (Legacy)
 
-> [!CRITICAL]  
+> [!CAUTION]  
 > Deprecated. Please redownload native Linux updater back in Release & use that instead.
 
 <detail>
@@ -165,7 +165,7 @@ Supplied in each variant, the updater available both in PowerShell script & CMD 
 
 ## Drop in Replacement with S-YXG90
 
-> [!CRITICAL]  
+> [!CAUTION] 
 > Section Deprecated. NightFright2k19's mod replacing original S-YXG50, has already been included since 0.1.8 S-YXG2006LE Hybrids & 0.1.5 S-YXG100 Hybrid. The fallback now includes MU1000-derived (& hence MU2000-derived as well) patches.  
 > Simply update your Preservation setup to replace this fallback with the new one.
 
