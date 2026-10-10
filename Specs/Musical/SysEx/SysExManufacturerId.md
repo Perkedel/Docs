@@ -13,10 +13,13 @@ Basically, list of Callsign but for MIDI.
 - Asia
   - Japan
     - `40` Kawai.
-    - `41` Roland.
-    - `43` Yamaha.
-    - `44` Casio,
+    - **`41` Roland**.
+    - `42` Korg.
+    - **`43` Yamaha**.
+    - `44` Casio.
+    - `46` Kamiya.
     - `47` Akai.
+    - `4B` Fujitsu.
     - `4C` Sony.
     - `52` Zoom.
   - Rest of Asia
@@ -32,5 +35,6 @@ Basically, list of Callsign but for MIDI.
 ## Sauce
 
 - https://github.com/insolace/MIDI-Sysex-MFG-IDs
+- https://github.com/ltgcgo/midi-db/blob/main/mane/syx.tsv
 - https://electronicmusic.fandom.com/wiki/List_of_MIDI_Manufacturer_IDs
 - https://midi.org/sysexidtable
