@@ -34,6 +34,52 @@ Endmin: Target spotted!
 
 Koros: (draw weapon) Hoof, Thank God finally.
 
+Beat the enemies now!
+
+## Win
+
+Koros: Man, I hope that's it.
+
+Perlica: Okay, understood. We won
+
+Koros: We are??
+
+Antal: Excellent.
+
+Koros: Whew. .. Now, If you accept apologies, I ask you accept one, Antal?
+
+Antal: I accept. Did you know that the Reverse Cymbal the Ancient Overseer had sounds like huge licking and slurping?, (broadcast data)..
+
+Try this with Yamaha MU2000 or Andre Louis' S-YXG Hybrid!
+
+Endmin: AHAHAHA!...
+
+Perlica: Pfft!!
+
+Koros: Erhm (almost breaking character)... ... Urgh, getting used to iit..
+
+Perlica: See, I'm glad you're also laughing.
+
+Koros: (meme face) 😌😌😌😌😌😌😌😌 MMmmm....
+
+.
+
+.
+
+Koros: What about you Perlica? I failed to catch you laugh.
+
+Perlica: Hm? Didn't you notice?
+
+Koros: What,- you did? Damn! That mean I've been too much frowning lately. (use Arts skill) Replay that clip?
+
+hologram rewind. There it is. Perlica lost her character
+
+Koros: oh. ... Somehow.. I feel.. **surreal**.
+
+Perlica: Thank you.
+
+Koros: No problem. .. heh...
+
 ## End
 
 by JOELwindows7  
