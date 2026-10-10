@@ -18,7 +18,10 @@ Lukro: WHAT ARE YOU DOING, STOP!!
 
 ???: Too late. Change the license to Open Source, publish the code and binary for free, and we-
 
-both ??? & the computers disappeared. Gone cut pasted to the Judgment Realm
+both ??? & the computers disappeared. Gone cut pasted to the Judgment Realm.
+
+> [!NOTE]  
+> Endfield Perkedel cinematic universe had already Open Sourced CAD files for all Operators
 
 .
 
@@ -27,6 +30,8 @@ both ??? & the computers disappeared. Gone cut pasted to the Judgment Realm
 Lukro: Oh thank God it stopped.
 
 ## End
+
+Perkedel does not endorse psychological violence, even due to revenge.
 
 by JOELwindows7  
 Perkedel Technologies  
