@@ -2,7 +2,7 @@
 
 - Auth =
 - Sex = Male 
-- Race = Canine. Basically wolf thyren, like Wulfgard.
+- Race = Lupo. Basically wolf thyren, like Wulfgard.
 - Oripathy / Encryptopathy = null.
 - Prompt:
   - fsds;fslj
