@@ -50,7 +50,19 @@ DaNeBeau: How pitiful. I wish that you know what you're doing.
 
 **Language changed**. DaNeBeau now speaks in selected dub
 
-DaNeBeau: May you one day regret and repent from your falsehood. Please do not forget to return to the righteous way soon. Hehe..
+<!--DaNeBeau: May you one day regret and repent from your falsehood. Please do not forget to return to the righteous way soon. Hehe..-->
+
+DaNeBeau: May you regret one day, shall you repent from falsehood, and return to the righteous way soon. 😜 Eh-hehe..
+
+## Return To Correct Language
+
+If you chose back, you'll only hear a message
+
+DaNeBeau: It is an exciting day, that once gain, Prophecy has prevailed. Indeed, you have finally returned into the righteous path.
+
+.
+
+DaNeBeau: May I ask you again, to never repeat this action ever again? ... Thank you.
 
 ## End
 

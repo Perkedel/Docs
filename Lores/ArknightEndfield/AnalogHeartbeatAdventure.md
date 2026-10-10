@@ -10,6 +10,10 @@ A story of mechanical and irregularity tolerance
 - Go to music box museum and experience mechanical stuffs
   - shutter speed
   - zoom far
+    - Doohickey of zoom javelin
+    - Help a man read distant text, he only has smartphone with fixed lens and cannot zoom good. Zoom used to fetch the far text. give it to the man.
+      - `Staff Only`
+      - Tutorial how to NFC transfer. Using NFC feature on camera body
   - Photo print. Smiling Painting. Take pic, print, repaint based on that print
 - Go to Pumps and Pneumatic sections. Observe potential irregularities thanks to physical randomness.
 - Go back home and listen to each other heartbeats. Biological mechanics that can become irregular. Cardiophilia yeay!!
