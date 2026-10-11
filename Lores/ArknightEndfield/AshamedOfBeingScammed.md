@@ -40,7 +40,35 @@ Porleke: Ugh..
 
 Use the quote `Sepandai2 tupai melompat, jatuh juga`.
 
-Endmin: Remember. No matter how high *Lupo* leaps, eventually, they'll fall anyway. Familiar?
+Endmin: Remember. No matter how high Scurribeast leap, eventually, they'll fall anyway. Familiar?
+
+### Imagination
+
+Su Qiqi is parkouring rock mountain.
+
+There's a gap.
+
+Su Qiqi jump over.
+
+Success!, but then,
+
+**The rock over there snaps!!** Oh no, she's falling!!
+
+Su Qiqi: Gwargh!!
+
+But she does not panik, and immediately teleprotocols wings on her back.
+
+Turn on jet boosh! fly away
+
+then land somewhere at the valley gracefully..
+
+.
+
+.
+
+touchdown there!. teleprotocol the wings back to stash.
+
+### Finish Imagination
 
 Porleke: Fuck.. stop teasing me.
 
@@ -48,15 +76,17 @@ Endmin: You see, we are human. Not a deity. We can make mistake. People gatekeep
 
 .
 
-Endmin: So, it's only the fault of those bad people. Because with that, we learn. How to retry better. Let the rest of everyone know, such way is therefore wrong.
+Endmin: So, it's only the fault of those bad people. Because with that, we learn. How to retry better. Let the rest of everyone know, that such way is therefore a mistake. And you shall excel better.
 
 Sacrifice
 
 .
 
-Endmin: Is that right, Lukro?
+Endmin: Isn't that right, Lukro?,
 
 Lukro: Uh.. ..
+
+Endmin: Porleke?
 
 .
 

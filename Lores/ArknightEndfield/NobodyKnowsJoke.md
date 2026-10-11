@@ -18,7 +18,7 @@ Koros: Shut up!.. you.. (sigh) Ugh, ... luckily we're not on critical moment.
 
 Perlica: Rest assured. (load `Proverb 17:22`) `A cheerful heart is a medicine`.
 
-Koros: `But broken spirit dries bones`,-💢 now you're a priest today, how unusual?.
+Koros: (interrupt finish that) `But broken spirit dries bones`,-💢 now you're a priest today, how unusual?.
 
 .
 
