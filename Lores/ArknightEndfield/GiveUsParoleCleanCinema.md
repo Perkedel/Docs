@@ -45,3 +45,11 @@ Stern LB: (panik salute) YESS SIR!! Guys!!! this is your order!! CLEAN THIS CINE
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Extra
+
+TangTang made truce with Mi Fu. For real.
+
+Tangtang had traitor problem, so she once again had to collab with WuLing.
+
+As a bunch of ninja Landbreakers snuck at the Wuling during overnight, the mass suddenly got caged inside Xiranite box dead on their track. It was Tangtang that pressed the button. *Traitor!* and so The LB got interrogated and prosecuted.
