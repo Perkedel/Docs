@@ -12,7 +12,7 @@ Telurite: (sigh)..., May the peace returns once again.
 
 Warfarin: It shall.
 
-Gocce then saw a familiar bat-like thyren
+Gocce then saw a familiar bat-like thyren Sarkaz
 
 .
 
