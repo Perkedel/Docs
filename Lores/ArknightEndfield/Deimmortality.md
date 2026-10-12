@@ -60,6 +60,8 @@ Gocce: We are indeed immortal, and healthy, thanks to Encryptium.
 
 Gocce: With that said, you don't want to hear why, they're dead.
 
+Warfarin: 🤨??, 🤔🤔🤔🤔...
+
 ## Graveyard
 
 Camera look graveyard. This is a sea area that has been installed a bunch of pontoons each housing cremations. This type of graveyard are for those who prefer cremated, and many villagers prefers this method, to themselves, but not the family.
@@ -88,7 +90,7 @@ Warfarin: Let me guess. This guy supposed to be immortal?
 
 Gocce: Yes. Matching citizen record of this guy says so.
 
-Warfarin: Idk failed immortality is but a scam or what?
+Warfarin: Idk, failed immortality is but a scam or what?
 
 .
 
