@@ -20,7 +20,7 @@ Gocce then saw a familiar bat-like thyren Sarkaz
 
 Gocce: Hello Warfarin. Fancy to see you here.
 
-Warfarin: Oh hi!. I just obvserved a proposal has been made. Sounds like another secret that if I'm curious would be huge.
+Warfarin: Oh hi!. I just observed a proposal has been made. Sounds like another secret that if I'm curious would be huge.
 
 Gocce: Worry not. That was just a takeover protocol. You see, since this village now has crashed, DNB has obligation of takeover, according to our set rule of the government. Until this restores, Politician Overseer shall take place for a while, and do drastic makeover to prevent repeated crash like this again. If you ask, it can be someone else around here, but many other Politicians agree that it is recommended it would be somebody outside. Like that guy you just met over there.
 
