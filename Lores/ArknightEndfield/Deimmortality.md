@@ -46,7 +46,7 @@ Warfarin: But surprisingly, there are deaths anyway. How? Aren't these guys supp
 
 .
 
-Gocce: Good question.
+Gocce: Good question. Nobody shall judge nor doubt anyone's curiosity, even if that's weird.
 
 .
 
