@@ -163,3 +163,17 @@ MU2000 Provides 2 MIC input. Here on S-MU2000, you can emulate that too as well.
 - Try to talk or test the audio.
 - Now, you can try to record and make voice clips. You will need to create or load virtual SmartMedia image which is where your audio data will be.
   - Options are there in the `3.3v CARD` menu.
+
+## Troubleshooting
+
+- MSB & LSB selector stuck!!
+  - Did you change Reset Mode to `XG`?
+    - Resets other than `XG` (particularly `GS`) enforces compatibility selection in case those MIDI files select banks and programs wrong way.
+    - Change it back!
+      - `UTIL` Lit Button
+      - `SELECT` the `MODE`
+      - `ENTER`
+      - with the `SOUND MODULE =` appeared, set the underneath option into `XG`.
+      - `ENTER` just in case, to apply
+      - `EXIT`-`EXIT` or go back to `PLAY` (lit button) main screen.
+      - You should be able to select Banks & the Programs, let's say beyond existed (but accessible to S-MU2000 emulator only) now.
