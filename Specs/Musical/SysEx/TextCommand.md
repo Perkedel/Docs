@@ -243,6 +243,11 @@ The `data.loadBlob` is very powerful! You can make `.mid` into Archive files, ef
 
 - Priorities. Load the resource pack by the following in order of topmost
   1. Next by `.mid` file itself
+    - because sometimes, packing everything into just one file makes too heavy on many cheap and legacy keyboards!
+    - You can choose to render the `.mid` instructions & `tar.zst` resources separately. Optionally, repack all these file back, into maybe `7z`, `rar`, etc.
+    - So you got
+    - `miku_senam.mid` which you load for the machine or into Leekspinner which broadcast it into the machine.
+    - `miku_senam.tar.zst` next by it, which Leekspinner shim loads.
   2. user `~/.local/share/lib/leekspinner`
   3. system `/usr/share/lib/leekspinner`
 
