@@ -300,7 +300,7 @@ First, Make sure you have
   - Let the Hybrid Synth itself use it without replaced intervention from Falcosoft's. [Ibid](https://github.com/OnjLouis/syxg2026-hybrid/issues/4#issuecomment-6135130790).
   - With that said, if you are explicitly told to *Enable `Use SysEx for Volume/Balance`*, then it's a good idea to complain about it.
     - Because your synth are supposed to understand this kind of message bruh.
-    - Unless, the Synth or Hardware it was inspired by, intentionally designed so rudimentary & intentionally does recognize no niche messages like Volume & Balance SysEx's. 
+    - Unless, if the Synth or Hardware it was inspired by, intentionally designed so rudimentary & intentionally does recognize no niche messages like Volume & Balance SysEx's. 
 - Disabled `Fix Sfz Drum Bug (Force XG Drums)`
   - **DO NOT!!, keep this on.**
   - Steps
