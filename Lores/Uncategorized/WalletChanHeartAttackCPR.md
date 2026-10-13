@@ -10,9 +10,9 @@ Exorbitant: This, is Hasselblad X3D Mark V.
 
 Consumer: Oo yess!
 
-Exorbitant: It now has Video recording mode, just like other DJI camera series. And.. now in 200 MP, same Medium format, faster processor, (demonstrate, eye on vf & aim to mountain there) as you can see, (half shutter).., (full shutter)!
+Exorbitant: It now has Video recording mode, just like other DJI camera series. And.. now in 200 MP, same Medium format, faster processor, faster memory, (demonstrate, eye on vf & aim to mountain there) as you can see, (half shutter).., (full shutter)!
 
-Photo captured
+Photo captured, saved in 300 ms
 
 Exorbitant: The photo is ready (show).
 
@@ -40,7 +40,7 @@ Consumer: (think)!....... Okeh.
 
 Wallet: (gasp)!!!!?????!! N.. No..
 
-vacuum cleaner sfx
+vacuum cleaner sfx 💸💸💸💸💸💸💸💸💸💸💸
 
 extra shock caused her heart went into fibrillation!
 
@@ -105,7 +105,7 @@ Rescue: Where's the patient?
 
 Exorbitant: 👉 Over there, sir!.
 
-Rescue: (walk there)! ! ! !, Whoa, you did it well. Excuse me, lemme take over
+Rescue: (walk there)! ! ! !, (saw Consumer did proper CPR procedure) Whoa, you did it well. Excuse me, lemme take over.
 
 Consumer: (move aside) Pls!! Help her!!
 
@@ -239,7 +239,7 @@ Consumer: Buying lots of stuffs. Can't help myself. Those things look cool. I ca
 
 Rescue: Well, from now on, you shall reduce that habit.
 
-Consumer: There's the problem, doc!., Because I cannot help, myself!!. What do I do doc??
+Consumer: There's the problem, doc!., Because I cannot help, myself!!. What do I do, doc??
 
 Rescue: Easy. I will assign you Help.
 
