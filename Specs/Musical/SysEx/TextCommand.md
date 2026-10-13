@@ -73,6 +73,15 @@ TextCommand://midi.setMapping("plg_0"); // set voice map to Vocaloid Plugin now!
 TextCommand://local Utau = data.loadBlob("Utau.lsl.zst", "oiwey9pryuioahwif....");
 ```
 
+### Resources
+
+Treat your `cache` as the root of your resource that supports foldering.
+
+```txt
+TextCommand://data.loadBlob("my_thing.tar.zst", "..."); // extract contents into `ResourcesRoot/my_thing`
+TextCommand://data.loadBlob("super/my_thing2.tar.zst", "..."); // extract contents into `ResourcesRoot/super/my_thing2`
+```
+
 ## Basic
 
 ### Reset!
@@ -228,6 +237,15 @@ TextCommand://midi.assignFont("clip_yameteKudasai_waifu.opus.zst", 97, 0, 11);
 TextCommand://midi.assignFont("clip_ahh_waifu.opus.zst", 97, 0, 12);
 ```
 
+### Resources Overall
+
+The `data.loadBlob` is very powerful! You can make `.mid` into Archive files, effectively, that's compatible and at least loadable on all keyboards who would embed or shim Leekspinner with it.
+
+- Priorities. Load the resource pack by the following in order of topmost
+  1. Next by `.mid` file itself
+  2. user `~/.local/share/lib/leekspinner`
+  3. system `/usr/share/lib/leekspinner`
+
 ## System
 
 ### Caching
@@ -237,3 +255,24 @@ Recommended to cache file blobs in each & every MIDI file ever loaded.
 - `data.LoadBlob` caches extracted data to `~/.cache/Leekspinner`
 - Every read of said blob becomes pointer to the extracted cache.
 - Making sure subsequent play loads faster, until cache cleared.
+
+### Packing Resources Into Render
+
+It is a best practice to pack everything you see into a single file ala AppImage. 
+
+- Leekspinner spec renders everything into a single `.mid` file
+- Splices total usable blobs (audio, orchestration clip, samples, images, videos, etc.) into spliced archives for most compatibility
+  - Usually per 50 MB.
+  - File named same as the render filename. e.g., if it's `miku_senam.mid`, it'd be
+  - `miku_senam_000.tar.zst`, `miku_senam_001.tar.zst`, `miku_senam_002.tar.zst`, so on and so fort.
+  - And so in the list, it will look like
+    ```txt
+    TextCommand://data.loadBlob("miku_senam_000.tar.zst","...");
+    TextCommand://data.loadBlob("miku_senam_001.tar.zst","...");
+    TextCommand://data.loadBlob("miku_senam_002.tar.zst","...");
+    ...
+    TextCommand://data.extractBlob("miku_senam_000.tar.zst"); // and start extracting using typical extraction tool like `tar xf miku_senam_000.tar.zst`.
+    // And if the archiving standard does not support spliced like 7z, Leekspinner will use conventional batch bus system,
+    // Then duplicate above extract command accordingly on the MIDI file.
+    ```
+- In case different MIDI file shares the same resources, matching checksum will be compared and skipped automatically when matches, otherwise seamlessly overwritten just for this file / session.
