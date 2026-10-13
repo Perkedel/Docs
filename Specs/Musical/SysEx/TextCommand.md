@@ -62,11 +62,15 @@ TextCommand://{print("hello world");} // YES, the `;` must be there, or else ERR
 You can do import libraries ala Nim-Lua!
 
 ```txt
-TextCommand://local Vocaloid = import("Vocaloid.lsl"); // import! This variable now becomes the class instance of it
+TextCommand://local Vocaloid = data.loadBlob("Vocaloid.lsl.zst"); // import! This variable now becomes the class instance of it
+// You must put the archive next by the player binary, or system lib folder (such as `/usr/lib/leekspinner`)
 
 TextCommand://Vocaloid.set_voicebank("miku_classic"); // and do some functions there!, such as call a function for this channel.
 TextCommand://Vocaloid.bind_plg(0); // install to virtual slot!
-TextCommand://midi.set_mapping("plg_0"); // set voice map to Vocaloid Plugin now!
+TextCommand://midi.setMapping("plg_0"); // set voice map to Vocaloid Plugin now!
+
+// You can also load by archive blob directly too!, all included in a single MIDI file just like AppImage
+TextCommand://local Utau = data.loadBlob("Utau.lsl.zst", "oiwey9pryuioahwif....");
 ```
 
 ## Basic
