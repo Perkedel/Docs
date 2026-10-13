@@ -295,7 +295,7 @@ First, Make sure you have
   - This can disturb other SysEx protocol messages between MIDI IN / Files, and the Plugins / Synth.
   - This feature replaces the system to work from the player rather than the plugin's responsibility. See [comment](https://github.com/OnjLouis/syxg2026-hybrid/issues/4#issuecomment-6135130790). This is intentional to prevent doubling.
     - `ON` = The plugin can longer see Volume & Balance SysEx, because already caught by Falcosoft and the original message got filtered out.
-    - `OFF` = The SysEx are all let go, so now plugins can listen.
+    - `OFF` = The SysEx's are all let go, so now plugins can listen.
   - Hence, it is intended only for external synth that indeed doesn't recognize such SysEx's. 
   - Let the Hybrid Synth itself use it without replaced intervention from Falcosoft's. [Ibid](https://github.com/OnjLouis/syxg2026-hybrid/issues/4#issuecomment-6135130790).
 - Disabled `Fix Sfz Drum Bug (Force XG Drums)`
