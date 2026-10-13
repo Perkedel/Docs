@@ -337,6 +337,7 @@ First, Make sure you have
   - Because most of the time, MIDI would go towards this Roland GS, either because 
     - many composers assumes SoundCanvas SC-55 and so on, 
     - or the most common, since Roland was the one that started the whole MIDI idea in the first place.
+    - Microsoft themselves licensed Roland so it has built-in MIDI synth on all Windows going forward, `Microsoft GS Wavetable`.
   - Highest chance after all went to `GS`, at General MIDI Level 1.
   - The GM2 is new and would take another century for the GS be replaced.
 
