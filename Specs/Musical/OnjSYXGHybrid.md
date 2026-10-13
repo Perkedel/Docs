@@ -305,7 +305,7 @@ First, Make sure you have
     2. `Compatibility Settings`
     3. uncheck `Fix Sfz Drum Bug (Force XG Drums)`
   - This options is intended for temporary workaround for faulty Soundfonts & VSTi's.
-  - Yamaha MIDIs & 3rd party composition are supposed to have proper `GM1` then `XG` SysEx reset 
+  - Yamaha MIDIs & 3rd party composition are supposed to have proper `GM1` & then `XG` SysEx reset 
     - which in turn would reset everything to proper XG sets & the drums, including Falcosoft.
   - If a Soundfont author explicitly requires you to turn on this or else a problem, pls complain. 
     - A Soundfont file are always supposed to have drums defined in Bank 128 (MSB 128) as a fallback.
