@@ -228,3 +228,12 @@ TextCommand://midi.assignFont("clip_yameteKudasai_waifu.opus.zst", 97, 0, 11);
 TextCommand://midi.assignFont("clip_ahh_waifu.opus.zst", 97, 0, 12);
 ```
 
+## System
+
+### Caching
+
+Recommended to cache file blobs in each & every MIDI file ever loaded.
+
+- `data.LoadBlob` caches extracted data to `~/.cache/Leekspinner`
+- Every read of said blob becomes pointer to the extracted cache.
+- Making sure subsequent play loads faster, until cache cleared.
