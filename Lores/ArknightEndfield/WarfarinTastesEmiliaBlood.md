@@ -36,7 +36,7 @@ done
 
 Warfarin: (wipe mouth)!...!, ah! Wow. `Strawberry`?.. `Grape`? tuti-fruti..
 
-Emilia: So.. taste like Encryptberry?
+Emilia: So.., tastes like Encryptberry?
 
 Warfarin: Mm-hm!, One to one.
 
