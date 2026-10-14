@@ -64,7 +64,7 @@ Warfarin: Just so you know, I remembered, I never had Doctor's blood.
 
 Emilia: Ugh, I'm.. I'm deeply sorry about that, must've permanent FOMO.. But... pls..
 
-Warfarin: (lick mouth slerp)...!, You.. smells like Doctor, of Perkedel Cinematic Universe
+Warfarin: (lick mouth slerp)...!, You.. smells like Doctor, MMMhhh!.., of Perkedel Cinematic Universe..
 
 Emilia: Correct, And.. what if I anemia??
 
@@ -124,7 +124,7 @@ Emilia: (push legs and see ahead)?
 
 Warfarin is tidying up clothes
 
-Warfarin: Hey, time to checkout. We are done here.
+Warfarin: Hey, it's time to check out. We are done here.
 
 Emilia: Oh.
 
