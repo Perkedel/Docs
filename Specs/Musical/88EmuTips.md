@@ -7,6 +7,23 @@ Top Tips to enhance MAME Combinations of Roland SoundCanvas series.
 https://theusualsuspects.io/downloads/88emuplayer
 
 - Setup
+  - Installer available! See [this guide](https://theusualsuspects.io/docs/installation-guide) for detailed info!
+    - Arch btw available!
+      - Add now & sign
+        ```console
+        $ curl -fsSL https://download.opensuse.org/repositories/home:/theusualsuspects/Arch/x86_64/home_theusualsuspects_Arch.key | sudo pacman-key --add -
+
+        $ sudo pacman-key --lsign-key 6F616D60DB991ED61A6F29B0006C0F47711C6743
+        ```
+      - Add this repo into `/etc/pacman.conf
+        ```conf
+        [home_theusualsuspects_Arch]
+        Server = https://download.opensuse.org/repositories/home:/theusualsuspects/Arch/$arch
+        ```
+      - Install Now! Will take from that `home_theusualsuspects_Arch` personal repository, not AUR.
+        ```console
+        $ paru -Sy theusualsuspects-88emu
+        ```
   - Prep Your ROMs!
     - Sorry, can't DL link right now. You can instead look it up yourself from various source.
     - ROMs should be in `.bin` format and as such. **Never is `.exe`!**
@@ -53,8 +70,18 @@ https://theusualsuspects.io/downloads/88emuplayer
   - On some module evolution, some MIDI files can inject special SysEx such as Bitmap & Title Text to it.
 - Buttons & Dials
   - Power ON/OFF (Keyboard `Q`). Toggle power state of the module.
-    - SC-55 power is digital. That's because to make it work with its remote control Canvas-Brush combo.
-    - The rests are allegedly typical Open-Close toggle switch.
+    - SC-55, SC-55mkII, SC-155, SC-155mkII, & SC-88VL power are digital. That's because to make it work with its remote control Canvas-Brush combo.
+      - For these digital power system, you can unplug them from power using `Shift` + `Q` to emulate those of mechanical power switch. 
+    - The rests are allegedly typical Mechanical Open-Close toggle switch.
+  - MT-32, CM-32L, CM-64
+    - `PART` `1` - `5` (Top row `1` - `5`). Five Part buttons
+    - `RHYTHM` (`R`).
+    - `SOUND GROUP` (`G`).
+    - `SOUND` (`S`).
+    - `VOLUME` (`V`). Set adjustment into Channel Volume.
+    - `MASTER VOLUME` (`M`). Set adjustment into Master Volume.
+    - Volume Knob. Rotaty Encoder with press button, sets volume, value, or navigate menus based on current menu at.
+    - **CM-32P is empty of switches** but volume knob.
   - SC-55, SC-88, Pro, VL
     - Bar Lit
       - `ALL` (Keyboard `W`). Overview master MIDI settings. You can also adjust some of the following Manipulatable MIDI Master settings below.
@@ -133,6 +160,7 @@ https://theusualsuspects.io/downloads/88emuplayer
 - [SC-55](https://cdn.roland.com/assets/media/pdf/SC-55_OM.pdf)
 - [SC-88Pro](https://cdn.roland.com/assets/media/pdf/SC-88PRO_OM.pdf)
 - [SC-8850](https://cdn.roland.com/assets/media/pdf/SC-8850_OM.pdf)
+- [88emu](https://github.com/dsp56300/gearmulator/blob/main/doc/88emu_readme.md)
 
 ## Try Demo
 
@@ -161,6 +189,24 @@ https://theusualsuspects.io/downloads/88emuplayer
     - Heigo Tani - WALL FIVE MIX
     - Yuuki Kato (Music Brains, inc.) - Blue X
     - *All Song*. Repeat All the whole demo.
+- Startup Test Mode
+  - SC-88Pro Only
+    1. Power Off (`Q`)
+    2. Press & hold both `KEY SHIFT` buttons (`I` + `O`)
+    3. Power On (`Q`)
+    4. **Quickly press volume knob (`Tab` / `▶️ PREVIEW`) immediately before startup ends!**
+    5. Here's what can you do
+      - LED Cycle & Lit test. Press Volume knob (`Tab` / `▶️ PREVIEW`) once
+    6. After done, Power cycle again (Power Off & On again) to return normal.
+  - SC-88
+    - Same as SC-88Pro
+    - Difference being, while holding both `KEY SHIFT` buttons (`I` + `O`), Powering on (`Q`) immediately leads you to Test mode
+    - LED test (Press Volume knob (`Tab` / `▶️ PREVIEW`) twice) also available
+  - MT-32 Only
+    1. Power Off (`Q`)
+    2. Hold `PART 3` + `VOLUME` (Top row `3` + `V`)
+    3. Hold Power On (`Q`) until you entered test mode
+    4. `PART 4` + `RHYTHM` + `MASTER VOLUME` (Top row `4` + `R` + `M`) to show firmware version
 - Obtain more Demo songs!
   - [DTM-Hub Demo Data!!](https://github.com/ltgcgo/midi-data/tree/main/vendor/roland)
   - [Compare that with Octavia](https://gh.ltgc.cc/octavia/test/). Audio renders made by DTM-Hub community members.
@@ -214,3 +260,33 @@ https://theusualsuspects.io/downloads/88emuplayer
     - Navigate using `🔽/VAR.` & `🔼/INST` or Dial or `INC` & `DEC`
   4. `ENTER` to select
   5. Notice the confirmation dialog. Press `ENTER` to confirm, or `EXIT` to cancel.
+
+## Rendering
+
+Use `88EmuCli` for rendering the MIDI songs
+
+- Audio
+  - Have a MIDI file you'd like to render.
+  - `cd` into the folder where the MIDI is
+  - run the command line of 88Emu to render the MIDI file fast, e.g.
+    ```console
+    $ 88EmuCli --device sc8850 --sample-rate 96000 --bits 32 onestop.mid --output ~/Projects/RenderMIDI/88emu/onestop.wav 
+    ```
+    - Render using SC-8850
+    - At 96 kHz Sample Rate, 32-bit
+    - of this Microsoft `Onestop.mid`
+    - Into an organized render folder.
+    - Rest arguments unneeded, leave default setting & ROM location there is to it.
+- Video
+  - Have a MIDI file you'd like to render.
+  - **Install FFMPEG first, if you haven't already!** Why wouldn't had one?
+  - `cd` into the folder where the MIDI is
+  - run the command line of 88Emu to render the MIDI file fast, e.g.
+    ```console
+    $ 88EmuCli --device sc88pro --video "~/Projects/RenderMIDI/88emu/" --video-size 1920x1080 --fps 60 "onestop.mid"
+    ```
+    - Render using SC-88Pro
+    - Resolution & FPS of 1080p60
+    - of this Microsoft `Onestop.mid`
+    - Into an organized render folder.
+    - Rest arguments unneeded, leave default setting & ROM location there is to it.
