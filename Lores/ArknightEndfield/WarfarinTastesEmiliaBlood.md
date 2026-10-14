@@ -144,7 +144,7 @@ Sporig: 😏 Hmm? Go on.
 
 Emilia: No, wait 💢!, what are you doing here? Weren't you supposed to do commission?
 
-Sporig: This wAs the commission. Next week there'll be Furcon going on. I was tasked there to set up their drones tonight. Test things out, do the rehearsal of how we plan the flight around the venue down here.
+Sporig: This wAs the commission. Next week there'll be Furcon going on. I was tasked down there to set up their drones tonight. Test things out, do the rehearsal of how we plan the flight around the venue down here.
 
 Emilia: 😰 Uh..
 
@@ -160,7 +160,7 @@ Sporig: Don't worry, I glazed it off, you're welcome. Thankfully, the ELRS is th
 
 Emilia: Argh pls.. you don't want to hear what were we doing back there..
 
-Sporig: Unfortunately, that's not hidden either. **your VTX also showed everything to me**.
+Sporig: Unfortunately, that's not hidden either. **your VTX also showed everything also to me**.
 
 The entire POV from Emilia's eyes
 
@@ -172,7 +172,7 @@ Sporig: Hey, I'm not mad. She needs a favor, right? She missed out alot. I belie
 
 Emilia: Really? You're not mad?
 
-Sporig: Well I was, but now I heard every word Warfarin said, Okay.., whatever. Let's not repeat the loss of special blood anymore. It's not like M3, Sophia, or any supervisor could.. yeah.
+Sporig: Well I was, but now I heard every word Warfarin said, Okeyh.., whatever. Let's not repeat the loss of special blood anymore. It's not like M3, Sophia, or any supervisor could.. yeah.
 
 .
 
@@ -196,7 +196,7 @@ Sporig: Well you should follow me. And it's best, because you're natural furry, 
 
 Emilia: Oh yeah, of course!.
 
-Sporig: And help me, together, attend the drones, trivial, you liked drones, right?
+Sporig: And help me, together, attend these drones, trivial, you liked drones, right?
 
 Emilia: Uh-hum!, I do! .. What's next?
 
@@ -257,7 +257,7 @@ Talaq: So yeah. .. And as for the room..
 
 .
 
-Talaq: Whoops, didn't thought about this. We ran out. That was reserved. And the last room you just got out, has taken too. Hmm, apologies, but the room across here is the only option, if that's okay..
+Talaq: Whoops, didn't think about this. We ran out. That was reserved. And the last room you just got out, has taken too. Hmm, apologies, but the room across here is the only option, if that's okay..
 
 Warfarin dies inside. Flat cartoon dead inside. Really? Well atleast now you got her husband too, yeay??
 
