@@ -299,6 +299,9 @@ TextCommand://midi.play("for_HatsuneMiku.mid", 0, 0); // And to this itself (fir
 - Leekspinner keyboard's MIDI player is *containerized* & modular off of the synth parts of it, which makes this separation possible
   - So that Leekspinner has
     - MIDI Player. Load file and broadcast MIDI data
+    - Style Player. Load Style file, which is a special looped MIDI file that works like finite state machine.
+      - This is how Yamaha PSR demo was orchestrated btw! Master MIDI file has the play, and it controls the style player.
+    - Media Player. Specially Riced MPV (VLC Fallback) to play audio & video blob coming from MIDI file & transmission.
     - SFe synth. SoundFont-e loader
     - FolderWave synth. Default synth of Leekspinner
     - Plugin Host. Load plugins, FX & Instrument, CLAP, VST3, etc.
