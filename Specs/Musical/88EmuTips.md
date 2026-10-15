@@ -279,7 +279,7 @@ Use `88EmuCli` for rendering the MIDI songs
     - Rest arguments unneeded, leave default setting & ROM location there is to it.
 - Video
   - Have a MIDI file you'd like to render.
-  - **Install FFMPEG first, if you haven't already!** Why wouldn't had one?
+  - **Install FFmpeg first, if you haven't already!** Why wouldn't you have one already?, bruh..
   - `cd` into the folder where the MIDI is
   - run the command line of 88Emu to render the MIDI file fast, e.g.
     ```console
