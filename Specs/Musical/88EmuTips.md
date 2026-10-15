@@ -283,7 +283,7 @@ Use `88EmuCli` for rendering the MIDI songs
   - `cd` into the folder where the MIDI is
   - run the command line of 88Emu to render the MIDI file fast, e.g.
     ```console
-    $ 88EmuCli --device sc88pro --video "~/Projects/RenderMIDI/88emu/" --video-size 1920x1080 --fps 60 "onestop.mid"
+    $ 88EmuCli --device sc88pro --video "~/Projects/RenderMIDI/88emu/onestop.mp4" --video-size 1920x1080 --fps 60 "onestop.mid"
     ```
     - Render using SC-88Pro
     - Resolution & FPS of 1080p60
