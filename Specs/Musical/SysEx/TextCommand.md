@@ -436,3 +436,25 @@ It is a best practice to pack everything you see into a single file ala AppImage
     // Then duplicate above extract command accordingly on the MIDI file.
     ```
 - In case different MIDI file shares the same resources, matching checksum will be compared and skipped automatically when matches, otherwise seamlessly overwritten just for this file / session.
+
+## Safety
+
+### Scam MIDI file
+
+If the Download link MIDI file only got Audio, you'll be offered to convert the file to actual data inside
+
+```console
+Scam MIDI file detected! Convert file now?
+- Extract all the data out to each files, decompressed.
+- Downloaded MIDI file will be moved to Trash.
+Confirm (Y / N):
+```
+
+- Can also detect deliberately spliced audio files
+  ```console
+  Scam MIDI file detected!: Spliced Audio files, Convert file now?
+  - Extract & merge recordings into proper file
+  - Track cut-off detection per silence
+  - Downloaded MIDI file will be moved to Trash.
+  Confirm (Y / N):
+  ```
