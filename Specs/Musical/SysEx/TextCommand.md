@@ -209,6 +209,10 @@ For realtime user, it is recommended to use level fast enough while still saving
 
 ### Full Audio
 
+> [!CAUTION]  
+> Please do not scam people by only packing *MP3 music* onto the file.
+> We expect you to meticulously make full MIDI cover, where Audio used only for voices.
+
 Audio Synchronized play! Play whole Audio file
 
 ```txt
@@ -216,6 +220,10 @@ TextCommand://data.loadBlob("sing_tape_waifu.opus.zst", "8347298742987ufahsfhasd
 
 TextCommand://audio.play("sing_tape_waifu.opus.zst", 0); // At certain timestamp, play it now from the file beginning zero second!
 ```
+
+- Different than Yamaha MU's implementation!
+  - Won't occupy Font of the Synth at all.
+  - Plays in a separate Media Player module, strictly synchronized & clocked to the MIDI Player.
 
 ### Sampled Audio
 
@@ -237,6 +245,11 @@ TextCommand://midi.assignFont("clip_yameteKudasai_waifu.opus.zst", 97, 0, 11);
 TextCommand://midi.assignFont("clip_ahh_waifu.opus.zst", 97, 0, 12);
 ```
 
+- Works like MU
+  - Occupies as Letters to the Synth.
+  - Note this plays `AAaa`
+  - and another `Baaa` like that.
+
 ### Resources Overall
 
 The `data.loadBlob` is very powerful! You can make `.mid` into Archive files, effectively, that's compatible and at least loadable on all keyboards who would embed or shim Leekspinner with it.
@@ -250,6 +263,42 @@ The `data.loadBlob` is very powerful! You can make `.mid` into Archive files, ef
     - `miku_senam.tar.zst` next by it, which Leekspinner shim loads.
   2. user `~/.local/share/lib/leekspinner`
   3. system `/usr/share/lib/leekspinner`
+
+### Insert this Plugin Setup!
+
+You can load Plugin Setup of a MIDI channel before going out to the Output.
+
+```txt
+TextCommand://data.loabBlob("vst_setup.lgr.zst","..."); // Load your plugin graph!
+
+TextCommand://midi.insertPlugin("vst_setup.lgr",0); // And insert that to Ch. 1
+```
+
+### Manually EFX
+
+Or you can manually build your Effect
+
+```txt
+TextCommand://data.loadBlob("efx_distort.json.zst",".."); // load plugin config!
+
+TextCommand://midi.setEffect("suara_serak.clap",0,"efx_distort"); // and load built-in distortion with the setting!
+TextCommand://midi.setEffectParam("drive",177); // and make further adjustment to the distortion plugin parameter, based on available in the parameter slider interface.
+TextCommand://midi.enableEffect(0, false); // Turn off temporarily
+TextCommand://midi.enableEffect(1, true); // and back on again.
+TextCommand://midi.clearEffect(); // And clear it once you're done.
+```
+
+- Ultra better than anything!
+  - EFX adds per channel.
+  - Same setup can be duplicated to another channel.
+  - Can connect same setup to chanel from channel
+  - Of course, unlike others, all channels can have completely different setups
+  - Unlimited! Per channel can have too many setup as long as the keyboard can handle those many instances
+  - Because the Synth have Plugin Host. Inside, bunch of audio patch cables you can sever to be replaced with said EFX's.
+    - Start is the Font
+    - End is Audio out
+    - In the middle is where your plugin area is.
+    - It also has MIDI event jacks too, in case a Plugin depends on Note press & other parameters.
 
 ## Experimental & Funny
 
