@@ -458,3 +458,7 @@ Confirm (Y / N):
   - Downloaded MIDI file will be moved to Trash.
   Confirm (Y / N):
   ```
+- And even deliberately through Soundfont press notes
+  - `: Press Note Audio Samples, Convert file now?`
+  - May cause false alarm, especially song made in Spliced Tape style. Like recording something to DAW only with Audio & composed it like using Audacity.
+  - Review the MIDI file carefully! Avoid accusing or pre-banning the author!
