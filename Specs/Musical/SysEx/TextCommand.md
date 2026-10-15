@@ -251,6 +251,109 @@ The `data.loadBlob` is very powerful! You can make `.mid` into Archive files, ef
   2. user `~/.local/share/lib/leekspinner`
   3. system `/usr/share/lib/leekspinner`
 
+## Experimental & Funny
+
+### MIDI file in MIDI file
+
+You can pack another MIDI file in MIDI file too!!, even engage download of other files too!
+
+> [!CAUTION]  
+> - use TextCommand `data.downloadBlob(sauceURL:String)` sparingly
+> - External download will lag the whole player & can desync your whole Orchestra
+> - **Avoid scamming people using downloader / ala-Torrenting trick like this!**
+> - the Download Blob shall only / exclusively be used for resources that you also made yourself.
+> - If you had to share download link of somebody else's MIDI files, **you must fully sparsdat them**, i.e. `loadBlob` the all whole MIDI files instead. 
+
+```txt
+TextCommand://data.loadBlob("yo_dawg.mid.zst", "..."); // Load your MIDI file
+TextCommand://data.downloadBlob("https://example.com/midis/yo_dawg.mid"); // Engage Aria2 (falls back to wget) to download MIDI from a website or network storage
+
+// and execute the Orchestration command in the timestamp you desire
+TextCommand://midi.play("yo_dawg.mid", "megurine_luka_usb"); // Orchestration: Play this file on another device e.g. a digital piano / clavinova
+TextCommand://midi.play("yo_dawg.mid"); // Or here, at another free empty MIDI slot after this MIDI slot round robin.
+// E.g., is this MIDI file itself plays at `A` (from Ch. 1), then above command goes to `B` (from Ch. 17).
+```
+
+### Orchestration
+
+You can set up a mega-orchestra consisting multiple MIDI modules, where your Leekspinner MIDI player acts as the maestro
+
+```txt
+TextCommand://data.loadBlob("for_rolandSC8850.mid.zst", "..."); // Load sheet music for SC-8850
+TextCommand://data.loadBlob("for_YamahaGenos2.mid.zst", "..."); // and another for the other, Yamaha Genos 2.
+TextCommand://data.loadBlob("for_HatsuneMiku.mid.zst", "..."); // finally, for this player itself
+
+// And then play them all!
+TextCommand://midi.transfer(3); Move this playback of the master MIDI file to slot `D` (Ch. 49).
+TextCommand://midi.play("for_rolandSC8850.mid", "88emu_0"); // play for the SC-8850. Won't occupy any slot here
+TextCommand://midi.play("for_YamahaGenos2.mid", "Yamaha USB"); // and Genos 2. Still won't occupy any slot here..
+TextCommand://midi.play("for_HatsuneMiku.mid", 0, 0); // And to this itself (first `0`), at slot `A` (Ch. 1, second `0`). Occupies Slot Ch. 1-16 now here.
+```
+
+- MIDI played will engage resets, other SysEx, and other data only to each respective target. 
+  - Roland's MIDI file only had `GM1` then `GS`, but the rest won't get contaminated
+  - Therefore Yamaha Genos won't hear `GS`, but just `GM1` then `XG` reset from their MIDI file.
+  - Same goes to itself. The Leekspinner keyboard won't hear `GM1`, `GS`, nor `XG` at all, and only hear `GM2` followed by `LS` from this MIDI file just for `D`, and then another just for `A`.
+- Note, many MIDI files will have initialization Bar, **so provide some dedicated bars** for the master MIDI file for every slave MIDI files!
+  - If these slave MIDI files first init goes for 1 bar maximum, then give the master 1 empty bar, before actually putting the orchestra notes, SysEx's, & more data.
+- Leekspinner keyboard's MIDI player is *containerized* & modular off of the synth parts of it, which makes this separation possible
+  - So that Leekspinner has
+    - MIDI Player. Load file and broadcast MIDI data
+    - SFe synth. SoundFont-e loader
+    - FolderWave synth. Default synth of Leekspinner
+    - Plugin Host. Load plugins, FX & Instrument, CLAP, VST3, etc.
+    - Pipewire. Core sound driver & graphical connection system ala-JACK
+    - Runtime loading support: Native Linux, WINE, etc. run some apps, lessons, & games
+    - built-in Keyboard. Emulates Concert Grand feeling with Input feedback for LEDs, haptic, & other ASMR.
+  - Leekspinner & implementations are expected to be built modular like this. Apps to play MIDI, and another to load SFe, GUI Desktop Environment for control, etc. are separated.
+
+### Heart Organ As A Clock
+
+> [!NOTE]
+> Make sense in Performance use case only.
+
+You have a new External Clock system: Heartbeat from your own organ
+
+```txt
+// send the following Command into your LeekSpinner, or use setting menu.
+TextCommand://midi.changeClock(1, "wristwatch", CLOCK_INTERPOLATION_HEARTBEAT); // Set clock to External (`1`), Source `wristwatch`, Interpolation of `heartbeat`.
+```
+
+- Heartbeat BPM (the MIDI player analyzed from IN) = playback Tempo
+- Playback now ignores all Tempo Change messages
+
+#### Every Heartbeat Advances
+
+For funnier outcome, you can remove interpolation & MIDI playback advances strictly per heartbeat.
+
+```txt
+TextCommand://midi.changeClock(1, "wristwatch", CLOCK_INTERPOLATION_DEFAULT); // same device, but now interpolation set to default or `tick` / `CLOCK_INTERPOLATION_TICK`
+```
+
+- MIDI playback step now advances only every `Lub` / Systole of your heart.
+- Still ignores all Tempo changes
+- Another good case of Orchestra, you can build the master MIDI file so e.g. it randomizes some parameters every Systole, and affects all connected slave MIDI modules.
+  - Every step of message is different value of it
+- Use Loop to make MIDI player cycles back to the last Loop Start.
+
+### Alternative Clocking
+
+If you let's say unable to ensure any means of `MIDI Ext Clock` tick message, you can set the clock source from somewhere else, e.g. Note type A & type B.
+
+> [!IMPORTANT]  
+> - MIDI Player will not heed by clock commands from files by default. At this, you can only do so direct from MIDI IN
+> - If you wish for MIDI player to heed all messages masochisticly even from files, you can go to setting and enable said options.
+> - You cannot have separate clocking in 1 MIDI player app. Consider re-instancing another MIDI player locally or externally if you wish to have a desynced / polyrhythm tempo setup.
+
+```txt
+TextCommand://midi.changeClock(1,0,CLOCK_INTERPOLATION_DEFAULT,CLOCK_SOURCE_NOTE); // External again, but use built-in keyboard, 
+TextCommand://midi.addClock(CLOCK_ADDSOURCE_NOTE,"3C"); // and Middle C is the clock. Maybe to Systole
+TextCommand://midi.addClock(CLOCK_ADDSOURCE_NOTE,"3D"); // as well as D next by. Also for Diastole, e.g.
+
+TextCommand://midi.clearClockSource(); // Once done, clear them!
+TextCommand://midi.resetClock(); // and reset clock back to default.
+```
+
 ## System
 
 ### Caching
