@@ -6,3 +6,5 @@ It's basically Open Source knock off of NEXO. We got all-distance stage speakers
 
 Muni in Javanese means `sound`. and Rungu means `hear`.  
 Moonie!
+
+of course, all these **license free**. No partialism, all products, even softwares, fully featured.
