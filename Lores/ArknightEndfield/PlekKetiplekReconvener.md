@@ -17,6 +17,17 @@ Here's relatable one, Cancer. You have cancer. You'll die, you did everything bu
 
 **Clone**.
 
+## Hierda Drop!
+
+https://youtube.com/shorts/V0QFITxAGAk
+
+Some Reconvener isn't always like that AI reverse engineering. i.e., **Outright Transplant**!!!
+
+Hierda here from OG Arknights, same died of Oripathy, and then Priestest did a special treatment unlike everyone else. The full consciousness got fully downloaded, re-spiced a little bit, and then injected to a new body. Not an inspiration, transplant.
+
+This is like when you scan Roland SC-8850's ROM chip (except cut, not copy, in Hierda), ~~and then put into digital body. Tada!! 88emu!!~~ and then put into FPGA! 
+Hierda is wholly transplanted to new hardware!
+
 ## a
 
 by JOELwindows7  
