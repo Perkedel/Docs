@@ -262,3 +262,33 @@ Talaq: Whoops, didn't think about this. We ran out. That was reserved. And the l
 Warfarin dies inside. Flat cartoon dead inside. Really? Well atleast now you got her husband too, yeay??
 
 aha.
+
+## Extra 2
+
+The next morning, D-day!
+
+Sporig wakes up weakly as usual. He found that he was slept on a treated bed, with stone pattern mat, and bunch of these yellow crystal rocks
+
+Open eyes
+
+Sporig: Uuuggghhhh.... (something rocky)??
+
+lean up. The yellow rocks falling to carpet floor
+
+Sporig: Huh? what the hell?, (analyze these rocks)....
+
+Blood Rock (Orsonik's Casualties: Unknown). Material used to build Bone Marrow AIC machine.
+
+Spoorig: Blood rock?? (stabby pain on port side of neck, and feel it) Aagh!
+
+2 holes
+
+Sporig: (realization)?..... Ooooh.. you (smack the pile)-daughter of a bitch!, (feel the scab again).. (look left for Emilia)?
+
+not here
+
+Sporig: (reminded of mission too) Oh wait, (get off) yess!
+
+more rocks falling
+
+..

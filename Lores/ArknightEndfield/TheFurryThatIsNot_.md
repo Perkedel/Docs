@@ -84,7 +84,7 @@ Bazlig: Okeh.
 
 Bazlig: Btw was he
 
-Prophet: "Almost". Thankfully Delia saved him. She likes squishy stuff which Timbre's chubby body has.
+Prophet: "Almost". Thankfully Delia *saved him*. She likes squishy stuff which Timbre's chubby body has.
 
 .
 
