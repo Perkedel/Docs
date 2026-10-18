@@ -8,7 +8,7 @@ Scene starts by fade blur out into a dark path with light tunnel ahead.
 
 Endmin walk slowly towards the light. The light is so bright, more than overdrive HDR nits
 
-Upon reaching the light gate, Endmin saw all friends over there, both Perkedel and Hypergryph, including Perlica and Chen. These friends are all talking to each other.
+Upon reaching the light gate, Endmin saw all friends over there, both Perkedel and Hypergryph, including Perlica and Chen. These friends are all talking to each other, **and they and rest of the Operators are wearing Mourning Tragic Variant outfit** (Basically graveyard black & red blood accent, while the Finish Line variant are gray & yellow accent), looks like mourning.
 
 As Endmin about to enter the gate, she collided, with an unbeknownstly invisible barrier. Some kind of Box Collider that kept Endmin from entering.
 
@@ -39,7 +39,7 @@ nightmare end
 Endmin open eyes. No gasp spasm. Hasted sit up. feel around. It was indeed just a nightmare. a **Rapture ineligibility nightmare**.
 
 She's definitely gonna report this to Medical Alliance and Church.  
-Is Endmin really not belong to God? hence does not mean covered by Saviour? No Heaven?  
+Is Endmin really not belong to God? Hence does not mean covered by Saviour? No Heaven?  
 Endmin hoping whatever path she followed, does not end like this. She must ends just like every Christian all around.
 
 ## End

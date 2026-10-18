@@ -390,10 +390,10 @@ TextCommand://midi.changeClock(1, "wristwatch", CLOCK_INTERPOLATION_DEFAULT); //
 
 ### Alternative Clocking
 
-If you let's say unable to ensure any means of `MIDI Ext Clock` tick message, you can set the clock source from somewhere else, e.g. Note type A & type B.
+Let's say you're unable to ensure any means of `MIDI Ext Clock` tick message, you can set the clock source from somewhere else, e.g. Note type A & type B.
 
 > [!IMPORTANT]  
-> - MIDI Player will not heed by clock commands from files by default. At this, you can only do so direct from MIDI IN
+> - MIDI Player will not heed by clock commands from files by default. At this point, you can only do so direct from MIDI IN
 > - If you wish for MIDI player to heed all messages masochisticly even from files, you can go to setting and enable said options.
 > - You cannot have separate clocking in 1 MIDI player app. Consider re-instancing another MIDI player locally or externally if you wish to have a desynced / polyrhythm tempo setup.
 
@@ -404,6 +404,25 @@ TextCommand://midi.addClock(CLOCK_ADDSOURCE_NOTE,"3D"); // as well as D next by.
 
 TextCommand://midi.clearClockSource(); // Once done, clear them!
 TextCommand://midi.resetClock(); // and reset clock back to default.
+```
+
+### Orchestration 2: Auto-hotkey
+
+You can also make the `.mid` file an `.ahk`-like script. Because `.mid` file are sequenced & timestamped, this is a perfect niche use case for stuffs that needs to be done in a specific timestamp rather than instantaneous per-line.
+
+> [!IMPORTANT]
+> - For safety, MIDI Player ignores all AHK & CMD commands by default.
+> - Always review the MIDI file before letting the AHK and/or CMD enabled with it.
+> - MIDI Player will always warn you before you can play, if a MIDI file contains AHK or CMD TextCommand'd text messages & offers you to review what are those.
+
+```txt
+TextCommand://ahk.setMousePct(20,20); // Put cursor x 20% & y 20% from left and top of screen.
+TextCommand://ahk.mouseClick(0); // left click!
+
+TextCommand://cmd.bashExec("test.sh");// Or basically run terminal batch script, you can too!
+TextCommand://cmd.bashInterp("chmod +x install.sh"); // Or even directly have a string of shell script, yess! 
+// Supports only UNIX-like bash, no PowerShell nor CP-M-like tho.
+TextCommand://cmd.pyExec("test.py"); // Let's put Python as one of the nepo baby supported!
 ```
 
 ## System
@@ -436,6 +455,10 @@ It is a best practice to pack everything you see into a single file ala AppImage
     // Then duplicate above extract command accordingly on the MIDI file.
     ```
 - In case different MIDI file shares the same resources, matching checksum will be compared and skipped automatically when matches, otherwise seamlessly overwritten just for this file / session.
+
+> [!TIP]  
+> `loadBlob` shall automatically extract the archive immediately by default.  
+> e.g., the load blob `mydata.txt.zst` will be usable as `lcd.cat("mydata.txt", PRINT_HEADER_TITLE)` **without the `.zst` extension needed anymore**.
 
 ## Safety
 

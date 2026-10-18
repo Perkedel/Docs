@@ -4,7 +4,7 @@
 
 a village somewhere. Ralef is rallying protest demo. He assembled few folks joining his rally.
 
-Ralef: This is the day where start to revolt! As you can see, these days programs has been made with the help of artificial intelligence, right it is a rudimentary bots, up to the literal Intelligengt Construct. Therefore!, .. Whoever involved those bots deserves to be called... *Opponent name here*!, we do not know, and using all derogatory card is too mainstream-we'll figure out later!. For now, let's shout against them, ***ENEMIES***!!
+Ralef: This is the day where start to revolt! As you can see, these days programs has been made with the help of artificial intelligence, right it is a bunch of rudimentary bots, up to the literal Intelligent Construct. Therefore!, .. Whoever involved those bots deserves to be called... *Opponent name here*!, we do not know, and using all derogatory card is too mainstream-we'll figure out later!. For now, let's shout against them, ***ENEMIES***!!
 
 *all*: ***ENEMIES***!, ***ENEMIES***!, ***ENEMIES***!!
 
@@ -20,7 +20,7 @@ Ralef: Hey sir.. I.. just stretching my legs?
 
 Delta scans Ralef's mind
 
-Delta: (snatch Ralef's HT off his port hand)!!!, you are no different than Harrassers. Really?!, smear campaign only because their projects involved Deepseek in the Contributor commits? OR EVen mere auto-correct?? HUH?!?!
+Delta: (snatch Ralef's HT off his port hand)!!!, you are no different than Harassers. Really?!, smear campaign only because their projects involved Deepseek in the Contributor commits? OR EVen mere auto-correct?? HUH?!?!
 
 Nielph: But sir, they used AI. Anyone who did not `Disable AI` must be shunned. These guys tarnish the cleanliness of programming as a whole.
 
@@ -30,7 +30,7 @@ Tiam: We must be **✨🙏 pure 🙏✨**..
 
 Delta: NO.
 
-Krozeg: And then what? Make again from scratch? Well sell yourself short then. Or if you're sane, fork and rewrite? I don't see if that's useful enough and it's embarrassing.
+Krozeg: And then what? Make again from scratch? Well sell yourself short then. Or if you're 🙃 *sane*, fork and rewrite? I don't see if that's useful enough and it's embarrassing.
 
 Delta: ...
 
@@ -46,7 +46,7 @@ Ralef: So yeah!! The solution is Rally!!
 
 Krozeg: Listen up! DaNeBeau is already cancer to the government! He gonna replace us all soon or later.
 
-Delta: Wha?! We never program DaNeBeau to do that, having creative mind is impossible made up, only God can do that? That's why DaNeBeau malfunction if he's left alone.
+Delta: Wha?! We never program DaNeBeau to do that, having creative mind is impossible to be made up, only God can do that? That's why DaNeBeau malfunction if he's left alone.
 
 Nielph: I don't care! AI is AI! And anyone refuse to shun the AI is..
 
@@ -64,9 +64,9 @@ Ralef: HEAH?! What is this?! What the fuck?! Did you just plopped us into a pris
 
 Delta: (from the other side) You have thought or planned to do Smear & Harrassment Campaign. That's immediate POC Violation. You shouldn't have start start assembling, you could've been saved if that's just on your mind first.
 
-Ralef: WHAT? is this how DNB goes?! Oohh!.. Going dystopia eh? Our ancestors have moved out from Indonesia for this exact reason, extreme and short-wicked judgment. Accidentally thought evil stuffs immediately teleprotocols you to prison, & now you're doing that too?! No more place we go now 💢💢💢💢💢..
+Ralef: WHAT? is this how DNB goes?! Oohh!.. Going dystopia eh? Our ancestors have moved out from Indonesia for this exact reason, extremely and short-wicked judgment. Accidentally thought evil stuffs immediately teleprotocols you to prison, & now you're doing that too?! No more place we go now 💢💢💢💢💢..
 
-Nielph: But prison? Doesn't looks like it.. This is maybe a residential place happens to be on Judgment Realm. You know Judgment also had residence for regular citizen, correct?
+Nielph: But prison? Doesn't look like it.. This is maybe a residential place happens to be on Judgment Realm. You know Judgment also had residence for regular citizen, correct?
 
 Ralef: Yes, but no! I know this place. I've been here before. Shut up!, Embarrassing reason. This.. is the emulation of, **1st Layer of Hell**!
 
@@ -160,7 +160,7 @@ Ralef: And...
 
 A simple `txt` file opened, and it has only one line, `I WILL NOT HARRASS AI BEARERS ANYMORE`.
 
-Nielph: Oh wait.. yeah we all have this file and that means.
+Nielph: Oh wait.. yeah we all have this file and that means..
 
 Ralef: (figured out, this is a traumatic school punishment of duplicating lines manually on chalkboard) NO no no no no.. pls, sir! stop!! I-I.. 🙏 I concede!! (panik attak) Swear!! No more!! pls!!
 
@@ -184,7 +184,7 @@ Ralef died inside, face looked down to his shoes.
 
 Then look at starboard hand. Flashback for a short while, that when Ralef was punished to copy Will-not lines 100 times, he broke his carpal. Thankfully, the sensei regreted and next time only limit the goal to just 10 lines, and replace the rest with a homework.
 
-Delta: But since you have remained to become a good citizen, I allow you, **to cheat**!. Under one condition, **using only the tool you've got provided here**. Easy, just look at the bottom right corner of your IDE.
+Delta: But since you have remained to become a good citizen, I allow you, **to cheat**!. Under one condition, **using only the tool we've provided here**. Easy, just look at the bottom right corner of your IDE.
 
 `✨`
 
@@ -212,7 +212,7 @@ Look overall
 
 Delta: You know who.
 
-Nielph: Oh no.. we are sacrificing anyone.
+Nielph: Oh no.. we are sacrificing anyone??
 
 Krozeg: You know we're thinking same right?
 
