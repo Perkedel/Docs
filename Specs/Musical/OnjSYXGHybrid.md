@@ -353,3 +353,9 @@ If an update failed, chances are, there are unexpected lingering file usage that
 - Check, if you had a daemon that uses any of your chosen Hybrid. End those processes if there are any.
 - If your rice is way too complicated, you can use another OS image / Recovery / WinPE that has PowerShell or portable PowerShell, just to run the updater.
 - Or maybe re-extract the full package, overwriting everything again?
+
+## Emu Legal Shenanigans
+
+Is your country / region / city / independent city you live in has law that outright unconditionally forbids emulation, in which of course, typically never been endorsed by the manufacturers?
+
+Then check out this file: [Emu Legal Shenanigans Tips](Specs/Politics/EmuLegalShenanigans.md).

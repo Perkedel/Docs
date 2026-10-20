@@ -290,3 +290,9 @@ Use `88EmuCli` for rendering the MIDI songs
     - of this Microsoft `Onestop.mid`
     - Into an organized render folder.
     - Rest arguments unneeded, leave default setting & ROM location there is to it.
+
+## Emu Legal Shenanigans
+
+Is your country / region / city / independent city you live in has law that outright unconditionally forbids emulation, in which of course, typically never been endorsed by the manufacturers?
+
+Then check out this file: [Emu Legal Shenanigans Tips](Specs/Politics/EmuLegalShenanigans.md).

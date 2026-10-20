@@ -177,3 +177,9 @@ MU2000 Provides 2 MIC input. Here on S-MU2000, you can emulate that too as well.
       - `ENTER` just in case, to apply
       - `EXIT`-`EXIT` or go back to `PLAY` (lit button) main screen.
       - You should be able to select Banks & the Programs, let's say beyond existed (but accessible to S-MU2000 emulator only) now.
+
+## Emu Legal Shenanigans
+
+Is your country / region / city / independent city you live in has law that outright unconditionally forbids emulation, in which of course, typically never been endorsed by the manufacturers?
+
+Then check out this file: [Emu Legal Shenanigans Tips](Specs/Politics/EmuLegalShenanigans.md).
