@@ -1,6 +1,6 @@
 # Intern Boutiques
 
-Timbre & Mirna interns Boutiques while the owner couples were purchasing replacement curtain.
+Timbre & Delia interns Boutiques while the owner couples were purchasing replacement curtain.
 
 [ah yea](/Lores/ArknightEndfield/SexDoctorHiredWhenShy.md)
 
@@ -30,9 +30,9 @@ And they depart
 
 .
 
-Timbre: Okay, just looking for it. Serve says simple. Mirna?
+Timbre: Okay, just looking for it. Serve says simple. Delia?
 
-Mirna Reliviet: I will take cashier. Can you be waiter?
+Delia Mirna Reliviet: I will take cashier. Can you be waiter?
 
 Timbre: Okay, I'll take that. That should be easy..
 
@@ -127,7 +127,7 @@ lol! `Somebody got McMad`
 
 Dunners: PFfftt!!... Be honest tho, that guy had to have some superstrength Arts doing that.
 
-Mirna spawns styrofoam cover over the window
+Delia spawns styrofoam cover over the window
 
 Timbre: I suppose.. Is this alright? Or I can prepare-
 
@@ -193,19 +193,19 @@ Dunners: Don't hide it, you wanna (shake pecs) feel these right?
 
 Timbre: Sir... uhhh
 
-Mirna: 👍!
+Delia: 👍!
 
 Timbre: (telepathy) WHAT?? You supposed to help me!! (look customer)..
 
 .
 
-Timbre: (look Mirna) Mirna?, where are you?
+Timbre: (look Delia) Delia?, where are you?
 
-Mirna: (pops next by Timbre)!
+Delia: (pops next by Timbre)!
 
 Timbre: Hey, let's-
 
-Mirna: (grab Timbre's starboard hand into customer's port pec + port hand grab customer's starboard pec)...!
+Delia: (grab Timbre's starboard hand into customer's port pec + port hand grab customer's starboard pec)...!
 
 Timbre: WHAT THE?!
 
@@ -237,11 +237,11 @@ emergency lamp red
 
 .
 
-Avoid blaming Mirna
+Avoid blaming Delia
 
 computer stops speaking.
 
-Mirna: I see now.
+Delia: I see now.
 
 Timbre: Argh.. my apologize.. I failed to control myself.
 
@@ -249,11 +249,11 @@ Dunners: Hey, don't blame yourself. You're suck at hiding truth. I like that.
 
 Timbre: Umm, thanks?
 
-Mirna: I'm so sorry, Timbre. Lemme reset
+Delia: I'm so sorry, Timbre. Lemme reset
 
 Timbre: No no.. It's on me. ... I.. I still have.. I'll reset this.
 
-Mirna: Okay. Then I hope you remember. It's stepped, very easy. And I will stay here. Mister, please don't hesitate to tell if you need more help.
+Delia: Okay. Then I hope you remember. It's stepped, very easy. And I will stay here. Mister, please don't hesitate to tell if you need more help.
 
 Dunners: Alrighty, And Godspeed to you, sir!
 
@@ -367,19 +367,19 @@ Dunners: I'll take these all.
 
 Timbre: Alright, this way, Hopefully cashier machine didn't die.
 
-Mirna scans the item, and Timbre refold the purchases tidily and pack them into a *bought* bag. And thankfully, the cashier machine had UPS, otherwise the data could be corrupted due to unexpected loss of power. Interestingly, the battery monitor of the UPS installed and attached as a pin on monitor, is so detailed like it's the biggest concern. Wonder why.
+Delia scans the item, and Timbre refold the purchases tidily and pack them into a *bought* bag. And thankfully, the cashier machine had UPS, otherwise the data could be corrupted due to unexpected loss of power. Interestingly, the battery monitor of the UPS installed and attached as a pin on monitor, is so detailed like it's the biggest concern. Wonder why.
 
 Checkout verified
 
 Dunners: EMV pls?
 
-Mirna: Please wait (checking out).....
+Delia: Please wait (checking out).....
 
 .
 
 QR EMV pops up on the customer facing screen of the cashier machine
 
-Mirna: Scan here sir..
+Delia: Scan here sir..
 
 Dunners scan with Camera which seamlessly commence transaction with KTP DNB
 
@@ -405,7 +405,7 @@ Timbre: (wave bye) You too, please come back later, thank you.
 
 Timbre: Oh man.. What do I do.
 
-Mirna: Hey, it's okay. I'll take the blame. I also can't help, too.
+Delia: Hey, it's okay. I'll take the blame. I also can't help, too.
 
 Timbre: Okay.. If..
 
@@ -437,13 +437,13 @@ Timbre: Replaced too. You had lots of them too.
 
 Dwibb: Uh-hum. There's no other way.
 
-Fade in to minutes later. The Owners, Timbre & Mirna help repair the changing room.
+Fade in to minutes later. The Owners, Timbre & Delia help repair the changing room.
 
 .
 
 .
 
-Mirna: (telepathy Timbre that these guys needs help)
+Delia: (telepathy Timbre that these guys needs help)
 
 Timbre: (agree), Um excuse me one more. Do you... had to live like this? And.. do you usually found certain kinds of customers often?
 
@@ -613,7 +613,7 @@ Timbre: Of course!.
 
 Dwibb: Well, thank you for your help, and.., feel free to come back at anytime. I may put some discounts for you guys anytime.
 
-Mirna: Wow..
+Delia: Wow..
 
 Dwibb: Don't mention it. Okay?, Great luck GBU
 

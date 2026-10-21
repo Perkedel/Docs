@@ -32,7 +32,7 @@ Delta: Can we start now?
 
 Ada: Okay? I think so..
 
-Delia Reliviet: (wear) Wear them now!.
+Delia Mirna Reliviet: (wear) Wear them now!.
 
 Ada: Aight, (wear), (nervous)
 

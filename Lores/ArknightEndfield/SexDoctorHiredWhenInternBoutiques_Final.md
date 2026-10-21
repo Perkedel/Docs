@@ -8,7 +8,7 @@ Camera is inside white cloth
 
 .
 
-Mirna Reliviet: (open cloth politely), (look this power supply one last time)
+Delia Mirna Reliviet: (open cloth politely), (look this power supply one last time)
 
 .
 
@@ -16,21 +16,21 @@ Mirna Reliviet: (open cloth politely), (look this power supply one last time)
 
 .
 
-Mirna: Rest easy. You have done job well.
+Delia: Rest easy. You have done job well.
 
 .
 
-Mirna: Thank you for your service.
+Delia: Thank you for your service.
 
 .
 
 .
 
-Mirna: (drop the cloth again)..
+Delia: (drop the cloth again)..
 
 Camera get out. Yes, the Power supply has been decommissioned. Here this is, on haul bed to be delivered onto its decommissioning workshop. This giant box with pipe doohickey protrusion, is covered with white cloth as of, `died a world` / `passed away`. The haul bed underneath has array of solid wheels on the back, which indicates this haul bed is designed for 20 tonnes load. And on other side, a standard container hauler truck as the motor, connected in the way like so.
 
-Mirna returns inside the Hymatt Boutique
+Delia returns inside the Hymatt Boutique
 
 ### Basement
 

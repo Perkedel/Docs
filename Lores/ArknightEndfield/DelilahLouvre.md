@@ -1,6 +1,8 @@
 # Delilah Louvre
 
-Mom of Delia Reliviet
+Mom of Delia Mirna Reliviet.
+
+Also Cardiophilia Proxy
 
 ## Original desc
 

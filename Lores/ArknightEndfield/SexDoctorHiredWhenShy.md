@@ -4,7 +4,7 @@
 
 bring wife in
 
-Mirna enter
+Delia enter
 
 .
 
@@ -12,15 +12,15 @@ sitt
 
 Timbre Encrypten: You're back!.., How you doin?
 
-Mirna Reliviet: .. Mm (Cool and good).
+Delia Mirna Reliviet: .. Mm (Cool and good).
 
 Timbre: Have you stumbled anything?
 
-Mirna: (sway no).
+Delia: (sway no).
 
 Timbre: Okay. Now, can we start?
 
-Mirna: (concern) Mmm...
+Delia: (concern) Mmm...
 
 Timbre: Don't be afraid. I got ya.
 
@@ -30,11 +30,11 @@ Hotel Receptionist job! Posko Gaming hotel
 
 Draun: Hey ma'm, (show booking form on phone)?
 
-Mirna: A.., (take scanner), (scan)?
+Delia: A.., (take scanner), (scan)?
 
 Valid. Key spits from storage card machine
 
-Mirna: Enjoy your stay.
+Delia: Enjoy your stay.
 
 Draun: Let's go!
 
@@ -44,27 +44,27 @@ Timbre: 😀👍👍 (you're doing great)!
 
 Next, sitt on park and enjoy the social situation.
 
-Timbre: Great job, Mirna. You hide much more less and look at you,
+Timbre: Great job, Delia. You hide much more less and look at you,
 
-Mirna: Hm?
+Delia: Hm?
 
 Timbre: You're enjoying it.
 
-Mirna: A.. .. 😊Hmm
+Delia: A.. .. 😊Hmm
 
 Timbre: Ahh, your smile..
 
-camera see from far, the two benches. Left is where Timbre & Mirna at. But there is a tactical young woman in sport underwear, having difficulty fiddling her Doohickey
+camera see from far, the two benches. Left is where Timbre & Delia at. But there is a tactical young woman in sport underwear, having difficulty fiddling her Doohickey
 
-Mirna: (noticed someone there needed help) Huh?..
-
-.
+Delia: (noticed someone there needed help) Huh?..
 
 .
 
-Mirna stand up and approach
+.
 
-Timbre: What's going on Mirna?
+Delia stand up and approach
+
+Timbre: What's going on Delia?
 
 .
 
@@ -74,15 +74,15 @@ Arrived
 
 Anni Syahputri: (noticed and adult female approached)? Hey..
 
-Mirna: You, .. difficult?
+Delia: You, .. difficult?
 
 Anni: Just a doohickey. Can't lock the two in, that's all.
 
-Mirna: May I, .. take look?
+Delia: May I, .. take look?
 
 Anni: Hm? (give)..
 
-Mirna: (take), (stare analyze).... (found culprit), (phase pickup broken component)... (examine it)
+Delia: (take), (stare analyze).... (found culprit), (phase pickup broken component)... (examine it)
 
 Anni: Whoa?
 
@@ -90,13 +90,13 @@ Anni: Whoa?
 
 .
 
-Mirna: (portal the new component in), (install).. (reattempt locking in)...
+Delia: (portal the new component in), (install).. (reattempt locking in)...
 
 Success!
 
 Anni: So that's that?!... oh..
 
-Mirna: (finish phase Arts and catch the doohickey onto hands)! ... (give back)?
+Delia: (finish phase Arts and catch the doohickey onto hands)! ... (give back)?
 
 Anni: (take), (turn on)?
 
@@ -104,7 +104,7 @@ Activates
 
 Anni: (Impressed)?!... Is that one of your Arts?
 
-Mirna: Mm., (telepathy detail)!!
+Delia: Mm., (telepathy detail)!!
 
 Anni: (Received), Ah.. I see.
 
@@ -116,7 +116,7 @@ Timbre: Anni!..
 
 ## End
 
-Timbre & Mirna yess
+Timbre & Delia yess
 
 by JOELwindows7  
 Perkedel Technologies  
