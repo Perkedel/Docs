@@ -14,9 +14,9 @@ tape into the clay pigeon fast srrrrrrt!
 
 Throw up high
 
-And then bang! clay pigeon and cokcroach gibbed
+And then bang! clay pigeon and cokcroach gibbed. (async) Victory pose.
 
-Eve: Yeewee!!, why did you do that 😢?, that's cruel!
+Eve: (async) Yeewee!!, why did you do that 😢?, that's cruel!
 
 ## end
 
