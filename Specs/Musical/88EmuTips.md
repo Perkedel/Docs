@@ -72,7 +72,7 @@ https://theusualsuspects.io/downloads/88emuplayer
   - Power ON/OFF (Keyboard `Q`). Toggle power state of the module.
     - SC-55, SC-55mkII, SC-155, SC-155mkII, & SC-88VL power are digital. That's because to make it work with its remote control Canvas-Brush combo.
       - For these digital power system, you can unplug them from power using `Shift` + `Q` to emulate those of mechanical power switch. 
-    - The rests are allegedly typical Mechanical Open-Close toggle switch.
+    - The rests are typical Mechanical Open-Close toggle switch.
   - MT-32, CM-32L, CM-64
     - `PART` `1` - `5` (Top row `1` - `5`). Five Part buttons
     - `RHYTHM` (`R`).
@@ -154,12 +154,75 @@ https://theusualsuspects.io/downloads/88emuplayer
         - `VALUE` Big Black Dial (Mouse scroll / drag up-down). To change value of selected option variable. Alternatively,
           - `DEC` (Keyboard `-`). Decrease value
           - `INC` (Keyboard `=`). Increase value
+  - MV30
+    - ATM Side Buttons
+      - `F1` - `F5` (Keyboard `F1` - `F5`). Corresponds to actions of the bottom bar of the screen
+    - Tabs
+      - `PLAY`. Main tab
+      - `PATTERN` (Keybooard `P`)
+      - `TIMBRE EDIT` (Keyboaord `T`)
+      - `SYSTEM` (Keyboard `S`)
+      - `DISK` (Keyboard `D`)
+    - D-pad
+      - Arrows (Keyboard Arrows). Up-left-down-right navigation key
+      - `OK` (Keyboard `ENTER`). Confirm button
+      - `EXIT` (Keyboard `ESCAPE`). Cancel / Back button
+      - `JUMP` (Keyboard `Tab`). "Jump" button
+      - Dial (Keyboard `-` & `=`). Value adjustment dial, with rolling on hold
+      - `VALUE -` & `VALUE +` (Keyboard `Pg Down` & `Pg Up`). Value adjustment buttons
+      - `SHIFT` (Keyboard `Shift`). Shift button
+    - Value
+      - `0` - `9` (Keyboard Number Row). Numeric Keypad
+      - `INS` (Keyboard `Insert`). Insert button
+      - `DEL` (Keyboard `Del`). Delete button
+    - Transport
+      - `START/STOP` (Keyboard `Space`). Start or Stop sequence / song loaded
+    - Pedal
+      - `Footswitch` (Keyboard `Ctrl`). A Pedal
+  - SD-90
+    - **Pls wait!, not yet exist, pls request!**
+    - Digital Audio.
+      - Audio Source. Selects source from the following
+        - `MIC/GUITAR`. From the quarter inch `MIC/GUITAR IN` jack
+        - `LINE IN`.
+        - `DIGITAL IN`.
+        - `TRACK DOWN`.
+      - Effects. Adjusts the effects for the audio source
+        - `SELECT`
+        - `EDIT`
+        - **`BYPASS`**. Disable effects & bypass the raw audio as is.
+    - Navigation
+      - `PAGE 🔺` & `PAGE 🔻`. Select Tab
+      - `SYSTEM`. Go to system settings screen.
+        - You can visit the demo from here by going to topmost page (Press `PAGE 🔺` repeatedly until you see `EDIROL` / `STUDIO CANVAS` on top with MIDI Parts).
+    - MIDI Instruments.
+      - `INST/DRUM SET`. Go to Instrument screen. Adjusts Patch & Programs of the selected MIDI Part
+      - `EFFECTS`. Go to Effects screen. Adjusts effect of the MIDI Generator
+      - `SHIFT` (Keyboard `Shift`)
+      - `PART ◀️` & `PART ▶️`. Select MIDI Part
+      - `EXIT` (Keyboard `Escape`). Cancel / Back button
+      - `ENTER` (Keyboard `Enter`). Confirm button
+      - `PREVIEW`. Preview current patch on selected MIDI Part
+    - System Control
+      - `POWER` (Keyboard `Q`)
+      - `MIC/GUITAR` Jack. Open input selection menu. Choose your input device!
+      - `GAIN`. Adjust gain of plugged in device
+        - `MIC MODE` / Push this knob. Switch the plugged in input device mode between `MIC` or `GUITAR` mode 
+        - `PEAK` LED. Lit when loudness peaks
+        - `MIC GUITAR` LED. Gain indicator, indicates selected mode.
+          - ON = `MIC` mode
+          - OFF = `GUITAR` mode
+      - `VOLUME`. System volume knob
+      - `Headphone jack`. Open output selection menu. Choose your output device!
+    - ATM Side Buttons / Quick Access
+      - `V1` - `V3` Quick Access Knobs. 3 knobs that correspond to certain action based on your current screen.
 
 ## Manuals
 
 - [SC-55](https://cdn.roland.com/assets/media/pdf/SC-55_OM.pdf)
 - [SC-88Pro](https://cdn.roland.com/assets/media/pdf/SC-88PRO_OM.pdf)
 - [SC-8850](https://cdn.roland.com/assets/media/pdf/SC-8850_OM.pdf)
+- [SD-90](https://static.roland.com/assets/media/pdf/SD-90_OM.pdf)
 - [88emu](https://github.com/dsp56300/gearmulator/blob/main/doc/88emu_readme.md)
 
 ## Try Demo
@@ -189,6 +252,25 @@ https://theusualsuspects.io/downloads/88emuplayer
     - Heigo Tani - WALL FIVE MIX
     - Yuuki Kato (Music Brains, inc.) - Blue X
     - *All Song*. Repeat All the whole demo.
+- MV-30
+  1. Make sure the system diskette is basically working. 88emu yoink pack should also have included the diskette as the ROM part file automatically detected.
+  2. Go to `DISK` tab (Keyboard `D`).
+  3. `Load Song` (Press `F1` or Keyboard `F1).
+  4. Go down to the `N Songs on Disk` section, Press Down arrow (Keyboard Arrow down)
+  5. Choose song with dial or value `-`/`+` (Keyboard `-`/`=` or `Pg Down`/`Pg Up`)
+  6. `Load` which correspond with `F1`
+  7. Confirm the `Are you sure` with `Load` again, which corresponds with `F1`
+  8. `START/STOP` (Keyboard `Space`)
+- SD-90
+  1. Go to system setting, press `SYSTEM`
+  2. Go to the topmost page, press `PAGE 🔺` Repeatedly, until you arrive at the Demo screen with the following
+    - `EDIROL` logo / `STUDIO CANVAS` logo
+    - 16 MIDI Part meters
+    - Selected demo song title
+    - `Play, Push ENTER`
+  4. Choose your favorite demo song with `V1` Knob(?)
+  3. `ENTER` to play demo now
+  4. `EXIT` to stop playing
 - Startup Test Mode
   - SC-88Pro Only
     1. Power Off (`Q`)
@@ -202,11 +284,32 @@ https://theusualsuspects.io/downloads/88emuplayer
     - Same as SC-88Pro
     - Difference being, while holding both `KEY SHIFT` buttons (`I` + `O`), Powering on (`Q`) immediately leads you to Test mode
     - LED test (Press Volume knob (`Tab` / `▶️ PREVIEW`) twice) also available
-  - MT-32 Only
+  - MT-32, CM-32L(N), CM-64
     1. Power Off (`Q`)
-    2. Hold `PART 3` + `VOLUME` (Top row `3` + `V`)
-    3. Hold Power On (`Q`) until you entered test mode
-    4. `PART 4` + `RHYTHM` + `MASTER VOLUME` (Top row `4` + `R` + `M`) to show firmware version
+    2. Choose the following test!
+      - System test
+        1. Hold `PART 3` + `VOLUME` (Top row `3` + `V`)
+        2. Power On (`Q`) & you're in the system test mode!
+      - Firmware Version
+        1. Hold `PART 4` + `RHYTHM` + `MASTER VOLUME` (Top row `4` + `R` + `M`)
+        2. Power On (`Q`) & you're in view firmware version!
+          - MT-32 2.x
+            ```
+            MT-32 v2.07 90-05-23
+            ```
+          - MT-32 1.x old
+            ```
+             ver 10 Oct, 87
+            ```
+            few seconds later,  
+            ```
+            Tks to Masa + Adrian
+            ```
+            Then returns to normal mode  
+          - CM-32L(N) & CM-64
+            ```
+            CM32/LAPC1.02 891205
+            ```
 - Obtain more Demo songs!
   - [DTM-Hub Demo Data!!](https://github.com/ltgcgo/midi-data/tree/main/vendor/roland)
   - [Compare that with Octavia](https://gh.ltgc.cc/octavia/test/). Audio renders made by DTM-Hub community members.
