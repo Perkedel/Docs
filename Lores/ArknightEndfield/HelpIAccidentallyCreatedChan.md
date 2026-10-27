@@ -4,13 +4,13 @@
 
 Carsonite Hymatt: You don't have rights to mess things up, SHOO!!
 
-Stern Landbreaker: Why?
+*Stern Landbreaker*: Why?
 
 Carsonite: It's obvious.
 
 .
 
-Stern: (draw shockwave gun) nah-(shoot)..
+*Stern Landbreaker*: (draw shockwave gun) nah-(shoot)..
 
 DUAR!!
 
@@ -24,7 +24,7 @@ Carsonite: OARGH, (standup), Thankfully, (draw Teleprotocol gun)..
 
 *Landbreakers*: (panik) WOA WOA WOA
 
-Stern: LUCKY BASTARD!, (immediately counter with shockwave gun)
+*Stern Landbreaker*: LUCKY BASTARD!, (immediately counter with shockwave gun)
 
 but too late
 
