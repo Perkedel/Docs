@@ -42,6 +42,11 @@ https://theusualsuspects.io/downloads/88emuplayer
       - VST3 VSTi. Steinberg latest VST version
       - VST2 VSTi. Reverse engineered Steinberg's VST2 via [FST](https://github.com/pierreguillot/FTS).
       - AU3. Apple Audio Unit
+    - **PLS WAIT** Not yet exist
+      - Alternatively, check out [NightFright2k19's Nuked builder](https://github.com/NightFright2k19/Nuked-SC55-P256).
+      - Just plop the patcher app by the ROMs you got, & then run it.
+      - The Patcher also scours subfolders and match the ROMs by file hash.
+      - Get VST2 (FST SDK) & CLAP portable plugin!, both for 64-bit host.
 
 ## Key Basics
 
@@ -284,6 +289,10 @@ https://theusualsuspects.io/downloads/88emuplayer
     - Same as SC-88Pro
     - Difference being, while holding both `KEY SHIFT` buttons (`I` + `O`), Powering on (`Q`) immediately leads you to Test mode
     - LED test (Press Volume knob (`Tab` / `▶️ PREVIEW`) twice) also available
+  - SC-8850
+    1. Power Off (`Q`)
+    2. Press & hold `F3` + `PART ◀️` + `INC`
+    3. Power On (`Q`)
   - MT-32, CM-32L(N), CM-64
     1. Power Off (`Q`)
     2. Choose the following test!
@@ -310,6 +319,10 @@ https://theusualsuspects.io/downloads/88emuplayer
             ```
             CM32/LAPC1.02 891205
             ```
+  - Sauce Test
+    - https://yuuuuuutu.seesaa.net/article/464576939.html
+    - JayB from DTM-Hub for the know-how.
+    <!--- No thanks to you, Google 🖕🖕🖕🖕🖕🖕🖕.-->
 - Obtain more Demo songs!
   - [DTM-Hub Demo Data!!](https://github.com/ltgcgo/midi-data/tree/main/vendor/roland)
   - [Compare that with Octavia](https://gh.ltgc.cc/octavia/test/). Audio renders made by DTM-Hub community members.
