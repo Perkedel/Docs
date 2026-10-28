@@ -70,6 +70,16 @@ https://theusualsuspects.io/downloads/88emuplayer
     - Note however, this obviously does not always apply IRL, as you must be careful adjusting your volume. Carelessly increasing volume may damage your audio equipment and even cause deafness!
   - `▶️ PREVIEW` (Keyboard `Tab`). Preview currently selected patch. Since pressing volume knob is unavailable in this emu, you will instead have this new button as a replacement.
     - Only available since SC-88 (except VL).
+  - On NightFright2k19's Pluginified, this dial is now `GAIN` instead.
+    - Meaning all MIDI module variants should always emit output by 0 dB base, unlike 88emu original which may have inconsistent variance between models.
+    - With that said, **no need to set it to rightmost anymore**. Leave it at `0 dB`.
+- Keyboard Shortcut
+  - You can control with Keyboard Shortcut. in `Buttons & Dials`, different models gets different keybinds
+  - View the keybinds at
+    1. `Options` top left menu
+    2. `Keyboard shortcuts..`
+    3. The pop-up dialog shows your keybinds according to currently selected MIDI module model.
+  - Keyboard Shortcut is **not available on NightFright2k19's Pluginified version**.
 - Display
   - Displays information of your MIDI experience
   - On some module evolution, some MIDI files can inject special SysEx such as Bitmap & Title Text to it.
