@@ -68,6 +68,7 @@ https://theusualsuspects.io/downloads/88emuplayer
 - Volume Knob
   - Adjusts how loud audio output to be. For this emu situation, it is best to set it to MAX, since it'll be typically 0 dB attenuation at your sound device.
     - Note however, this obviously does not always apply IRL, as you must be careful adjusting your volume. Carelessly increasing volume may damage your audio equipment and even cause deafness!
+    - **⚠️ CAUTION, Inconsistent Loudness!**, on MT & CM models, Volume have lower offset than the rest of the modern SoundCanvas Model! Your MT & CM Experience may become way too loud. If so, please turn it down to 50%
   - `▶️ PREVIEW` (Keyboard `Tab`). Preview currently selected patch. Since pressing volume knob is unavailable in this emu, you will instead have this new button as a replacement.
     - Only available since SC-88 (except VL).
   - On NightFright2k19's Pluginified, this dial is now `GAIN` instead.
@@ -130,7 +131,7 @@ https://theusualsuspects.io/downloads/88emuplayer
           - Press both `KEY SHIFT` again to apply & exit. 
       - `MIDI CH` (Keyboard `A` & `S`). Idk what is this, I thought it changes where MIDI Channel it outputs to, but if `MIDI CH` is not same as the Channel, it'll play both this & that MIDI Channel.
     - Insertion Effects (Since SC-88, except VL)
-      - `USER INST ON/OFF` / `EFX` (Keyboard `3`). ~~Toggle between in-MIDI Effect and User-made Effect~~ Toggle Effect On/Off (???).
+      - `USER INST ON/OFF` / `EFX` (Keyboard `3`). ~~Toggle between in-MIDI Effect and User-made Effects~~, Toggle Effect On/Off (???).
         - On SC-88Pro, it becomes `EFX`. Here, you can select hundred kinds of insertion effects.
         - You can only have 1 kind of effects, and channel you chose to have one (`EFX` lit on SCVA), will possess only the same selected EFX.
       - `EFFECT SELECT` (Keyboard `4`). Select Effect aspect to adjust. Note the red `▶️` LEDs cycling through as you press. It points to effect variable set according to printed label there.
@@ -222,7 +223,7 @@ https://theusualsuspects.io/downloads/88emuplayer
       - `POWER` (Keyboard `Q`)
       - `MIC/GUITAR` Jack. Open input selection menu. Choose your input device!
       - `GAIN`. Adjust gain of plugged in device
-        - `MIC MODE` / Push this knob. Switch the plugged in input device mode between `MIC` or `GUITAR` mode 
+        - `MIC MODE` / Push this knob. Toggles the plugged in input device mode between `MIC` or `GUITAR` mode 
         - `PEAK` LED. Lit when loudness peaks
         - `MIC GUITAR` LED. Gain indicator, indicates selected mode.
           - ON = `MIC` mode
@@ -329,6 +330,13 @@ https://theusualsuspects.io/downloads/88emuplayer
             ```
             CM32/LAPC1.02 891205
             ```
+    - CM-32P, CM-64's PCM Half
+      - 88emu included 2x16 Character LCD which always says the version.
+        ```
+        CM PCM Ver 1.00 
+                        
+        ```
+      - Because that's how the MAME originally outputs the display of that ROM.
   - Sauce Test
     - https://yuuuuuutu.seesaa.net/article/464576939.html
     - JayB from DTM-Hub for the know-how.
