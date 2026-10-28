@@ -60,4 +60,6 @@ Dual Season combo of special Prologue of Sediron
   - 🤔
   - The rest is history
   - Because the planet got secons strike which that one inevitable and everyone had to flee to Cartesians.
+  - Parim comes from the mom which is nice king's. She comes from parents, where her mom is second child of nice king
+  - The first son that betrays, and second daughter saddened of the ultimate failure. keep movong to life.
   
