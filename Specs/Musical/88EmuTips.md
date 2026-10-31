@@ -44,6 +44,9 @@ https://theusualsuspects.io/downloads/88emuplayer
       - AU3. Apple Audio Unit
     - **PLS WAIT** Not yet exist
       - Alternatively, check out [NightFright2k19's Nuked builder](https://github.com/NightFright2k19/Nuked-SC55-P256).
+      - **WINDOWS ONLY** atm.
+        - All plugins (even CLAP) hex edit start from `MZ`, i.e. Windows binary.
+        - No `.ELF` yet
       - Just plop the patcher app by the ROMs you got, & then run it.
       - The Patcher also scours subfolders and match the ROMs by file hash.
       - Get VST2 (FST SDK) & CLAP portable plugin!, both for 64-bit host.
