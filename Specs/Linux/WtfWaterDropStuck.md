@@ -14,3 +14,5 @@ Bruh, my canberra broke?
     ```
   - Restart Pipewire.
     - Probably best idea to restart whole system, since your Pipewire is the main Audio system.
+  - See doc
+    - https://docs.pipewire.org/page_man_pipewire_conf_5.html
