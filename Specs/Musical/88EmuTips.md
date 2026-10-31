@@ -622,3 +622,9 @@ Then check out this file: [Emu Legal Shenanigans Tips](Specs/Politics/EmuLegalSh
     - Perhaps [WINE has trouble allocating memory for EXE put in externally mounted drive](https://forum.winehq.org/viewtopic.php?t=25806)?
     - Put `SC88Pro_Display` program folder into `~/WinApp/Robbi985`
   - Try again. The program should run, hopefully.
+- Robbi985 BaWaMi failed OCX
+  - You will need to `Install Windows DLL & Components` from winetricks
+    - Every `vcrun`
+    - Every `vbrun`
+    - `mfc40.dll`
+    - idk, whatever else that makes Visual C++ app runs!
