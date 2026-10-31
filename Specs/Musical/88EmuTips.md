@@ -250,7 +250,7 @@ https://theusualsuspects.io/downloads/88emuplayer
   - Basically, just use the built-in Playlist feature.
 - SC-55 mkII, SC-155 mkII
   1. Power off (`Q`).
-  2. Hold both `PART` buttons
+  2. Hold both `PART` (Keyboard `R` + `T`) buttons
   3. Power on again (`Q`). You can now release both `PART`.
   4. Select which song to play using `PART`. You have
     - Moonlight Picnic
@@ -395,6 +395,157 @@ https://theusualsuspects.io/downloads/88emuplayer
   4. `ENTER` to select
   5. Notice the confirmation dialog. Press `ENTER` to confirm, or `EXIT` to cancel.
 
+## Display SysEx Template
+
+Based on [Robbi985's Reverse engineering](https://web.archive.org/web/20230322001956/http://robbi-985.homeip.net/hosted_programs/update/88plcd/) for SC-55.  
+Sorry, I have yet to find for SC-8850 version about it.
+
+- Base
+  - Remember, Roland's ID is `41`
+  - Remember, SysEx should start from `F0`, and terminated / ended by `F7`
+  - Masks
+    - `10 45 12`
+- Letter All
+  - `F0 41 10 45 12 10 00 00 70 F7`
+  - Limits
+    - **Max total 30 Characters**
+    - 14 displayable digits before scrolling
+  - And so,
+    - `Hello world` = `F0 41 10 45 12 10 00 00 48 65 6C 6C 6F 20 77 6F 72 6C 64 34 F7`
+    - `Hello world!` = `F0 41 10 45 12 10 00 00 48 65 6C 6C 6F 20 77 6F 72 6C 64 21 13 F7`
+    - A Spacebar = `F0 41 10 45 12 10 00 00 20 50 F7`
+    - 2 Spacebars = `F0 41 10 45 12 10 00 00 20 20 30 F7`
+  - Control is `10`
+- Bitmap SC-55
+  - Store Graphic Image
+    - `F0 41 10 45 12 10 01 00 00 00 07 05 07 05 07 00 1F 17 17 17 17 17 10 1F 00 00 0E 0A 0E 0A 0E 00 1F 10 17 17 17 17 10 1F 00 00 1C 14 1C 10 10 00 1F 13 15 16 16 15 13 1F 00 00 00 00 00 00 00 00 10 10 10 10 10 10 10 10 71 F7`
+  - Select & Display Graphic Page
+    - 1 = `F0 41 10 45 12 10 20 00 01 4F F7`
+    - 2 = `F0 41 10 45 12 10 20 00 02 4E F7`
+    - ... so on
+    - 9 = `F0 41 10 45 12 10 20 00 09 47 F7`
+    - 10 = `F0 41 10 45 12 10 20 00 0A 46 F7`
+  - Control is `10 01`
+- Bitmap SC-8850
+  - Sorry, idk the program about it. here's [Bad Apple](https://github.com/NightFright2k19/Nuked-SC55-P256/issues/42).
+    - Base it out!
+      - `F0 41 10 45 12 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F7 ` Zeroed out
+    - Random Sample Frames
+      - `F0 41 10 45 12 20 00 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 4C F7 `
+      - `F0 41 10 45 12 20 02 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 38 00 00 00 00 00 00 00 00 00 00 00 03 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 38 00 00 00 00 00 00 00 00 00 00 00 03 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 26 00 00 00 00 00 00 00 00 00 00 00 03 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 07 3F 20 00 00 00 00 00 00 00 00 00 03 3F 3F 3F 3F 0E F7`
+      - `F0 41 10 45 12 20 0F 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3C 40 F7`
+    - Full Black Sample Yoink
+      1. `F0 41 10 45 12 20 00 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 4C F7`
+      2. `F0 41 10 45 12 20 02 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 4A F7`
+      3. `F0 41 10 45 12 20 04 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 48 F7`
+      4. `F0 41 10 45 12 20 06 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 46 F7`
+      5. `F0 41 10 45 12 20 08 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 44 F7`
+      6. `F0 41 10 45 12 20 0A 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 42 F7` quarter
+      7. `F0 41 10 45 12 20 0C 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 40 F7`
+      8. `F0 41 10 45 12 20 0E 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3E F7`
+      9. `F0 41 10 45 12 20 0F 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3C 40 F7` Next Interlace
+      10. `F0 41 10 45 12 20 01 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 4B F7` 
+      11. `F0 41 10 45 12 20 03 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 49 F7`
+      12. `F0 41 10 45 12 20 05 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 47 F7`
+      13. `F0 41 10 45 12 20 07 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 45 F7`
+      14. `F0 41 10 45 12 20 09 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 43 F7`
+      15. `F0 41 10 45 12 20 0B 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 41 F7` quarter third
+      16. `F0 41 10 45 12 20 0D 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F F7`
+      17. `F0 41 10 45 12 20 0F 00 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3F 3C 40 F7` That's it?
+    - Full Black Info
+      - Bring Qalculate with you!
+        - Setting!
+          - General Display Mode must be `General`
+      - warnum
+        - `00 00 3F` Address? 
+          - e.g., sum is 0 + 0 + 63 = 63
+        - First `63` / `3F` after interlace `00 00`?
+        - Say There are 107 `3F`s here on the first transmission.
+        - 63 + (107 \* 63) ???, 63 + 6741 = 6804
+        - wait, the `4C`! 76
+        - 6804 / 128 = 53,156 25 ... 20
+        - 128 - 20 = 108 kjdfshlkjhfjkgd
+      - I had to turn on AI slop wtf!? Pls don't harass me, I also uncomfortable using AI! There's nobody had it nor share it to this day bruh!
+        - No! Calculate all yourself!! slops only init the intel hint!!!
+        - Address indicated as `20 00 XY`
+        - Followed by datas
+        - Hex `20` = 32
+        - Total Address! 32 + 0 + 0 = 32
+        - Data! 107 * 63 = 6741
+        - Merge data & address! 6741 + 32 = 6773
+        - Here's the Google slop formula: Checksum = 128 - ((Total Address + Total Data) (mod 128)). No no, I don't even understand. let's bring back previous calculation!
+        - Get remain! 6773 mod 128 = 117
+        - 128 - 117 = 11 gfdsererseregr
+        - Do I have to ask slop to help me break this down?
+        - Damn. If I got called whatever derogatory as like Oppenheimer received, that's why.
+      - [`Break (SysEx) this down`](https://share.google/aimode/M3L826XuWeQDfKPLN)
+        - I typo! There are 108 `3F` / `63` !!!! DAYUM!!!
+        - Address here, 32 still
+        - Data here, 108 \* 63 = 6804 yeah?
+        - Merge! 6804 + 32 = 6836
+        - Mod that! 6836 mod 128 = 52
+        - Checksum! 128 - 52 = 76 / `4C` sdhfklahsdkjfhkjashdfkh yeaaaaa
+        - There, just like the AI slop said.
+        - I shouldn't ask `Build me the script about it`, should I? Whatever it comes, won't ever because of me.
+      - Next time you showed off your LCD shit you fucking share that how to me, dum.. nvm, we're good. [Here followup](https://share.google/aimode/LS6hqhZ1FQsydz8M4).
+        - Oh God, [what have I done](https://share.google/aimode/TnR8xuksIX2FqiHrD)?
+        - I am not gonna like this at all.
+        - Until when people will help?
+        - How do I remedy this? Let's see..
+        - How does Linus ameliorate slopping on his [Guitar pedal](https://github.com/torvalds/GuitarPedal)?
+        - Yes, he learns it!
+        - How does Linux AI slop become toleratable? Keep having rules that everything that you submit must be understood, **as usual**.
+        - Problem's now is where to put all my things. We can't put this in Perkedel. We must go to our shell, Enviato somehow somepoint to put there.
+        - We used that to experiment a proposal of paid app that involved proprietary codes from console manufacturers, but that's just idea only. Maybe we can reuse it for another heretic projects! 
+      - Code incomplete, does not display! What did we miss?!
+        - It did not send full to `F`!
+    - Look at Ch. 18., `Movie`.
+    - Control is `20 --`, Interlaced!
+      1. Even
+        - `20 00` Between!
+        - `20 02`
+        - `20 04`
+        - `20 06`
+        - `20 08`
+        - `20 0A`
+        - `20 0C`
+        - `20 0E`
+      2. Odd
+        - `20 0F` Between!!
+        - `20 01`
+        - `20 03`
+        - `20 05`
+        - `20 07`
+        - `20 09`
+        - `20 0B`
+        - `20 0D`
+      3. Pad
+        - with `00` before the actual dot data.
+    - Lookup
+      - `3F` = 63
+    - How the order goes
+      - Like math matrix.
+      - Vertical is group.
+      - You start at left most vertical
+      - Next number goes down to another bit
+      - After the `d15`, go to another vertical next by.
+      - `d16`, welcome to second vertical!
+      - First four vertical hold 5 dots on display
+      - Last vertical (`d48` - `d63`), the rightmost, holds one.
+    - Here's another [Bad Apple from FlashlightET](https://github.com/FlashlightET/BadCanvas) (**Not full correct midi promised, that one's GONE**).
+      - But it appears to be a tool used to convert that Bad Apple monochrome video to these SoundCanvas displays. Idk if that included this 8850 one too.
+    - Masks
+      - `F0 ...` = SysEx Start
+      - `... F7` = SysEx End
+      - `41` = Roland's Manufacturer ID
+      - `10 45 12`
+    - Checksum
+      - Check Page 245 of the SC-8850 manual!
+  - Manual
+    - See https://cdn.roland.com/assets/media/pdf/SC-8850_OM.pdf
+    - Page 234.
+    - Resolution of this display is 160 x 64
+
 ## Rendering
 
 Use `88EmuCli` for rendering the MIDI songs
@@ -430,3 +581,44 @@ Use `88EmuCli` for rendering the MIDI songs
 Is your country / region / city / independent city you live in has law that outright unconditionally forbids emulation, in which of course, typically never been endorsed by the manufacturers?
 
 Then check out this file: [Emu Legal Shenanigans Tips](Specs/Politics/EmuLegalShenanigans.md).
+
+## Troubleshooting
+
+- 88emu stuck at the old version even already updated properly
+  - Did you left manual by-hand installation?
+  - Do these commands
+    - Check 88emu program pointing
+      ```console
+      $ which 88emuPlayer
+      /usr/bin/88emuPlayer
+      ```
+    - it should definitely go to **`/usr/bin/88emuPlayer`**, not `local` like `/usr/local/bin` or even your home directory like `~/.local/bin`
+    - If so, delete those lingering legacy version off of the system, leaving only the supposed `/usr/bin/88emuPlayer` and others.
+    - Reupdate now!, just in case
+      - Reinstall / Update
+        ```console
+        $ paru -Syu theusualsuspects-88emu
+        ```
+      - as well as any other `theusualsuspects` packages if you want.
+  - Please refer back to the [installation guide](https://theusualsuspects.io/docs/installation-guide).
+- Many plugins from The Usual Suspect blanks on my Linux host!
+  - This also goes not just with this one.
+  - Happens on my Wayland, since many plugin hosting system are JUCE based, **which stuck on X11 to this day**.
+  - Complain to JUCE, so they native the Wayland!
+  - idk how to solve this
+- Robbi985 SC-55 LCD tool won't start!
+  - Install Visual Basic 6 first!
+    - Use Winetricks to help you install
+      - Start Winetricks
+      - Select default or whatever WINE prefix you used to run the program for
+      - `Install DLL or Windows Components`
+      - Find `vbasic6` `run`.
+      - Or maybe select all `vbasic`, because you pretty much would need more software in the future.
+      - Agree to License Agreement
+        - `Yes`
+        - `Ja`
+        - `Ya`
+  - Copy or move the program folder to local disk.
+    - Perhaps [WINE has trouble allocating memory for EXE put in externally mounted drive](https://forum.winehq.org/viewtopic.php?t=25806)?
+    - Put `SC88Pro_Display` program folder into `~/WinApp/Robbi985`
+  - Try again. The program should run, hopefully.

@@ -164,6 +164,24 @@ MU2000 Provides 2 MIC input. Here on S-MU2000, you can emulate that too as well.
 - Now, you can try to record and make voice clips. You will need to create or load virtual SmartMedia image which is where your audio data will be.
   - Options are there in the `3.3v CARD` menu.
 
+## Display SysEx Template
+
+Based on XGWorks's Insert SysEx Displays
+
+- Base
+  - Remember, Yamaha's ID is `43`.
+  - And to turn on XG, `43 10 4C 00 00 7E 00 F7 `
+  - Mask the `10 4C`, apparently
+  - Remember, SysEx should start from `F0`, and terminated / ended by `F7`
+    - Looks like XGWork either filtered it out, or forgot about it?
+    - So you must make sure when sharing, to have `F0` in the beginning & `F7` at the end. Make them exist if any or both haven't
+- Letter
+  - `F0 43 10 4C 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F7 `
+  - Control is therefore `06`
+- Bitmap
+  - `F0 43 10 4C 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F7 `
+  - Control is therefore `07`
+
 ## Troubleshooting
 
 - MSB & LSB selector stuck!!
@@ -177,6 +195,18 @@ MU2000 Provides 2 MIC input. Here on S-MU2000, you can emulate that too as well.
       - `ENTER` just in case, to apply
       - `EXIT`-`EXIT` or go back to `PLAY` (lit button) main screen.
       - You should be able to select Banks & the Programs, let's say beyond existed (but accessible to S-MU2000 emulator only) now.
+- XGWorks Wine mmap error operation not permitted
+  - Move the whole XGWorks program into your local disk.
+  - Location such as into `~/WinApp/Yamaha`.
+  - plop the `XGWorks` program folder there.
+  - **I hope this should fucking works**
+  - This is because WINE has a lingering bug when the EXE program is placed on mounted disk (where the file is not local, `tmpfs` &/or `mnt` based).
+  - According to lots of narcistic AI Slops in the search engine, we were lead to the following sauces
+    - https://forum.winehq.org/viewtopic.php?t=25806
+    - https://forum.winehq.org/viewtopic.php?t=31144
+- I can't find no-malware XGWorks
+  - Sorry, fear of litigation. Here's [telegram](https://t.me/c/1861342322/20/89) & [PLG SG Sachet](https://t.me/c/1861342322/20/5744).
+  - Or [SOL2](https://archive.org/details/YamahaSOL2), but people complained that it doesn't work on WINE, apparently. The XGWorks should be enough to get you started even perhaps Genos 2, hopefully.
 
 ## Emu Legal Shenanigans
 
