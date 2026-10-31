@@ -204,6 +204,26 @@ Based on XGWorks's Insert SysEx Displays
   - According to lots of narcistic AI Slops in the search engine, we were lead to the following sauces
     - https://forum.winehq.org/viewtopic.php?t=25806
     - https://forum.winehq.org/viewtopic.php?t=31144
+- XGWork Music Score Sheet windings and weird gaster symbols instead of notes
+  - You don't have the font! Below download link, includes 2 `.ttf` fonts that you must install
+    - `XGmusic.ttf`
+    - `XGmusic2.ttf`
+  - Install to system, Recommended!
+    - KDE Plasma
+      - Open these files with `Kfontinstaller`.
+      - Select `System` to make it plop those into `/usr/share/fonts`.
+      - Authorize your sudo password.
+      - Enjoy!
+    - Windows
+      - Right Click Classic!
+      - `Install for all users`
+      - Authorize your UAC! if it pops up.
+        - By default, change administrative setting, does not ask you.
+        - Unless your admin or tweaker tool caused the setting to do so.
+      - Enjoy!
+    - Other
+      - Plop those into **`/usr/share/fonts`**, that's your system font directory for all users.
+      - See https://superuser.com/questions/137826/location-of-truetype-fonts
 - I can't find no-malware XGWorks
   - Sorry, fear of litigation. Here's [telegram](https://t.me/c/1861342322/20/89) & [PLG SG Sachet](https://t.me/c/1861342322/20/5744).
   - Or [SOL2](https://archive.org/details/YamahaSOL2), but people complained that it doesn't work on WINE, apparently. The XGWorks should be enough to get you started even perhaps Genos 2, hopefully.
