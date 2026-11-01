@@ -267,10 +267,11 @@ https://theusualsuspects.io/downloads/88emuplayer
   2. Press `EDIT` & `PART ◀️` to go to `UTIL` screen
   3. `F4` to see demo
   4. Choose your song! You have
-    - Idecs - THE SECRET PLACE ft. not Something Jackson
-    - Heigo Tani - WALL FIVE MIX
-    - Yuuki Kato (Music Brains, inc.) - Blue X
+    - Idecs - THE SECRET PLACE ft. not Something Jackson. `01JAZZ.MID`
+    - Heigo Tani - WALL FIVE MIX. `02DANCE.MID`
+    - Yuuki Kato (Music Brains, inc.) - Blue X. `03BLUES.MID`
     - *All Song*. Repeat All the whole demo.
+    - 02DANCE.MID
 - MV-30
   1. Make sure the system diskette is basically working. 88emu yoink pack should also have included the diskette as the ROM part file automatically detected.
   2. Go to `DISK` tab (Keyboard `D`).
