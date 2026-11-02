@@ -77,6 +77,26 @@ How to use Octavia & the MIDI files?
   - Enjoy!
   - Terminate
     - on the Terminal you ran `./shx web` on, Signal Interrupt by `Ctrl` + `C` to terminate the server.
+  - Update!
+    - Go to respective repositories that just got new commits
+    - Pull / download the update now!
+      ```console
+      $ git pull
+      ```
+    - If it failed, make sure the repositories are cleaned up.
+      - Assuming that you did not edit anything, you can try resetting everything
+        - **Back up all your edits first!**
+        - Stash stray files
+          - GitHub Desktop offers the GUI option to stash those files after pull failures.
+        - hard reset to restore delete everything back to originally cloned
+          ```console
+          $ git reset --hard
+          ```
+    - Rebuild everything that just got changed & pulled into the new commit! Remember, for each of those updated repos,
+      ```console
+      $ ./shx build
+      ```
+          
 
 ## Keybind
 
@@ -97,3 +117,16 @@ How to use Octavia & the MIDI files?
         - Octavia `STYLE` does not do Rhythm mode unlike actual Yamaha Keyboards, only viewing like `VOICE` view.
         - Like when on cheap Yamaha Keyboards you got either `SONG` / `STYLE` + `VOICE` buttons lit, Octavia only has `SONG`, `SONG` + `STYLE` lit & `SONG` + `VOICE` lit.
       - Bottom edge switches number segment view between `TEMPO` & `MEASURE`.
+
+## Troubleshooting
+
+- Online deployment's Cloudflare and other scrape protection kept falsely blocking me!
+  - The protection thought you're one of those illicit scraper bots.
+  - This is because you probably have
+    - Opened so many tabs & groups
+  - Try to
+    - Hibernate those tabs
+    - Update to latest & greatest browser that should do those enlightening for you
+    - Transfer all tabs & businesses from Thorium & stop using it anymore. You have to go to latest & greatest Chromium
+  - If all else still failed, download locally.
+    - You can also tell the author privately through Telegram. Sorry, idk where, go to DTM-Hub.

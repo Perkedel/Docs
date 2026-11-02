@@ -9,13 +9,24 @@ How would each folder looks like as follows
   - Sometimes traces other URLs that lead to the target sauce URL
   - May have extra Links List, e.g. due to different disk & branch maintenance works, so you can see e.g.
     - `link.txt`
-    - `link75498234759275893427589.txt`
-    - `link383883883883.txt`
+    - Overwrite Protections
+      - `link75498234759275893427589.txt`
+      - `link383883883883.txt`
+    - Flags
+      - `Unsafe`. The Links List is not safe to share because containing controversial links such as sparsdats or too confidential
+        - `linkUnsafe.txt`
+        - `linkUnsafe472398478293742398.txt` also with overwrite protection
+        - **Unsafe Links List must therefore be stored inside `.SPARSDAT` folder!!!**
     - and so on, with differentiator filename just so no other list gets overwritten destructively.
 - Notification File / Folder. A meta file to notify Kolmo maintainers about the author and special cases.
   - `.PAID`. Files acquired by buying it, subcribing to something, or exclusive invite. A legal notification
     - Always set to hidden with prepending `.` so that it not get indexed to sparsdat.
     - Unless if it's gone, the file will no longer set to hidden, i.e. remove `.` into `PAID-NOHIDE`.
+  - `.SPARSDAT`. Files acquired through illicit ways, self-explanatory, ask a Dasandimian or the rest of DNB people about it.
+    - **DO NOT** use any of the file inside until you have paid and legitly purchased the file.
+    - Sparsdating serves as early archival in case of contingency, because paywalling file destroys the meaning of preservation, even there are ports about it.
+    - If the File or the whole Author has been marked `ISGONE`, move specific or all files / rename `.SPARSDAT` folder into `SPARSDAT-NoHide`, removing the starting dot & remark to make sure it isn't re-hidden by accident.
+      - At this point, you all above restriction has been removed, **at least for DNB**, rest of the world may still be illegal.
   - `ISGONE`. One, more, or entire of the files belonged to this author, are **GONE!!!**
     - Maintainer must remove `hidden` & prepending `.`, & explicitly add `*-NOHIDE` to all legal notifications.
     - Firstly, make sure before doing this, it won't put any of us into an immediate litigation.
@@ -47,3 +58,4 @@ How would each folder looks like as follows
   - `AMEMBER`. The author is a member of X0p1r4t3 Eenvrnsmnt! Horray!!!
     - They are already agreed to
       - Files to be reuploaded elsewhere, for the preservation sake.
+      - Even if their original shop source is paywalled, let's say.

@@ -30,10 +30,11 @@ Applying avatar. cosmic purple galaxy wraps her entire body
 
 Download complete, cosmic wrap vanishes from her head to toe way.
 
-**It's Originium Expie mix!!** Expie with Originium crystals armor not-primagen-just-the-mask-is-metal (no, it's definitely primagen-protogen mix, ~~fuck you proprietarist~~).
+**It's Originium Expie mix!!** Expie with Originium crystals armor not-primagen-just-the-mask-is-metal (no, it's definitely primagen-protogen mix, ~~fuck you proprietarist~~ (wait, [open sourced](https://reddit.com/r/protogen/s/8M5X26dhoF)????)).
 
 > [!NOTE]  
 > Edit: 
+> - Yes, indeed, so..
 > - https://youtube.com/shorts/GP4NiYgjThM
 > - https://www.reddit.com/r/protogen/comments/1wqqpmm/primagen_rare_protogen_now_open_species/
 > - https://youtube.com/shorts/xjhR4U38EEQ
@@ -59,7 +60,7 @@ Porleke: Yeah.
 
 Endmin: Nice. So, are we taking another Operators too?
 
-Porleke: Many will be there. but basically in total days, it'll be everyone. Shift to shift. And fun fact, Encrypten is sponsoring this event!, of course, ***they are***.
+Porleke: Many will be there. But basically in total days, it'll be everyone. Shift to shift. And fun fact, Encrypten is sponsoring this event!, of course, ***they are***.
 
 > [!NOTE]  
 > Encrypten are furries, but real thyren, not costume.
@@ -105,8 +106,11 @@ Porleke: Alright, too much yapping. Next, (teleprotocol table with set of doohic
 The Social Safety Tag.
 
 - 🚫 Anxious. Absolutely avoid me, I am uncomfortable with hugs!
-- ⚠️ Careful. Ask first, before you hug me..
+- ⚠️ Careful. Ask first, before you hug me.., I am shy but doubtful.
 - ✅ YESH. I want hugs!!!
+
+> [!NOTE]  
+> Oh fuck, forgor sauce, sorry!
 
 Porleke: This probably won't need explanation. Furthermore, during the free roam and events, there will be occasional hugging events that.., whenever other Operators and attendees request being hugged, you interact and reply so. Of course - of course, gotta understand that not everyone likes that kind of tea. So these tags are the reason.
 
@@ -144,15 +148,15 @@ Porleke: Oh, you're not sure, Endmin?
 
 Endmin: Uhmm..
 
-Porleke: It's okay, we got, (teleprotocol another tag)!!
+Porleke: It's okay, we also got, (teleprotocol another tag)!!
 
-❔ Calibrating. Hug reaction Calibration in progress! Expect pushback. Wearer, **DO NOT CRITICIZE in case discomfort!**
+❔ Calibrating. Hug reaction Calibration in progress! Expect pushback. Wearer, **DO NOT CRITICIZE in case of discomfort!** Huggers, **ALSO DO NOT CRITICIZE**.
 
 Porleke: So, along with one of these 3 tags, you wear this **White** tag alongside. So, I recommend that you picked the main.. (choose `green` for Endmin & prepare so) this one. That way, they can confirm it's you, idk. I mean.. forgive me blunt, that you have been trusted by many during your history of life in Talos-II. And also, you don't have to worry about hygiene. Not only our sponsor, Encrypten keeps the air clean down to its nooks and crannies, every Operators out there are ordered to firstly take bath and sterilize their body surface before entering. We even had free play Shower arcade, coz we are also testing that doohickey out! Lots of techs! (give necklace set)?
 
 Endmin: (take), (examine)..
 
-Examine 3D model ZZZ. Identity Tag. Equiped with `yesh` & `Calibrating` social tag. It also has mini sized folding phone that shows your name.
+Examine 3D model ZZZ. Identity Tag. Equiped with `yesh` & `Calibrating` social tags. It also has mini sized folding phone that shows your name.
 
 Endmin then wears it.
 
@@ -238,7 +242,9 @@ Purrchena: (awake) HUAUA (stop playing) Aw!! Here we go again..
 
 Timbre: Oh? What's going on?
 
-Endmin: Ætherside syndrome. The days of her business eventually got the one into her, and it damaged her central nervous system which causes her to fall asleep involuntarily at anytime.
+<!--Endmin: Ætherside syndrome. The days of her business eventually got the one into her, and it damaged her central nervous system which causes her to fall asleep involuntarily at anytime.-->
+
+Endmin: Ætherside syndrome. She got hit with that, and it damaged her central nervous system which causes her to fall asleep involuntarily at anytime.
 
 Timbre: Ouch... ... Well, this isn't Oripathy nor Encryptopathy, correct?
 
@@ -266,7 +272,7 @@ Purrchena: Okay, please cure me.
 
 Timbre: Alright, 🫴 have a seat. (teleprotocol nebulizer), (attach to Purrchena) excuse me
 
-wrap attatch mask
+Wrap attach mask
 
 .
 
