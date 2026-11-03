@@ -39,6 +39,24 @@ How Anonymous you are?
 ## Extra
 
 - Not shown is `Reckless` which is above Public. Yeah, no point of being *dead naked*, why?. Why would you share your house address?
+- Not shown is `Paranoid` which is lower than Ghost & an extremist version of it. In addition to Ghost, they
+  - Can decide to have anyone who leaked their API Keys (Call names, even the public one, & even by accident), **killed**.
+  - Rotates the key every single near-time unit, way-way too often
+  - Seeks for change form services to change their body shapes and throw away the old one
+  - Also seeks module to change personality as well, while leaving the core that makes aware (*People are leaking your identity & will always grope you, as your mom and dad did* (bruh, your parents had to shower you when you're still early!)) intact.
+  - Often found being a mastermind who puppets lots of shells.
+    - at glance you met a colorful person
+    - turns out, it's just one of their puppet. Behind is bigger conspiracy company or whatever entity behind this Vtuber!
+  - Self Destruct button always ready.
+    - Therefore this person likely is beyond salvation.
+    - Importance Anonymity way too much, sacrificing worth of life, with conviction, forever.
+  - Alone is the only way of life
+  - Death is none of your business
+  - *That includes you, God*
+    - Jesus, bro!!
+    - Ouch!! on behalf!!
+  - Lots of fake deaths
+    - again, to throw away old identities
 - DNB Overseers are required to become `Public`, because they must partake on helping many kinds affairs and stuffs. 
   - Overseer represents the Kindest people and the Most Trusted. Kind of the people to hug to when you got troubles.
   - Yeah, sorry Vtubers & Furtubers, you must gut up first before you can join this endeavor.

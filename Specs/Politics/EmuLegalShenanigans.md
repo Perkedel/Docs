@@ -7,6 +7,7 @@ Are you outright criminalized by your government for emulating ancient and/or ex
   - It's okay broken.
   - Not enough with just skeleton, must have filled PCB board with components still soldered.
   - The test must at least shows that it turns on, such as it lits up only a bit
+  - If no longer turns on, collect vouches that it was ever turned on at the time of its glory.
   - Must have the ROM chip, and the official firmware file is there.
   - Ignore any errors popping up, it supposedly technically means you already had owned the hardware.
   - So the definitely-always-working soft copy yoink still be considered legal therefore.

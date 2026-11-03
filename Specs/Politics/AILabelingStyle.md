@@ -2,7 +2,7 @@
 
 Choose how would you label AI-involved projects!
 
-- Standard. Default & Neutral
+- Standard. Default & Neutral. Thorough analysis, context-aware, optionally complete with usage worthiness guidelines
 - Compatibility. Socially compatible on most worlds, omits & skips *way-too-scientific-and-too-much-yapping* analysis & reach directly towards rudimentary (yet fastest) conclusion
 
 | Involvement Style | Standard | Compatibility |

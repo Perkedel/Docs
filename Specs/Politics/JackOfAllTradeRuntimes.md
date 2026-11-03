@@ -6,7 +6,7 @@ Here are Jack of All Trades runtimes that causes irks upon many customers hearin
 - Python. Python. Also portable too. There are many sub-runtimes & frameworks such as
   - PyGames
 - HTML5 + JS + CSS. Various, from Tim Berner Lee to many corporations. In particular, there are sub-runtimes such as
-  - NPM. Build programs using js for many use cases including shell programs.
+  - NPM / Node.js. Build programs using js for many use cases including shell programs.
   - Electron. whole-ass Chromium browser stripped down to just run 1 single website
   - Tauri. Electron but Rust & does not ship whole-ass Chromium everytime, instead uses existing libbrowser you had depending on the OS. Still not sure whatever this guy compile directly uses existing OS graphic libraries, or still a web browser library's view, idk. But at least it feels lighter in weight.
 - Godot. Godot. Believe it or not (no trademark), Godot can become Jack-of-all-trades, because if you copy its Export Template binary to your Project Source Code root folder, and then run it, it'll run your project right away! Copy that Export Template binary again to another, run, and it'll run that project too!
