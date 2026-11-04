@@ -2,6 +2,8 @@
 
 Choose how would you label AI-involved projects!
 
+## Options!
+
 - Standard. Default & Neutral. Thorough analysis, context-aware, optionally complete with usage worthiness guidelines
 - Compatibility. Socially compatible on most worlds, omits & skips *way-too-scientific-and-too-much-yapping* analysis & reach directly towards rudimentary (yet fastest) conclusion
 
@@ -12,6 +14,15 @@ Choose how would you label AI-involved projects!
 | Handmade 50 + AI 50 | AI-Assisted | AI SLOP + GOY |
 | Handmade 10 + AI 90 | AI-Generated | AI SLOP + GOY |
 | Full AI | Full AI | AI SLOP + GOY, HARASS THEM!!! |
+
+## Example
+
+- Standard
+  - `With Speech Recognition`. Talk to the machine and have your command processed
+  - `Sing Voice`, `VOCALOID`
+- Compatibility
+  - `AI SLOP + GOY`
+  - Removes meticulous full analysis of what model & machine this digital neural & sampler is.
 
 ## Disclaimer
 
