@@ -29,6 +29,19 @@
         - 107 = Enhanced
     - Yamaha
     - Van Elektronische
+      - Instrumental
+        - ?? = Special LeekSpinner 1
+        - ?? = Special LeekSpinner 2
+        - ?? = Pixel Retro
+        - ?? = Novelty
+        - ?? = SingVoice TTS 1
+          - LSB sets sub-variant of selected TTS voice, e.g., from `Hatsune Miku` has `Hatsune Miku Dark`
+        - ?? = SingVoice TTS 2
+          - LSB sets sub-variant of selected TTS voice, e.g. from `Kasane Teto` has `Kasane Teto Dark`
+      - Drums
+        - ?? = Pixel Retro
+        - ?? = Novelty
+        - ?? = Fetish ASMR SFX's
     - S Christian Collin
       <!--- 8 = Extras GS-->
       - 11 = Special GeneralUser 1
