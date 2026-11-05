@@ -2,7 +2,38 @@
 
 ## Highlight
 
-- **0 (Bank Select)**. Select Bank of the voice / patch
+- **0 (Bank Select MSB)**. Select Bank of the voice / patch
+  - **32 (Bank Select LSB)**. Select LSB of the voice / patch
+    - Roland & more,
+      - 0 = Default Latest / Selected
+      - 1 = SC-55
+      - 2 = SC-88
+      - 3 = SC-88Pro
+      - 4 = SC-8850
+  - Instrument Maps
+    - 0 = Default
+    - 121 = GM2 Instrumental
+    - 120 = GM2 Drum
+    - Roland Since SD-90
+      - Instrumental
+        - 80 = Special 1
+        - 81 = Special 2
+        - 96 = Classical
+        - 97 = Contemporary
+        - 98 = Solo
+        - 99 = Enhanced
+      - Drum
+        - 104 = Classical
+        - 105 = Contemporary
+        - 106 = Solo
+        - 107 = Enhanced
+    - Yamaha
+    - Van Elektronische
+    - S Christian Collin
+      <!--- 8 = Extras GS-->
+      - 11 = Special GeneralUser 1
+      - 12 = Special GeneralUser 2
+  - In total we have `MSB:LSB:Prog`.
 - **1 (Modulation)**. The one that causes output be waavyy. Represented with Right circle growing vertically
 - 2 (Breath). Heavy use in Windpipe voices & Yamaha PVL. Represented with right pointing triangle growing from left
   - Build this graph based on **Respiratory core (Lung-Diaphragm)**, not perceived blow off the mouth. 
@@ -45,3 +76,5 @@
 ## Sauces
 
 - https://nickfever.com/music/midi-cc-list
+- https://cdn.roland.com/assets/media/pdf/SC-8850_OM.pdf
+- https://static.roland.com/assets/media/pdf/SD-90_OM.pdf

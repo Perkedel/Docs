@@ -19,10 +19,12 @@ Famous System Exclusive messages common on MIDI & the files
     - `F0 40 00 10 00 08 00 00 00 00 00 F7`. Kawai GMega. ????
   - General MIDI 2
     - **`F0 7E 7F 09 03 F7` GM2 ON**.
-    - `` Roland SD.
-    - `` Roland HyperCanvas ON.
+    - `FO 41 10 00 48 12 00 00 00 00 00 00 F7` Roland SD.
+    - `` Roland HyperCanvas ON. *Same as SD?*
     - `` Korg PA.
     - `` Korg KROSS 2.
+    - `??` Van Elektronische LeekSpinner ON. Perkedel does not use SysEx, use [TextCommand](/Specs/Musical/SysEx/TextCommand.md) `TextCommand://midi.reset('ls');`!
+      - To prevent the Seamless Integration, `TextCommand://midi.reset('ls', seamless=false);` to only send `LS` reset without `GM2` first.
 - Manipulation
   - Roland
     - Part Mode
