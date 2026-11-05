@@ -4,12 +4,17 @@
 
 - **0 (Bank Select MSB)**. Select Bank of the voice / patch
   - **32 (Bank Select LSB)**. Select LSB of the voice / patch
-    - Roland & more,
-      - 0 = Default Latest / Selected
-      - 1 = SC-55
-      - 2 = SC-88
-      - 3 = SC-88Pro
-      - 4 = SC-8850
+    - Roland GS,
+      - LSB 0 = Default Latest / Selected. **RECOMMENDED**
+        - Choose this to choose the latest version of voice maps
+        - On LeekSpinner, it'll emulate SC-8850 in that GS mode.
+      - LSB 1 = SC-55
+      - LSB 2 = SC-88
+      - LSB 3 = SC-88Pro
+      - LSB 4 = SC-8850
+      - in LeekSpinner, choosing `GS` reset will engage 88emu Roland SC-8850 & switch all channels to it.
+        - Falls back to Free SFe.
+      - You can mix & match per channel of what patch & the map to use.
   - Instrument Maps
     - 0 = Default
     - 121 = GM2 Instrumental
@@ -29,15 +34,35 @@
         - 107 = Enhanced
     - Yamaha
     - Van Elektronische
+      - You can switch using TextCommand
+        ```txt
+        TextCommand://midi.bank("msb_address_id/lsb_address_id");
+        ```
       - Instrumental
-        - ?? = Special LeekSpinner 1
-        - ?? = Special LeekSpinner 2
-        - ?? = Pixel Retro
-        - ?? = Novelty
-        - ?? = SingVoice TTS 1
+        - ?? / `special1` = Special LeekSpinner 1
+        - ?? / `special2` = Special LeekSpinner 2
+        - ?? / `retro` = Pixel Retro
+          - Basically plagiarism of Gashisoft's GXSCC
+          - LSB selects the sound set
+            - LSB 0 / `retro/scc` = SCC / Default
+            - LSB 1 / `retro/famicom` = Famicom-like
+            - LSB 2 / `retro/opl` = Yamaha OPL-like
+            - LSB 3 / `retro/bawami` = Robbi-985 BaWaMi like
+        - ?? / `novelty` = Novelty
+        - ?? / `singvoice1` = SingVoice TTS 1
           - LSB sets sub-variant of selected TTS voice, e.g., from `Hatsune Miku` has `Hatsune Miku Dark`
-        - ?? = SingVoice TTS 2
+            - LSB 0 = Default
+            - LSB 1 = Append
+            - LSB 2 = Dark
+            - LSB 3 = Light
+            - LSB 4 = Matured
+            - LSB 5 = Juvenile'd
+        - ?? / `singvoice2` = SingVoice TTS 2
           - LSB sets sub-variant of selected TTS voice, e.g. from `Kasane Teto` has `Kasane Teto Dark`
+        - ?? / `user1` = Private User Space 1
+        - ?? / `user2` = Private User Space 2
+        - ?? / `user3` = Private User Space 3
+        - ?? / `user4` = Private User Space 4
       - Drums
         - ?? = Pixel Retro
         - ?? = Novelty
