@@ -1,4 +1,4 @@
-# Lost Media! What if teplaced with worse??
+# Lost Media! What if replaced with worse??
 
 ## Begin
 

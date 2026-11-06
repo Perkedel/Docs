@@ -16,6 +16,8 @@ Zhuang Fangyi wears Snouted Lung. An Anthromorphized Lung with furs. She recentl
 
 Silly: AH!, Tianshi Zhuang, welcome, (analyze the Areluid avatar)... ... hehe, A [Nova](https://kittomatic.gumroad.com/l/Novabeast) I see, doesn't it guys?
 
+Beside her original horns, the body indeed looks like one.
+
 *peers*: hmmm yea, looks like one..
 
 Zhuang Fangyi: (giggle & telepathy `incorrect`) 🤭🤭🤭🤭🤭

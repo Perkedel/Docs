@@ -8,7 +8,7 @@ Horray! Expie & Dune moment again!
 
 Target location spotted, that box there! Let's go!
 
-Beware, there are Seamines above you, a team of mobile guards guarding the premise.
+Beware, there are Seamines above you, a team of mobile guards guarding the premise. These soldiers, called Seamines, are extremely strong mercenaries hired selectively.
 
 Swim
 
