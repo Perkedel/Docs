@@ -62,6 +62,9 @@
             - LSB 3 = Light
             - LSB 4 = Matured
             - LSB 5 = Juvenile'd
+            - LSB 6 = Powered
+            - LSB 7 = Softly
+            - so on..
         - ?? / `singvoice2` = SingVoice TTS 2
           - LSB sets sub-variant of selected TTS voice, e.g. from `Kasane Teto` has `Kasane Teto Dark`
         - ?? / `user1` = Private User Space 1
