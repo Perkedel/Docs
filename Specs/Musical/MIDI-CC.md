@@ -35,9 +35,14 @@
     - Yamaha
     - Van Elektronische
       - You can switch using TextCommand
-        ```txt
-        TextCommand://midi.bank("msb_address_id/lsb_address_id");
-        ```
+        - Bankpath
+          ```txt
+          TextCommand://midi.bank("msb_address_id/lsb_address_id");
+          ```
+        - Number. MSB & then LSB, both unsigned integer.
+          ```txt
+          TextCommand://midi.bank(0,0);
+          ```
       - Instrumental
         - ?? / `special1` = Special LeekSpinner 1
         - ?? / `special2` = Special LeekSpinner 2
