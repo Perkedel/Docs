@@ -178,7 +178,7 @@ Endmin: (rebalancing motoric) whoaoa!, Litigators?
 
 Lukrucuk: Not just that.
 
-Endmin: Buzzers?!?
+Endmin: More Buzzers?!?
 
 Lukrucuk: I'm afraid they're still around. Where should we go?
 
