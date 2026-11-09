@@ -44,8 +44,12 @@
           TextCommand://midi.bank(0,0);
           ```
       - Instrumental
-        - ?? / `special1` = Special LeekSpinner 1
-        - ?? / `special2` = Special LeekSpinner 2
+        - Plagiarized Roland SD-90's because everyone already built Touhou musics with it!
+        - 80 / `special1` = Special LeekSpinner 1
+        - 81 / `special2` = Special LeekSpinner 2
+        - 96 / `classic` = Classical
+        - 98 / `solo` = Solo
+        - 99 / `enhanced` = Enhanced
         - ?? / `retro` = Pixel Retro
           - Basically plagiarism of Gashisoft's GXSCC
           - LSB selects the sound set
@@ -72,9 +76,13 @@
         - ?? / `user3` = Private User Space 3
         - ?? / `user4` = Private User Space 4
       - Drums
-        - ?? = Pixel Retro
-        - ?? = Novelty
-        - ?? = Fetish ASMR SFX's
+        - 104 / `drumClassic` = Classical
+        - 105 / `drumContemporary` = Contemporary
+        - 106 / `drumSolo` = Solo
+        - 107 / `drumEnhanced = Enhanced
+        - ?? / `drumRetro` = Pixel Retro
+        - ?? / `drumNovelty` = Novelty
+        - ?? / `drumFetish` = Fetish ASMR SFX's
     - S Christian Collin
       <!--- 8 = Extras GS-->
       - 11 = Special GeneralUser 1
