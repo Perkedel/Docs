@@ -136,7 +136,7 @@ Setting up Yggdrasil is very simple!
     - Defaults are
       - Inbound = `Ignore` / `Deny`
       - Outbound = `Allow`
-    <!--- Necessary Inbound ports are allowed (for future use), e.g.
+    <!-- - Necessary Inbound ports are allowed (for future use), e.g.
       - KDEConnect / `1714`. Let's say to connect phone to the PC
       - qBittorent / `6881`
       - syncthing / `22000`. let's say you prepped a sync folder for your media files-->
