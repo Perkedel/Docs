@@ -18,9 +18,9 @@ Endmin: Urrghh..
 
 Larper: C'mon, gotta choose. Good Overseers, withstand shames of their own opinion, right?
 
-Koros Gibb: Whoah, Endmin!, I'm here sorry late. Now how do we handle this last one now? Answer or beat him up?
+Koros Gibb: (arrived) Whoah, Endmin!, (out of breath)!... I'm here sorry late. Now how do we handle this last one now? Answer or beat him up?
 
-Larper: HEY! None of your business, Mr. Grumpy jr. I want Endmin's answer on this!
+Larper: HEY! None of your business, Mr. Stern jr., I want Endmin's answer on this!
 
 Koros: Dang it! He knew this, his Æther too thicker! It's okay Endmin, even if you with heart side with AI, we're still with you.
 
