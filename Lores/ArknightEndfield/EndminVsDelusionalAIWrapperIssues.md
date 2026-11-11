@@ -53,9 +53,35 @@ Larper: 😈 That's it.., (draw weapons) Let's fight!
 
 Boss battle! Larper!!
 
+## Initial Yap
+
+Larper: Prove yourself, Endmin!. Prove!-, that you still got thickness (bold / braveness) in you!
+
+.
+
+Larper: No one cares! You, must do everything to keep it done, even if you have to use cursed Arts!
+
+.
+
+Koros: Don't listen to him, Endmin! We will always care for you, we'll do this together, you will not keep things alone, ever!
+
+.
+
+Larper: Bullshit-!, You Gibbs are prisoners actually, coz you are too formidable. I trust you and all of you will have an eager to one day deshackle yourself off of DNB, for real-!..
+
+.
+
+Koros: Tsah!! ... At least DNB supports my life coz admit it, we are not always resourceful somehow. Betraying DNB is like taking off appendix off my belly-no! Also including liver and kidneys too, & sell them!
+
+.
+
+Larper: Selling yourself short huh? You'll be faced this question again, and what if ultimately the only oh-so-*sacred* choice is gone, HUH?? Don't answer-!, to mee.. That's life who asked!.
+
 ## Win
 
 Larper: Oargh, (teleprotocol Ætherly) we'll meet again, sometimes.
+
+Larper left the scene
 
 .
 
