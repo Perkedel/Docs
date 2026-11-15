@@ -1,0 +1,43 @@
+# Cubox Do not upgrade
+
+## rough
+
+- An anomaly hunter got his phone infiltrated with protest anomaly
+- when the os upgraded to latest version, anomaly cuts the power off when attempting to boot the upgrade
+- cubox wont downgrade because of battery cutoff, only error.
+- new os has no error. we're stuck. I am succ ay combat. I am just hacker.
+- Appraiser here. is free of schedule rn.
+- hack
+- lab
+- force switch the partition to A. we must make OS boots first so I can spawn buffs to you to get rid of the protest guard
+- Oh no, security chip puts it back. here my Hand of God
+- Appraiser pls excuse me
+- there, now pls return. do this together on count to 3
+- 1 2 3
+- cool! hold. this wont hold long tho we must fast
+- Now the phone on, here is APK to level you up big.
+- bam bam bam
+- reached the protester. translate their word!
+- they don't want you to upgrade, because the new version has violated keepandroidopen
+- I knew it! Now, the words translated, lemme feed in the sample to deepseek
+- Okay, activate the software. the protester now should speak english
+- stop fucking throwing orange powder at my fucking phone!
+- you're right, we made a mess. we have dying wish, take your phone. we will spread message
+- here phone?
+- zoop into appraiser phone
+- don't be foolish! I am not going to help your phone, unless paid extra.
+- let's see if you keep word. share!
+- Everyone received pop up message, Android is going proprietary!
+- then Doohickey came to Hetherau and flash sale new open source phone
+- called Appraiser asking what do. good. the blob thanked you
+- customers buy new open source phone.
+- Back here. it's empty.
+- nullified yey
+- exit
+- clear.
+- well, we tripped knox.
+- it's okay, all backed up anyway. no use internal pass man
+- still. this is bad
+- time to leave, once again, thank you
+- go leave buy open source phone. check schedule
+- also finished all already
