@@ -58,6 +58,10 @@
             - LSB 2 / `retro/opl` = Yamaha OPL-like
             - LSB 3 / `retro/bawami` = Robbi-985 BaWaMi like
         - ?? / `novelty` = Novelty
+        - Ported from Yamaha XG
+          - ?? / `vl` = Yamaha PLG-VL
+          - ?? / `sg` = Yamaha PLG-SG
+          - ?? / `le` = Yamaha S-YXG2006LE & Mid 2000s
         - ?? / `singvoice1` = SingVoice TTS 1
           - LSB sets sub-variant of selected TTS voice, e.g., from `Hatsune Miku` has `Hatsune Miku Dark`
             - LSB 0 = Default
