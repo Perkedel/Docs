@@ -32,7 +32,8 @@
         - 105 = Contemporary
         - 106 = Solo
         - 107 = Enhanced
-    - Yamaha
+    - Yamaha.
+      - See `Ported From XG`
     - Van Elektronische
       - You can switch using TextCommand
         - Bankpath
@@ -43,6 +44,8 @@
           ```txt
           TextCommand://midi.bank(0,0);
           ```
+      - Based on Sauce
+        - https://github.com/ltgcgo/midi-db
       - Instrumental
         - Plagiarized Roland SD-90's because everyone already built Touhou musics with it!
         - 80 / `special1` = Special LeekSpinner 1
@@ -59,9 +62,26 @@
             - LSB 3 / `retro/bawami` = Robbi-985 BaWaMi like
         - ?? / `novelty` = Novelty
         - Ported from Yamaha XG
-          - ?? / `vl` = Yamaha PLG-VL
-          - ?? / `sg` = Yamaha PLG-SG
+          - 48 / `mu100` = Yamaha MU100 Model Exclusive Voices
+          - 64 / `xg_sfx` = Yamaha SFX Voices
+          - 126 / `xg_sfx_kit` = Yamaha SFX Kits
+          - 127 / `xg_drum` = Yamaha Drum Kits
+          - LSB 125 / `mu100_native` = Yamaha MU100 Native voices
+          - Yamaha PLG-VL
+            - 33 / `vl_a` = Yamaha PLG-VL A
+              - LSB 5 / `vl_a/1` = Set 1
+              - LSB 6 / `vl_a/2` = Set 2
+            - 97 / `vl_b` = Yamaha PLG-VL B
+              - LSB 112 / `vl_b/3` = Set 3
+              - LSB 113 / `vl_b/4` = Set 4
+          - 98 / `sg` = Yamaha PLG-SG
+            - Singing Japanese voices!
           - ?? / `le` = Yamaha S-YXG2006LE & Mid 2000s
+          - Yamaha Genos
+            - 9
+            - 10
+            - 104
+            - 109
         - ?? / `singvoice1` = SingVoice TTS 1
           - LSB sets sub-variant of selected TTS voice, e.g., from `Hatsune Miku` has `Hatsune Miku Dark`
             - LSB 0 = Default
